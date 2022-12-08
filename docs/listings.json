@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/news.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/001/index.html",
+      "/projects/002/index.html",
+      "/projects/003/index.html",
+      "/projects/004/index.html",
+      "/projects/005/index.html",
+      "/projects/006/index.html",
+      "/projects/007/index.html",
+      "/projects/008/index.html",
+      "/projects/CR001/index.html",
+      "/projects/CR002/index.html",
+      "/projects/CR003/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": []
+  }
+]

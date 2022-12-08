@@ -1,0 +1,21 @@
+---
+title: "PSA005: Stereotype Threat"
+doi: 10.31234/osf.io/6hju9
+categories:
+  - stereotypes
+personnel:
+  proposers:
+    - Patrick Forscher
+    - Valerie Jones Taylor
+    - Neil A. Lewis, Jr.
+    - Daniel Cavagnaro
+  pm: Bharathy Premachandra
+  methodology: Daniel Cavagnaro
+  data: Erin Buchanan
+  ethics: Kim Peters
+---
+
+According to stereotype threat theory, the possibility of confirming a negative stereotype provokes feelings of threat, leading people to underperform on the very tasks on which they are stereotyped. This theory has immense theoretical and practical implications, but many studies supporting it suffer from small samples and varying operational definitions of stereotype threat. For the first problem, we propose to leverage the Psychological Science Accelerator’s vast network of US-based labs to recruit a large sample of African American students to participate in a test of stereotype threat theory. For the second problem, we propose to use an adaptive design to find, among four procedures each to increase and reduce stereotype threat, the comparison that provides the best evidence for an effect. By assessing the robustness of a socially and scientifically important theory with a rare population, this proposal will advance both psychological science and the Accelerator’s core mission.
+
+Forscher, P. S., Taylor, V. J., Cavagnaro, D., Lewis, N. A., Jr., Buchanan, E. M., Moshontz, H., … Chartier, C. R. (2019, July 17). Stereotype Threat in Black College Students Across Many Operationalizations. <https://doi.org/10.31234/osf.io/6hju9>
+

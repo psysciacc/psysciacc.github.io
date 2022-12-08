@@ -1,0 +1,50 @@
+{
+  "index.qmd": {
+    "index.html": "14ba4d35"
+  },
+  "about.qmd": {
+    "about.html": "61a7288e"
+  },
+  "projects.qmd": {
+    "projects.html": "a651e1ce"
+  },
+  "projects/001/index.qmd": {
+    "index.html": "ef39237e"
+  },
+  "projects/CR003/index.qmd": {
+    "index.html": "94a405f1"
+  },
+  "projects/CR002/index.qmd": {
+    "index.html": "e3bcb761"
+  },
+  "projects/007/index.qmd": {
+    "index.html": "f3121bfe"
+  },
+  "projects/009/index.qmd": {
+    "index.html": "667c9c4a"
+  },
+  "projects/008/index.qmd": {
+    "index.html": "e5a0d686"
+  },
+  "projects/006/index.qmd": {
+    "index.html": "438f378d"
+  },
+  "projects/CR001/index.qmd": {
+    "index.html": "8f6eb561"
+  },
+  "projects/003/index.qmd": {
+    "index.html": "928d71e2"
+  },
+  "projects/004/index.qmd": {
+    "index.html": "496aabd7"
+  },
+  "projects/005/index.qmd": {
+    "index.html": "5972f1cd"
+  },
+  "projects/002/index.qmd": {
+    "index.html": "fc671c32"
+  },
+  "news.qmd": {
+    "news.html": "7449bd25"
+  }
+}

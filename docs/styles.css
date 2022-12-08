@@ -1,0 +1,51 @@
+/* css styles */
+
+.navbar-logo {
+  max-height: 50px;
+}
+
+:root {
+  --theme: #00A000;
+  --highlight: #FFFFFF;
+}
+
+/* rainbow borders */
+nav.navbar, nav .navbar-container {
+  background-color: var(--theme);
+  background-image: none;
+}
+
+/* project lists */
+
+.projlist {
+  list-style-type: none;
+}
+
+.projlist li {
+  clear: both;
+}
+
+.projlist li > div:first-child {
+  width: 20%;
+  max-width: 150px;
+  min-width: 50px;
+  vertical-align: top;
+  float: left;
+}
+
+.projlist li > div:first-child img {
+    display: block;
+    width: 100%;
+}
+
+.projlist li div:nth-child(2) {
+  margin-left: 22.5%;
+}
+
+.personnel { 
+  list-style-type: none; 
+  font-size: 60%;
+  margin: 1em 0 0 0;
+  padding: 0;
+}
+

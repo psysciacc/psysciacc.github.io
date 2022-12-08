@@ -1,0 +1,25 @@
+---
+title: "PSA008: Minimal Groups"
+doi: 10.1038/s41562-020-01007-2
+contact: kathleenschmidt1@gmail.com
+categories:
+  - groups
+  - multi-language
+personnel:
+  proposers:
+    - Xin (Kate) Yang
+    - Yarrow Dunham
+    - Jonathan Schultz
+  pm:
+    - Kathleen Schmidt
+    - Anna Exner
+  methodology: Adam Kenney
+  data: Adam Kenney
+  translation: Ilker Dalgar
+  ethics:
+    - Biljana Gjoneska
+    - Gerit Pfuhl
+---
+
+Random assignment to experimentally created and otherwise meaningless social groups is sufficient to create ingroup preference. This striking phenomenon, now referred to as the minimal group effect (MGE), has theoretical importance for explaining in-group biases and practical implications for anti-bias interventions. However, due to small and culturally restricted samples, as well as insufficient attention to moderators, the extent to which the MGE is a somewhat specialized or restricted phenomenon, or whether it can be considered a general human universal that underlies culturally salient forms of real-world bias, remains unknown. We aim to recruit a large sample of participants across cultures through the Psychological Science Accelerator (PSA)’s vast network to test the cultural prevalence of the MGE and to compare it to two forms of real-group bias (bias in favor of family members and bias in favor of national ingroups). We will examine the underlying mechanisms of the ingroup bias by testing the relationship between these forms of bias and a number of theoretically important individual- and cultural-level moderators.
+

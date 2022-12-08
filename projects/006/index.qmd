@@ -1,0 +1,25 @@
+---
+title: "PSA006: Trolley Problem"
+doi: 10.1038/s41562-022-01319-5
+osf: efy2w
+categories:
+  - moral reasoning
+  - multi-language
+personnel:
+  proposers:
+    - Bence Bagó
+    - Balazs Aczel
+  pm: John Protzko
+  methodology:
+    - Zoltán Kekecs
+    - Rink Hoekstra
+  data:
+    - Márton Kovács
+    - Tamas Nagy
+  translation: Chuan-Peng Hu
+  ethics: Gerit Pfuhl
+---
+
+Research on moral reasoning is centered around moral dilemmas in which deontological perspectives (emphasizing individual rights) are in conflict with consequentialist reasoning (also referred to as utilitarian; following the greater good). A central finding of this field is that people in certain situations are more likely do go with deontological considerations, while in other cases they are more likely to decide based on consequentialist reasons. In their seminal article, Greene et al. (2009) tried to investigate the effect of situational and psychological factors (e.g., intent of the agent, or physical contact between the agent and victim) on people’s moral decisions, but their work could not explore the effect of a potentially important component: culture. Therefore, the goal of the present research proposal is to empirically test the universality of utilitarian and deontological responding by directly replicating Greene et al.’s experiments on non-WEIRD samples as well as to explore the influence of culture and economic status on moral reasoning.
+
+Bago, B., Kovacs, M., Protzko, J. et al. Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nat Hum Behav 6, 880–895 (2022). <https://doi.org/10.1038/s41562-022-01319-5>

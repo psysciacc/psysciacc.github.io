@@ -1,0 +1,11 @@
+---
+title: "PSACR003: Self Determination"
+doi: 10.31234/osf.io/n3dyf
+categories:
+  - covid rapid
+  - multi-language
+---
+
+In order to slow the transmission of COVID-19, governments around the world are asking their citizens to participate in social distancing, that is, to stay at home as much as possible. In most countries, individuals have some choice over whether or not they follow recommendations for social distancing. Thus, understanding how to best motivate social distancing has become a critical public health priority. This study tests, in a confirmatory manner, whether self-determination theory-guided message framing impacts people’s motivation to participate in social distancing. Specifically, we expect autonomy-supportive messages that help people understand the value of behavior change to a) increase ‘buy in’, or autonomous motivation, for social distancing, b) lower feelings of defiance to follow recommendations around social distancing, and c) increase feelings of self-efficacy to participate in social distancing, relative to neutral and controlling messages. Further, we expect controlling messages that pressure people to change using shame, guilt, and threats, may backfire and a) decrease ‘buy in’ for social distancing and b) increase defiance, relative to the control condition. Exploratory tests will examine whether the effects of message framing on motivation and defiance extend to behavioral intentions and long-term commitment. This work has direct relevance for how public officials, health professionals, journalists, and others can communicate about solving this and future public health crises in ways that motivate people more effectively.
+
+Legate, N., Nguyen, T. T., Weinstein, N., Moller, A. C., Legault, L., Adamkovic, M., … Primbs, M. (2021, May 30). A Global Experiment on Motivating Social Distancing during the COVID-19 Pandemic. <https://doi.org/10.31234/osf.io/n3dyf>

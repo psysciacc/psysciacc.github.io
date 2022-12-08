@@ -1,0 +1,39 @@
+```{=html}
+<ul class="projlist list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <div>
+      <% if (item.image) { %>
+      <img src="<%- item.image %>">
+      <% } else { %>
+      <img src="../../images/logo.png">
+      <% } %>
+      
+      <!--
+      <ul class="quarto-categories">
+      <% for (const category of item.categories) { %>
+        <li><a href="/projects.html#category=<%= category %>"><%= category %></a></li>
+      <% } %>
+      </ul>
+      -->
+      
+      <% if (item.personnel) { %>
+      <ul class="personnel">
+        <li>Proposers: <%= item.personnel.proposers %></li>
+        <li>Project Manager: <%= item.personnel.pm %></li>
+        <li>Methodologist: <%= item.personnel.methodology %></li>
+        <li>Data Manager: <%= item.personnel.data %></li>
+        <li>Translation: <%= item.personnel.translation %></li>
+        <li>Ethics: <%= item.personnel.ethics %></li>
+      </ul>
+      <% } %>
+    </div>
+  
+    <div>
+      <h3><a href="<%= item.path %>"><%= item.title %></a></h3>
+      <p><%= item.description %></p>
+    </div>
+  </li>
+<% } %>
+</ul>
+```

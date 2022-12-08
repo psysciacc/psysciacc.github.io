@@ -1,0 +1,17 @@
+---
+title: "PSA003: Gendered Prejudice"
+osf: bdycf
+categories:
+  - prejudice
+  - gender
+  - multi-language
+personnel:
+  proposers: Curtis Phills
+  pm: Jeremy Miller
+  methodology: [Zoltán Kekecs, Erin Buchanan]
+  data: Abby Noyce
+  translation: Janis Zickfeld
+  ethics: Erica Musser
+---
+
+When asked to imagine a person, people tend to think of a man (Hamilton, 1991). The same is true for some social groups as well–when asked to imagine a Black or White person, people tend to imagine a Black or White man (Schug, Alt, & Klauer, 2015). One reason for this is androcentrism: the belief that men are the default and women the exception or “other” (Bailey, LaFrance, & Dovidio, 2018; Bem, 1993; Smith & Zarate, 1992).The present research will use a global distributed laboratory network to describe the gendered nature of prejudice against seven social categories (i.e., Black people, East Asian people, White people, police, politicians, and criminals). We hypothesize that if a prejudice occurs for the group it is more strongly related to prejudice of the men of that social category. This study will be across several laboratories and languages as it is paired with PSA 002 for data collection.

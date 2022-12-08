@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Psychological Science Accelerator"
+  site-url: https://psysciacc.github.io
+  repo-url: https://github.com/psysciacc/psysciacc.github.io
+  image: images/logo.png
+  favicon: images/favicon.ico
+  navbar:
+    right:
+      - about.qmd
+      - projects.qmd
+      - icon: github
+        href: https://github.com/psysciacc
+      - icon: twitter
+        href: https://twitter.com/psysciacc
+format:
+  html:
+    theme: slate
+    css: styles.css
+
+
+
