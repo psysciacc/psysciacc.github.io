@@ -1,18 +1,26 @@
-/* css styles */
+/*-- scss:defaults --*/
+$link-color: #00A000;
 
+
+/*-- scss:rules --*/
 .navbar-logo {
   max-height: 50px;
 }
 
 :root {
   --theme: #00A000;
-  --highlight: #FFFFFF;
+  --highlight: #444444;
 }
 
-/* rainbow borders */
 nav.navbar, nav .navbar-container {
-  background-color: var(--theme);
+  background-color: var(--highlight);
   background-image: none;
+}
+
+h1, h2, h3, h4, h5, h6,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.navbar-dark .navbar-nav .nav-link {
+  color: var(--theme);
 }
 
 /* project lists */

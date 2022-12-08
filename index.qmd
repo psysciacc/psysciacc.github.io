@@ -9,36 +9,12 @@ listing:
   categories: false
   sort-ui: false
   filter-ui: false
-format:
-  html:
-    toc: true
 ---
+
+<img src="images/logo.png" style="float:left; padding: 1em 1em 0 0; width: 7em; min-width: 50px;">
 
 The Psychological Science Accelerator is a globally distributed network of psychological science laboratories with 1328 members representing 84 countries on all six populated continents, that coordinates data collection for democratically selected studies.
 
 Our mission is to accelerate the accumulation of reliable and generalizable evidence in psychological science, reducing the distance between truth about human behavior and mental processes and our current understanding. This challenge cannot be adequately met by a single researcher or small team. Instead, we attempt to meet this challenge with a distributed laboratory network that is ongoing (as opposed to time or task limited), diverse (both in terms of human subjects and participating researchers), and inclusive (we welcome ideas, contributions, study proposals, or other input from anyone in the field of psychology).
 
-## Core Principles
-
-### Diversity and inclusion
-
-We endeavor towards diversity and inclusion in every aspect of the PSA’s functioning. This includes cultural and geographic diversity among participants and researchers conducting PSA-supported projects, as well as a diversity of research topics.
-
-### Decentralized authority
-
-PSA policies and procedures are set by committees in conjunction with the PSA community at large. Members collectively guide the direction of the PSA through the policies they vote for and the projects they support.
-
-### Transparency
-
-The PSA mandates transparent practices in its own policies and procedures, as well as in the projects it supports. All PSA projects require pre-registration of the research: When it is confirmatory, a pre-registration of hypotheses, methods, and analysis plans (e.g., Van’t Veer & Giner-Sorolla, 2016), and when it is exploratory, an explicit statement saying so. In addition, open data, open code, open materials, and depositing an open- access preprint report of the empirical results are required.
-
-### Rigor
-
-The PSA currently enables, supports, or requires appropriately large samples (Cohen, 1992; Ioannidis, 2005), expert review of the theoretical rationale (Cronbach & Meehl, 1955; LeBel, Berger, Campbell, & Loving, 2017), and vetting of methods by advisors with expertise in measurement and quantitative analysis.
-
-### Openness to criticism
-
-The PSA integrates critical assessment of its policies and research products into its process, requiring extensive review of all projects and annually soliciting external feedback on the organization as a whole.
-
-
-
+### Recent News

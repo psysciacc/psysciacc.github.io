@@ -1,7 +1,9 @@
 [
   {
     "listing": "/news.html",
-    "items": []
+    "items": [
+      "/news/2022-12-06_2nd-call.html"
+    ]
   },
   {
     "listing": "/projects.html",
@@ -21,6 +23,8 @@
   },
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/news/2022-12-06_2nd-call.html"
+    ]
   }
 ]

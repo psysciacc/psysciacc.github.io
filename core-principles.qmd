@@ -1,0 +1,24 @@
+---
+title: Core Principles
+---
+
+### Diversity and inclusion
+
+We endeavor towards diversity and inclusion in every aspect of the PSA’s functioning. This includes cultural and geographic diversity among participants and researchers conducting PSA-supported projects, as well as a diversity of research topics.
+
+### Decentralized authority
+
+PSA policies and procedures are set by committees in conjunction with the PSA community at large. Members collectively guide the direction of the PSA through the policies they vote for and the projects they support.
+
+### Transparency
+
+The PSA mandates transparent practices in its own policies and procedures, as well as in the projects it supports. All PSA projects require pre-registration of the research: When it is confirmatory, a pre-registration of hypotheses, methods, and analysis plans (e.g., Van’t Veer & Giner-Sorolla, 2016), and when it is exploratory, an explicit statement saying so. In addition, open data, open code, open materials, and depositing an open- access preprint report of the empirical results are required.
+
+### Rigor
+
+The PSA currently enables, supports, or requires appropriately large samples (Cohen, 1992; Ioannidis, 2005), expert review of the theoretical rationale (Cronbach & Meehl, 1955; LeBel, Berger, Campbell, & Loving, 2017), and vetting of methods by advisors with expertise in measurement and quantitative analysis.
+
+### Openness to criticism
+
+The PSA integrates critical assessment of its policies and research products into its process, requiring extensive review of all projects and annually soliciting external feedback on the organization as a whole.
+
