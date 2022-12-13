@@ -23,7 +23,7 @@ website:
 format:
   html:
     theme: slate
-    css: styles.scss
+    css: styles.css
 
 
 
