@@ -1,3 +1,7 @@
+/*-- scss:defaults --*/
+$link-color: #00A000;
+
+/*-- scss:rules --*/
 .navbar-logo {
   max-height: 50px;
 }
@@ -20,11 +24,11 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
 
 /* project lists */
 
-.projlist {
+.projlist, .paperlist  {
   list-style-type: none;
 }
 
-.projlist li {
+.projlist li, .paperlist li {
   clear: both;
 }
 
@@ -51,4 +55,3 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
   margin: 1em 0 0 0;
   padding: 0;
 }
-

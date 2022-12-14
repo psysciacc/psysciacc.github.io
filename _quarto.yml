@@ -15,15 +15,40 @@ website:
       - text: About
         menu: 
           - core-principles.qmd
-      - projects.qmd
+      - text: Activities
+        menu: 
+          - projects.qmd
+          - papers.qmd
+      - text: "{{< ai osf >}}"
+        aria-label: OSF
+        href: https://osf.io/93qpg/
       - icon: github
+        aria-label: GitHub
         href: https://github.com/psysciacc
+      - text: "{{< ai google-scholar size=2x >}}"
+        aria-label: Google Scholar
+        href: https://scholar.google.com/citations?user=yHWkiu4AAAAJ
       - icon: twitter
+        aria-label: Twitter
+        href: https://twitter.com/psysciacc
+  page-footer:
+    background: primary
+    right:
+      - text: "{{< ai osf size=1x >}}"
+        aria-label: OSF
+        href: https://osf.io/93qpg/
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/psysciacc
+      - text: "{{< ai google-scholar size=2x >}}"
+        aria-label: Google Scholar
+        href: https://scholar.google.com/citations?user=yHWkiu4AAAAJ
+      - icon: twitter
+        aria-label: Twitter
         href: https://twitter.com/psysciacc
 format:
   html:
-    theme: slate
-    css: styles.css
+    theme: [slate, styles.scss]
 
 
 
