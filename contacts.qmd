@@ -2,3 +2,4 @@
 title: "Contact Us"
 ---
 
+Want to chat? Send us an [email](mailto:psysciaccelerator@gmail.com) or [direct message](https://twitter.com/PsySciAcc) on Twitter.
