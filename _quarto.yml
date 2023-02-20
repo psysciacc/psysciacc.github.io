@@ -12,25 +12,41 @@ website:
     logo: /images/logo.png
     logo-alt: "Green circle with 3 white chevrons like a fast-forward button"
     right:
-      - text: About
+      - text: Membership
         menu: 
-          - core-principles.qmd
-      - text: Activities
+          - join.qmd
+          - current-members.qmd
+      - text: Studies
         menu: 
           - projects.qmd
-          - papers.qmd
-      - text: "{{< ai osf >}}"
-        aria-label: OSF
-        href: https://osf.io/93qpg/
-      - icon: github
-        aria-label: GitHub
-        href: https://github.com/psysciacc
-      - text: "{{< ai google-scholar size=2x >}}"
-        aria-label: Google Scholar
-        href: https://scholar.google.com/citations?user=yHWkiu4AAAAJ
-      - icon: twitter
-        aria-label: Twitter
-        href: https://twitter.com/psysciacc
+          - affiliated.qmd
+          - submit.qmd
+          - text: "{{< ai google-scholar size=2x >}} Papers"
+            aria-label: Google Scholar
+            href: https://scholar.google.com/citations?user=yHWkiu4AAAAJ
+      - text: Conferences
+        menu:
+          - conf-register.qmd
+          - conf-previous.qmd
+      - text: About Us
+        menu: 
+          - about.qmd
+          - history.qmd
+          - media.qmd
+          - contacts.qmd
+          - newsletter.qmd
+          - funding.qmd
+          - text: "{{< ai osf >}} OSF"
+            aria-label: OSF
+            href: https://osf.io/93qpg/
+          - text: GitHub
+            icon: github
+            aria-label: GitHub
+            href: https://github.com/psysciacc
+          - text: "Twitter"
+            icon: twitter
+            aria-label: Twitter
+            href: https://twitter.com/psysciacc
   page-footer:
     background: primary
     right:

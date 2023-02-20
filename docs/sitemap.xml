@@ -1,79 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://psysciacc.github.io/conf-register.html</loc>
+    <lastmod>2023-02-20T15:55:28.547Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psysciacc.github.io/affiliated.html</loc>
+    <lastmod>2023-02-20T15:55:29.963Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psysciacc.github.io/current-members.html</loc>
+    <lastmod>2023-02-20T15:55:30.885Z</lastmod>
+  </url>
+  <url>
     <loc>https://psysciacc.github.io/papers/PSA-intro_2018.html</loc>
-    <lastmod>2022-12-14T16:58:01.217Z</lastmod>
+    <lastmod>2023-02-20T15:55:32.121Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/papers.html</loc>
-    <lastmod>2022-12-14T16:58:01.721Z</lastmod>
+    <lastmod>2023-02-20T15:55:32.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psysciacc.github.io/join.html</loc>
+    <lastmod>2023-02-20T15:55:33.319Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/CR003/index.html</loc>
-    <lastmod>2022-12-14T16:58:02.288Z</lastmod>
+    <lastmod>2023-02-20T15:55:33.844Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/CR002/index.html</loc>
-    <lastmod>2022-12-14T16:58:02.962Z</lastmod>
+    <lastmod>2023-02-20T15:55:34.446Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/007/index.html</loc>
-    <lastmod>2022-12-14T16:58:03.590Z</lastmod>
+    <lastmod>2023-02-20T15:55:35.033Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/008/index.html</loc>
-    <lastmod>2022-12-14T16:58:04.158Z</lastmod>
+    <lastmod>2023-02-20T15:55:35.493Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/001/index.html</loc>
-    <lastmod>2022-12-14T16:58:04.721Z</lastmod>
+    <lastmod>2023-02-20T15:55:36.065Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/006/index.html</loc>
-    <lastmod>2022-12-14T16:58:05.239Z</lastmod>
+    <lastmod>2023-02-20T15:55:36.513Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/CR001/index.html</loc>
-    <lastmod>2022-12-14T16:58:05.787Z</lastmod>
+    <lastmod>2023-02-20T15:55:37.063Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/003/index.html</loc>
-    <lastmod>2022-12-14T16:58:06.265Z</lastmod>
+    <lastmod>2023-02-20T15:55:37.595Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/004/index.html</loc>
-    <lastmod>2022-12-14T16:58:06.771Z</lastmod>
+    <lastmod>2023-02-20T15:55:38.160Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/005/index.html</loc>
-    <lastmod>2022-12-14T16:58:07.231Z</lastmod>
+    <lastmod>2023-02-20T15:55:38.630Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects/002/index.html</loc>
-    <lastmod>2022-12-14T16:58:07.764Z</lastmod>
+    <lastmod>2023-02-20T15:55:39.178Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/news.html</loc>
-    <lastmod>2022-12-14T16:58:08.288Z</lastmod>
+    <lastmod>2023-02-20T15:55:39.673Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/projects.html</loc>
-    <lastmod>2022-12-14T16:58:08.913Z</lastmod>
+    <lastmod>2023-02-20T15:55:40.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psysciacc.github.io/newsletter.html</loc>
+    <lastmod>2023-02-20T15:55:40.820Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/index.html</loc>
-    <lastmod>2022-12-14T16:58:09.404Z</lastmod>
+    <lastmod>2023-02-20T15:55:41.325Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psysciacc.github.io/media.html</loc>
+    <lastmod>2023-02-20T15:55:41.869Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/about.html</loc>
-    <lastmod>2022-12-14T16:58:09.912Z</lastmod>
+    <lastmod>2023-02-20T15:55:42.339Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psysciacc.github.io/contacts.html</loc>
+    <lastmod>2023-02-20T15:55:43.075Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/core-principles.html</loc>
-    <lastmod>2022-12-14T16:58:10.346Z</lastmod>
+    <lastmod>2023-02-20T15:55:43.555Z</lastmod>
   </url>
   <url>
     <loc>https://psysciacc.github.io/news/2022-12-06_2nd-call.html</loc>
-    <lastmod>2022-12-14T16:58:11.055Z</lastmod>
+    <lastmod>2023-02-20T15:55:44.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psysciacc.github.io/funding.html</loc>
+    <lastmod>2023-02-20T15:55:44.844Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psysciacc.github.io/conf-previous.html</loc>
+    <lastmod>2023-02-20T15:55:45.261Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psysciacc.github.io/history.html</loc>
+    <lastmod>2023-02-20T15:55:45.737Z</lastmod>
+  </url>
+  <url>
+    <loc>https://psysciacc.github.io/submit.html</loc>
+    <lastmod>2023-02-20T15:55:46.293Z</lastmod>
   </url>
 </urlset>

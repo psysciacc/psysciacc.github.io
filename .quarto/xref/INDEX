@@ -58,5 +58,38 @@
   },
   "papers.qmd": {
     "papers.html": "8540d948"
+  },
+  "current-members.qmd": {
+    "current-members.html": "905a11e2"
+  },
+  "join.qmd": {
+    "join.html": "710b5bcb"
+  },
+  "affiliated.qmd": {
+    "affiliated.html": "38aa66c7"
+  },
+  "submit.qmd": {
+    "submit.html": "4565aa6d"
+  },
+  "conf-register.qmd": {
+    "conf-register.html": "8246809c"
+  },
+  "newsletter.qmd": {
+    "newsletter.html": "b6716733"
+  },
+  "media.qmd": {
+    "media.html": "2fc71261"
+  },
+  "contacts.qmd": {
+    "contacts.html": "8ea04d0b"
+  },
+  "funding.qmd": {
+    "funding.html": "5625d42a"
+  },
+  "conf-previous.qmd": {
+    "conf-previous.html": "602157d8"
+  },
+  "history.qmd": {
+    "history.html": "6d34021d"
   }
 }
