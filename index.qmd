@@ -11,10 +11,16 @@ listing:
   filter-ui: false
 ---
 
-<img src="images/logo.png" style="float:left; padding: 1em 1em 0 0; width: 7em; min-width: 50px;">
+<img src="images/logo.png" style="float:left; padding: 1em 1em 0 0; width: 7em; min-width: 50px;"/>
 
-The Psychological Science Accelerator is a globally distributed network of psychological science laboratories with 1328 members representing 84 countries on all six populated continents, that coordinates data collection for democratically selected studies.
+The Psychological Science Accelerator (PSA) is a globally distributed network of researchers (??? 2468 researchers from 73 countries) that pool intellectual and material resources to accelerate the accumulation of rigorous knowledge in psychological science.
 
-Our mission is to accelerate the accumulation of reliable and generalizable evidence in psychological science, reducing the distance between truth about human behavior and mental processes and our current understanding. This challenge cannot be adequately met by a single researcher or small team. Instead, we attempt to meet this challenge with a distributed laboratory network that is ongoing (as opposed to time or task limited), diverse (both in terms of human subjects and participating researchers), and inclusive (we welcome ideas, contributions, study proposals, or other input from anyone in the field of psychology).
+We believe that many of the world's biggest challenges cannot be addressed by a single researcher or small team. We thus seek to leverage [big team science](https://www.nature.com/articles/d41586-022-00150-2) to address big questions rooted in theory and/or real-world problems. For example, of the 12+ projects in our study portfolio (link to study tab), we have:
+
+-   Tested whether COVID-19-related cognitive framing manipulations impact emotions, behaviors, attitudes, and well-being around the world.
+
+-   Examined cultural and situations forces that shape moral dilemma judgments.
+
+-   Examined the extent to which stereotype threat impacts academic performance among African American college students [ongoing].
 
 ### Recent News
