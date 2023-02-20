@@ -10,12 +10,49 @@ about:
     - icon: github
       text: Github
       href: https://github.com/psysciacc
-
 ---
 
-The Psychological Science Accelerator is a globally distributed network of psychological science laboratories with 1328 members representing 84 countries on all six populated continents, that coordinates data collection for democratically selected studies.
+The Psychological Science Accelerator (PSA) is a globally distributed network of researchers (2468 researchers from 73 countries) that pool intellectual and material resources to accelerate the accumulation of rigorous knowledge in psychological science. Below is some information about how we got started, our guiding principles, notable accomplishments, and future directions.
 
-Our mission is to accelerate the accumulation of reliable and generalizable evidence in psychological science, reducing the distance between truth about human behavior and mental processes and our current understanding. This challenge cannot be adequately met by a single researcher or small team. Instead, we attempt to meet this challenge with a distributed laboratory network that is ongoing (as opposed to time or task limited), diverse (both in terms of human subjects and participating researchers), and inclusive (we welcome ideas, contributions, study proposals, or other input from anyone in the field of psychology).
+### Beginnings
 
-[Core Principles](core-principles.html)
+The PSA began in August 2017 with a blog post titled "Building a CERN for Psychological Science," in which one of the founders, Chris Chartier, called on multiple research labs to join together to create a large-scale research consortium. By virtue of its membership across multiple countries, it was argued that a large enough consortium could recruit larger and more diverse samples of research participants than would be possible in only one research lab. The post was shared widely, and 100 labs signed up for the consortium one month after the post went live. In the early days of the project, the ever-expanding membership selected the name "The Psychological Science Accelerator" for the consortium, established sustainable governance, and drafted the consortium's guiding principles, which were later [published](https://journals.sagepub.com/doi/10.1177/2515245918797607) in *Advances in Methods and Practices in Psychological Science.*
 
+### Core Principles
+
+The founding members of the PSA established the following core principles:
+
+-   **Diversity and Inclusion**: Endeavor towards diversity and inclusion in every aspect of the PSA's functioning. This includes cultural and geographic diversity among participants and researchers conducting PSA-supported projects, as well as a diversity of research topics.
+
+-   **Decentralized Authority**: Have policies and procedures set by committees in conjunction with the PSA community at large. Have members collectively guide the direction of the PSA through the policies they vote for and the projects they support.
+
+-   **Transparency**: Mandate transparent practices in policies, procedures, and supported projects. For example, in confirmatory PSA projects, hypotheses, methods, and analysis plans should be specified and documented a-priori. Exploratory projects and analyses should be explicitly identified as so. Data, code, materials, and preprints of empirical results are required to be made openly available to the public.
+
+-   **Rigor**: Enable, support, or require relatively large sampling plans, expert reviews of study rationale, and vetting of methods by members with expertise in measurement and quantitative analysis.
+
+-   **Openness to criticism**: Integrate critical assessment into all policies and research products. Require extensive review of all projects and regularly solicit external feedback on the organization as a whole.
+
+### Key Accomplishments
+
+**Brought together a large researcher base**. The PSA has demonstrated that there is wide-ranging support for [big team science](https://www.nature.com/articles/d41586-022-00150-2). As of 2023, 2468 researchers from 73 countries have joined the network. Often on a volunteer basis, these researchers contribute to the PSA in several ways, including: collecting data, serving on committees, donating funds, conducting novel methodological and meta-scientific research, supporting the management of projects and data releases, devising analysis plans, and reviewing submissions for future PSA projects.
+
+**Established sustainable governance**. As of December 2020, the PSA is fiscally sponsored by the Open Collective Foundation and led by a Director, four Associate Directors, an ever-shifting number of committees led by 1-2 Assistant Directors, and a grassroots network of contributors. Committees regularly meet to establish workflows, develop policies, and provide guidance to PSA projects.
+
+**Selected and initiated over a dozen large-scale projects**. The PSA currently has over a dozen large-scale projects. See of projects page (link) for more information.
+
+**Received recognition from the scientific community**. In 2019, the PSA was recognized through the [Society for the Improvement of Psychological Science's](https://improvingpsych.org/) Leadership Award. In 2021, the PSA was recognized through the [Society for Personality and Social Psychology](https://spsp.org/) Service to the Field Award. The PSA has also received positive coverage from several popular press outlets, including [Science Magazine](https://www.science.org/content/article/new-accelerator-aims-bring-big-science-psychology), [FiveThirtyEight](https://fivethirtyeight.com/features/can-teamwork-solve-one-of-psychologys-biggest-problems/), and [Buzzfeed](https://www.buzzfeednews.com/article/stephaniemlee/psychology-science-accelerator-replication#.up37Yy0xj).
+
+### Current Aims
+Between 2022-2025, the PSA is primarily pursuing 6 aims. For more information, see our [2022-2025 Vision Plan](https://docs.google.com/document/d/13MQxrgs54eUz2iS9o_L_Ca_PjKUdT81T4xF3X5LLEGk/edit?usp=sharing).
+
+1. Address the "generalizability crisis" as it applies to methodology, measurement, sampling, and data analysis
+
+2. Improve psychological science through meta-science research
+
+3. Create opportunities for PSA members to initiate and collaborate on "affiliated" projects
+
+4. Build infrastructure for large-scale collaboration networks
+
+5. Improve the diversity of psychological science
+
+6. Establish long-term organizational and financial sustainability
