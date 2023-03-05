@@ -2,3 +2,26 @@
 title: "How to Submit"
 ---
 
+# Calls for Submissions
+
+Research projects completed by the PSA are typically selected from a pool of masked protocols submitted in response to an open call for proposals.
+
+Our most recent call for proposals, [Second Special Call for Studies -- Studying Generalizability with Global Samples](%22https://psysciacc.org/2022/12/06/second-special-call-for-studies-studying-generalizability-with-global-samples/%22), was released in December 2022 with a deadline of May 15, 2023.
+
+## General Calls
+
+The PSA occasionally releases general calls for studies from all areas of psychology. Proposed projects may be confirmatory or exploratory, test a novel research question or propose a replication, or explore the validity of measures or stimuli. When project proposals are submitted for consideration, authors are asked to explicitly address feasibility, implementation, and ethics concerns. Non-members can submit proposals, but must join the PSA if the project is selected.
+
+PSA projects are selected using a rigorous review process. Researchers submit detailed proposals for consideration. These proposals resemble Stage 1 Registered Reports (e.g., Chambers, 2013), and contain a theoretical introduction and hypothesis, a description of the planned sample and methods, and an analysis plan to test those hypotheses.
+
+The proposals then undergo several rounds of review, overseen by the PSA's Study Selection Committee (SSC). First, each proposal is screened for feasibility given the PSA's current capacity and resources. Simultaneously, the SSC screens out submissions deemed low quality. Proposals that pass this screening are then sent out for peer review. Each proposal is reviewed by 5-10 reviewers, consisting of both PSA members and external experts. These reviewers are identified based on their ethical, methodological, and/or theoretical expertise related to a given proposal. All submissions are also rated quantitatively by members of the PSA network. The SSC then synthesizes the reviewer and network feedback to select projects for the PSA to pursue.
+
+## Special Calls
+
+Special calls for studies have specific requirements in addition to those of general calls. These may include stipulations about the research topic, design, or population of interest. See the [Second Special Call for Studies -- Studying Generalizability with Global Samples](%22https://psysciacc.org/2022/12/06/second-special-call-for-studies-studying-generalizability-with-global-samples/%22) for example. Any differences from the standard study selection procedure summarized above are detailed in the call.
+
+# Affiliated Project Proposals
+
+In some instances, researchers might benefit from a formal and flexible affiliation with the PSA. Affiliated projects are not guaranteed the direct support received by standard projects but are formally recognized and promoted by the network.
+
+The Affiliated Projects policy document and submission form are in development and will be linked here when available.
