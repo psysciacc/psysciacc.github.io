@@ -15,7 +15,9 @@ website:
       - text: Membership
         menu: 
           - join.qmd
-          - current-members.qmd
+          - text: "Current Members"
+            aria-label: Current Members
+            href: https://canvas.psysciacc.org/login/canvas
       - text: Studies
         menu: 
           - projects.qmd

@@ -2,3 +2,60 @@
 title: "Join the PSA"
 ---
 
+## New Member Account Registration
+
+To join the PSA, you should:
+
+- Create an account on [this webpage](https://member.psysciacc.org/).
+- You will receive an invitation to join the PSA Membership Website (Canvas). Please check your spam email!
+- You will receive an invitation to join the PSA Membership "course", which is where you can agree to the code of conduct and fill in your profile information. We use this information to match you with opportunities in the PSA.
+- Accounts are usually created within a few days by the web admin. 
+- All projects use the membership website to send messages, track information, and keep you up to date. 
+
+## Membership
+
+### Membership in the Psychological Science Accelerator
+
+This policy document details how to become a member of the PSA, how to maintain active membership in the PSA, the responsibilities of active PSA members, and the rights of active PSA members. Accurate active membership information helps us estimate PSA capacity for future projects.
+
+Becoming a Member of the PSA:
+
+- Read and agree to abide by the code of conduct.
+- Read and agree to support the mission and core principles of the PSA when working on projects supported by the PSA.
+- Provide information for the PSA roster, and indicate what information we can share publicly.
+- You must have a current email, as we delete users when their email bounces!
+
+All three of the above items are gathered on the membership website. 
+
+### Maintaining Membership in the PSA. All PSA members must:
+
+- Abide by the code of conduct.
+- Report misconduct or violations of the code of conduct (via anonymous online survey if preferred).
+- Contribute to some aspect of the PSA at least once per year. One can join and gain membership immediately, and then have one year to become involved to maintain membership. Here is a non-exhaustive list of examples of contributions (we will err on the side of inclusion, rather than exclusion, when evaluating contributions that maintain active membership):
+  - Collect data for a PSA study
+  - Make non-data-collection contributions to a PSA study
+  - Serve on a PSA committee
+  - Review a PSA study submission (peer reviewer)
+  - Rate a PSA study submission (full network survey)
+  - Translate materials for a PSA study
+  - Provide feedback on a PSA study before submission
+  - Draft, edit, or provide feedback on a PSA policy document
+  - Vote in elections, study selection, or other requests for feedback
+  - Fill in your online profile, keeping your email up to date
+
+Members who have not engaged in PSA activities for a year will be marked as passive members. These members will still receive PSA communications (newsletters and emails) but will not have voting or nominating rights while they are passive members (see below). Passive members who re-engage with the PSA by contributing in any of the-above listed ways will be once again marked as active members for one year following their most recent contribution.
+
+### Rights of PSA members. All PSA members may:
+
+- Indicate their willingness to contribute to, and earn authorship on, PSA projects.
+- Provide feedback on all projects at these stages: study selection, prior to protocol and analysis plan being finalized, prior to any stage of publication submission (initial submission, revisions, etc.).
+- Join and earn authorship on projects if warranted by their contributions. Note that there may be scenarios when joining a specific study cannot be guaranteed for logistical reasons.
+- Vote in elections for the Director and Associate Directors of the PSA.
+- Provide feedback on all policy documents and vote to ratify or reject possible PSA policies.
+- Provide anonymous feedback on all PSA procedures and workflows (via online survey).
+- Nominate a PSA member, or oneself, for Election or Appointment to any PSA leadership position.
+- Anyone can ask to be removed as a member at any time by emailing psysciaccelerator@gmail.com.
+
+### Compulsory Membership:
+
+All contributors to PSA studies must become members during their contribution to the project. This is to ensure that all researchers engaging with the PSA have read and agree to abide by our Code of Conduct.
