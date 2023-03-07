@@ -6,7 +6,7 @@ title: "How to Submit"
 
 Research projects completed by the PSA are typically selected from a pool of masked protocols submitted in response to an open call for proposals.
 
-Our most recent call for proposals, [Second Special Call for Studies -- Studying Generalizability with Global Samples](%22https://psysciacc.org/2022/12/06/second-special-call-for-studies-studying-generalizability-with-global-samples/%22), was released in December 2022 with a deadline of May 15, 2023.
+Our most recent call for proposals, [Second Special Call for Studies -- Studying Generalizability with Global Samples](https://psysciacc.github.io/news/2022-12-06_2nd-call.html), was released in December 2022 with a deadline of May 15, 2023.
 
 ## General Calls
 
@@ -18,7 +18,7 @@ The proposals then undergo several rounds of review, overseen by the PSA's Study
 
 ## Special Calls
 
-Special calls for studies have specific requirements in addition to those of general calls. These may include stipulations about the research topic, design, or population of interest. See the [Second Special Call for Studies -- Studying Generalizability with Global Samples](%22https://psysciacc.org/2022/12/06/second-special-call-for-studies-studying-generalizability-with-global-samples/%22) for example. Any differences from the standard study selection procedure summarized above are detailed in the call.
+Special calls for studies have specific requirements in addition to those of general calls. These may include stipulations about the research topic, design, or population of interest. See the [Second Special Call for Studies -- Studying Generalizability with Global Samples](https://psysciacc.github.io/news/2022-12-06_2nd-call.html) for example. Any differences from the standard study selection procedure summarized above are detailed in the call.
 
 # Affiliated Project Proposals
 
