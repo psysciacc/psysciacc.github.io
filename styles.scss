@@ -8,11 +8,12 @@ $link-color: #00A000;
 
 :root {
   --theme: #00A000;
-  --highlight: #444444;
+  --background: #444444;
+  --highlight: #DDDDDD;
 }
 
 nav.navbar, nav .navbar-container {
-  background-color: var(--highlight);
+  background-color: var(--background);
   background-image: none;
 }
 
@@ -54,4 +55,47 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
   font-size: 60%;
   margin: 1em 0 0 0;
   padding: 0;
+}
+
+.projlist .abstract {
+  overflow: auto;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+/* lists of link buttons */
+
+.buttonlist {
+  padding-left: 0;
+}
+.buttonlist li {
+  list-style: none;
+  display: inline;
+}
+
+.buttonlist li a {
+  border: 1px solid var(--theme);
+  background-color: var(--background);
+  color: var(--theme);
+  border-radius: .5em;
+  padding: .25em .5em;
+  text-decoration: none;
+}
+
+.buttonlist li a:hover {
+  border-color: var(--highlight);
+  background-color: var(--theme);
+  color: var(--highlight);
+}
+
+.altmetric-embed {
+    float: left;
+    clear: left;
+}
+.altmetric-embed a {
+    border-bottom: none;
+    background-color: white;
+    border-radius: 100%;
 }

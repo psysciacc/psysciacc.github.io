@@ -1,25 +1,29 @@
 ---
+order: 1006
 title: "PSA006: Trolley Problem"
+status: Published
 doi: 10.1038/s41562-022-01319-5
-osf: efy2w
+image: /images/icons/006icon.png
 categories:
   - moral reasoning
   - multi-language
+  - published
 personnel:
-  proposers:
-    - Bence Bagó
-    - Balazs Aczel
-  pm: John Protzko
-  methodology:
-    - Zoltán Kekecs
-    - Rink Hoekstra
-  data:
-    - Márton Kovács
-    - Tamas Nagy
-  translation: Chuan-Peng Hu
-  ethics: Gerit Pfuhl
+  Proposers: [Bence Bagó, Balazs Aczel]
+  PM: John Protzko
+  Methodology: [Zoltán Kekecs, Rink Hoekstra]
+  Data: [Márton Kovács, Tamas Nagy]
+  Translation: Chuan-Peng Hu
+  Ethics: Gerit Pfuhl
+summary: "This project tested the universality of the effects of intent and personal force on moral dilemma judgements by replicating the experiments of Greene et al. (2009)."
+links:
+  paper: https://doi.org/10.1038/s41562-022-01319-5
+  preprint: https://doi.org/10.31234/osf.io/9uaqm
+  RR stage 1: https://springernature.figshare.com/articles/journal_contribution/Moral_thinking_across_the_world_Exploring_the_influence_of_personal_force_and_intention_in_moral_dilemma_judgements_Registered_Report_Stage_1_Protocol_/11871324/1
+  resources: https://github.com/marton-balazs-kovacs/trolleyMultilabReplication
+  OSF: https://osf.io/efy2w/
+abstract: |
+  The study of moral judgements often centres on moral dilemmas in which options consistent with deontological perspectives (that is, emphasizing rules, individual rights and duties) are in conflict with options consistent with utilitarian judgements (that is, following the greater good based on consequences). Greene et al. (2009) showed that psychological and situational factors (for example, the intent of the agent or the presence of physical contact between the agent and the victim) can play an important role in moral dilemma judgements (for example, the trolley problem). Our knowledge is limited concerning both the universality of these effects outside the United States and the impact of culture on the situational and psychological factors affecting moral judgements. Thus, we empirically tested the universality of the effects of intent and personal force on moral dilemma judgements by replicating the experiments of Greene et al. in 45 countries from all inhabited continents. We found that personal force and its interaction with intention exert influence on moral judgements in the US and Western cultural clusters, replicating and expanding the original findings. Moreover, the personal force effect was present in all cultural clusters, suggesting it is culturally universal. The evidence for the cultural universality of the interaction effect was inconclusive in the Eastern and Southern cultural clusters (depending on exclusion criteria). We found no strong association between collectivism/individualism and moral dilemma judgements.
 ---
-
-Research on moral reasoning is centered around moral dilemmas in which deontological perspectives (emphasizing individual rights) are in conflict with consequentialist reasoning (also referred to as utilitarian; following the greater good). A central finding of this field is that people in certain situations are more likely do go with deontological considerations, while in other cases they are more likely to decide based on consequentialist reasons. In their seminal article, Greene et al. (2009) tried to investigate the effect of situational and psychological factors (e.g., intent of the agent, or physical contact between the agent and victim) on people’s moral decisions, but their work could not explore the effect of a potentially important component: culture. Therefore, the goal of the present research proposal is to empirically test the universality of utilitarian and deontological responding by directly replicating Greene et al.’s experiments on non-WEIRD samples as well as to explore the influence of culture and economic status on moral reasoning.
 
 Bago, B., Kovacs, M., Protzko, J. et al. Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nat Hum Behav 6, 880–895 (2022). <https://doi.org/10.1038/s41562-022-01319-5>

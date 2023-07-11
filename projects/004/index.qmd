@@ -1,21 +1,23 @@
 ---
+order: 1004
 title: "PSA004: True Belief"
+status: Ongoing - post data collection
 doi: 10.31234/osf.io/zeux9
-osf: x978m
+image: /images/icons/004icon.png
 categories:
   - knowledge
   - multi-language
+  - ongoing
 personnel:
-  proposers:
-    - Braeden Hall 
-    - Jordan Wagge 
-  pm: Jordan Wagge 
-  methodology: Braeden Hall
-  data: Dan Dunleavy
-  translation: Jan Philipp Röer
-  ethics: Erica Musser
+  Proposers: [Braeden Hall, Jordan Wagge]
+  PM: Jordan Wagge
+summary: "Part of the Collaboration Replications and Education Project, this replication of Turri et al. (2015) is examining the prevalence of the Gettier intuition effect, wherein knowledge attribution decreases when in cases where beliefs are correct only due to luck."
+links:
+  preprint: 10.31234/osf.io/zeux9
+abstract: |
+ According to the Justified True Belief account of knowledge (JTB), a person can only truly know something if they have a belief that is both justified and true (i.e., knowledge is justified true belief). This account was challenged by Gettier (1963), who argued that JTB does not explain knowledge attributions in certain situations, later called Gettier-type cases, wherein a protagonist is justified in believing something to be true but their belief was only correct due to luck. Lay people may not attribute knowledge to protagonists with justified but only luckily true beliefs. While some research has found evidence for these so-called Gettier intuitions (e.g., Machery et al., 2017a), Turri et al. (2015) found that participants attributed knowledge in Gettier-type cases at rates similar to cases of justified true belief. In a large-scale, cross-cultural conceptual replication of Turri and colleagues’ (2015) Experiment 1 (N = 4724), we failed to replicate this null result using a within-subjects design and three vignettes across 19 geopolitical regions. Instead, participants demonstrated Gettier intuitions; they were 1.86 times more likely to attribute knowledge to protagonists in standard cases of justified true belief than to protagonists in Gettier-type cases. These results suggest that Gettier intuitions may be common across different scenarios and cultural contexts. When assessing the knowledge of others, lay people may rely on a shared set of epistemic intuitions (i.e., a core folk epistemology) that requires more than simply justification, belief, and truth. However, the size of the Gettier intuition effect did vary by vignette, and the Turri et al. (2015) vignette produced the smallest effect. Thus, epistemic intuitions may also depend on contextual factors unrelated to the criteria of knowledge, such as the characteristics of the protagonist being evaluated.
 ---
 
-According to the Justified True Belief (JTB) account of knowledge, a person’s ability to know something is defined by having a belief that is both justified and true (i.e., knowledge is justified true belief). However, this account fails to consider the role of luck. In 1963, Gettier argued that JTB is insufficient because it does not account for certain situations, called Gettier cases, wherein a person is justified for believing something true but only because of luck. It is unclear whether lay people’s intuitions about knowledge lead them to agree with Gettier, such that lay people believe that individuals in these cases lack knowledge (referred to as Gettier intuitions). We attempt to provide a robust estimate of the Gettier intuition effect size by replicating Turri and colleagues’ (2015) Experiment 1. The Collaboration Replications and Education Project (CREP) selected this study for replication based on its undergraduate appeal, feasibility, and pedagogical value. However, in light of some inconsistent results, suboptimal designs, and inconsistent evidence for cultural variation (e.g., Machery et al., 2015; Nagel, et al., 2013; Seyedsayamdost et al., 2015; Starman & Friedman, 2012; Weinberg et al., 2001), the improved methodology of Turri et al. (2015) make it an important study to replicate cross-culturally. Therefore, we propose a multisite Collaboration preregistered replication of Turri and colleague’s (2015) Experiment 1 (35 labs from 14 countries across 4 continents signed up at time of submission; expected minimum N = 1,500). Results of this study are expected to provide a clearer picture of the Gettier intuition effect size, lay people’s theory and practice of knowledge, and potentially cross-cultural similarities and differences.
+## Contact
 
-Hall, B. F., Schmidt, K., Wagge, J. R., Lewis, S. C., Weissgerber, S. C., Kiunke, F., … Buchanan, E. M. (2018, October 15). Registered Replication Report: A Large Multilab Cross-Cultural Conceptual Replication of Turri, Buckwalter, & Blouw (2015). <https://doi.org/10.31234/osf.io/zeux9>
+For more information about this project, please contact Jordan Wagge at [jwagge@gmail.com](mailto:jwagge@gmail.com).

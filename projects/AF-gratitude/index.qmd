@@ -1,0 +1,16 @@
+---
+order: 3001
+title: "AF001: Gratitude Project"
+status: Ongoing - pre data collection
+contact: 
+  name: Shige Oishi
+  email: shigeoishi@gmail.com
+categories:
+  - affiliated
+  - multi-language
+  - gratitude
+  - ongoing
+summary: "This PSA-affiliated project is examining the effectiveness of standard and localized gratitude interventions in improving subjective well-being."
+abstract: |
+  To date, gratitude intervention research has mostly relied on WEIRD samples (i.e., people from Western, Educated, Industrialized, Rich, and Democratic societies). This has severely limited our understanding of both the function and potential benefits of gratitude. With funding from the John Templeton Foundation and in collaboration with the Psychological Science Accelerator consortium, we are seeking potential collaborators for a cross-cultural (~50 countries) examination of online, 30-minute, single-session gratitude interventions on subjective well-being. This will include both (1) standardized gratitude interventions traditionally developed and validated in WEIRD samples, and (2) localized (e.g., culturally tailored) gratitude interventions that collaborators might design if they so choose.
+---

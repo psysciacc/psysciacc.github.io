@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -73,9 +73,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-doi','listing-categories','listing-path','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-contact','listing-personnel','listing-image','listing-osf',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-order','listing-title','listing-status','listing-doi','listing-altmetrics','listing-image','listing-categories','listing-personnel','listing-summary','listing-links','listing-abstract','listing-path','listing-outputHref','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-contact',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] }],
       
-      searchColumns: ["listing-title","listing-doi","listing-categories","listing-path","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-contact","listing-personnel","listing-image","listing-osf"],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-order","listing-title","listing-status","listing-doi","listing-altmetrics","listing-image","listing-categories","listing-personnel","listing-summary","listing-links","listing-abstract","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-contact"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -92,7 +92,9 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
@@ -111,111 +113,113 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Psychological Science Accelerator</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-membership" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-membership" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Membership</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-membership">    
         <li>
-    <a class="dropdown-item" href="./join.html">
+    <a class="dropdown-item" href="./join.html" rel="" target="">
  <span class="dropdown-text">Join the PSA</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://canvas.psysciacc.org/login/canvas">
+    <a class="dropdown-item" href="https://canvas.psysciacc.org/login/canvas" rel="" target="">
  <span class="dropdown-text">Current Members</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-studies" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-studies" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Studies</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-studies">    
         <li>
-    <a class="dropdown-item" href="./projects.html">
+    <a class="dropdown-item" href="./projects.html" rel="" target="">
  <span class="dropdown-text">Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./affiliated.html">
+    <a class="dropdown-item" href="./affiliated.html" rel="" target="">
  <span class="dropdown-text">Affiliated Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./submit.html">
+    <a class="dropdown-item" href="./submit.html" rel="" target="">
  <span class="dropdown-text">How to Submit</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://scholar.google.com/citations?user=yHWkiu4AAAAJ">
+    <a class="dropdown-item" href="https://scholar.google.com/citations?user=yHWkiu4AAAAJ" rel="" target="">
  <span class="dropdown-text"><i class="ai  ai-google-scholar ai-2x" title="" style="color:"></i> Papers</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-conferences" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-conferences" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Conferences</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-conferences">    
         <li>
-    <a class="dropdown-item" href="./conf-register.html">
+    <a class="dropdown-item" href="./conf-register.html" rel="" target="">
  <span class="dropdown-text">Registration</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./conf-previous.html">
+    <a class="dropdown-item" href="./conf-previous.html" rel="" target="">
  <span class="dropdown-text">Previous Conferences</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-us" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-us" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">About Us</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about-us">    
         <li>
-    <a class="dropdown-item" href="./about.html">
+    <a class="dropdown-item" href="./about.html" rel="" target="">
  <span class="dropdown-text">About</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./history.html">
+    <a class="dropdown-item" href="./history.html" rel="" target="">
  <span class="dropdown-text">History of the PSA</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./media.html">
+    <a class="dropdown-item" href="./media.html" rel="" target="">
  <span class="dropdown-text">PSA in the Media</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./contacts.html">
+    <a class="dropdown-item" href="./contacts.html" rel="" target="">
  <span class="dropdown-text">Contact Us</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./newsletter.html">
+    <a class="dropdown-item" href="./newsletter.html" rel="" target="">
  <span class="dropdown-text">Newsletter</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./funding.html">
+    <a class="dropdown-item" href="./funding.html" rel="" target="">
  <span class="dropdown-text">Funding</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://osf.io/93qpg/">
+    <a class="dropdown-item" href="https://osf.io/93qpg/" rel="" target="">
  <span class="dropdown-text"><i class="ai  ai-osf" title="" style="color:"></i> OSF</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://github.com/psysciacc"><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="dropdown-item" href="https://github.com/psysciacc" rel="" target=""><i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
  <span class="dropdown-text">GitHub</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://twitter.com/psysciacc"><i class="bi bi-twitter" role="img" aria-label="Twitter">
+    <a class="dropdown-item" href="https://twitter.com/psysciacc" rel="" target=""><i class="bi bi-twitter" role="img" aria-label="Twitter">
 </i> 
  <span class="dropdown-text">Twitter</span></a>
   </li>  
     </ul>
   </li>
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -226,7 +230,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(11)</span></div><div class="category" data-category="covid rapid">covid rapid <span class="quarto-category-count">(3)</span></div><div class="category" data-category="faces">faces <span class="quarto-category-count">(1)</span></div><div class="category" data-category="gender">gender <span class="quarto-category-count">(1)</span></div><div class="category" data-category="groups">groups <span class="quarto-category-count">(1)</span></div><div class="category" data-category="knowledge">knowledge <span class="quarto-category-count">(1)</span></div><div class="category" data-category="language">language <span class="quarto-category-count">(2)</span></div><div class="category" data-category="mental imagery">mental imagery <span class="quarto-category-count">(1)</span></div><div class="category" data-category="moral reasoning">moral reasoning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="multi-language">multi-language <span class="quarto-category-count">(10)</span></div><div class="category" data-category="prejudice">prejudice <span class="quarto-category-count">(1)</span></div><div class="category" data-category="stereotypes">stereotypes <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(13)</span></div><div class="category" data-category="COVID">COVID <span class="quarto-category-count">(3)</span></div><div class="category" data-category="affiliated">affiliated <span class="quarto-category-count">(2)</span></div><div class="category" data-category="faces">faces <span class="quarto-category-count">(1)</span></div><div class="category" data-category="gender">gender <span class="quarto-category-count">(1)</span></div><div class="category" data-category="gratitude">gratitude <span class="quarto-category-count">(1)</span></div><div class="category" data-category="groups">groups <span class="quarto-category-count">(1)</span></div><div class="category" data-category="knowledge">knowledge <span class="quarto-category-count">(1)</span></div><div class="category" data-category="language">language <span class="quarto-category-count">(2)</span></div><div class="category" data-category="mental imagery">mental imagery <span class="quarto-category-count">(1)</span></div><div class="category" data-category="moral reasoning">moral reasoning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="multi-language">multi-language <span class="quarto-category-count">(11)</span></div><div class="category" data-category="ongoing">ongoing <span class="quarto-category-count">(8)</span></div><div class="category" data-category="prejudice">prejudice <span class="quarto-category-count">(1)</span></div><div class="category" data-category="published">published <span class="quarto-category-count">(5)</span></div><div class="category" data-category="relationships">relationships <span class="quarto-category-count">(1)</span></div><div class="category" data-category="stereotypes">stereotypes <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -252,235 +256,357 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<!-- altmetrics script -->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <ul class="projlist list">
-  <li data-index="0" data-categories="faces,multi-language" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="1.04">
+  <li data-index="0" data-categories="faces,multi-language,published" data-listing-file-modified-sort="1689081679051" data-listing-reading-time-sort="1">
     <div>
-      <img src="./projects/001/ashland-psa.webp">
+      <img src="./images/icons/001icon.png">
       <!--
       <ul class="quarto-categories">
         <li><a href="/projects.html#category=faces">faces</a></li>
         <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=published">published</a></li>
       </ul>
       -->
+      <!--
       <ul class="personnel">
         <li>Proposers: Benedict C. Jones,Lisa M. DeBruine</li>
-        <li>Project Manager: Nicholas A. Coles</li>
-        <li>Methodologist: Jessica K. Flake</li>
-        <li>Data Manager: Patrick Forscher</li>
+        <li>PM: Nicholas A. Coles</li>
+        <li>Methodology: Jessica K. Flake</li>
+        <li>Data: Patrick Forscher</li>
         <li>Translation: Janis Zickfeld</li>
         <li>Ethics: Marietta Papadatou-Pastou,Anna van ‘t Veer</li>
       </ul>
+      -->
     </div>
     <div>
       <h3 class="anchored"><a href="./projects/001/index.html">PSA001: Face Perception</a></h3>
-      <p>Over the past 10 years, Oosterhof and Todorov’s valence–dominance model has emerged as the most prominent account of how people evaluate faces on social dimensions. In this…</p>
+      <div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      <ul class="buttonlist">
+        <li><a href="https://doi.org/10.1038/s41562-020-01007-2">paper</a></li>
+        <li><a href="https://doi.org/10.31234/osf.io/n26dy">preprint</a></li>
+        <li><a href="https://osf.io/f7v3n/">resources</a></li>
+      </ul>
+      <p class="abstract">Over the past 10 years, Oosterhof and Todorov’s valence–dominance model has emerged as the most prominent account of how people evaluate faces on social dimensions. In this model, two dimensions (valence and dominance) underpin social judgements of faces. Because this model has primarily been developed and tested in Western regions, it is unclear whether these findings apply to other regions. We addressed this question by replicating Oosterhof and Todorov’s methodology across 11 world regions, 41 countries and 11,570 participants. When we used Oosterhof and Todorov’s original analysis strategy, the valence–dominance model generalized across regions. When we used an alternative methodology to allow for correlated dimensions, we observed much less generalization. Collectively, these results suggest that, while the valence–dominance model generalizes very well across regions when dimensions are forced to be orthogonal, regional differences are revealed when we use different extraction methods and correlate and rotate the dimension reduction solution.
+</p>
     </div>
   </li>
-  <li data-index="1" data-categories="mental imagery,language,multi-language" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="0.88">
+  <li data-index="1" data-categories="mental imagery,language,multi-language,ongoing" data-listing-file-modified-sort="1689081617097" data-listing-reading-time-sort="1">
     <div>
-      <img src="images/logo.png">
+      <img src="./images/icons/002icon.png">
       <!--
       <ul class="quarto-categories">
         <li><a href="/projects.html#category=mental imagery">mental imagery</a></li>
         <li><a href="/projects.html#category=language">language</a></li>
         <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=ongoing">ongoing</a></li>
       </ul>
       -->
+      <!--
       <ul class="personnel">
-        <li>Proposers: Sau-Chin Chen</li>
-        <li>Project Manager: Jeremy Miller</li>
-        <li>Methodologist: Anna Szabelska</li>
-        <li>Data Manager: Abby Noyce</li>
-        <li>Translation: Ilker Dilgar</li>
-        <li>Ethics: Erica Musser</li>
+        <li>Proposer: Sau-Chin Chen</li>
+        <li>PM: Jeremy Miller</li>
       </ul>
+      -->
     </div>
     <div>
       <h3 class="anchored"><a href="./projects/002/index.html">PSA002: Object Orientation</a></h3>
-      <p>Mental simulation theories of language comprehension propose that people automatically create mental representations of real objects. Evidence from sentence-picture…</p>
+      <div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      <ul class="buttonlist">
+        <li><a href="10.31234/osf.io/t2pjv">preprint</a></li>
+      </ul>
+      <p class="abstract">Mental simulation theories of language comprehension propose that people automatically create mental representations of real objects. Evidence from sentence-picture verification tasks has shown that people mentally represent various visual properties such as shape, color, and size. However, the evidence for mental simulations of object orientation is limited. We report a study that investigates the match advantage of object orientation across speakers of different languages. This multi-laboratory project aims to achieve two objectives. First, we examine the replicability of the match advantage of object orientation across multiple languages and laboratories. Second, we will use a mental rotation task to measure participants’ mental imagery after the sentence-picture verification task. The relationship between the participants’ performance of the two tasks will provide a cross-linguistic examination of perceptual simulation processes. With the (broad) evaluation of individual mental imagery ability and potential linguistic moderators, we expect a robust estimation of match advantage of object orientation.
+</p>
     </div>
   </li>
-  <li data-index="2" data-categories="prejudice,gender,multi-language" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="0.76">
+  <li data-index="2" data-categories="prejudice,gender,multi-language,ongoing" data-listing-file-modified-sort="1689081624185" data-listing-reading-time-sort="1">
     <div>
-      <img src="images/logo.png">
+      <img src="./images/icons/003icon.png">
       <!--
       <ul class="quarto-categories">
         <li><a href="/projects.html#category=prejudice">prejudice</a></li>
         <li><a href="/projects.html#category=gender">gender</a></li>
         <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=ongoing">ongoing</a></li>
       </ul>
       -->
+      <!--
       <ul class="personnel">
-        <li>Proposers: Curtis Phills</li>
-        <li>Project Manager: Jeremy Miller</li>
-        <li>Methodologist: Zoltán Kekecs,Erin Buchanan</li>
-        <li>Data Manager: Abby Noyce</li>
-        <li>Translation: Janis Zickfeld</li>
-        <li>Ethics: Erica Musser</li>
+        <li>Proposer: Curtis Phills</li>
+        <li>PM: Jeremy Miller</li>
       </ul>
+      -->
     </div>
     <div>
       <h3 class="anchored"><a href="./projects/003/index.html">PSA003: Gendered Prejudice</a></h3>
-      <p>When asked to imagine a person, people tend to think of a man (Hamilton, 1991). The same is true for some social groups as well–when asked to imagine a Black or White…</p>
+      <p class="abstract">When asked to imagine a person, people tend to think of a man (Hamilton, 1991). The same is true for some social groups as well–when asked to imagine a Black or White person, people tend to imagine a Black or White man (Schug, Alt, &amp; Klauer, 2015). One reason for this is androcentrism: the belief that men are the default and women are the exception or “other” (Bailey, LaFrance, &amp; Dovidio, 2018; Bem, 1993; Smith &amp; Zarate, 1992).The present research will describe the gendered nature of prejudice for seven social categories (i.e., Black people, East Asian people, White people, police, politicians, and criminals). We hypothesized that, if prejudice occurs for the group, it is more strongly related to prejudice toward the men of that social category than toward the women of that category. This study was conducted across several laboratories and languages and was paired with PSA 002 for data collection.
+</p>
     </div>
   </li>
-  <li data-index="3" data-categories="knowledge,multi-language" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="1.525">
+  <li data-index="3" data-categories="knowledge,multi-language,ongoing" data-listing-file-modified-sort="1689081630521" data-listing-reading-time-sort="1">
     <div>
-      <img src="images/logo.png">
+      <img src="./images/icons/004icon.png">
       <!--
       <ul class="quarto-categories">
         <li><a href="/projects.html#category=knowledge">knowledge</a></li>
         <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=ongoing">ongoing</a></li>
       </ul>
       -->
+      <!--
       <ul class="personnel">
         <li>Proposers: Braeden Hall,Jordan Wagge</li>
-        <li>Project Manager: Jordan Wagge</li>
-        <li>Methodologist: Braeden Hall</li>
-        <li>Data Manager: Dan Dunleavy</li>
-        <li>Translation: Jan Philipp Röer</li>
-        <li>Ethics: Erica Musser</li>
+        <li>PM: Jordan Wagge</li>
       </ul>
+      -->
     </div>
     <div>
       <h3 class="anchored"><a href="./projects/004/index.html">PSA004: True Belief</a></h3>
-      <p>According to the Justified True Belief (JTB) account of knowledge, a person’s ability to know something is defined by having a belief that is both justified and true (i.e.…</p>
+      <div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      <ul class="buttonlist">
+        <li><a href="10.31234/osf.io/zeux9">preprint</a></li>
+      </ul>
+      <p class="abstract">According to the Justified True Belief account of knowledge (JTB), a person can only truly know something if they have a belief that is both justified and true (i.e., knowledge is justified true belief). This account was challenged by Gettier (1963), who argued that JTB does not explain knowledge attributions in certain situations, later called Gettier-type cases, wherein a protagonist is justified in believing something to be true but their belief was only correct due to luck. Lay people may not attribute knowledge to protagonists with justified but only luckily true beliefs. While some research has found evidence for these so-called Gettier intuitions (e.g., Machery et al., 2017a), Turri et al. (2015) found that participants attributed knowledge in Gettier-type cases at rates similar to cases of justified true belief. In a large-scale, cross-cultural conceptual replication of Turri and colleagues’ (2015) Experiment 1 (N = 4724), we failed to replicate this null result using a within-subjects design and three vignettes across 19 geopolitical regions. Instead, participants demonstrated Gettier intuitions; they were 1.86 times more likely to attribute knowledge to protagonists in standard cases of justified true belief than to protagonists in Gettier-type cases. These results suggest that Gettier intuitions may be common across different scenarios and cultural contexts. When assessing the knowledge of others, lay people may rely on a shared set of epistemic intuitions (i.e., a core folk epistemology) that requires more than simply justification, belief, and truth. However, the size of the Gettier intuition effect did vary by vignette, and the Turri et al. (2015) vignette produced the smallest effect. Thus, epistemic intuitions may also depend on contextual factors unrelated to the criteria of knowledge, such as the characteristics of the protagonist being evaluated.
+</p>
     </div>
   </li>
-  <li data-index="4" data-categories="stereotypes" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="0.905">
+  <li data-index="4" data-categories="stereotypes,ongoing" data-listing-file-modified-sort="1689081638777" data-listing-reading-time-sort="1">
     <div>
-      <img src="images/logo.png">
+      <img src="./images/icons/005icon.png">
       <!--
       <ul class="quarto-categories">
         <li><a href="/projects.html#category=stereotypes">stereotypes</a></li>
+        <li><a href="/projects.html#category=ongoing">ongoing</a></li>
       </ul>
       -->
+      <!--
       <ul class="personnel">
-        <li>Proposers: Patrick Forscher,Valerie Jones Taylor,Neil A. Lewis, Jr.,Daniel Cavagnaro</li>
-        <li>Project Manager: Bharathy Premachandra</li>
-        <li>Methodologist: Daniel Cavagnaro</li>
-        <li>Data Manager: Erin Buchanan</li>
-        <li>Translation: </li>
-        <li>Ethics: Kim Peters</li>
+        <li>Proposers: Patrick Forscher,Valerie Jones Taylor,Neil A. Lewis,Jr.,Daniel Cavagnaro</li>
+        <li>PM: Bharathy Premachandra</li>
       </ul>
+      -->
     </div>
     <div>
       <h3 class="anchored"><a href="./projects/005/index.html">PSA005: Stereotype Threat</a></h3>
-      <p>According to stereotype threat theory, the possibility of confirming a negative stereotype provokes feelings of threat, leading people to underperform on the very tasks on…</p>
+      <div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      <ul class="buttonlist">
+        <li><a href="10.31234/osf.io/6hju9">preprint</a></li>
+      </ul>
+      <p class="abstract">According to stereotype threat theory, the possibility of confirming a negative group stereotype evokes feelings of threat, leading people to underperform in domains where they are stereotyped as lacking ability. This theory has immense theoretical and practical implications. However, many studies supporting it include small samples and varying operational definitions of “stereotype threat”. We address the first challenge by leveraging a network of psychology labs to recruit a large Black student sample (*N~anticipated~* = 2700) from multiple US sites (*N~anticipated~* = 27). We address the second challenge by identifying three threat-increasing and three threat-decreasing procedures that could plausibly affect performance and use an adaptive Bayesian design to determine which operationalization yields the strongest evidence for underperformance. This project should advance our knowledge of a scientifically and socially important topic: the conditions under which stereotype threat affects performance among current Black students in the United States.
+</p>
     </div>
   </li>
-  <li data-index="5" data-categories="moral reasoning,multi-language" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="0.96">
+  <li data-index="5" data-categories="moral reasoning,multi-language,published" data-listing-file-modified-sort="1689081645689" data-listing-reading-time-sort="1">
     <div>
-      <img src="images/logo.png">
+      <img src="./images/icons/006icon.png">
       <!--
       <ul class="quarto-categories">
         <li><a href="/projects.html#category=moral reasoning">moral reasoning</a></li>
         <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=published">published</a></li>
       </ul>
       -->
+      <!--
       <ul class="personnel">
         <li>Proposers: Bence Bagó,Balazs Aczel</li>
-        <li>Project Manager: John Protzko</li>
-        <li>Methodologist: Zoltán Kekecs,Rink Hoekstra</li>
-        <li>Data Manager: Márton Kovács,Tamas Nagy</li>
+        <li>PM: John Protzko</li>
+        <li>Methodology: Zoltán Kekecs,Rink Hoekstra</li>
+        <li>Data: Márton Kovács,Tamas Nagy</li>
         <li>Translation: Chuan-Peng Hu</li>
         <li>Ethics: Gerit Pfuhl</li>
       </ul>
+      -->
     </div>
     <div>
       <h3 class="anchored"><a href="./projects/006/index.html">PSA006: Trolley Problem</a></h3>
-      <p>Research on moral reasoning is centered around moral dilemmas in which deontological perspectives (emphasizing individual rights) are in conflict with consequentialist…</p>
+      <div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      <ul class="buttonlist">
+        <li><a href="https://doi.org/10.1038/s41562-022-01319-5">paper</a></li>
+        <li><a href="https://doi.org/10.31234/osf.io/9uaqm">preprint</a></li>
+        <li><a href="https://springernature.figshare.com/articles/journal_contribution/Moral_thinking_across_the_world_Exploring_the_influence_of_personal_force_and_intention_in_moral_dilemma_judgements_Registered_Report_Stage_1_Protocol_/11871324/1">RR stage 1</a></li>
+        <li><a href="https://github.com/marton-balazs-kovacs/trolleyMultilabReplication">resources</a></li>
+        <li><a href="https://osf.io/efy2w/">OSF</a></li>
+      </ul>
+      <p class="abstract">The study of moral judgements often centres on moral dilemmas in which options consistent with deontological perspectives (that is, emphasizing rules, individual rights and duties) are in conflict with options consistent with utilitarian judgements (that is, following the greater good based on consequences). Greene et al. (2009) showed that psychological and situational factors (for example, the intent of the agent or the presence of physical contact between the agent and the victim) can play an important role in moral dilemma judgements (for example, the trolley problem). Our knowledge is limited concerning both the universality of these effects outside the United States and the impact of culture on the situational and psychological factors affecting moral judgements. Thus, we empirically tested the universality of the effects of intent and personal force on moral dilemma judgements by replicating the experiments of Greene et al. in 45 countries from all inhabited continents. We found that personal force and its interaction with intention exert influence on moral judgements in the US and Western cultural clusters, replicating and expanding the original findings. Moreover, the personal force effect was present in all cultural clusters, suggesting it is culturally universal. The evidence for the cultural universality of the interaction effect was inconclusive in the Eastern and Southern cultural clusters (depending on exclusion criteria). We found no strong association between collectivism/individualism and moral dilemma judgements.
+</p>
     </div>
   </li>
-  <li data-index="6" data-categories="language,multi-language" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="0.89">
+  <li data-index="6" data-categories="language,multi-language,ongoing" data-listing-file-modified-sort="1689081653649" data-listing-reading-time-sort="1">
     <div>
-      <img src="images/logo.png">
+      <img src="./images/icons/007icon.png">
       <!--
       <ul class="quarto-categories">
         <li><a href="/projects.html#category=language">language</a></li>
         <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=ongoing">ongoing</a></li>
       </ul>
       -->
+      <!--
       <ul class="personnel">
-        <li>Proposers: Erin Buchanan</li>
-        <li>Project Manager: Kelly Cuccolo</li>
-        <li>Methodologist: Niels van Berkel</li>
-        <li>Data Manager: Niels van Berkel</li>
-        <li>Translation: Aishwarya Iyer</li>
-        <li>Ethics: Kim Peters</li>
+        <li>Proposer: Erin Buchanan</li>
+        <li>PMs: Savannah Lewis,Jacob Miranda</li>
       </ul>
+      -->
     </div>
     <div>
       <h3 class="anchored"><a href="./projects/007/index.html">PSA007: SPAM-L</a></h3>
-      <p>Semantic priming has been studied for nearly fifty years across various experimental manipulations and theoretical frameworks. Critically, the understanding of semantic…</p>
+      <div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      <ul class="buttonlist">
+        <li><a href="https://doi.org/10.31219/osf.io/q4fjy">preprint</a></li>
+      </ul>
+      <p class="abstract">Semantic priming has been studied for nearly 50 years across various experimental manipulations and theoretical frameworks. These studies provide insight into the cognitive underpinnings of semantic representations in both healthy and clinical populations; however, they have suffered from several issues including generally low sample sizes and a lack of diversity in linguistic implementations. Here, we will test the size and the variability of the semantic priming effect across ten languages by creating a large database of semantic priming values, based on an adaptive sampling procedure. Differences in response latencies between related word-pair conditions and unrelated word-pair conditions (i.e., difference score confidence interval is greater than zero) will allow quantifying evidence for semantic priming, whereas improvements in model fit with the addition of a random intercept for language will provide support for variability in semantic priming across languages.
+</p>
     </div>
   </li>
-  <li data-index="7" data-categories="groups,multi-language" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="0.84">
+  <li data-index="7" data-categories="groups,multi-language,ongoing" data-listing-file-modified-sort="1689081661529" data-listing-reading-time-sort="1">
     <div>
-      <img src="images/logo.png">
+      <img src="./images/icons/008icon.png">
       <!--
       <ul class="quarto-categories">
         <li><a href="/projects.html#category=groups">groups</a></li>
         <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=ongoing">ongoing</a></li>
       </ul>
       -->
+      <!--
       <ul class="personnel">
-        <li>Proposers: Xin (Kate) Yang,Yarrow Dunham,Jonathan Schultz</li>
-        <li>Project Manager: Kathleen Schmidt,Anna Exner</li>
-        <li>Methodologist: Adam Kenney</li>
-        <li>Data Manager: Adam Kenney</li>
-        <li>Translation: Ilker Dalgar</li>
-        <li>Ethics: Biljana Gjoneska,Gerit Pfuhl</li>
+        <li>Proposers: Xin (Kate) Yang,Jonathan Schultz,Yarrow Dunham</li>
+        <li>PMs: Kathleen Schmidt,Anna Exner</li>
       </ul>
+      -->
     </div>
     <div>
       <h3 class="anchored"><a href="./projects/008/index.html">PSA008: Minimal Groups</a></h3>
-      <p>Random assignment to experimentally created and otherwise meaningless social groups is sufficient to create ingroup preference. This striking phenomenon, now referred to as…</p>
+      <p class="abstract">Biases in favor of culturally prevalent social ingroups are ubiquitous, but random assignment to meaningless experimentally created social groups is also sufficient to create ingroup biases (i.e., the minimal group effect; MGE). Thus, the extent to which ingroup bias arises from specific social contexts versus more general psychological tendencies remains unclear. This registered report focuses on three questions. First, how culturally prevalent is the MGE? Second, how do critical cultural and individual factors moderate its strength? Third, does the MGE meaningfully relate to culturally salient real-world ingroup biases? Here we compare the MGE to bias in favor of a family member (i.e., first cousin) and a national ingroup member. We propose to recruit a sample of &gt; 200 participants in each of &gt; 50 nations to examine these questions and advance our understanding of the psychological foundations and cultural prevalence of ingroup bias.
+</p>
     </div>
   </li>
-  <li data-index="8" data-categories="covid rapid,multi-language" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="0.975">
+  <li data-index="8" data-categories="COVID,multi-language,published" data-listing-file-modified-sort="1689081583481" data-listing-reading-time-sort="1">
     <div>
-      <img src="images/logo.png">
+      <img src="./images/icons/PSACRicon.png">
       <!--
       <ul class="quarto-categories">
-        <li><a href="/projects.html#category=covid rapid">covid rapid</a></li>
+        <li><a href="/projects.html#category=COVID">COVID</a></li>
         <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=published">published</a></li>
+      </ul>
+      -->
+      <!--
+      <ul class="personnel">
+        <li>Proposers: Charles A. Dorison,Jennifer S. Lerner,Blake H. Heller,Alexander J. Rothman,Ichiro I. Kawachi,Ke Wang,Vaughan W. Rees,Brian P. Gill,Nancy Gibbs</li>
+        <li>PM: Nicholas Coles</li>
+        <li>Other Personnel: see [https://psyarxiv.com/x976j/](https://psyarxiv.com/x976j/)</li>
       </ul>
       -->
     </div>
     <div>
-      <h3 class="anchored"><a href="./projects/CR001/index.html">PSACR001: Loss Gain</a></h3>
-      <p>The COVID-19 pandemic presents a critical need to identify best practices for communicating health information to the global public. It also provides an opportunity to test…</p>
+      <h3 class="anchored"><a href="./projects/CR001/index.html">PSA-CR 001: Loss Gain</a></h3>
+      <div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      <ul class="buttonlist">
+        <li><a href="https://doi.org/10.1007/s42761-022-00128-3">paper</a></li>
+        <li><a href="https://doi.org/10.31234/osf.io/m4gpq">preprint</a></li>
+      </ul>
+      <p class="abstract">The COVID-19 pandemic presents a critical need to identify best practices for communicating health information to the global public. It also provides an opportunity to test theories about risk communication. As part of a larger Psychological Science Accelerator COVID-19 Rapid Project, a global consortium of researchers will experimentally test competing hypotheses regarding the effects of framing messages in terms of losses versus gains. We will examine effects on three primary outcomes: intentions to adhere to policies designed to prevent the spread of COVID-19, opinions about such policies, and the likelihood that participants seek additional policy information. Whereas research on negativity bias and loss aversion predicts that loss-framing will have greater impact, research on encouraging the adoption of protective health behaviour suggests the opposite (i.e., gain-framing will be more persuasive). We will also assess effects on experienced anxiety. Given the potentially low cost and the scalable nature of framing interventions, results could be valuable to health organizations, policymakers, and news sources globally.
+</p>
     </div>
   </li>
-  <li data-index="9" data-categories="covid rapid,multi-language" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="0.935">
+  <li data-index="9" data-categories="COVID,multi-language,published" data-listing-file-modified-sort="1689081599737" data-listing-reading-time-sort="1">
     <div>
-      <img src="images/logo.png">
+      <img src="./images/icons/PSACRicon.png">
       <!--
       <ul class="quarto-categories">
-        <li><a href="/projects.html#category=covid rapid">covid rapid</a></li>
+        <li><a href="/projects.html#category=COVID">COVID</a></li>
         <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=published">published</a></li>
+      </ul>
+      -->
+      <!--
+      <ul class="personnel">
+        <li>Proposers: Ke Wang,Amit Goldenberg,Charles A. Dorison,Andero Uusberg,Jennifer S. Lerner,James J. Gross</li>
+        <li>PM: Jeremy Miller</li>
+        <li>Other Personnel: see [https://psyarxiv.com/x976j/](https://psyarxiv.com/x976j/)</li>
       </ul>
       -->
     </div>
     <div>
-      <h3 class="anchored"><a href="./projects/CR002/index.html">PSACR002: Cognitive Reappraisal</a></h3>
-      <p>The COVID-19 pandemic is eliciting intense and prolonged negative emotions that may detrimentally affect health and well-being globally. To enhance resilience, we will teach…</p>
+      <h3 class="anchored"><a href="./projects/CR002/index.html">PSA-CR 002: Cognitive Reappraisal</a></h3>
+      <div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      <ul class="buttonlist">
+        <li><a href="https://doi.org/10.1038/s41562-021-01173-x">paper</a></li>
+      </ul>
+      <p class="abstract">The COVID-19 pandemic has increased negative emotions and decreased positive emotions globally. Left unchecked, these emotional changes might have a wide array of adverse impacts. To reduce negative emotions and increase positive emotions, we tested the effectiveness of reappraisal, an emotion-regulation strategy that modifies how one thinks about a situation. Participants from 87 countries and regions (*n* = 21,644) were randomly assigned to one of two brief reappraisal interventions (reconstrual or repurposing) or one of two control conditions (active or passive). Results revealed that both reappraisal interventions (vesus both control conditions) consistently reduced negative emotions and increased positive emotions across different measures. Reconstrual and repurposing interventions had similar effects. Importantly, planned exploratory analyses indicated that reappraisal interventions did not reduce intentions to practice preventive health behaviours. The findings demonstrate the viability of creating scalable, low-cost interventions for use around the world.
+</p>
     </div>
   </li>
-  <li data-index="10" data-categories="covid rapid,multi-language" data-listing-file-modified-sort="1676909600000" data-listing-reading-time-sort="1.265">
+  <li data-index="10" data-categories="COVID,multi-language,published" data-listing-file-modified-sort="1689081588699" data-listing-reading-time-sort="1">
     <div>
-      <img src="images/logo.png">
+      <img src="./images/icons/PSACRicon.png">
       <!--
       <ul class="quarto-categories">
-        <li><a href="/projects.html#category=covid rapid">covid rapid</a></li>
+        <li><a href="/projects.html#category=COVID">COVID</a></li>
         <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=published">published</a></li>
+      </ul>
+      -->
+      <!--
+      <ul class="personnel">
+        <li>Proposers: Nicole Legate,Thuy-vy Nguyen,Arlen Moller,Netta Weinstein</li>
+        <li>PM: Charlie Ebersole</li>
+        <li>Other Personnel: see [https://psyarxiv.com/x976j/](https://psyarxiv.com/x976j/)</li>
       </ul>
       -->
     </div>
     <div>
-      <h3 class="anchored"><a href="./projects/CR003/index.html">PSACR003: Self Determination</a></h3>
-      <p>In order to slow the transmission of COVID-19, governments around the world are asking their citizens to participate in social distancing, that is, to stay at home as much…</p>
+      <h3 class="anchored"><a href="./projects/CR003/index.html">PSA-CR 003: Self Determination</a></h3>
+      <div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      <ul class="buttonlist">
+        <li><a href="https://doi.org/10.1073/pnas.2111091119">paper</a></li>
+        <li><a href="https://doi.org/10.31234/osf.io/n3dyf">preprint</a></li>
+        <li><a href="https://osf.io/fc9y7/">resources</a></li>
+      </ul>
+      <p class="abstract">In order to slow the transmission of COVID-19, governments around the world are asking their citizens to participate in social distancing, that is, to stay at home as much as possible. In most countries, individuals have some choice over whether or not they follow recommendations for social distancing. Thus, understanding how to best motivate social distancing has become a critical public health priority. This study tests, in a confirmatory manner, whether self-determination theory-guided message framing impacts people’s motivation to participate in social distancing. Specifically, we expect autonomy-supportive messages that help people understand the value of behavior change to a) increase ‘buy in’, or autonomous motivation, for social distancing, b) lower feelings of defiance to follow recommendations around social distancing, and c) increase feelings of self-efficacy to participate in social distancing, relative to neutral and controlling messages. Further, we expect controlling messages that pressure people to change using shame, guilt, and threats, may backfire and a) decrease ‘buy in’ for social distancing and b) increase defiance, relative to the control condition. Exploratory tests will examine whether the effects of message framing on motivation and defiance extend to behavioral intentions and long-term commitment. This work has direct relevance for how public officials, health professionals, journalists, and others can communicate about solving this and future public health crises in ways that motivate people more effectively.
+</p>
+    </div>
+  </li>
+  <li data-index="11" data-categories="affiliated,multi-language,gratitude,ongoing" data-listing-file-modified-sort="1689081569777" data-listing-reading-time-sort="1">
+    <div>
+      <img src="images/logo.png">
+      <!--
+      <ul class="quarto-categories">
+        <li><a href="/projects.html#category=affiliated">affiliated</a></li>
+        <li><a href="/projects.html#category=multi-language">multi-language</a></li>
+        <li><a href="/projects.html#category=gratitude">gratitude</a></li>
+        <li><a href="/projects.html#category=ongoing">ongoing</a></li>
+      </ul>
+      -->
+      <!--
+      -->
+    </div>
+    <div>
+      <h3 class="anchored"><a href="./projects/AF-gratitude/index.html">AF001: Gratitude Project</a></h3>
+      <p class="abstract">To date, gratitude intervention research has mostly relied on WEIRD samples (i.e., people from Western, Educated, Industrialized, Rich, and Democratic societies). This has severely limited our understanding of both the function and potential benefits of gratitude. With funding from the John Templeton Foundation and in collaboration with the Psychological Science Accelerator consortium, we are seeking potential collaborators for a cross-cultural (~50 countries) examination of online, 30-minute, single-session gratitude interventions on subjective well-being. This will include both (1) standardized gratitude interventions traditionally developed and validated in WEIRD samples, and (2) localized (e.g., culturally tailored) gratitude interventions that collaborators might design if they so choose.
+</p>
+    </div>
+  </li>
+  <li data-index="12" data-categories="affiliated,relationships,ongoing" data-listing-file-modified-sort="1689081575401" data-listing-reading-time-sort="1">
+    <div>
+      <img src="images/logo.png">
+      <!--
+      <ul class="quarto-categories">
+        <li><a href="/projects.html#category=affiliated">affiliated</a></li>
+        <li><a href="/projects.html#category=relationships">relationships</a></li>
+        <li><a href="/projects.html#category=ongoing">ongoing</a></li>
+      </ul>
+      -->
+      <!--
+      -->
+    </div>
+    <div>
+      <h3 class="anchored"><a href="./projects/AF-relationships/index.html">AF002: Preference Matching</a></h3>
+      <div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      <p class="abstract">Ideal partner preferences (i.e., ratings of the desirability of attributes like attractiveness or intelligence) are the source of numerous foundational findings in the interdisciplinary literature on human mating. Recently, research on the predictive validity of ideal partner preference-matching (i.e., do people positively evaluate partners who match versus mismatch their ideals?) has become mired in several problems. For one, articles exhibit discrepant analytic and reporting practices. Furthermore, different findings emerge across laboratories worldwide, perhaps because they sample different relationship contexts and/or populations. The current project—partnered with the Psychological Science Accelerator—can bring clarity to this literature. This registered report uses a highly powered design across multiple world regions to calculate preference-matching effect sizes and variability estimates for all relevant analytic tests. It also examines effects in different relationship contexts and subsamples (e.g., attraction, established relationships, recently formed relationships).
+</p>
     </div>
   </li>
 </ul>
@@ -515,9 +641,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -582,6 +722,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -624,6 +850,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">

@@ -1,11 +1,20 @@
 ---
-title: "PSACR002: Cognitive Reappraisal"
-doi: 10.31234/osf.io/sevkf
+order: 2002
+title: "PSA-CR 002: Cognitive Reappraisal"
+status: Published
+doi: 10.1038/s41562-021-01173-x
+image: /images/icons/PSACRicon.png
 categories:
-  - covid rapid
+  - COVID
   - multi-language
+  - published
+personnel:
+  Proposers: [Ke Wang, Amit Goldenberg, Charles A. Dorison, Andero Uusberg, Jennifer S. Lerner, James J. Gross]
+  PM: Jeremy Miller
+  Other Personnel: see [https://psyarxiv.com/x976j/](https://psyarxiv.com/x976j/)
+summary: "The project tested the effectiveness of cognitive reappraisal in decreasing negative emotions and increasing positive emotions related to COVID-19."
+links:
+  paper: https://doi.org/10.1038/s41562-021-01173-x
+abstract: |
+  The COVID-19 pandemic has increased negative emotions and decreased positive emotions globally. Left unchecked, these emotional changes might have a wide array of adverse impacts. To reduce negative emotions and increase positive emotions, we tested the effectiveness of reappraisal, an emotion-regulation strategy that modifies how one thinks about a situation. Participants from 87 countries and regions (*n* = 21,644) were randomly assigned to one of two brief reappraisal interventions (reconstrual or repurposing) or one of two control conditions (active or passive). Results revealed that both reappraisal interventions (vesus both control conditions) consistently reduced negative emotions and increased positive emotions across different measures. Reconstrual and repurposing interventions had similar effects. Importantly, planned exploratory analyses indicated that reappraisal interventions did not reduce intentions to practice preventive health behaviours. The findings demonstrate the viability of creating scalable, low-cost interventions for use around the world.
 ---
-
-The COVID-19 pandemic is eliciting intense and prolonged negative emotions that may detrimentally affect health and well-being globally. To enhance resilience, we will teach participants around the world to use a widely studied and generally adaptive form of emotion regulation—cognitive reappraisal—to reduce negative emotions and increase positive emotions. We will randomly assign participants to one of three reappraisal interventions (reconstrual, repurposing, and their hybrid) or a control condition. We predict that relative to the control condition, reappraisal will reduce immediate and anticipated negative emotions, increase immediate and anticipated positive emotions, and enhance emotion regulation self-efficacy. Importantly, we expect reappraisal to reduce intentions to engage in emotion-driven problematic behaviors (e.g., substance use) without reducing intentions to engage in healthy behaviors. Results will inform efforts to create a scalable intervention that governments, organizations, and citizens around the world can employ in order to build emotional resilience during the pandemic and beyond.
-
-Dorison, C., Lerner, J. S., Heller, B. H., Rothman, A., Kawachi, I. I., Wang, K., … Sievers, E. (2020, April 16). In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. <https://doi.org/10.31234/osf.io/sevkf>

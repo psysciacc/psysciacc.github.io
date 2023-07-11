@@ -1,12 +1,24 @@
 ---
-title: "PSACR001: Loss Gain"
-doi: 10.31234/osf.io/m4gpq
+order: 2001
+title: "PSA-CR 001: Loss Gain"
+status: Published
+doi: 10.1007/s42761-022-00128-3 
+image: /images/icons/PSACRicon.png
 categories:
-  - covid rapid
+  - COVID
   - multi-language
+  - published
+personnel:
+  Proposers: [Charles A. Dorison, Jennifer S. Lerner, Blake H. Heller, Alexander J. Rothman, Ichiro I. Kawachi, Ke Wang, Vaughan W. Rees, Brian P. Gill, Nancy Gibbs]
+  PM: Nicholas Coles
+  Other Personnel: see [https://psyarxiv.com/x976j/](https://psyarxiv.com/x976j/)
+summary: "This project tested the effects of loss versus gain message framing on COVID-19-related judgments, intentions, and feelings."
+links: 
+  paper: https://doi.org/10.1007/s42761-022-00128-3 
+  preprint: https://doi.org/10.31234/osf.io/m4gpq
+abstract: |
+  The COVID-19 pandemic presents a critical need to identify best practices for communicating health information to the global public. It also provides an opportunity to test theories about risk communication. As part of a larger Psychological Science Accelerator COVID-19 Rapid Project, a global consortium of researchers will experimentally test competing hypotheses regarding the effects of framing messages in terms of losses versus gains. We will examine effects on three primary outcomes: intentions to adhere to policies designed to prevent the spread of COVID-19, opinions about such policies, and the likelihood that participants seek additional policy information. Whereas research on negativity bias and loss aversion predicts that loss-framing will have greater impact, research on encouraging the adoption of protective health behaviour suggests the opposite (i.e., gain-framing will be more persuasive). We will also assess effects on experienced anxiety. Given the potentially low cost and the scalable nature of framing interventions, results could be valuable to health organizations, policymakers, and news sources globally.
 ---
 
-The COVID-19 pandemic presents a critical need to identify best practices for communicating health information to the global public. It also provides an opportunity to test theories about risk communication. As part of a larger Psychological Science Accelerator COVID-19 Rapid Project, a global consortium of researchers will experimentally test competing hypotheses regarding the effects of framing messages in terms of losses versus gains. We will examine effects on three primary outcomes: intentions to adhere to policies designed to prevent the spread of COVID-19, opinions about such policies, and the likelihood that participants seek additional policy information. Whereas research on negativity bias and loss aversion predicts that loss-framing will have greater impact, research on encouraging the adoption of protective health behaviour suggests the opposite (i.e., gain-framing will be more persuasive). We will also assess effects on experienced anxiety. Given the potentially low cost and the scalable nature of framing interventions, results could be valuable to health organizations, policymakers, and news sources globally.
-
-Wang, K., Goldenberg, A., Dorison, C., Miller, J. K., PhD, Uusberg, A., Lerner, J. S., … Moshontz, H. (2020, April 17). A global test of brief reappraisal interventions on emotions during the COVID-19 pandemic. <https://doi.org/10.31234/osf.io/m4gpq>
+Dorison, C.A., Lerner, J.S., Heller, B.H. et al. (2022) In COVID-19 Health Messaging, Loss Framing Increases Anxiety with Little-to-No Concomitant Benefits: Experimental Evidence from 84 Countries. <i>Affective Science</i> 3, 577–602. <https://doi.org/10.1007/s42761-022-00128-3>
 

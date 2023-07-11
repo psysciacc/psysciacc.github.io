@@ -1,25 +1,20 @@
 ---
+order: 1008
 title: "PSA008: Minimal Groups"
-doi: 10.1038/s41562-020-01007-2
-contact: kathleenschmidt1@gmail.com
+status: Ongoing - pre data collection
+image: /images/icons/008icon.png
 categories:
   - groups
   - multi-language
+  - ongoing
 personnel:
-  proposers:
-    - Xin (Kate) Yang
-    - Yarrow Dunham
-    - Jonathan Schultz
-  pm:
-    - Kathleen Schmidt
-    - Anna Exner
-  methodology: Adam Kenney
-  data: Adam Kenney
-  translation: Ilker Dalgar
-  ethics:
-    - Biljana Gjoneska
-    - Gerit Pfuhl
+  Proposers: [Xin (Kate) Yang, Jonathan Schultz, Yarrow Dunham]
+  PMs: [Kathleen Schmidt, Anna Exner]
+summary: "This project is investigating the cultural prevalence of the minimal group effect and comparing it to two forms of real-group bias."
+abstract: |
+  Biases in favor of culturally prevalent social ingroups are ubiquitous, but random assignment to meaningless experimentally created social groups is also sufficient to create ingroup biases (i.e., the minimal group effect; MGE). Thus, the extent to which ingroup bias arises from specific social contexts versus more general psychological tendencies remains unclear. This registered report focuses on three questions. First, how culturally prevalent is the MGE? Second, how do critical cultural and individual factors moderate its strength? Third, does the MGE meaningfully relate to culturally salient real-world ingroup biases? Here we compare the MGE to bias in favor of a family member (i.e., first cousin) and a national ingroup member. We propose to recruit a sample of > 200 participants in each of > 50 nations to examine these questions and advance our understanding of the psychological foundations and cultural prevalence of ingroup bias. 
 ---
 
-Random assignment to experimentally created and otherwise meaningless social groups is sufficient to create ingroup preference. This striking phenomenon, now referred to as the minimal group effect (MGE), has theoretical importance for explaining in-group biases and practical implications for anti-bias interventions. However, due to small and culturally restricted samples, as well as insufficient attention to moderators, the extent to which the MGE is a somewhat specialized or restricted phenomenon, or whether it can be considered a general human universal that underlies culturally salient forms of real-world bias, remains unknown. We aim to recruit a large sample of participants across cultures through the Psychological Science Accelerator (PSA)’s vast network to test the cultural prevalence of the MGE and to compare it to two forms of real-group bias (bias in favor of family members and bias in favor of national ingroups). We will examine the underlying mechanisms of the ingroup bias by testing the relationship between these forms of bias and a number of theoretically important individual- and cultural-level moderators.
+## Contact
 
+For more information about this project, please contact Kathleen Schmidt at [kathleenschmidt1@gmail.com](kathleenschmidt1@gmail.com).

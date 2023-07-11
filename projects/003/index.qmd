@@ -1,17 +1,21 @@
 ---
+order: 1003
 title: "PSA003: Gendered Prejudice"
-osf: bdycf
+status: Ongoing - post data collection
+image: /images/icons/003icon.png
 categories:
   - prejudice
   - gender
   - multi-language
+  - ongoing
 personnel:
-  proposers: Curtis Phills
-  pm: Jeremy Miller
-  methodology: [Zoltán Kekecs, Erin Buchanan]
-  data: Abby Noyce
-  translation: Janis Zickfeld
-  ethics: Erica Musser
+  Proposer: Curtis Phills
+  PM: Jeremy Miller
+summary: "This project is examining the gendered nature of prejudice by testing whether  prejudice toward a social group generally is more strongly related to prejudice towards its male members than its female members."
+abstract: |
+  When asked to imagine a person, people tend to think of a man (Hamilton, 1991). The same is true for some social groups as well–when asked to imagine a Black or White person, people tend to imagine a Black or White man (Schug, Alt, & Klauer, 2015). One reason for this is androcentrism: the belief that men are the default and women are the exception or “other” (Bailey, LaFrance, & Dovidio, 2018; Bem, 1993; Smith & Zarate, 1992).The present research will describe the gendered nature of prejudice for seven social categories (i.e., Black people, East Asian people, White people, police, politicians, and criminals). We hypothesized that, if prejudice occurs for the group, it is more strongly related to prejudice toward the men of that social category than toward the women of that category. This study was conducted across several laboratories and languages and was paired with PSA 002 for data collection.
 ---
 
-When asked to imagine a person, people tend to think of a man (Hamilton, 1991). The same is true for some social groups as well–when asked to imagine a Black or White person, people tend to imagine a Black or White man (Schug, Alt, & Klauer, 2015). One reason for this is androcentrism: the belief that men are the default and women the exception or “other” (Bailey, LaFrance, & Dovidio, 2018; Bem, 1993; Smith & Zarate, 1992).The present research will use a global distributed laboratory network to describe the gendered nature of prejudice against seven social categories (i.e., Black people, East Asian people, White people, police, politicians, and criminals). We hypothesize that if a prejudice occurs for the group it is more strongly related to prejudice of the men of that social category. This study will be across several laboratories and languages as it is paired with PSA 002 for data collection.
+## Contact
+
+For more information about this project, please contact Curtis Phills at [curtis.phills@gmail.com] (mailto:curtis.phills@gmail.com) or Jeremy Miller at [millerj@willamette.edu] (mailto:millerj@willamette.edu).

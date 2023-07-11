@@ -91,5 +91,11 @@
   },
   "history.qmd": {
     "history.html": "6d34021d"
+  },
+  "projects/AF-gratitude/index.qmd": {
+    "index.html": "563f1b1e"
+  },
+  "projects/AF-relationships/index.qmd": {
+    "index.html": "10ceec00"
   }
 }

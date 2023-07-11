@@ -3,7 +3,7 @@ title: Projects
 listing:
   template: templates/projects.ejs
   contents: projects
-  sort: "title"
+  sort: "order"
   image-placeholder: "images/logo.png"
   type: default
   categories: true
