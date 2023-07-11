@@ -1,0 +1,108 @@
+---
+title: "News from the Accelerator- February 2021"
+date: 2021-03-01
+---
+
+<!-- wp:list {"className":"is-style-default"} -->
+<ul class="is-style-default"><li><strong><span style="text-decoration: underline;">Study updates:</span></strong><ul><li><strong>PSA 002: Object Orientation &amp; PSA 003: Gendered Prejudice- </strong>We have now completed trouble shooting for the new online version of the procedure and are ready for any labs who have not yet completed data collection to begin using this new procedure. </li><li><strong>PSA 004: Accelerated CREP-</strong> 004 is wrapping up data collection at a few sites but are no longer taking any new labs. We'll be reaching out to contributors in February or March.</li><li><strong>PSA 005: Stereotype Threat- </strong>We’re waiting on vaccine distribution to get to a place that allows in-person data collection again. This summer, we’ll evaluate whether in-person data collection is likely to be feasible in fall 2021.</li><li><strong>PSA 006: Trolley Problem-</strong> This project is coming close to an end as we have submitted the manuscript!</li><li><strong>PSA 007: SPAM-L- </strong>The 007 Canvas Website is ready to go! This means we are going to start rolling out the Pre-projects to members interested in the first week of March. If you would like to contribute to the pre-projects, please email Erin Buchanan (<a href="mailto:buchananlab@gmail.com"></a><a rel="noreferrer noopener" target="_blank" href="mailto:buchananlab@gmail.com">buchananlab@gmail.com</a>).</li><li><strong>PSA  COVID Rapid Bundle (001/002/003)-</strong> PSACR 002 and PSACR 003 authors are revising their manuscripts in response to network feedback. PSACR 001 authors are preparing their manuscript for network review.</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong><span style="text-decoration: underline;">Partnership with CREP:&nbsp;</span></strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"noTopMargin":true,"padding":"no","paddingCustom":"0"} -->
+<div class="wp-block-group mt-0 has-no-padding"><div class="wp-block-group__inner-container"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}}} -->
+<p style="line-height:1.5">We have decided to partner with CREP again for 2021! We would like you to help us pick our next study to replicate as one big happy network of students and scholars!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Every year CREP selects 1-3 studies to replicate. This year, we've narrowed it down to 100 papers from 2018, but we want students to help us with the rest. Students can contribute by going to the link below and following the instructions to rate papers. They can do as many as they'd like between now and March 15!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScW8vt-KUlAIbLXQYMPGoai-4LYc-uWbqqwQ9URmF2A8s0A7g/viewform">https://docs.google.com/forms/d/e/1FAIpQLScW8vt-KUlAIbLXQYMPGoai-4LYc-uWbqqwQ9URmF2A8s0A7g/viewform</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>SO! How can you get involved if you are not a student? Please incorporate this into one of your classes and ask your students for participation. If you would like to know which of your students participates then have them list your information on the form. After March 15, Jordan Wagge will send a list of the students who participate (and how many studies they rate) to any instructors on the list.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}}} -->
+<p style="line-height:1.5"><strong>Questions? </strong>Please email crep.psych@gmail.com.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}}} -->
+<p style="line-height:1.5">Thank you</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}}} -->
+<p style="line-height:1.5">         -The CREP &amp; PSA teams</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":3,"style":{"typography":{"lineHeight":"2.9"}}} -->
+<h3 style="line-height:2.9"><strong><span style="text-decoration: underline;">Elections For Director and Associate Director:&nbsp;</span></strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The PSA is currently in the process of electing a new Director and one Associate Director. These positions will be filled by a direct election from the PSA network. PSA leadership has received all of the nominations (self or others) for these roles and we plan to conduct the election process over the next two months. Each nominated individual has until March 15 to write a 1000 word statements to support their candidacy. Shortly after March 15, we will make the candidate statements available in the PSA Slack.&nbsp; If you have any questions about the election process or what’s involved in the positions, contact Heather Urry, at <a href="mailto:heather.urry@tufts.edu">heather.urry@tufts.edu</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong><span style="text-decoration: underline;">Appointments:</span></strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We have 4 new assistant directors appointed. We are very excited to see what each of them will bring to the table.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Miguel Silan - Assistant Director of Community Building and Network Expansion</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Miguel Silan is a psychological science researcher with a focus on meta-methodology (how do we know what we know and why do we do what we do?). He is studying issues in ontology, philosophy of psychometrics and the nature of fuzzy constructs. With the PSA he is scrutinizing the vulnerabilities of cross-cultural studies, and consequently, rethinking the possibilities in how to approach multi-site studies and other large-scale collaborations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As assistant director for the CBNEC, he plans for the committee to have a more purposive and systematic community expansion approach – especially in recruiting from developing countries and underrepresented world regions. Further, with CBNEC, he is looking forward to implementing a roster of community engagement events (including our beloved coffee socials), as well as community assessment to aid in sustainably applying initiatives from other committees (ex. financial schemes).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Maximilian Primbs - Assistant Director of Translation and Cultural Diversity</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Maximilian is a second year Research Master student in Behavioural Science at Radboud University, the Netherlands. After learning about the PSA through an interview he conducted with Chuan-Peng Hu, Max joined the PSA as language-wise coordinator for German for PSA006. After a very positive experience with 006, he decided to work on the PSACR project series and ended up coordinating the translation process for the project. In his term as Assistant Director of Translation and Cultural Diversity he wants to focus on standardising the PSA translation process by creating standard templates and implementation workflows. Moreover, he wants to increase the cultural diversity of the PSA by recruiting students to work on PSA projects. His work outside the PSA is focussed on stereotypes, visual perception, and on the analysis of reaction time data. In his free time, he enjoys fitness, boxing, and playing Dungeon and Dragons (the first two pre-lockdown <img alt=":wink:" src="https://lh5.googleusercontent.com/Aq0w23Y9FAVT-0TLX5yQwOTKgsC6yIdPj5ha1w7M3YA2U1zPytzse_1pPZAYZ6FviS6RGVTVEylJpG53yVtC6nEWzJLtViZhQtpOjEp2pe6qCaZc0zc09XImIgXYloffffxnoLcY" width="23" height="23">).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Biljana Gjoneska - Assistant Director of Ethics</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
+<p>“I discovered the world of PSA, when I first learned about a multinational study investigating morality across the world (<a href="https://psysciacc.org/006-trolley-problem/">PSA 006</a>). The deontological and utilitarian principles explored in different moral dilemmas across many countries, were evocative of medical ethics principles acquired over the course of my undergraduate studies: “<em>primum nil nocere</em>” (i.e., “first, do not harm”) and “<em>primum optime curare</em>” (i.e., “first, secure optimal treatment”). So, I was instantly drawn to the world of PSA.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I discovered the core PSA principles, when I attended the first conference (<a href="https://psysciacc.org/psacon2020-videos/">PSACON</a>). This is where I realized that the topics discussed and the idea I was presenting (about a public auction of proposals) were all grounded on the same principles: <em>scientific rigor</em> and <em>openness to criticism</em>, <em>transparency</em> and <em>decentralized authority</em>, <em>diversity</em> and <em>inclusion</em>. The most humane and most basic ethics was at the root of them all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I discovered the PSA community, when I was closely collaborating on a chapter about PSA (as promising resource for<a href="https://psyarxiv.com/qwy4k/"> clinical psychologists</a>). I realized that some moral foundations that I studied over the course of my doctorate studies, like <em>fairness</em> and <em>reciprocity</em>, <em>care</em> and <em>sharing</em>, were the shared characteristics of all my colleagues and PSA members.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The PSA Ethics Committee comes as a next logical step. I can’t hardly wait to embark on this journey, and I promise to hold all of the mentioned principles and to cherish all people and opinions.”&nbsp;</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p><strong>Jessica Flake - Assistant Director of Methods</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>JK Flake has been an active member of the PSA from the beginning. She worked with Chris Chartier and Patrick Forscher to develop a data and methods committee for the PSA and was the methodologist for PSA001. Her work with the data and methods committee has focused on ensuring methodological rigor of PSA studies and making the PSA an avenue for contributing methodological innovations to the field of psychology. Currently she is leading the PSA’s first ever large-scale measurement invariance study and working with the data and methods committee to further our metascience research and support of accepted studies with methodologists.</p>
+<!-- /wp:paragraph -->

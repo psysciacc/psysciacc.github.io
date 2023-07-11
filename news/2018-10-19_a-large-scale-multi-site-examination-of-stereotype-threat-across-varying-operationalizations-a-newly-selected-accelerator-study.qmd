@@ -1,0 +1,16 @@
+---
+title: "A Large-Scale, Multi-Site Examination of Stereotype Threat Across Varying Operationalizations. A Newly Selected Accelerator Study."
+date: 2018-10-19
+---
+
+<span style="font-weight:400;">We are excited to announce that we have selected “A Large-Scale, Multi-Site Examination of Stereotype Threat Across Varying Operationalizations” as our next official PSA study! This proposal was submitted by Patrick S. Forscher (University of Arkansas), Valerie Jones Taylor (Lehigh University), Neil A. Lewis, Jr. (Cornell University), and Daniel Cavagnaro (California State Fullerton).</span>
+
+<span style="font-weight:400;">This project will test a core proposition of stereotype threat theory, which predicts that the possibility of confirming a negative stereotype can cause people to underperform on the very tasks on which they are stereotyped. Despite its immense theoretical and practical implications, the studies supporting stereotype threat theory suffer from small samples and varying operational definitions of the focal stereotype threat effect.</span>
+
+<span style="font-weight:400;">This project aims to resolve the first problem by leveraging the PSA’s large network of US-based labs to gather a large sample of African American students – larger than would be easily manageable with a single lab’s resources.  For the second problem, the project proposes to use an adaptive design to find, among four procedures each to increase and decrease stereotype threat, the comparison that provides the best evidence for a performance difference.</span>
+
+<span style="font-weight:400;">You can read more about the selected project at its </span><a href="https://osf.io/d3wbk/" target="_blank" rel="noopener"> OSF project page</a><span style="font-weight:400;">, where we’ve deposited a pdf of the project proposal. If you’re interested in joining the project, fill out this </span><a href="https://docs.google.com/forms/d/e/1FAIpQLScMFuuVepTdSC5Bnwh5nYyRqbYKOF7l3u5pfhBG0IlOHhIffw/viewform" target="_blank" rel="noopener">this form</a><span style="font-weight:400;">, where Patrick, Valerie, Neil, and Dan are already recruiting collaborating labs.</span>
+
+<span style="font-weight:400;">Congratulations to Patrick, Valerie, Neil, and Daniel! We can’t wait to work closely with them on this exciting project.</span>
+
+[gallery ids="334,335,336,337" type="rectangular"]

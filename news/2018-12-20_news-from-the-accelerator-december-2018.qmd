@@ -1,0 +1,45 @@
+---
+title: "News from the Accelerator - December 2018"
+date: 2018-12-20
+---
+
+<span style="font-weight:400;">Starting with this post, the PSA will be releasing monthly updates on the blog to keep everyone, PSA members and interested observers, informed on PSA activities. You can stay up to date by subscribing to the <a href="https://psysciacc.org/blog/" target="_blank" rel="noopener">blog</a>, following us on <a href="https://twitter.com/PsySciAcc" target="_blank" rel="noopener">twitter</a>, signing up for our <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_x9UNOjUkaKFJZjOXdaQ9OsTUtUliwZFZRmoNSr9zh78Ldg/viewform" target="_blank" rel="noopener">email list</a>, or joining our slack workspace. For December, we have updates on study selection, PSA policy creation, in-progress studies, and activity reports from several of our committees.</span>
+<h2><strong>A New Study!</strong></h2>
+<span style="font-weight:400;">“</span><i><span style="font-weight:400;">On the universality of moral thinking: Cross-cultural variation in the influence of personal force and intention in moral dilemma judgments</span></i><span style="font-weight:400;">” as our next official PSA study! This proposal was submitted by Bence Bago (Toulouse School of Economics, France) and Balazs Aczel (Eotvos Lorand University, Hungary). Congratulations! You can read more about in this just-published <a href="https://psysciacc.org/2018/12/20/new-psa-study-on-the-universality-of-moral-thinking-cross-cultural-variation-in-the-influence-of-personal-force-and-intention-in-moral-dilemma-judgments/" target="_blank" rel="noopener">blog post</a>.</span>
+<h2><strong>PSA Policies</strong></h2>
+We are making progress on a wide range of PSA policies. This month, we focus on three:
+<ul>
+	<li>Our code of conduct was approved by vote, and is now official PSA policy. You can read it <a href="https://psysciacc.org/code-of-conduct/" target="_blank" rel="noopener">here</a>.</li>
+	<li>We now call for a vote on our <a href="https://docs.google.com/document/d/18_od1Ywo3iJsn78HEKbb9SyQYF8-_Lw2FG3aHiiav4E/edit" target="_blank" rel="noopener">membership policy document</a>. PSA members will receive the draft policy via email and have until January 15th, 2019 to vote.</li>
+	<li>Finally, we welcome feedback on our draft <a href="https://docs.google.com/document/d/1aXjXwouFc6wvcyy7IFmEKGL0j2yxzYukyI_YFf6sZtM/edit" target="_blank" rel="noopener">Personnel, Appointments, and Elections Policy Document</a>. Please provide your comments and suggested edits by January 15th, 2019.</li>
+</ul>
+<h2><strong>Updates on Current Studies</strong></h2>
+We have 5 studies in various stages of preparation or implementation:
+<ul>
+	<li>The <a href="https://psyarxiv.com/n26dy" target="_blank" rel="noopener">face perception study</a> has been accepted in principle at <em>Nature Human Behaviour</em>, we have translated materials into 19 languages, and data collection has begun in dozens of labs. You can check out a test page of the study in each language <a href="https://psa.psy.gla.ac.uk/" target="_blank" rel="noopener">here</a>.</li>
+	<li>The <a href="https://psyarxiv.com/t2pjv/" target="_blank" rel="noopener">object orientation study</a> is under review at <em>Psychonomic Bulletin and Review</em> as a Stage 1 Registered Report.</li>
+	<li>The gendered nature of study is still in the drafting phase as a Stage 1 Registered Report.</li>
+	<li>The <a href="https://psyarxiv.com/zeux9" target="_blank" rel="noopener">Accelerated CREP study</a> is under review at <em>Advances in Methods and Practices in Psychological Science</em> as a Stage 1 Registered Report.</li>
+	<li>The <a href="https://osf.io/d3wbk/" target="_blank" rel="noopener">stereotype threat study</a> has recruited 38 data collection labs and is in the planning stage.</li>
+</ul>
+<h2><strong>Updates from Our Committees</strong></h2>
+Each month, we will also use the newsletter to highlight updates from at least a few PSA committees in the hopes that all members will have a better sense of ongoing PSA activities they are not directly involved in. This month we have updates from Project Management, Data and Methods, and Ethics.
+<ul>
+	<li><span style="font-weight:400;">The D&amp;M committee has been very active developing their own set of committee specific policies and procedures. Recently, they have</span><span style="font-weight:400;">1) voted on and passed the section of the D&amp;M bylaws laying out the formal roles on the D&amp;M committee (i.e., what the Assistant Directors do, what the standing committee members do, what ad-hoc members do)</span><span style="font-weight:400;">(2) revised our data management policy with an eye toward being compliant with the Psych-DS project. our hope is that PSA can promote Psych-DS and be a testing ground for how well it works. hopefully this can help Psych-DS gain traction to be a discipline-wide standard for psychology datasets</span>
+
+<span style="font-weight:400;">(3) discussed ways for people to propose meta-science projects through D&amp;M. we've put this on the backburner for the time being until we've solidified more of our policies</span>
+
+<span style="font-weight:400;">(4) worked on a formal document to identify the needs of PSA-approved projects</span>
+
+<span style="font-weight:400;">(5) worked with community building to start building a database of lab-specific meta-data</span></li>
+	<li>The Project Management Committee has started to manage several ongoing projects and are in the process of making our policies official. Nick Coles and Chris are now project monitors for the face perception study, Hannah Moshontz is the project monitor for the stereotype threat study, and the committee is working to identify individuals interested in taking on a project management role for the object orientation study, the gendered nature of prejudice study, and the trolley problems study! (Email hmoshontz@gmail.com if you are interested!)</li>
+	<li>The Ethics Committee has drafted ethics review guidelines that we will use during the study selection process and will share them with the PSA network for feedback soon. The Ethics Committee has also begun pairing ethics committee members with each PSA study to serve as a dedicated contributor focused on IRB and ethical issues through the full life-cycle of each project.</li>
+</ul>
+<h2><strong>Wrapping Up 2018</strong></h2>
+<span style="font-weight:400;">In 2017 we introduced the idea of the PSA, recruited nearly 200 labs to the network, and selected our first studies. In 2018 we built on our initial momentum, made substantial headway formalizing how the PSA works, and made exciting progress on several of our studies. A few highlights include publishing our <a href="https://psyarxiv.com/785qu/" target="_blank" rel="noopener">introductory paper</a>, securing our first in principle acceptance for the face perception study, submitting two more registered reports (still under review :)), selecting 2 new studies, formalizing our <a href="https://psysciacc.org/people/" target="_blank" rel="noopener">leadership team and committee structure</a>, and more than doubling the size of <a href="https://psysciacc.org/map/" target="_blank" rel="noopener">the laboratory network</a>. Thank you for the countless, and at times thankless hours of work that all of you have contributed to make the PSA a success in 2018.</span>
+
+<span style="font-weight:400;">Here’s to an even more productive and exciting 2019 full of Accelerating Psychological Science!</span>
+
+<span style="font-weight:400;">Chris</span>
+
+<img class="alignnone size-full wp-image-348" src="https://psysciacc.org/wp-content/uploads/2018/12/pasted-image-0-1.png" alt="pasted image 0 (1)" width="1046" height="429" />

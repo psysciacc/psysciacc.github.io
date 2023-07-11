@@ -1,0 +1,20 @@
+---
+title: "The Psychological Science Accelerator's First Study"
+date: 2017-11-08
+---
+
+We are excited to announce that we have selected our first study to be conducted with the Psychological Science Accelerator distributed laboratory network.
+
+Ben Jones and Lisa DeBruine of the University of Glasgow (<a href="http://facelab.org/" target="_blank" rel="noopener">http://facelab.org/</a>) submitted an excellent proposal to test if Oosterhof and Todorov's (2008) valence-dominance model of social perception generalizes across world regions. In their submission they explain,
+
+"<span style="font-weight:400;"><a href="http://www.pnas.org/content/105/32/11087" target="_blank" rel="noopener">Oosterhof and Todorov (2008 PNAS)</a> found that Principal Component Analysis of trait ratings of face images made by students at a US university produced two components. The first component, which they labeled ‘valence’, was highly correlated with rated trustworthiness. The second, which they labeled ‘dominance’, was highly correlated with rated dominance. Although this two-component model of social judgments of faces has become very influential, the extent to which it applies to trait ratings of faces made in other regions of the world is not yet known. The proposed project would use confirmatory factor analysis to establish whether the model described in Oosterhof and Todorov (2008 PNAS) can (1) be replicated in a new sample of North American raters and (2) can also explains trait-ratings made in other world regions (United Nations Country Grouping: Africa, Asia, Central America, Eastern Europe, European Union, Middle East, North America, Oceania, South America, The Caribbean)."</span>
+
+<img class="" src="https://paw.princeton.edu/sites/default/files/images/content/mind-faces.jpg" alt="Image result for todorov face perception" width="315" height="512" />
+
+Their blinded submission was reviewed by over 40 members of the Psychological Science Accelerator. Our Study Selection Committee found it feasible for our initial efforts, our Advisory Committees noted many strengths of the submission and the likely impact of such a study, and we ultimately decided it was an excellent study to kick-off the Accelerator!
+
+In the coming days and weeks, all experimental materials, protocols, translated instructions, and analysis scripts will be finalized in a collaborative effort between the proposing authors and our committee members. We look forward to subsequently matching laboratories from our network with this exciting project.
+
+While we will invest considerable data collection in this study, it will not come close to exhausting the overall data collection capacity of the Psychological Science Accelerator for 2018. Thus, we continue to review the other excellent and exciting submissions that we received following our first call for studies. More announcements will be coming soon!
+
+If you would like to join the Psychological Science Accelerator, to assist in data collection for this specific study, or to be involved going forward, please <a href="https://psysciacc.org/get-involved/" target="_blank" rel="noopener">sign up here</a> to receive more information!

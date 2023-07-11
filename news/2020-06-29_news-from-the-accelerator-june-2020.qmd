@@ -1,0 +1,64 @@
+---
+title: "News from the Accelerator- June 2020"
+date: 2020-06-29
+---
+
+<!-- wp:paragraph -->
+<p>Hello all you amazingly talented and dedicated Accelerators! We’ve made some really tremendous progress in June, and this newsletter will provide updates on PSA personnel, the upcoming PSA conference, all of our current studies and more.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Research Coordinator</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"right","id":1152,"width":320,"height":214,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignright size-large is-resized"><img src="https://psysciacc.org/wp-content/uploads/2020/06/IMG_3676-1.jpg" alt="" class="wp-image-1152" width="320" height="214"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Thanks to seed funding from Ashland University and some personal donations from PSA leadership, the PSA has hired <a href="https://twitter.com/Savvylewis15">Savannah Lewis</a> to serve as Research Coordinator. She will help to organize our conference (see below), provide administrative support for all of our studies, and fundraise to better support our members. Some of you have already worked with Savannah on Slack or Zoom and can attest to how lucky we are to have her working on the PSA (Chris speaking here :)! Shoot her a Slack DM to welcome her and connect on any initiatives or projects you’d like help with.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><br>Translation Capacity Assessment</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Translation and Cultural Diversity Committee (TCDC) wants to assess the translation capacity of the PSA: across many possible languages of translation, how many potential translators do we have? This knowledge will help us to determine our potential availability and scarcity in languages, and thus make better plans in future projects. Please answer this very short, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkWhCPl_Zj1o4EhW3jdwGRLo0Wd9h4aMOW9wXk9wt9CLpYiw/viewform">1-minute survey</a>, to help us.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Conference</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We are now in the process of lining up specific sessions, moderators, and presenters for the conference. As of right now we have 120 confirmed attendees (with a cap of 300)! This means we still have spots open if you have not yet registered, <a href="https://psysciacc.org/the-2020-virtual-meeting-of-the-psychological-science-accelerator/">which you can do here</a>. We have also started distributing receipts to all registered attendees who were able to pay the $60 fee (thank you, your payment also created 2 free spots for others at the conference). Please be on the lookout for those receipts in your inbox, and let us know if you need any additional documentation to facilitate reimbursement from your institution.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>SIPS&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Several members gave a really nice presentation about the PSA as an “unconference” session at SIPS. Thanks to Erin Buchanan, Jordan Wagge, Max Primbs, Crystal N. Steltenpohl, and Jeremy Miller for representing us there. The session was recorded, so we also now have an overview <a href="https://www.youtube.com/watch?v=uE8dvPMutvo#action=share">video link</a> that we can share with folks who are curious about the PSA. Feel free to pass it along to colleagues!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Current Studies</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><strong>PSA 001- </strong>The Stage 2 Registered Report has been resubmitted to <em>Nature Human Behaviour</em>. Now we are waiting for the final decision from the editor.</li><li><strong>PSA 002/003- </strong>Thanks to the amazing collaboration between Merle Shuckart, Alessandra Souza, and Erin Buchanan we have been able to start getting this study bundle online. If your lab is going to be running the study online, each lab will need to provide an information text to participants signing up explaining the goals, risk, etc. </li><li><strong>PSA 004- </strong>Data collection has slowed down as many members' universities have concluded their semesters. We do however need more CREP reviewers as we wrap up this project at the end of the year. CREP reviewers look over each lab's OSF page to ensure that each lab is performing the study as planned. If you or someone else is interested please have them fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdB7BDtPSI6q_7UxeUcqy4EKNxtYazZwR7P9SVbVKmd6rFBlg/viewform">form</a>.</li><li><strong>PSA 005- </strong>The PSA005 team completed its feasibility pilot of the technical implementation of the study. The leadership team then finished its revision to the manuscript and resubmitted this revision to <em>Nature Human Behaviour!</em> COVID-19 has disrupted the data collection timeline, but the leadership has decided to monitor the situation at the start of each semester to determine the safety and feasibility of in-person data collection.</li><li><strong>PSA 006- </strong>The PSA 006 project is currently collecting data. So far, the ~150 participating labs have collected data over 8, 000 participants. Following the registered plan, the team is conducting sequential data analyses in three cultural clusters. Further rounds of data collection are expected later this year.</li><li><strong>PSACR 001/002/003- </strong>The PSACR bundle is collecting data in 19 languages, and the data collection deadline has been extended through mid-July or longer (we will continue collecting data as long as we can afford to). We are collecting data through PSA member labs and also through several panels. Over 10,000 people have participated so far, meaning that they completed the general questions about the pandemic and one or more of the study surveys. </li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you for all that you have, and continue to do, on behalf of the PSA. Let’s keep accelerating psychological science together!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>-Chris and Savannah</strong></p>
+<!-- /wp:paragraph -->

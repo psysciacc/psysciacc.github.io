@@ -1,0 +1,18 @@
+---
+title: "New Study Accepted: The Object Orientation Effect"
+date: 2018-01-24
+---
+
+<span style="font-weight:400;">We are pleased to announce that our third official study, proposed by </span><a href="http://scchen.com/en/" target="_blank" rel="noopener">Dr. Sau-Chin Chen</a><span style="font-weight:400;"> of Tzu-Chi University, has been selected. It will examine the extent to which the object orientation effect, in which language comprehension can guide later perception, extends across numerous world languages. For example, a picture of a flying eagle is identified faster after reading “He saw the eagle in the sky” than “He saw the eagle in the nest.” </span>
+
+<img class="alignnone size-full wp-image-224" src="https://psysciacc.org/wp-content/uploads/2018/01/aguila-picture-eagle-bald-american-bald-eagle-44.jpg" alt="aguila picture Eagle Bald American Bald-eagle-44" width="1114" height="716" />
+
+<span style="font-weight:400;">Here is a bit more information from Sau-Chin:</span>
+<blockquote><span style="font-weight:400;">When we read a sentence describing an object in context, such as ‘The eagle is in the sky’, our minds simulate the visual properties of the eagle. This general concept is supported by findings from the sentence-picture verification task. In this task, target objects that match the probe sentence (e.g., the flying eagle) are identified faster than target objects that mismatch the probe sentence (e.g., the sitting eagle). This pattern is called the “match advantage.” So far, this effect has been relatively robust across a range of characteristics of target objects, such as shape, color, size, and orientation. These specific match advantages are named the shape effect, the color effect, the size effect, and the orientation effect, respectively. </span>
+
+<span style="font-weight:400;">However, there is some inconsistency in orientation effect findings between the studies with a comprehension task (Stanfield &amp; Zwaan, 2001; Zwaan &amp; Pecher, 2012) and studies without a comprehension task (De Koning, Wassenburg, Bos, &amp; van der Schoot, 2017; Hoeben-Mannaert, Dijkstra, &amp; Zwaan, 2017). This project aims to identify the source of these inconsistent findings and assess the extent to which the effect generalizes across languages. </span></blockquote>
+<span style="font-weight:400;">We have also decided to “bundle” this study with Dr. Curtis Phill’s <a href="https://psysciacc.org/2017/12/05/accepted-for-2018-gendered-social-category-representations/" target="_blank" rel="noopener">investigation of the gendered nature of social category representations</a>. This bundling will allow us to efficiently collect data for both studies in a large and international sample using a single combined and brief (less than 30 minutes) data collection session in each lab.</span>
+
+<span style="font-weight:400;">We will begin recruiting specific labs from our network for this combined data collection process in the coming weeks. Please congratulate Sau-Chin and stay tuned!</span>
+
+Please visit our <a href="https://psysciacc.org/get-involved/" target="_blank" rel="noopener">Get Involved</a> page to sign up for our mailing list and express your interest in participating.

@@ -1,0 +1,10 @@
+---
+title: "The 2020 Virtual Meeting of the Psychological Science Accelerator"
+date: 2020-05-27
+---
+
+<!-- wp:coblocks/accordion -->
+<div class="wp-block-coblocks-accordion"><!-- wp:coblocks/accordion-item {"open":true} -->
+<div class="wp-block-coblocks-accordion-item"></div>
+<!-- /wp:coblocks/accordion-item --></div>
+<!-- /wp:coblocks/accordion -->

@@ -1,0 +1,102 @@
+---
+title: "News from the Accelerator- November/December 2020"
+date: 2020-12-10
+---
+
+<!-- wp:paragraph -->
+<p>WOW… 2020.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It has been a wild year for all of us. From quarantine to scheduled grocery visits and walks, we have adapted a lot this past year. I want to wrap up this year by taking some to reflect on all that our network has accomplished. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The PSA has been able to successfully implement three new studies in just a few short months. We have added several new initiatives such as the director statements, the first PSA conference, and our most recent blog post about the PSA’s capacity. Along with the achievement of finishing data collection for several of our current studies (PSA 004, PSACR 001/002/003, and PSA 006). </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It is thanks to all of our members and directors for making this possible. Thank you for continuing to be present in our studies and for your willingness to collaborate. We appreciate all of our PSA members but we want to give a special shoutout to our project teams for their hard work to keep the studies running in a pandemic. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We enter the new year with the prospect of new studies and the PSA 001 paper in press!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Study updates:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><strong>PSA 001- </strong>Paper is in-press! It will be published with Nature Human Behavior in January.</li><li><strong>PSA 002/003- </strong>The leadership team for the 002/003 bundle of studies has been hard at work, creating an online version of the 002 study protocol that will not rely on in-person data collection. This new protocol was recently approved by the editors of the Psychonomic Bulletin and Review. We are now testing the 002 online link.&nbsp;</li><li><strong>PSA 004-</strong> We are no longer taking new teams and we would like data to be collected by the end of the year, with final CREP submissions by the end of January.</li><li><strong>PSA 005- </strong>This project is currently on hold until the US gets better control of COVID.&nbsp;</li><li><strong>PSA 006- </strong>We are in the last month of data collection for 006!!! Thank you to everyone who has been a part of this process so far.&nbsp;</li><li><strong>PSA 007- </strong>PSA007 will be starting on pre-projects after the holidays, please email <a href="mailto:buchananlab@gmail.com">buchananlab@gmail.com</a> if you are interested in joining.</li><li><strong>PSACR Bundle- </strong>The submitting author teams are hard at work analyzing data and writing their manuscript drafts! Meanwhile, we (the admin team) are developing a data management plan (figuring out exactly how and when we will share the data). We also, on an ongoing basis, are working to make sure that everyone’s contributions are accurately documented.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Study Capacity Policy:&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Last month we voted on the <a href="https://docs.google.com/document/d/1hdJesAgxjhgjRUUXFd3QQDcfouRPH1W2sdZRKlxbsME/edit">study capacity policy</a> for the PSA. As described in our Study Capacity Policy, study capacity is determined by the PSA’s data collection capacity or the amount and kind of participant data the PSA can collect in a given year, and its administrative capacity, or its ability to perform the administrative tasks required to collect participant data. The study capacity has passed and will go into effect.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>How many resources does the PSA possess?</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://psysciacc.org/2020/12/04/how-many-resources-does-the-psa-possess/">This blog </a>discusses the PSA’s first study capacity report, which contains a ton of interesting findings of our network. It also addresses the resources that the PSA currently has and will need in the future. Make sure you take a look at this important resource for the PSA.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The financial cost of the PSA’s vision.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We recently released <a href="https://psysciacc.org/2020/12/11/the-financial-cost-of-the-psas-vision/">this blog</a> on describing the need for funding to continue our vision. Patrick Forscher and Hans Ijzerman argue that in order to fulfill a maximalist vision we need to secure funding. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>PSACR hackathon:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The admin team for the PSACR projects is hard at work preparing the datasets for release. As part of this process, we held two hack-a-thons to code the free text responses that participants entered about where they were located into more structured and usable location data. We also cross-checked our initial coded responses to ensure that our final dataset is accurate. The work involved sorting through two spreadsheets — one with 2000+ rows and one with a bit less than 200 — and deciding on the meaning of free text that was often incomplete and in non-English languages.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Fortunately, these hack-a-thons were a huge success! We were able to accomplish the work quickly and efficiently. Huge thanks go out to the people who volunteered their time to make this happen, including Biljana Gjoneska, Anna Szabelska, Martin Vasilev, Amélie Gourdon-Kanhukamwe, Jen Beaudry, and Niels van Berkel. Thanks also go out to the hardworking members of the admin team who prepped, facilitated, and administered the hack and its resulting data, including Erin Buchanan, Hannah Moshontz, and Patrick Forscher.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Clinical Chapter </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We recently wrote a chapter about how our network might help with clinical research for an upcoming book on questionable research practices (and solutions) in clinical psychology. We think there's potential to explore important clinical questions with the PSA! Check it out <a href="https://psyarxiv.com/qwy4k/">here</a>!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Coffee Station Channel on Slack:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In a physical office, you would have a coffee station or a place where you can take a break and refresh with your co-workers. The coffee station often becomes a place where you can share about what is going on in your life and a place to just take a break from your busy work schedule. We want to be able to get to know more people in our vast network. Therefore, Savannah decided to create a virtual coffee station. We will be using this channel to get to know each other and possibly host some fun coffee hangouts. Head over to slack to check out the <a href="https://app.slack.com/client/T7DBVAQBX/C01F4SNRYGG">coffee station</a>.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
+<p>Happy Holidays! 🎉 We look forward to working with you in the new year!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Savannah </p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

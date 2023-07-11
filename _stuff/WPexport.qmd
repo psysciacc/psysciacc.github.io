@@ -1,0 +1,47 @@
+---
+title: "WP Export Processing"
+author: Lisa DeBruine
+---
+
+```{r setup, include=FALSE}
+library(xml2)
+library(tidyverse)
+library(lubridate)
+```
+
+```{r}
+x <- read_xml("PSA_WordPress_Export.xml") |>
+  xml_find_all(".//item") |>
+  as_list()
+```
+
+
+```{r}
+posts <- map_df(x, function(item) {
+  title = item$title[[1]]
+  date = date(item$post_date[[1]])
+  author = item$creator[[1]]
+  contents = item$encoded[[1]]
+  path <- paste0("news/",  date,  "_", 
+                 item$post_name[[1]], ".qmd")
+  
+  txt <- glue::glue("---
+title: \"{title}\"
+date: {date}
+---
+
+{contents}
+"
+)
+  
+  write(txt, path)
+  
+  tibble(
+    path = path
+  )
+})
+```
+
+
+
+

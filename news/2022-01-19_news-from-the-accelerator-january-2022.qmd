@@ -1,0 +1,100 @@
+---
+title: "News from the Accelerator- January 2022"
+date: 2022-01-19
+---
+
+<!-- wp:heading {"level":4} -->
+<h4 id="quick-read"><strong>QUICK READ:&nbsp;</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Job recruitment has begun for three positions!(Research Scientist, a Post-doctoral Researcher, and a Research Coordinator)&nbsp;</li><li>PSA-008 <em>Minimal and Real Group Biases</em><strong> </strong>is now official! For those interested in learning more or joining the project, please fill out <a href="https://forms.gle/SrZ2Aor2aHnpUZ7h8">this survey</a> before February 15th!&nbsp;</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="study-updates"><strong>Study updates:</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li><strong>PSA-002 (Object Orientation): </strong>The lead team has received extensive feedback on our Stage 2 Registered Report submission from Psychonomic Bulletin and Review. The lead team is currently working on a strategy to address this feedback.</li><li><strong>PSA-003 (Gendered Prejudice): </strong>The lead team has completed initial data analyses and is working on drafting a manuscript describing the results.&nbsp;</li><li><strong>PSA-004 (Accelerated CREP):</strong> The lead team is currently working on data processing, data analysis, and authorship credit tracking. Collaborators can expect the authorship survey in their inbox soon.&nbsp;</li><li><strong>PSA-005 (Stereotype Threat):</strong> PSA-005 data collection will continue to collect data as we enter into another academic semester.&nbsp;</li><li><strong>PSA-006 (Trolley Problem):</strong> The manuscript has received an acceptance with minor revisions from Nature Human Behavior.&nbsp;</li><li><strong>PSA-007 (SPAM-L):</strong> The team recently submitted the registered report to Nature Human Behavior, and is waiting to hear back about the manuscript’s status. The admin team is additionally working on getting the experiment finalized in lab.js while awaiting updates on the registered report submission. The project team will be sending out updates in the near future regarding ways to contribute to the current project. If you are interested in becoming a collaborator, or want to learn more about 007 please e-mail 007spaml@gmail.com.</li><li><strong>PSA-COVID Rapid Bundle (001/003)-</strong>&nbsp;<ul><li>PSACR-001 is working on revising the manuscript at Affective Science.</li><li>PSACR-003- The lead author team is working on resolving a difficult conflict between PSA policy and PNAS policy regarding authorship. Authors of this paper were asked about their preference between a few options, and the lead author team is working to find a consensus decision or other way forward.</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="has-text-align-center" id="officially-announcing-psa-008-minimal-and-real-group-biases">(Officially) Announcing PSA 008: Minimal and Real Group Biases!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Project Overview</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The minimal group effect occurs when random assignment to experimentally created and otherwise meaningless social groups is sufficient to create ingroup preference. PSA 008 will examine the cultural prevalence of the minimal group effect and compare bias in favor of minimal group members to ingroup biases based on real groups (i.e., those favoring family and national group members).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Interested in learning more and (maybe) joining the project? Fill out </em></strong><a href="https://forms.gle/SrZ2Aor2aHnpUZ7h8"><strong><em>this survey</em></strong></a><strong><em>!&nbsp;</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The lead team has created an interest survey to gather information about potential data collection sites and create a contact email list. Please complete the survey by February 15 so we can include an estimated number of sites by location in our Stage 1 Registered Report (to be submitted in March).&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="has-text-align-center" id="john-templeton-foundation-hiring-update">John Templeton Foundation Hiring Update</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Christopher Chartier has begun the search to hire three full time positions funded by the John Templeton Foundation. The three positions include a Research Scientist, a Post-doctoral Researcher, and a Research Coordinator that will work with the PSA and Chris on a three year project.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All positions will begin on July 1, 2022 on a 1-year contract with the potential to renew for up to two additional years through the end of the project on June 30, 2025 and will report directly to me! You can read more about the project here (credit to @CharlieEbersole for leading the grant writing!): <a href="https://docs.google.com/document/d/1S2h0CuBlN9V9TFus3qfmRAwKXkiMoyAf/edit">https://docs.google.com/document/d/1S2h0CuBlN9V9TFus3qfmRAwKXkiMoyAf/edit</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The job postings and description can be found below for all those interested. If you have questions feel free to slack, dm or email Chris.(cchartie@ashland.edu)&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 id="research-scientist"><strong>Research Scientist</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Research Scientist will work closely with Chris and PSA leadership to supervise the four studies and conduct meta-scientific investigations of effect-generalizability and contributor predictions. A PhD in Psychology or a related field is required. The ideal candidate will have extensive experience with large-scale multi-site collaborations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.indeed.com/viewjob?cmp=Ashland-University---Ashland,-OH&amp;t=Research+Scientist&amp;jk=c143333997a2447b&amp;q=Ashland+University&amp;vjs=3s=3">https://www.indeed.com/viewjob?cmp=Ashland-University---Ashland,-OH&amp;t=Research+Scientist&amp;jk=c143333997a2447b&amp;q=Ashland+University&amp;vjs=3s=3</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 id="post-doctoral-researcher"><strong>Post-doctoral Researcher&nbsp;</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Post-doctoral Researcher will work closely with the Chris and PSA leadership as well as serve as a content expert in at least one of the areas of research represented in JTF’s strategic priorities. They will be responsible for working with and advising the lead researchers of the four selected projects on matters of study design and implementation. This position will give a junior researcher an excellent opportunity to refine their skills in areas of research related to JTF’s strategic priorities as well as the opportunity to take part in several high-profile research projects. A PhD in Psychology or a related field is required.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.indeed.com/viewjob?cmp=Ashland-University---Ashland,-OH&amp;t=Post+Doctoral+Researcher&amp;jk=5547b4ff5de1e201&amp;q=Ashland+University&amp;vjs=3">https://www.indeed.com/viewjob?cmp=Ashland-University---Ashland,-OH&amp;t=Post+Doctoral+Researcher&amp;jk=5547b4ff5de1e201&amp;q=Ashland+University&amp;vjs=3</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 id="research-coordinator"><strong>Research Coordinator&nbsp;</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Research Coordinator will work closely with Chris and PSA leadership to facilitate and monitor all aspects of the project, including communicating directly with all data collection laboratories, tracking and communicating progress on the 4 studies, and coordinating with all PSA committees to ensure efficient progress throughout the conduct and dissemination of the studies. This position is a Post-Bacc position. The ideal candidate will have excellent organizational, communication, and problem-solving skills to effectively work with a large, complicated, and diverse group of researchers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.indeed.com/viewjob?cmp=Ashland-University---Ashland,-OH&amp;t=Research+Coordinator&amp;jk=2b8aa4a2d28de65e&amp;q=Ashland+University&amp;vj">https://www.indeed.com/viewjob?cmp=Ashland-University---Ashland,-OH&amp;t=Research+Coordinator&amp;jk=2b8aa4a2d28de65e&amp;q=Ashland+University&amp;vj</a></p>
+<!-- /wp:paragraph -->

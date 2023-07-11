@@ -1,0 +1,370 @@
+---
+title: "Second Special Call for Studies – Studying Generalizability with Global Samples"
+date: 2022-12-06
+---
+
+<!-- wp:heading {"level":1} -->
+<h1><strong>Deadlines</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Initial Proposals (Optional) due by <strong>February 15, 2023</strong>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Full Proposals due by<strong> May 15, 2023</strong>.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":1,"customFontSize":32} -->
+<h1 style="font-size:32px"><strong>Overview</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Psychological Science Accelerator (PSA), supported by the John Templeton Foundation (JTF), welcomes study proposals to test the generalizability of phenomena related to JTF strategic priorities with large, global samples.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The PSA is a distributed network of researchers from the behavioral sciences across the globe. Our more than 2400 collaborators represent 73 countries from all six populated continents. The mission of the PSA is to accelerate the accumulation of reliable and generalizable evidence in psychological science. This call for studies will select projects that fit within the 5 topic areas, broadly construed, that are prioritized by the JTF. Both members and non-members of the PSA can submit proposals.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"customFontSize":25} -->
+<h2 style="font-size:25px"><strong><em>JTF Priority Topics</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>To be eligible for this call, projects must investigate research questions related to one or more of the strategic priorities of the JTF in university and community samples across the globe. Below is a list of those priorities. Each is followed by some example research questions and topics. These are meant to just be examples; they are not an exhaustive list of the research questions that could be encompassed by each priority.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>The dynamics of religious change. </strong><em>Why do religions flourish or lose adherents? What kinds of features of religious organizations drive or repel members? Why and how do people switch religious identities?</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Intellectual humility. </strong><em>Which factors enhance or inhibit intellectual humility? How can we better study the concept of intellectual humility?</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Religious cognition. </strong><em>What is the nature of religious belief and how can it be better measured? What causes religious or spiritual experiences and what are the effects of those experiences? How do individuals develop and revise their religious beliefs?</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>The science of character virtue. </strong><em>In particular, what helps individuals to develop curiosity and love? What are the consequences of those virtues? How do religions and perceptions of supernatural agents affect virtue and morality development?</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Health, religion, and spirituality. </strong><em>Are there associations between religious/spiritual beliefs, experiences, practices, and identities, and physical and mental health? If so, are there underlying causal mechanisms?</em></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"customFontSize":25} -->
+<h2 style="font-size:25px"><strong><em>Study Incubation</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Unlike previous PSA calls, this call includes the option of submitting a short initial proposal that will be considered for study incubation. See section below for requirements.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The intention of incubation is to support proposing authors in developing a full proposal. This extra step is designed to remove barriers to submission and increase the competitiveness of proposals from researchers who are under-represented in psychological science (broadly defined and self-identified).&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Authors of all initial proposals will be given written feedback and the opportunity to meet with someone from the grant team to discuss their projects. A subset of these proposals will also be selected for further incubation. Proposing authors of these submissions will be provided additional guidance in the form of meetings, full proposal draft feedback, and ad hoc support.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Short proposals may be submitted at any point up until February 15, 2023, and will be evaluated on a rolling basis for feedback and support needs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"customFontSize":25} -->
+<h2 style="font-size:25px"><strong><em>Proposal Selection</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>All full proposals, regardless of whether they were a part of study incubation, will have the same requirements and will be given equal consideration during the project selection process.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PSA projects are selected using a rigorous review process. Researchers submit detailed proposals for consideration. These proposals resemble Stage 1 Registered Reports (e.g., Chambers, 2013), and contain a theoretical introduction and hypothesis, a description of the planned sample and methods, and an analysis plan to test those hypotheses (see below section for requirements).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The proposals then undergo several rounds of review, overseen by the PSA’s Study Selection Committee (SSC). First, each proposal is screened for feasibility given the PSA’s current capacity and resources (Initial feasibility and quality review). For instance, a proposal that requires dozens of collection sites with fMRI machines is likely to be rejected based on infeasibility. Simultaneously, the SSC screens out submissions deemed low quality. Proposals that pass this screening are then sent out for peer review (Reviewer identification &amp; review submission). Each proposal is reviewed by 5-10 reviewers, consisting of both PSA members and external experts. These reviewers are identified based on their ethical, methodological, and/or theoretical expertise related to a given proposal. All submissions are also rated quantitatively by members of the PSA network (Network rating). The SSC then synthesizes the reviewer and network feedback to select projects for the PSA to pursue (Study selection decision). See Evaluation Criteria section for more details and anticipated timeline.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"customFontSize":25} -->
+<h2 style="font-size:25px"><strong><em>Funding and Personnel Support for Studies Resulting from this Call</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Projects selected through this special call will be advertised to members of the&nbsp; PSA network in collaboration with the proposing authors. Each study will be supported by $40,000 of direct funding for data collection. Specifically, these funds will be distributed to network data collection teams, primarily for the purposes of compensating participants from their local communities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The proposing author teams will also be collectively supported by 3 full-time scientific staff members (a Research Coordinator [Erin Seivers], a Postdoctoral Researcher [Dr. Priya Silverstein], and a Research Scientist [Dr. Kathleen Schmidt]), an additional ⅓ time senior staff member (Dr. Christopher R. Chartier), a ½ time staff member equivalent team of undergraduate research assistants, several members of PSA committees (at their discretion), and members of the network at large (at their discretion).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"customFontSize":32} -->
+<h1 style="font-size:32px"><strong>Submission Requirements</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"customFontSize":25} -->
+<p style="font-size:25px"><strong><em>Initial Proposals (Optional – these will be considered for incubation)</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Initial proposals should be 500-1000 words in length and include rationale for the project and an overview of the research design. As part of the <a href="https://forms.gle/DHbANs3CBJ97Jd4k7">submission form</a>, proposing authors will provide details about their research including type, investigation category, relevant JTF priority/ies, and subfield. They will also be asked to describe how the additional support provided by the study incubation process would help them overcome barriers to submitting a full proposal or otherwise benefit their submission.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"customFontSize":25} -->
+<h2 style="font-size:25px"><strong><em>Full Proposals (Required)</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The following manuscript components are required for all full proposals:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Cover Page, including the title of the study, date of the latest draft, and keywords</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Abstract of up to 150 words</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Main body submission text of up to 5,000 words</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A version of the submission with a cover page included</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A masked version of the submission without the cover page</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>References</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Supplementary materials</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>The following guidelines are intended to assist you in the preparation of your proposal submission to the PSA. Submissions typically include a description of the key background literature and motivation for the study, hypotheses, study procedures, proposed statistical analysis plan, a statistical power analysis, and pilot data (wherever applicable).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"customFontSize":20} -->
+<h2 style="font-size:20px"><strong>Introduction</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A review of the relevant literature that motivates the research question and a full description of the study aims and hypotheses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"customFontSize":20} -->
+<h2 style="font-size:20px"><strong>Method</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A full description of proposed sample characteristics, including criteria for data inclusion and exclusion (e.g., outlier extraction). Procedures for objectively defining exclusion criteria caused by technical errors or for any other reasons must be specified, including details of how and under what conditions data would be replaced.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A description of study procedures in sufficient detail to allow another researcher to repeat the methodology exactly, without requiring further information.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"customFontSize":20} -->
+<h2 style="font-size:20px"><strong>Analysis Plan</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Proposed analysis pipeline, including all preprocessing steps, and a precise description of all planned analyses, including appropriate correction for multiple comparisons. Specify all covariates or regressors. Specify analysis decisions that are contingent on the outcome of prior analyses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Studies involving frequentist inference must include a statistical power analysis. Estimated effect sizes should be justified with reference to the existing literature or theory. Because publication bias inflates published estimates of effect size, power analysis should be based on the lowest available or meaningful estimate of the effect size.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In the case of highly uncertain effect sizes, variable sample size and interim data analysis is permissible but with inspection points stated in advance, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2023">appropriate Type I error correction for ‘peeking’ employed</a>, and a final stopping rule for data collection outlined.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For studies involving analyses with Bayes factors, the predictions of the theory must be specified so that a Bayes factor can be calculated. Authors should indicate what distribution will be used to represent the predictions of the theory and how its parameters will be specified.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Full descriptions must be provided of any outcome-neutral criteria that must be met for successful testing of the stated hypotheses. Such quality checks might include the absence of floor or ceiling effects in data distributions, positive controls, or other quality checks that are orthogonal to the experimental hypotheses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"customFontSize":20} -->
+<h2 style="font-size:20px"><strong>Supplemental Materials</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Include full questionnaires, stimuli, and materials needed to conduct the study. Pilot data can be included to establish proof of concept, effect size estimations, or feasibility of proposed methods. Simulated data and analysis scripts are recommended to provide clarity about the exclusion criteria and analysis plan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Please also describe within the supplemental materials the details of what open research practices will be followed and how. This section should include information about plans for data sharing, analysis code sharing, pre-print use, and Registered Report manuscript submission and/or pre-registration. Other practices which are common in PSA studies are open materials, use of open source tools, and open research workflows.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>These guidelines were adapted from </em><a href="https://osf.io/pukzy"><em>https://osf.io/pukzy</em></a><em>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"customFontSize":32} -->
+<h1 style="font-size:32px"><strong>Evaluation Criteria</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We anticipate that three studies will be selected and implemented through this call.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Appropriateness for this special call for studies is one of the key criteria for evaluation. Your full proposal should clearly state how your project aligns with the goals of the call and discuss why your research topic would specifically benefit from global data collection (e.g., theoretical reasons to predict global variation).&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Upon submission of your full proposal, you will be asked to provide details about your project to categorize the submission and help the study selection committee assess its fit and feasibility. These items are listed below (see also the submission form link).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>What type of research are you proposing?</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>What category of investigation is your project?</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>To which JTF strategic priority does your research relate? Select all that apply.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>What area of psychology best describes the research?</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Target number of data collection sites</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Target number of participants per data collection sites</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Does your project require specialized equipment (e.g., eye-tracking, EEG) or proprietary experimental software (e.g., E-Prime) to be used at the data collection sites?<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>If yes: Please explain and justify the use of specialized equipment or proprietary software in your research. Can you provide the collection sites with these resources? Do you only need a minority of sites to participate who already have these resources?</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Can experimental materials and analysis scripts for your project be easily shared and made publicly available?<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>If no: Please explain and justify why your materials or analysis scripts cannot be publicly shared.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Does your project require “hard-to reach” samples (e.g., children, traditionally marginalized group members, clinical populations, etc.)?<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>If yes: Please explain and justify your use of "hard to reach" samples in your research. Do you only need a minority of sites to participate who already have access to these populations? If not, how will they recruit participants? Does research with this population involve additional ethical considerations?</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Does the study expose participants to more risk than they would encounter in everyday life?<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>If yes: Please explain and justify the potential risk to individuals who participate in your proposed study.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>In evaluating submissions for this special call for studies, we will prioritize projects whose designs are most well suited for promoting generalizability. In particular, we will prioritize studies that seek global samples (as opposed to studies that wish to sample from one or a few countries), studies with very high statistical power, and studies that are more strongly grounded in previous research (such as replication and generalization studies). All of these criteria are intended to maximize our chances of producing generalizable insights on phenomena-of-interest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In addition, we will evaluate proposals for this special call together so that we can ensure variation across the projects. In particular, we will strive to select a package of studies that, collectively, represent a range of JTF priorities, study designs (e.g., experimental vs. correlational), and researcher backgrounds (e.g., research specialty, researcher location, etc.). This way, we will avoid overrepresenting a given topic, type of research, or type of researcher in this initiative.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"customFontSize":25} -->
+<p style="font-size:25px"><strong><em>Timeline</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Short Proposal (optional - to be considered for incubation) latest deadline: February 15, 2023</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Short Proposal feedback and incubation decision: March 1, 2023 (latest date).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Full Proposal deadline: May 15, 2023.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Initial feasibility and quality review: May 16 - May 22, 2023.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Reviewer selection: May 22 - May 29, 2023.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Network rating solicitation: May 29, 2023.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Review submission deadline: June 12, 2023.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Network rating deadline: June 12, 2023.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Study selection decision: June 26, 2023.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Possible submission outcomes include “desk rejection” upon initial review, rejection upon full review, provisional acceptance, or an invitation to revise and resubmit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Following a successful period of needs assessment, preparation, personnel identification, lab recruitment, and pre-registration, provisionally selected studies will commence data collection in late 2023 and end data collection in late 2024.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://forms.gle/DHbANs3CBJ97Jd4k7"><strong>Please use this form to submit your </strong><strong><em>optional </em></strong><strong>initial proposal.</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://forms.gle/m6Lmc5osXYoYUEh18"><strong>Please use this form to submit your <em>required </em>full proposal.</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>For pre-submission inquiries, please email Kathleen Schmidt at </em></strong><a href="mailto:kathleenschmidt1@gmail.com"><strong><em>kathleenschmidt1@gmail.com</em></strong></a><strong><em> or Chris Chartier at </em></strong><a href="mailto:cchartie@ashland.edu"><strong><em>cchartie@ashland.edu</em></strong></a><strong><em> . They are happy to meet with proposing authors and/or answer questions about what is likely to make for a strong submission</em></strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

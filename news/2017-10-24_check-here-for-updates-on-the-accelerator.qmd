@@ -1,0 +1,16 @@
+---
+title: "Check here for updates on the Accelerator"
+date: 2017-10-24
+---
+
+We will use this blog to give updates on the progress of and share news about the Accelerator. For now, check out these posts by our Director, Chris Chartier, to get up to speed on what we've been doing!
+
+<a href="https://christopherchartier.com/2017/10/12/on-the-verge-of-acceleration-the-psa-has-received-its-first-submissions/" target="_blank" rel="noopener">On the verge of Acceleration</a>
+
+<a href="https://christopherchartier.com/2017/10/03/the-psychological-science-accelerator-rapid-progress-more-help-needed/" target="_blank" rel="noopener">Seeking help in a few key areas</a>
+
+<a href="https://christopherchartier.com/2017/09/21/the-psychological-science-accelerator-a-distributed-laboratory-network/" target="_blank" rel="noopener">Announcing our official name</a>
+
+<a href="https://christopherchartier.com/2017/09/05/update-building-a-cern-for-psychological-science/" target="_blank" rel="noopener">September 5th Update</a>
+
+<a href="https://christopherchartier.com/2017/08/26/building-a-cern-for-psychological-science/" target="_blank" rel="noopener">The post that started it all</a>

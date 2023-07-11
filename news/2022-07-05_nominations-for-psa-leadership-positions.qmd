@@ -1,0 +1,76 @@
+---
+title: "Nominations for PSA leadership positions"
+date: 2022-07-05
+---
+
+<!-- wp:paragraph -->
+<p>The Psychological Science Accelerator (PSA) is accepting nominations for two Associate and six Assistant Directors. Associate Directors serve on the Board of Directors and are elected by all PSA members for 4-year terms. Assistant Directors co-lead (with another Assistant Director) specific committees for 3-year terms and are elected by vote by the Board of Directors.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The positions are open to all members of the PSA–and current non-members are also eligible if they sign-up for a [free] PSA membership. Members can either nominate themselves or others for each role. There are no term limits. For more information about PSA elections policies, see <a href="https://docs.google.com/document/d/1aXjXwouFc6wvcyy7IFmEKGL0j2yxzYukyI_YFf6sZtM/edit?usp=sharing">this document</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Nominations are due July 29 2022.</strong> To nominate yourself or others, please (1) login to the <a href="https://canvas.psysciacc.org/" target="_blank" rel="noreferrer noopener">PSA membership portal</a>, (2) navigate to the PSA Membership course page, (3) click on the Quizzes tab, and (4) complete a short nomination form. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All current members of the PSA should have received an email invitation to the Canvas membership site within the past year. If you know you have a PSA ID, you can reset your password by going to&nbsp;<a rel="noreferrer noopener" href="https://canvas.psysciacc.org/" target="_blank">https://canvas.psysciacc.org/</a>. If you aren’t sure what email to use, contact&nbsp;<a rel="noreferrer noopener" href="mailto:psa.membersite@gmail.com" target="_blank">psa.membersite@gmail.com</a>. If you do not have an account, you can sign up for an account using this form:&nbsp;<a rel="noreferrer noopener" href="https://member.psysciacc.org/" target="_blank">https://member.psysciacc.org/</a><br><br>See below for more information about the open positions. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Associate Directors</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Associate Directors serve on the Board of Directors, which serves as the steering body of the PSA. Typically, they meet 1-2 times a month with an assigned committee, help the committee perform essential tasks, and serve as a liaison between the committee and the Board of Directors. They also attend a Board of Directors meeting every three weeks.The estimated time commitment is 4-5 hours per month. For more information, please contact the current Director (ncoles@stanford.edu).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Assistant Director of Project Monitoring</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Project Monitoring Committee consists of two assistant directors and a larger team who actively serve as project monitors of PSA studies and provide general feedback about PSA project procedures. The committee meets twice a month, wherein committee members share project updates, troubleshoot problems, and discuss project management strategies. Assistant Directors are responsible for coordinating these twice-a-month meetings and for regularly communicating updates to the PSA Board of Directors. For more information, contact the current Assistant Director (<a href="mailto:david.vaidis@u-paris.fr">david.vaidis@u-paris.fr</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Assistant Director of the Study Selection Committee&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Study Selection Committee consists of two assistant directors and a small team that is tasked with reviewing and selecting projects for the PSA. Study proposals that pass an initial quality and feasibility check by the committee are then reviewed by members of the advisory committees and internal and external content experts. For more information, contact the current Assistant Director (<a href="mailto:kathleenschmidt1@gmail.com">kathleenschmidt1@gmail.com</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Assistant Director of the Funding Committee&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Funding Committee works with the PSA Board of Directors on grant applications, money management, and the developing of the PSA funding strategy. The Funding Committee also offers occasional support to PSA study investigators in funding applications. For more information, contact the current Assistant Director (nlewisjr@cornell.edu).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Assistant Director of the Ethics Committee</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The PSA Ethics Committee helps ensure high quality assessment and identification of ethical risks or challenges, as well as protection and safeguarding of ethical practices of PSA research projects. In the broadest sense, the committee is responsible to: 1) provide reviews of proposed PSA projects with an eye toward ethics, 2) provide ethics-oriented consultation to selected PSA projects (e.g., co-develop the material to ensure hassle-free approval in the majority of PSA labs), 3) curates ethics procedures towards successful implementation of ongoing PSA projects (especially related to the IRB and ethics review board materials prior to distribution to the larger PSA group), 4) work with other PSA committees to ensure ethical practices. For more information, contact dana.basnightbrown@gmail.com.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Assistant Director of the Translation and Cultural Diversity Committee</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Translation and Cultural Diversity committee coordinates translations for each PSA project, expands the PSA community by recruiting translators, and helps ensure that PSA members from every country are treated fairly and equally.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Assistant Director of the Community Building Committee</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Community Building and Network Expansion Committee (CBNEC) is tasked with engaging, assessing and expanding the PSA Network (“improve the reach of and access to the PSA, both internally and externally” Moshontz et al., 2018 pg. 511). The Assistant Directors provide the long-term vision for the committee and coordinates its daily/monthly operations.</p>
+<!-- /wp:paragraph -->
