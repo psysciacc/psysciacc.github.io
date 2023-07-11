@@ -46,7 +46,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
     width: 100%;
 }
 
-.projlist li div:nth-child(2) {
+.projlist li .projinfo {
   margin-left: 22.5%;
 }
 
@@ -93,9 +93,16 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
 .altmetric-embed {
     float: left;
     clear: left;
+    margin: 0 1em 1em 0;
 }
 .altmetric-embed a {
     border-bottom: none;
-    background-color: white;
+    background-color: var(--highlight);
     border-radius: 100%;
+}
+
+.projlist .altmetric-embed {
+    float: right;
+    clear: none;
+    margin: 0 0 0 1em;
 }

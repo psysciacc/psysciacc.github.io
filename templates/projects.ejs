@@ -1,7 +1,4 @@
 ```{=html}
-<!-- altmetrics script -->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-
 <ul class="projlist list">
 <% for (const item of items) { %>
   <li <%= metadataAttrs(item) %>>
@@ -30,13 +27,13 @@
       <% } %>
       -->
     </div>
+    
+    <% if (item.doi) { %>
+    <div data-badge-popover="left" data-badge-type="donut" data-doi="<%= item.doi %>" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    <% } %>
   
-    <div>
+    <div class="projinfo">
       <h3><a href="<%= item.path %>"><%= item.title %></a></h3>
-      
-      <% if (item.doi) { %>
-      <div data-badge-popover="right" data-badge-type="donut" data-doi="<% item.doi %>" data-hide-no-mentions="true" class="altmetric-embed"></div>
-      <% } %>
       
       <% if (item.links) { %>
       <ul class="buttonlist">
