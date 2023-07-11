@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/affiliated.html",
+    "items": [
+      "/affiliated/af001.html",
+      "/affiliated/af002.html"
+    ]
+  },
+  {
     "listing": "/papers.html",
     "items": [
       "/papers/PSA-intro_2018.html"
@@ -14,19 +21,17 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/001/index.html",
-      "/projects/002/index.html",
-      "/projects/003/index.html",
-      "/projects/004/index.html",
-      "/projects/005/index.html",
-      "/projects/006/index.html",
-      "/projects/007/index.html",
-      "/projects/008/index.html",
-      "/projects/CR001/index.html",
-      "/projects/CR002/index.html",
-      "/projects/CR003/index.html",
-      "/projects/AF-gratitude/index.html",
-      "/projects/AF-relationships/index.html"
+      "/projects/psa001.html",
+      "/projects/psa002.html",
+      "/projects/psa003.html",
+      "/projects/psa004.html",
+      "/projects/psa005.html",
+      "/projects/psa006.html",
+      "/projects/psa007.html",
+      "/projects/psa008.html",
+      "/projects/cr001.html",
+      "/projects/cr002.html",
+      "/projects/cr003.html"
     ]
   },
   {

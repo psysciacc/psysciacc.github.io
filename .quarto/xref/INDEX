@@ -97,5 +97,59 @@
   },
   "projects/AF-relationships/index.qmd": {
     "index.html": "10ceec00"
+  },
+  "projects/AF-relationships/af002.qmd": {
+    "af002.html": "4a53294b"
+  },
+  "projects/af001.qmd": {
+    "af001.html": "a2feceb1"
+  },
+  "projects/psa008.qmd": {
+    "psa008.html": "d7cb568a"
+  },
+  "projects/psa001.qmd": {
+    "psa001.html": "e6fe010b"
+  },
+  "projects/psa003.qmd": {
+    "psa003.html": "5d9d1cfd"
+  },
+  "projects/psa002.qmd": {
+    "psa002.html": "331c2c72"
+  },
+  "projects/psa006.qmd": {
+    "psa006.html": "9902e4d1"
+  },
+  "projects/psa007.qmd": {
+    "psa007.html": "eef14ab8"
+  },
+  "projects/af002.qmd": {
+    "af002.html": "693f0408"
+  },
+  "projects/psa005.qmd": {
+    "psa005.html": "0ac26baa"
+  },
+  "projects/psa004.qmd": {
+    "psa004.html": "872a2cfd"
+  },
+  "projects/cr001.qmd": {
+    "cr001.html": "195225d2"
+  },
+  "projects/cr003.qmd": {
+    "cr003.html": "6e4d0ac4"
+  },
+  "projects/cr002.qmd": {
+    "cr002.html": "837c6f1f"
+  },
+  "afiliated/af001.qmd": {
+    "af001.html": "a96601b5"
+  },
+  "afiliated/af002.qmd": {
+    "af002.html": "9d9bf488"
+  },
+  "affiliated/af001.qmd": {
+    "af001.html": "5d94cf9b"
+  },
+  "affiliated/af002.qmd": {
+    "af002.html": "f9451cd3"
   }
 }

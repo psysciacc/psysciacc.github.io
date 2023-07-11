@@ -1,4 +1,15 @@
 ---
 title: "Affiliated Projects"
+listing:
+  template: templates/projects.ejs
+  contents: affiliated
+  sort: "order"
+  image-placeholder: "images/logo.png"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
 ---
 
