@@ -1,16 +1,42 @@
 ---
 title: "Accepted for 2018: Gendered Social Category Representations"
+author: "Chris Chartier"
 date: 2017-12-05
 ---
 
-We have selected the Psychological Science Accelerator’s second study. Congratulations to Dr. Curtis Phills, University of North Florida, who submitted a very compelling proposal to investigate the degree to which cognitive representations of a host of social categories are gendered. Data collection will begin in early 2018.
+We have selected the Psychological Science Accelerator's second study.
+Congratulations to Dr. Curtis Phills, University of North Florida, who
+submitted a very compelling proposal to investigate the degree to which
+cognitive representations of a host of social categories are gendered.
+Data collection will begin in early 2018.
+![phills](images/phills-e1512501162927.png){.alignnone
+.size-full .wp-image-185 width="1267" height="537"} One of the strengths
+of this submission, beyond its intellectual merits, is the fact that it
+can be administered quite quickly and easily in a range of research
+settings. It remains possible that this study will be paired with
+another brief study into a single data collection session. Dr. Phills
+provided the following background and rationale for his proposed study:
+"Research related to the intersectional invisibility hypothesis
+(Purdie-Vaughns & Eibach, 2008) and the gendered nature of race
+(Carpinella, Chen, Hamilton, & Johnson, 2015; Goff, Thomas, & Jackson,
+2008; Johnson, Freeman, & Pauker, 2012; Thomas, Dovidio, & West, 2014)
+suggest men and women may not be equally represented in the cognitive
+representations of social categories. Research has found people are more
+likely to think of a Black man than a Black woman when imagining a Black
+person (Schug, Alt, & Klauer, 2015) and associate Black men more quickly
+with Black people than Black women (Thomas et al., 2014). Understanding
+the extent to which men are overrepresented in the cognitive
+representations of minority groups is a necessary step in designing
+effective anti-bias interventions. For example, if Black women are not
+included in the cognitive representation of Black people then
+interventions designed to reduce bias against Black people or Black men
+may not ameliorate bias against Black women. This project is designed to
+investigate the over-representation of men in the cognitive
+representations of many social categories (e.g., racial, ethnic, gender,
+political, and religious categories) around the world. Ultimately, it is
+hoped that this project will contribute to the design of more effective
+anti-bias interventions by encouraging researchers to specifically
+include the women of minority groups\--especially for groups in which
+men are over-represented." We look forward to working with Dr. Phills to
+finalize data the data collection protocol and data analysis plan soon!
 
-<img class="alignnone size-full wp-image-185" src="https://psysciacc.org/wp-content/uploads/2017/12/phills-e1512501162927.png" alt="phills" width="1267" height="537" />
-
-One of the strengths of this submission, beyond its intellectual merits, is the fact that it can be administered quite quickly and easily in a range of research settings. It remains possible that this study will be paired with another brief study into a single data collection session.
-
-Dr. Phills provided the following background and rationale for his proposed study:
-
-“Research related to the intersectional invisibility hypothesis (Purdie-Vaughns &amp; Eibach, 2008) and the gendered nature of race (Carpinella, Chen, Hamilton, &amp; Johnson, 2015; Goff, Thomas, &amp; Jackson, 2008; Johnson, Freeman, &amp; Pauker, 2012; Thomas, Dovidio, &amp; West, 2014) suggest men and women may not be equally represented in the cognitive representations of social categories. Research has found people are more likely to think of a Black man than a Black woman when imagining a Black person (Schug, Alt, &amp; Klauer, 2015) and associate Black men more quickly with Black people than Black women (Thomas et al., 2014). Understanding the extent to which men are overrepresented in the cognitive representations of minority groups is a necessary step in designing effective anti-bias interventions. For example, if Black women are not included in the cognitive representation of Black people then interventions designed to reduce bias against Black people or Black men may not ameliorate bias against Black women. This project is designed to investigate the over-representation of men in the cognitive representations of many social categories (e.g., racial, ethnic, gender, political, and religious categories) around the world. Ultimately, it is hoped that this project will contribute to the design of more effective anti-bias interventions by encouraging researchers to specifically include the women of minority groups--especially for groups in which men are over-represented.”
-
-We look forward to working with Dr. Phills to finalize data the data collection protocol and data analysis plan soon!

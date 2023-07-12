@@ -1,37 +1,86 @@
 ---
 title: "News from the Accelerator - April 2019"
+author: "Chris Chartier"
 date: 2019-04-30
+categories:
+  - monthly update
 ---
 
-This month we have a few updates on our 6 studies, our search for funding, and other interesting projects that PSA members may be interested in.
-<h2>001 FACE PERCEPTION</h2>
-We have collected data from over 9,000 participants! There are two regions that we could still use extra collection in: Africa and Central America &amp; Mexico. If you, or a colleague of yours, would be interested in contributing to data collection in either region, please let us know by replying to this email. Materials are ready, and this would be a relatively quick way to contribute to a PSA study and earn authorship on the <em>Nature Human Behaviour</em> paper! Additionally, we have funds for a few (3-5) small ($200-$400) data collection grants if such an award would make joining possible for you.
+This month we have a few updates on our 6 studies, our search for
+funding, and other interesting projects that PSA members may be
+interested in.
 
-<a href="https://psyarxiv.com/n26dy/" target="_blank" rel="noopener">001 Preprint</a>
-<h2>002 OBJECT ORIENTATION &amp; 003 GENDERED PREJUDICE</h2>
-Labs continue to secure IRB approval and contributors are translating materials into their local languages. The last major step prior to opening data collection for these studies is a pre-registration of the 003 analysis plan, which should be complete in the next few weeks!
+## 001 FACE PERCEPTION
 
-<a href="https://psyarxiv.com/t2pjv" target="_blank" rel="noopener">002 Preprint</a>
-<h2>004 TRUE BELIEF</h2>
-We received a second, and relatively minor, revise and resubmit from <em>Advances in Methods and Practices in Psychological Science</em>. Braeden Hall is leading the revision efforts, and we think we are quite close to securing an in principle acceptance!
+We have collected data from over 9,000 participants! There are two
+regions that we could still use extra collection in: Africa and Central
+America & Mexico. If you, or a colleague of yours, would be interested
+in contributing to data collection in either region, please let us know
+by replying to this email. Materials are ready, and this would be a
+relatively quick way to contribute to a PSA study and earn authorship on
+the *Nature Human Behaviour* paper! Additionally, we have funds for a
+few (3-5) small (\$200-\$400) data collection grants if such an award
+would make joining possible for you. [001
+Preprint](https://psyarxiv.com/n26dy/){target="_blank"}
 
-<a href="https://psyarxiv.com/zeux9" target="_blank" rel="noopener">004 Preprint</a>
-<h2>005 STEREOTYPE THREAT</h2>
-Labs are securing IRB approval, the lead team is finalizing the adaptive design that will be used to distribute participants across conditions, and all collaborators are currently providing feedback on the Stage 1 Registered Report manuscript.
-<h2>006 TROLLEY PROBLEM</h2>
-After multiple rounds of contributor feedback, Bence and Balazs submitted the Stage 1 Registered Report manuscript to <em>Nature Human Behaviour</em>. Fingers crossed for a quick and positive peer review experience, and congratulations to all co-authors on making it to this big milestone for the project! Labs are securing IRB approval at a fast rate, and we are just about to begin our translation process in earnest, led by Chuan-Peng Hu, who will be coordinating translations for the study.
+## 002 OBJECT ORIENTATION & 003 GENDERED PREJUDICE
 
-<a href="https://psyarxiv.com/9uaqm/" target="_blank" rel="noopener">006 Preprint</a>
-<h2>GRANT APPLICATIONS</h2>
-<ul>
-	<li>We should hear back on our NSF submission in the next few months. If we receive this grant, we will be able to hire 2 full time research coordinators.</li>
-	<li>The line-up is set for our Synergy grant submission. Hans IJzerman is leading a team including EJ Wagenmakers, Lisa DeBruine, Ben Jones, Denny Borsboom, and John Ioannidis in drafting this submission.</li>
-	<li>Bence Bagó, Balazs Aczel, and Rink Hoekstra are working on a grant application for the NWO replication stream to further expand the 006 study to more non-student samples.</li>
-	<li>Neil Lewis Jr. is leading a team to apply for 005 project specific funding through the William T. Grant Foundation.</li>
-</ul>
-<h2>INTERESTING OPPORTUNITIES AND PROJECTS SEEKING COLLABORATORS</h2>
-<ul>
-	<li>The EEG Many Labs study leaders now welcome study nominations for the project. You can nominate a study using <a href="https://docs.google.com/forms/d/e/1FAIpQLSfthvBRX6ckt_72UfQAWouz21yqcCVparauacA6zByFZbYkRg/viewform" target="_blank" rel="noopener">this form</a>.</li>
-	<li>In-Mind Foundation is reorganizing and is seeking Assistant Directors. Here is the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc0WTRtKpaxBxrQtOe6QJ285xjtkznuWfZPla8gDa7he9KMCw/viewform" target="_blank" rel="noopener">interest form</a>.</li>
-	<li>Jess Flake (PSA Data and Methods Assistant Director) is hiring a post-doc in quant psych and modeling. <a href="https://docs.wixstatic.com/ugd/6fed94_b80f5043d0b345a6adbbd44373d58ff6.pdf" target="_blank" rel="noopener">Ad here</a>.</li>
-</ul>
+Labs continue to secure IRB approval and contributors are translating
+materials into their local languages. The last major step prior to
+opening data collection for these studies is a pre-registration of the
+003 analysis plan, which should be complete in the next few weeks! [002
+Preprint](https://psyarxiv.com/t2pjv){target="_blank"}
+
+## 004 TRUE BELIEF
+
+We received a second, and relatively minor, revise and resubmit from
+*Advances in Methods and Practices in Psychological Science*. Braeden
+Hall is leading the revision efforts, and we think we are quite close to
+securing an in principle acceptance! [004
+Preprint](https://psyarxiv.com/zeux9){target="_blank"}
+
+## 005 STEREOTYPE THREAT
+
+Labs are securing IRB approval, the lead team is finalizing the adaptive
+design that will be used to distribute participants across conditions,
+and all collaborators are currently providing feedback on the Stage 1
+Registered Report manuscript.
+
+## 006 TROLLEY PROBLEM
+
+After multiple rounds of contributor feedback, Bence and Balazs
+submitted the Stage 1 Registered Report manuscript to *Nature Human
+Behaviour*. Fingers crossed for a quick and positive peer review
+experience, and congratulations to all co-authors on making it to this
+big milestone for the project! Labs are securing IRB approval at a fast
+rate, and we are just about to begin our translation process in earnest,
+led by Chuan-Peng Hu, who will be coordinating translations for the
+study. [006 Preprint](https://psyarxiv.com/9uaqm/){target="_blank"}
+
+## GRANT APPLICATIONS
+
+-   We should hear back on our NSF submission in the next few months. If
+    we receive this grant, we will be able to hire 2 full time research
+    coordinators.
+-   The line-up is set for our Synergy grant submission. Hans IJzerman
+    is leading a team including EJ Wagenmakers, Lisa DeBruine, Ben
+    Jones, Denny Borsboom, and John Ioannidis in drafting this
+    submission.
+-   Bence Bagó, Balazs Aczel, and Rink Hoekstra are working on a grant
+    application for the NWO replication stream to further expand the 006
+    study to more non-student samples.
+-   Neil Lewis Jr. is leading a team to apply for 005 project specific
+    funding through the William T. Grant Foundation.
+
+## INTERESTING OPPORTUNITIES AND PROJECTS SEEKING COLLABORATORS
+
+-   The EEG Many Labs study leaders now welcome study nominations for
+    the project. You can nominate a study using [this
+    form](https://docs.google.com/forms/d/e/1FAIpQLSfthvBRX6ckt_72UfQAWouz21yqcCVparauacA6zByFZbYkRg/viewform){target="_blank"}.
+-   In-Mind Foundation is reorganizing and is seeking Assistant
+    Directors. Here is the [interest
+    form](https://docs.google.com/forms/d/e/1FAIpQLSc0WTRtKpaxBxrQtOe6QJ285xjtkznuWfZPla8gDa7he9KMCw/viewform){target="_blank"}.
+-   Jess Flake (PSA Data and Methods Assistant Director) is hiring a
+    post-doc in quant psych and modeling. [Ad
+    here](https://docs.wixstatic.com/ugd/6fed94_b80f5043d0b345a6adbbd44373d58ff6.pdf){target="_blank"}.
+

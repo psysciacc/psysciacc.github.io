@@ -1,138 +1,176 @@
 ---
 title: "News from the Accelerator - August & September 2020"
+author: "Chris Chartier"
 date: 2020-10-02
+categories:
+  - monthly update
 ---
 
-<!-- wp:paragraph -->
-<p>Today’s newsletter is double-sized, summarizing PSA activities from both August and September. It was a fun and busy 62 days with an election, some exciting news on publications, our first conference, and much more detailed below. As always, thank you for everything you do to accelerate psychological science. Happy reading!!</p>
-<!-- /wp:paragraph -->
+Today's newsletter is double-sized, summarizing PSA activities from both
+August and September. It was a fun and busy 62 days with an election,
+some exciting news on publications, our first conference, and much more
+detailed below. As always, thank you for everything you do to accelerate
+psychological science. Happy reading!!
 
-<!-- wp:paragraph -->
-<p><strong>Associate Director Election Results</strong></p>
-<!-- /wp:paragraph -->
+## Associate Director Election Results
 
-<!-- wp:paragraph -->
-<p>We had two excellent candidates in our election for an open Associate Director position: Peter Mallik and John Protzko. Please join us in congratulating John Protzko as our new Associate Director following an extremely close network vote. We look forward to seeing the vision and energy that John will bring to this new role. We also thank Peter for running, and are thrilled to continue working closely with him in other PSA roles! </p>
-<!-- /wp:paragraph -->
+We had two excellent candidates in our election for an open Associate
+Director position: Peter Mallik and John Protzko. Please join us in
+congratulating John Protzko as our new Associate Director following an
+extremely close network vote. We look forward to seeing the vision and
+energy that John will bring to this new role. We also thank Peter for
+running, and are thrilled to continue working closely with him in other
+PSA roles!
 
-<!-- wp:paragraph -->
-<p><strong>Get to know John Protozko:</strong> He is a metascientist at the University of California, Santa Barbra. He participated in PSA001 on data collection and is the PM on PSA006. His research interest is in causality as it applies to people and the implications for theory in fields such as cognitive development, social perception, and metascience. He. Loves. Food. and will travel the world for it.</p>
-<!-- /wp:paragraph -->
+**Get to know John Protozko:** He is a metascientist at the University
+of California, Santa Barbra. He participated in PSA001 on data
+collection and is the PM on PSA006. His research interest is in
+causality as it applies to people and the implications for theory in
+fields such as cognitive development, social perception, and
+metascience. He. Loves. Food. and will travel the world for it.
 
-<!-- wp:paragraph -->
-<p><strong>PSA 2020 Conference</strong></p>
-<!-- /wp:paragraph -->
+## PSA 2020 Conference
 
-<!-- wp:paragraph -->
-<p>The first ever PSA conference is in the books, and we had tons of fun! Thank you so much to all of the organizers, presenters, moderators, hackers, and attendees for making this first meeting a success. Over the span of three days, multiple people presented studies and research on a wide variety of content, and others tuned in to listen to these talks from all over the world. If you weren't able to make it this year, or had to miss a session, each of the talks were recorded, and are available to watch <a href="https://psysciacc.org/psacon2020-videos/">here</a>. All videos that were successfully recorded have been uploaded (although some have been lost 😢 ).</p>
-<!-- /wp:paragraph -->
+The first ever PSA conference is in the books, and we had tons of fun!
+Thank you so much to all of the organizers, presenters, moderators,
+hackers, and attendees for making this first meeting a success. Over the
+span of three days, multiple people presented studies and research on a
+wide variety of content, and others tuned in to listen to these talks
+from all over the world. If you weren\'t able to make it this year, or
+had to miss a session, each of the talks were recorded, and are
+available to watch [here](https://psysciacc.org/psacon2020-videos/). All
+videos that were successfully recorded have been uploaded (although some
+have been lost 😢 ).
 
-<!-- wp:paragraph -->
-<p>Whether you attended the conference or not we would like to provide feedback by taking this short <a href="https://psysciacc.org/psacon2020-feedback-survey/">survey</a>! We believe that each person in our network has a valuable opinion on the conference that we would like to learn more about as we consider the possibility of hosting another one in the future.</p>
-<!-- /wp:paragraph -->
+Whether you attended the conference or not we would like to provide
+feedback by taking this short
+[survey](https://psysciacc.org/psacon2020-feedback-survey/)! We believe
+that each person in our network has a valuable opinion on the conference
+that we would like to learn more about as we consider the possibility of
+hosting another one in the future.
 
-<!-- wp:paragraph -->
-<p><strong>Study Updates</strong></p>
-<!-- /wp:paragraph -->
+## Study Updates
 
-<!-- wp:list -->
-<ul><li><strong>PSA 001:</strong> The stage 2 (final) paper was accepted at <em>Nature Human Behaviour</em> with only minor formatting edits required before publication!!!!!!!!!! This marks the true completion of our first ever study at the PSA.</li></ul>
-<!-- /wp:list -->
+-   **PSA 001:** The stage 2 (final) paper was accepted at *Nature Human
+    Behaviour* with only minor formatting edits required before
+    publication!!!!!!!!!! This marks the true completion of our first
+    ever study at the PSA.
+-   **PSA 002/003-** The 002 and 003 teams are in the final stages of
+    moving our experiments from Open Sesame/Qualtrics to Lab.JS. Thanks
+    to the hard work of Merle Schuckart, we have drafts of the new
+    programs and are in the process of ensuring that the web versions of
+    the studies retain fidelity to the original protocols and
+    troubleshooting the studies. The new version of the experiment
+    should fully integrate both the 002 and 003 procedures into one
+    online protocol, greatly simplifying future data collection.
+-   **PSA 004:** Data collection is still going on and will wrap up at
+    the end of the year! We do however need more CREP reviewers as we
+    wrap up this project at the end of the year. CREP reviewers look
+    over each lab's OSF page to ensure that each lab is performing the
+    study as planned. If you or someone else is interested please have
+    them fill out this
+    [form](https://docs.google.com/forms/d/e/1FAIpQLSdB7BDtPSI6q_7UxeUcqy4EKNxtYazZwR7P9SVbVKmd6rFBlg/viewform).
+-   **PSA 005:** We have finished our latest revision of the stage 1
+    manuscript based on our communications with the editor. This should
+    be the last revision before stage 1 acceptance. The newest revisions
+    were submitted on Wednesday!!!!
+-   **PSA 006:** 006 will continue data collection through the end
+    of 2020. We have collected lots of great data from all of our
+    members and are excited to see this study through to the end.
+-   **PSA 007:** PSA's new project: Semantic Priming Across Many
+    Languages (SPAML) is just getting started. Learn more by checking
+    out the presentation from the conference: [click
+    here](https://docs.google.com/presentation/d/1LxoMhicyxiVaRNv_3siMs5-1syTPgl24lEws6rR32oc/edit#slide=id.p)!
+    The words2manylanguages part of the project is currently recruiting
+    all kinds of help. We are trying to create a repository of datasets
+    to use as our criterion for the modeling section of this project. We
+    downloaded a bunch of them, but we need to clean them up to a
+    consistent format (naming, csv column names synced, etc.). Anyone
+    who's interested in helping will be given credit via CREDIT (so this
+    task would count + reviewing the paper for authorship). You can
+    email buchananlab@gmail.com. Join slack or email to be kept updated
+    on the two other pre-projects, more announcements on those soon. All
+    three will need to be completed as part of the design for the full
+    007 project.
+-   **PSACR 001/002/003:** Data collection is complete for PSACR 001 and
+    003, and PSACR 002 data collection is ending on October 23rd. A
+    summary of data collected is available here
+    <http://formr.psysciacc.org/shiny/shiny_app/>!
 
-<!-- wp:list -->
-<ul><li><strong>PSA 002/003-</strong> The 002 and 003 teams are in the final stages of moving our experiments from Open Sesame/Qualtrics to Lab.JS. Thanks to the hard work of Merle Schuckart, we have drafts of the new programs and are in the process of ensuring that the web versions of the studies retain fidelity to the original protocols and troubleshooting the studies. The new version of the experiment should fully integrate both the 002 and 003 procedures into one online protocol, greatly simplifying future data collection.</li></ul>
-<!-- /wp:list -->
+## Director's Statement Installments
 
-<!-- wp:list -->
-<ul><li><strong>PSA 004:</strong> Data collection is still going on and will wrap up at the end of the year! We do however need more CREP reviewers as we wrap up this project at the end of the year. CREP reviewers look over each lab’s OSF page to ensure that each lab is performing the study as planned. If you or someone else is interested please have them fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdB7BDtPSI6q_7UxeUcqy4EKNxtYazZwR7P9SVbVKmd6rFBlg/viewform">form</a>.</li></ul>
-<!-- /wp:list -->
+Chris is releasing a Director's Statement in individual
+posts/installments to solicit feedback and ultimately guide priorities
+and activities for the remainder of his Directorship with the PSA. You
+can read the opening letter here and see the planned section titles with
+tentative release dates
+[here](https://docs.google.com/document/d/15NEidpsYOAB77ZaZIgwhJ0OIBaw9_lPuQlfPlCrJ34s/edit?usp=sharing)!
 
-<!-- wp:list -->
-<ul><li><strong>PSA 005:</strong> We have finished our latest revision of the stage 1 manuscript based on our communications with the editor. This should be the last revision before stage 1 acceptance. The newest revisions were submitted on Wednesday!!!!</li></ul>
-<!-- /wp:list -->
+## Community Building Update
 
-<!-- wp:list -->
-<ul><li><strong>PSA 006: </strong>006 will continue data collection through the end of 2020. We have collected lots of great data from all of our members and are excited to see this study through to the end.</li></ul>
-<!-- /wp:list -->
+At the end of December 2020, Crystal Steltenpohl will be stepping down
+as an Assistant Director of the Community Building and Network Expansion
+Committee. Her announcement reads:
 
-<!-- wp:list -->
-<ul><li><strong>PSA 007:</strong> PSA’s new project: Semantic Priming Across Many Languages (SPAML) is just getting started. Learn more by checking out the presentation from the conference: <a href="https://docs.google.com/presentation/d/1LxoMhicyxiVaRNv_3siMs5-1syTPgl24lEws6rR32oc/edit#slide=id.p">click here</a>! The words2manylanguages part of the project is currently recruiting all kinds of help. We are trying to create a repository of datasets to use as our criterion for the modeling section of this project. We downloaded a bunch of them, but we need to clean them up to a consistent format (naming, csv column names synced, etc.). Anyone who’s interested in helping will be given credit via CREDIT (so this task would count + reviewing the paper for authorship). You can email buchananlab@gmail.com. Join slack or email to be kept updated on the two other pre-projects, more announcements on those soon. All three will need to be completed as part of the design for the full 007 project.</li></ul>
-<!-- /wp:list -->
+> I look forward to seeing what new energy the next assistant director
+will bring. I have really enjoyed working with Natalia Dutra on this
+committee, whose goals of diversity, inclusion, and community building
+in the PSA are close to my heart. Of course, even as a non-assistant
+director, I will still be involved and support the CBNEC. The director
+group is so awesome and open to feedback. I don\'t usually look forward
+to committee meetings but the all hands meetings are fun and productive
+and informative. The general PSA meetings remind me of why I got into
+science. We have an awesome, collaborative community full of talented
+people from across the globe.
 
-<!-- wp:list -->
-<ul><li><strong>PSACR 001/002/003:</strong> Data collection is complete for PSACR 001 and 003, and PSACR 002 data collection is ending on October 23rd. A summary of data collected is available here <a href="http://formr.psysciacc.org/shiny/shiny_app/">http://formr.psysciacc.org/shiny/shiny_app/</a>!</li></ul>
-<!-- /wp:list -->
+> While I have no control over who takes my place, I really hope folks
+from non-US/CA/EU areas consider going for the position. Having someone
+from these geographic regions in a leadership role, especially for this
+committee, is crucial for PSA\'s growth and development. I will miss
+being CBNEC assistant director but I am SO excited about seeing where
+new leadership can take this committee and the PSA more generally.
 
-<!-- wp:paragraph -->
-<p><strong>Director’s Statement Installments&nbsp;</strong></p>
-<!-- /wp:paragraph -->
+> If you think you might be even kinda sorta interested in this position,
+please DM me on Slack or email me at cnsteltenp@usi.edu! I\'d love to
+chat about the group and brainstorm on where it can go from here!
 
-<!-- wp:paragraph -->
-<p>Chris is releasing a Director’s Statement in individual posts/installments to solicit feedback and ultimately guide priorities and activities for the remainder of his Directorship with the PSA. You can read the opening letter here and see the planned section titles with tentative release dates <a href="https://docs.google.com/document/d/15NEidpsYOAB77ZaZIgwhJ0OIBaw9_lPuQlfPlCrJ34s/edit?usp=sharing">here</a>!</p>
-<!-- /wp:paragraph -->
+## Data and Methods Update
 
-<!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:paragraph -->
-<p><strong>Community Building Update</strong></p>
-<!-- /wp:paragraph -->
+We have some pretty exciting things happening in the Data and Methods
+Committee! We have added a new member to our ranks, Will McAuffille, and
+we are ecstatic to get to work more with him! We\'ve started up a
+subcommittee on meta science that our very own Nick Fox is leading.
+Lastly, we are currently in the midst of a flurry of activity and
+progress on the measurement study related to PSA 006.
 
-<!-- wp:paragraph -->
-<p>At the end of December 2020, Crystal Steltenpohl will be stepping down as an Assistant Director of the Community Building and Network Expansion Committee. Her announcement reads: </p>
-<!-- /wp:paragraph -->
+### Secondary Analysis Challenge
 
-<!-- wp:paragraph -->
-<p>“I look forward to seeing what new energy the next assistant director will bring. I have really enjoyed working with Natalia Dutra on this committee, whose goals of diversity, inclusion, and community building in the PSA are close to my heart. Of course, even as a non-assistant director, I will still be involved and support the CBNEC. The director group is so awesome and open to feedback. I don't usually look forward to committee meetings but the all hands meetings are fun and productive and informative. The general PSA meetings remind me of why I got into science. We have an awesome, collaborative community full of talented people from across the globe.</p>
-<!-- /wp:paragraph -->
+A year after the secondary analysis challenge was announced we have
+posted the results and submissions! We are proud to announce that it
+seems to have been a success as we had 8 submissions, and we learned new
+information from each of them. Each submission script was checked for
+computational reproducibility by two members of our team (Abigail Noyce
+and Patrick Forscher). To read more, please visit the
+[blogpost](https://psysciacc.org/2020/09/14/incentivizing-discovery-through-the-psa001-secondary-analysis-challenge/)!
 
-<!-- wp:paragraph -->
-<p>While I have no control over who takes my place, I really hope folks from non-US/CA/EU areas consider going for the position. Having someone from these geographic regions in a leadership role, especially for this committee, is crucial for PSA's growth and development. I will miss being CBNEC assistant director but I am SO excited about seeing where new leadership can take this committee and the PSA more generally.</p>
-<!-- /wp:paragraph -->
+## IT'S THE MAP!!!
 
-<!-- wp:paragraph -->
-<p>If you think you might be even kinda sorta interested in this position, please DM me on Slack or email me at cnsteltenp@usi.edu! I'd love to chat about the group and brainstorm on where it can go from here!"&nbsp;&nbsp;</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:group -->
+Nicholas Coles has updated our membership map and it looks sick! We
+continue to grow as a network day by day but it had been some time since
+we had updated the map. The previous map had us at 760 researchers and
+now we are up to 1021 and counting. Head over to
+the [website](https://psysciacc.org/map/) to take a gander out how much
+we have grown!
 
-<!-- wp:paragraph -->
-<p><strong>Data and Methods Update</strong></p>
-<!-- /wp:paragraph -->
+![](https://lh6.googleusercontent.com/3IALVbEFGHEUb_0elMR9IKRfxRgxV2XU-IFcJcGeTMNEn6SLVh10ajAo8OTRGr_dTUdJRo019bjUlud_zleUk1vM_05sk1WdT0KRtC2pX-ZBbaqa8XSxLl-LAonyPfaFebqIHg4d)
 
-<!-- wp:paragraph -->
-<p>We have some pretty exciting things happening in the Data and Methods Committee! We have added a new member to our ranks, Will McAuffille, and we are ecstatic to get to work more with him! We've started up a subcommittee on meta science that our very own Nick Fox is leading. Lastly, we are currently in the midst of a flurry of activity and progress on the measurement study related to PSA 006.&nbsp;</p>
-<!-- /wp:paragraph -->
+## Cool articles:
 
-<!-- wp:paragraph -->
-<p><strong>Secondary Analysis Challenge</strong></p>
-<!-- /wp:paragraph -->
+-   [Open science, communal culture, and women's participation in the
+    movement to improve
+    science](https://www.pnas.org/content/117/39/24154){target="_blank"}
+-   [Opening Up Psychological
+    Science](https://katarsisuib.no/opening-up-psychological-science/)
+-   [Massive Collaboration: John Brock goes inside the Psychological
+    Science Accelerator](https://thepsychologist.bps.org.uk/volume-33/october-2020/massive-collaboration)
 
-<!-- wp:paragraph -->
-<p>A year after the secondary analysis challenge was announced we have posted the results and submissions! We are proud to announce that it seems to have been a success as we had 8 submissions, and we learned new information from each of them. Each submission script was checked for computational reproducibility by two members of our team (Abigail Noyce and Patrick Forscher). To read more, please visit the <a href="https://psysciacc.org/2020/09/14/incentivizing-discovery-through-the-psa001-secondary-analysis-challenge/">blogpost</a>!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>IT’S THE MAP!!!</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Nicholas Coles has updated our membership map and it looks sick! We continue to grow as a network day by day but it had been some time since we had updated the map. The previous map had us at 760 researchers and now we are up to 1021 and counting. Head over to the&nbsp;<a href="https://psysciacc.org/map/">website</a> to take a gander out how much we have grown!&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://lh6.googleusercontent.com/3IALVbEFGHEUb_0elMR9IKRfxRgxV2XU-IFcJcGeTMNEn6SLVh10ajAo8OTRGr_dTUdJRo019bjUlud_zleUk1vM_05sk1WdT0KRtC2pX-ZBbaqa8XSxLl-LAonyPfaFebqIHg4d" alt=""/></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p><strong>Cool articles:&nbsp;</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><li><a rel="noreferrer noopener" href="https://www.pnas.org/content/117/39/24154" target="_blank">Open science, communal culture, and women’s participation in the movement to improve science</a></li></ul>
-<!-- /wp:list -->
-
-<!-- wp:list -->
-<ul><li><a href="https://katarsisuib.no/opening-up-psychological-science/">Opening Up Psychological Science</a></li></ul>
-<!-- /wp:list -->
-
-<!-- wp:list -->
-<ul><li><a href="https://thepsychologist.bps.org.uk/volume-33/october-2020/massive-collaboration">Massive Collaboration: John Brock goes inside the Psychological Science Accelerator</a> </li></ul>
-<!-- /wp:list -->

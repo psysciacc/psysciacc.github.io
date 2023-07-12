@@ -1,92 +1,155 @@
 ---
 title: "How many resources does the PSA possess?"
+author: "Chris Chartier"
 date: 2020-12-04
 ---
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><em>Patrick S. Forscher, Bastien Paris, and Hans IJzerman</em></p>
-<!-- /wp:paragraph -->
+*Patrick S. Forscher, Bastien Paris, and Hans IJzerman*
 
-<!-- wp:paragraph -->
-<p>How many resources does the PSA possess? This is a question that affects many activities within the PSA -- prime among them the annual decision of how many studies the PSA is able to accept. Here are a few other examples:</p>
-<!-- /wp:paragraph -->
+How many resources does the PSA possess? This is a question that affects
+many activities within the PSA \-- prime among them the annual decision
+of how many studies the PSA is able to accept. Here are a few other
+examples:
 
-<!-- wp:list -->
-<ul><li>People involved in the selection of studies must decide whether the PSA can feasibly support studies with special requirements, such as a proposal to conduct a multi-site EEG project or a project involving a low-prevalence (and therefore difficult to recruit) population.&nbsp;</li><li>People involved in writing PSA-focused grants must be able to accurately describe the size and scale of the network to make their grant arguments and planning concrete.&nbsp;</li><li>People involved in managing the PSA’s finances need to know the people and projects that have the highest financial need.&nbsp;</li><li>People involved in regional recruitment need to know how many members are currently located in a specific world region and the number of participants those members can muster for a typical PSA study.&nbsp;</li></ul>
-<!-- /wp:list -->
+-   People involved in the selection of studies must decide whether the
+    PSA can feasibly support studies with special requirements, such as
+    a proposal to conduct a multi-site EEG project or a project
+    involving a low-prevalence (and therefore difficult to recruit)
+    population. 
+-   People involved in writing PSA-focused grants must be able to
+    accurately describe the size and scale of the network to make their
+    grant arguments and planning concrete. 
+-   People involved in managing the PSA's finances need to know the
+    people and projects that have the highest financial need. 
+-   People involved in regional recruitment need to know how many
+    members are currently located in a specific world region and the
+    number of participants those members can muster for a typical PSA
+    study. 
 
-<!-- wp:paragraph -->
-<p>In its first three years, we have had to rely on ad hoc sources to answer questions about PSA resources. Today, with the release of the PSA’s first <a href="https://psyarxiv.com/v9zma">study capacity report</a>, we now have a source that is more systematic. This blog describes the logic that underlies the report, gives some of its top-level findings, and outlines what we plan to do with the report now that we have it.</p>
-<!-- /wp:paragraph -->
+In its first three years, we have had to rely on ad hoc sources to
+answer questions about PSA resources. Today, with the release of the
+PSA's first [study capacity report](https://psyarxiv.com/v9zma), we now
+have a source that is more systematic. This blog describes the logic
+that underlies the report, gives some of its top-level findings, and
+outlines what we plan to do with the report now that we have it.
 
-<!-- wp:paragraph -->
-<p><strong>How to think about and report on PSA resources</strong></p>
-<!-- /wp:paragraph -->
+**How to think about and report on PSA resources**
 
-<!-- wp:paragraph -->
-<p>The PSA’s most basic activity is running multi-site studies, and one of the most fundamental resource-dependent decisions PSA leadership must make is how many proposals for these multi-site studies the PSA will accept. Thus, a single multi-site study provides a useful yardstick for measuring and thinking about PSA resources.</p>
-<!-- /wp:paragraph -->
+The PSA's most basic activity is running multi-site studies, and one of
+the most fundamental resource-dependent decisions PSA leadership must
+make is how many proposals for these multi-site studies the PSA will
+accept. Thus, a single multi-site study provides a useful yardstick for
+measuring and thinking about PSA resources.
 
-<!-- wp:paragraph -->
-<p>The PSA’s newly-ratified <a href="https://docs.google.com/document/d/1hdJesAgxjhgjRUUXFd3QQDcfouRPH1W2sdZRKlxbsME/edit#">resource capacity policy</a> takes just such an approach. It considers PSA resources from the perspective of helping PSA leadership decide how many studies they should accept in a given year. From this perspective, the most basic unit of analysis is the <strong><em>study submission slot</em></strong>, a promise by the PSA to take on a new multi-site study. Study submission slots are limited by at least two types of resources:</p>
-<!-- /wp:paragraph -->
+The PSA's newly-ratified [resource capacity
+policy](https://docs.google.com/document/d/1hdJesAgxjhgjRUUXFd3QQDcfouRPH1W2sdZRKlxbsME/edit#)
+takes just such an approach. It considers PSA resources from the
+perspective of helping PSA leadership decide how many studies they
+should accept in a given year. From this perspective, the most basic
+unit of analysis is the ***study submission slot***, a promise by the
+PSA to take on a new multi-site study. Study submission slots are
+limited by at least two types of resources:
 
-<!-- wp:list {"ordered":true} -->
-<ol><li><strong>Data collection capacity</strong>. This is the PSA’s ability to recruit participants for multi-site studies. Data collection capacity is mainly governed by the number of PSA members located in psychology labs throughout the world. However, money can also expand the PSA’s data collection capacity; the PSA has occasionally contracted with panel-provider firms to recruit participants on its behalf.</li><li><strong>Administrative capacity</strong>. This is the PSA’s ability to perform the administrative tasks required to support multi-site studies. Administrative capacity is mainly governed by the availability of labor, whether that labor be paid or volunteer.</li></ol>
-<!-- /wp:list -->
+1.  **Data collection capacity**. This is the PSA's ability to recruit
+    participants for multi-site studies. Data collection capacity is
+    mainly governed by the number of PSA members located in psychology
+    labs throughout the world. However, money can also expand the PSA's
+    data collection capacity; the PSA has occasionally contracted with
+    panel-provider firms to recruit participants on its behalf.
+2.  **Administrative capacity**. This is the PSA's ability to perform
+    the administrative tasks required to support multi-site studies.
+    Administrative capacity is mainly governed by the availability of
+    labor, whether that labor be paid or volunteer.
 
-<!-- wp:paragraph -->
-<p>The resource capacity policy also allows for the possibility of study slots that add on special requirements or evaluation criteria. These <strong>special submission slots</strong> might require, for example, that any studies submitted for consideration to that slot involve EEG equipment. Alternatively, the slots might require that the submitted studies involve investigating the <a href="https://psysciacc.org/2020/03/13/the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19/">psychological aspects of the Covid-19 pandemic</a>. We will go into more detail about how we think about these special submission slots in a later post. For the time being, we simply note that assessing our resource capacity will allow us to understand the sorts of special submission slots we can accommodate.</p>
-<!-- /wp:paragraph -->
+The resource capacity policy also allows for the possibility of study
+slots that add on special requirements or evaluation criteria. These
+**special submission slots** might require, for example, that any
+studies submitted for consideration to that slot involve EEG equipment.
+Alternatively, the slots might require that the submitted studies
+involve investigating the [psychological aspects of the Covid-19
+pandemic](https://psysciacc.org/2020/03/13/the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19/).
+We will go into more detail about how we think about these special
+submission slots in a later post. For the time being, we simply note
+that assessing our resource capacity will allow us to understand the
+sorts of special submission slots we can accommodate.
 
-<!-- wp:paragraph -->
-<p>The PSA’s data collection and administrative capacities are both in flux. The PSA’s ability to accommodate more specialized types of studies also fluctuates on a yearly basis. Moreover, the PSA is committed to the cultural and national diversity of psychology research -- activities that are dependent on its reach in under-resourced countries. Accurate assessment of all these capacities therefore requires ongoing documentation of its members, member characteristics (including country of origin), and its yearly activities. Currently, our documentation happens in a shared Google Drive, Slack, the PSA’s <a href="https://osf.io/93qpg/">OSF project</a> and the subprojects for each of its studies, and the recently-created <a href="https://member.psysciacc.org/login.php">PSA member website</a>.</p>
-<!-- /wp:paragraph -->
+The PSA's data collection and administrative capacities are both in
+flux. The PSA's ability to accommodate more specialized types of studies
+also fluctuates on a yearly basis. Moreover, the PSA is committed to the
+cultural and national diversity of psychology research \-- activities
+that are dependent on its reach in under-resourced countries. Accurate
+assessment of all these capacities therefore requires ongoing
+documentation of its members, member characteristics (including country
+of origin), and its yearly activities. Currently, our documentation
+happens in a shared Google Drive, Slack, the PSA's [OSF
+project](https://osf.io/93qpg/) and the subprojects for each of its
+studies, and the recently-created [PSA member
+website](https://member.psysciacc.org/login.php).
 
-<!-- wp:paragraph -->
-<p>According to policy, these various sources of documentation are consulted in a comprehensive way to form a complete picture of the PSA’s resources. This consultation results in an annual <a href="https://docs.google.com/document/d/1NwpQExliifmHO9tN29JhPmO_ET8AL0vc/edit#heading=h.94zix9b3m9x0"><strong>&nbsp;study capacity report</strong></a>, which can inform decisions and activities involving the PSA’s resources.</p>
-<!-- /wp:paragraph -->
+According to policy, these various sources of documentation are
+consulted in a comprehensive way to form a complete picture of the PSA's
+resources. This consultation results in an annual [** study capacity
+report**](https://docs.google.com/document/d/1NwpQExliifmHO9tN29JhPmO_ET8AL0vc/edit#heading=h.94zix9b3m9x0),
+which can inform decisions and activities involving the PSA's resources.
 
-<!-- wp:paragraph -->
-<p><strong>Findings from the first study capacity report</strong></p>
-<!-- /wp:paragraph -->
+**Findings from the first study capacity report**
 
-<!-- wp:paragraph -->
-<p>The first PSA study capacity report is large and comprehensive. Here are some big-picture findings:</p>
-<!-- /wp:paragraph -->
+The first PSA study capacity report is large and comprehensive. Here are
+some big-picture findings:
 
-<!-- wp:list -->
-<ul><li>The PSA currently has 1,400+ members from 71 countries.</li><li>Out of seven studies, six are still underway collecting data.</li><li>Based on our past data collection capacity, we have the ability to recruit a minimum of 20,000 participants over the upcoming scholarly year for new PSA projects.</li><li>Two out of three PSA members come from North America (24%) and Western Europe (41%).&nbsp;</li><li>We do not have sufficient information to accurately estimate the number of administrative hours available for each PSA role.</li></ul>
-<!-- /wp:list -->
+-   The PSA currently has 1,400+ members from 71 countries.
+-   Out of seven studies, six are still underway collecting data.
+-   Based on our past data collection capacity, we have the ability to
+    recruit a minimum of 20,000 participants over the upcoming scholarly
+    year for new PSA projects.
+-   Two out of three PSA members come from North America (24%) and
+    Western Europe (41%). 
+-   We do not have sufficient information to accurately estimate the
+    number of administrative hours available for each PSA role.
 
-<!-- wp:paragraph -->
-<p>However, these big-picture findings hide a lot of important detail that may be important for PSA decision-making. For example, here are a few additional tidbits that come out of the report:</p>
-<!-- /wp:paragraph -->
+However, these big-picture findings hide a lot of important detail that
+may be important for PSA decision-making. For example, here are a few
+additional tidbits that come out of the report:
 
-<!-- wp:list -->
-<ul><li>The number of PSA member registrations almost tripled as a result of the COVID-Rapid project.</li><li>At the time of the report’s writing, and excluding PSA007, the PSA will need to recruit 30,000 participants to complete its active roster of projects.</li><li>About 20% of the PSA’s membership have a social psychology focus area.</li><li>About 90% of people in active PSA administrative roles are located in North America (63%) and Western Europe (21%).</li></ul>
-<!-- /wp:list -->
+-   The number of PSA member registrations almost tripled as a result of
+    the COVID-Rapid project.
+-   At the time of the report's writing, and excluding PSA007, the PSA
+    will need to recruit 30,000 participants to complete its active
+    roster of projects.
+-   About 20% of the PSA's membership have a social psychology focus
+    area.
+-   About 90% of people in active PSA administrative roles are located
+    in North America (63%) and Western Europe (21%).
 
-<!-- wp:paragraph -->
-<p>If you’re interested in digging into more of these details, you can find the full report <a href="https://psyarxiv.com/v9zma">here</a>.</p>
-<!-- /wp:paragraph -->
+If you're interested in digging into more of these details, you can find
+the full report [here](https://psyarxiv.com/v9zma).
 
-<!-- wp:paragraph -->
-<p><strong>What’s next?</strong></p>
-<!-- /wp:paragraph -->
+**What's next?**
 
-<!-- wp:paragraph -->
-<p>As outlined by policy, the main purpose of the report is to inform decisions about how many studies the PSA can accept in the next wave of study submissions. Thus, an important next step for this report is for the upper-level leadership to use the report to come to a decision about study submission slots.</p>
-<!-- /wp:paragraph -->
+As outlined by policy, the main purpose of the report is to inform
+decisions about how many studies the PSA can accept in the next wave of
+study submissions. Thus, an important next step for this report is for
+the upper-level leadership to use the report to come to a decision about
+study submission slots.
 
-<!-- wp:paragraph -->
-<p>However, the study capacity report has already catalyzed a number of ongoing conversations about what the PSA is, what it should be in the future, and how the PSA should go about meeting its aspirations for itself. Some of these conversations have resulted in their own dedicated blog posts, which will be posted to the PSA blog in the next few days.</p>
-<!-- /wp:paragraph -->
+However, the study capacity report has already catalyzed a number of
+ongoing conversations about what the PSA is, what it should be in the
+future, and how the PSA should go about meeting its aspirations for
+itself. Some of these conversations have resulted in their own dedicated
+blog posts, which will be posted to the PSA blog in the next few days.
 
-<!-- wp:paragraph -->
-<p>In the meantime, we welcome your thoughts about the PSA’s study capacity and issues related to it. We believe that compiling this report has been a useful exercise precisely because the process of compiling the report has inspired so many useful conversations about the PSA’s direction and goals. This reinforces our commitment to maintaining this useful reporting structure in future years.</p>
-<!-- /wp:paragraph -->
+In the meantime, we welcome your thoughts about the PSA's study capacity
+and issues related to it. We believe that compiling this report has been
+a useful exercise precisely because the process of compiling the report
+has inspired so many useful conversations about the PSA's direction and
+goals. This reinforces our commitment to maintaining this useful
+reporting structure in future years.
 
-<!-- wp:paragraph -->
-<p>---<br><strong><em>Funding Note: </em></strong><em>The study capacity report was made possible via the work of Bastien Paris; his internship at Université Grenoble Alpes is funded by a grant provided by the Psychological Science Accelerator. Patrick S. Forscher is paid via a French National Research Agency “Investissements d’avenir” program grant (ANR-15-IDEX-02) awarded to Hans IJzerman.</em></p>
-<!-- /wp:paragraph -->
+\-\--\
+***Funding Note:*** *The study capacity report was made possible via the
+work of Bastien Paris; his internship at Université Grenoble Alpes is
+funded by a grant provided by the Psychological Science Accelerator.
+Patrick S. Forscher is paid via a French National Research Agency
+"Investissements d'avenir" program grant (ANR-15-IDEX-02) awarded to
+Hans IJzerman.*
+

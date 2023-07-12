@@ -1,84 +1,138 @@
 ---
 title: "News from the Accelerator- June 2021"
+author: "Svannah Lewis"
 date: 2021-07-02
+categories:
+  - monthly update
 ---
 
-<!-- wp:list {"className":"is-style-default"} -->
-<ul class="is-style-default"><li><strong><span style="text-decoration: underline;">Study Updates:</span></strong><ul><li><strong>PSA-002 (Object Orientation) PSA-003 (Gendered Prejudice): </strong>Data collection for 002 and 003 is officially complete! The 002 and 003 teams are now working on data cleaning and executing our pre-registered analysis plans. The lead team will be reaching out to the data collection teams for help with the coding of text responses soon.</li><li><strong>PSA-004 (Accelerated CREP)</strong>: The leadership team is currently working on data processing, data analysis, and authorship credit tracking.</li><li><strong>PSA-005 (Stereotype Threat):</strong> Given the progress of vaccination in the US we are hoping to collect data in the fall! We are compiling a survey of collaborators to gather information on what different universities are doing with in-person data collection this fall. If you haven’t already received this survey you should soon!</li><li><strong>PSA-006 (Trolley Problem): </strong>The lead team has submitted the Stage II submission to Nature Human Behavior.</li><li><strong>PSA-007 (SPAM-L): </strong>PSA 007: SPAML is still recruiting collaborators, with contribution opportunities available through the Words2Many and Subs2Strudel pre-projects. If you are interested in becoming a collaborator or want to learn more about 007 please e-mail us at: 007spaml@gmail.com</li><li><strong>PSA-COVID Rapid Bundle (001/002/003)</strong>:<ul><li>PSACR002 was accepted for publication at Nature Human Behavior!</li><li>PSACR001 and PSACR003 are both working towards publication, and will share updates and drafts soon! (PSACR001 was rejected at PNAS) </li></ul></li></ul></li></ul>
-<!-- /wp:list -->
+-   **[Study Updates:]{style="text-decoration: underline;"}**
+    -   **PSA-002 (Object Orientation) PSA-003 (Gendered Prejudice):**
+        Data collection for 002 and 003 is officially complete! The 002
+        and 003 teams are now working on data cleaning and executing our
+        pre-registered analysis plans. The lead team will be reaching
+        out to the data collection teams for help with the coding of
+        text responses soon.
+    -   **PSA-004 (Accelerated CREP)**: The leadership team is currently
+        working on data processing, data analysis, and authorship credit
+        tracking.
+    -   **PSA-005 (Stereotype Threat):** Given the progress of
+        vaccination in the US we are hoping to collect data in the fall!
+        We are compiling a survey of collaborators to gather information
+        on what different universities are doing with in-person data
+        collection this fall. If you haven't already received this
+        survey you should soon!
+    -   **PSA-006 (Trolley Problem):** The lead team has submitted the
+        Stage II submission to Nature Human Behavior.
+    -   **PSA-007 (SPAM-L):** PSA 007: SPAML is still recruiting
+        collaborators, with contribution opportunities available through
+        the Words2Many and Subs2Strudel pre-projects. If you are
+        interested in becoming a collaborator or want to learn more
+        about 007 please e-mail us at: 007spaml@gmail.com
+    -   **PSA-COVID Rapid Bundle (001/002/003)**:
+        -   PSACR002 was accepted for publication at Nature Human
+            Behavior!
+        -   PSACR001 and PSACR003 are both working towards publication,
+            and will share updates and drafts soon! (PSACR001 was
+            rejected at PNAS)
 
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":4} -->
-<h4><strong><span style="text-decoration: underline;">PSACON2021</span></strong></h4>
-<!-- /wp:heading -->
+::: wp-block-group
+PSACON2021
 
-<!-- wp:paragraph -->
-<p>The dates are set! Join the PSA community from October 28th-30th for three days of learning, collaborating, and socializing! This year you can expect to find conference programming in these categories: PSA/Big Team Science Updates, Panel discussions, Hackathon, Unconferences, Original Research, Posters Sessions, and Workshops. Each day will feature programming over 12 hours (based on the results of the<a href="https://doodle.com/poll/46vd2tav2wt792kt?utm_source=poll&amp;utm_medium=link"> <strong>doodle poll</strong></a>) to allow for flexibility between time zones and give ample opportunities for attendees to pop in and out as their schedule allows. We will be using <strong><a href="https://psysciacc.org/psacon2021/">this page</a> </strong>to update people as we continue to organize all matters of PSACON2021. We hope to see you there!</p>
-<!-- /wp:paragraph -->
+The dates are set! Join the PSA community from October 28th-30th for
+three days of learning, collaborating, and socializing! This year you
+can expect to find conference programming in these categories: PSA/Big
+Team Science Updates, Panel discussions, Hackathon, Unconferences,
+Original Research, Posters Sessions, and Workshops. Each day will
+feature programming over 12 hours (based on the results of the [**doodle
+poll**](https://doodle.com/poll/46vd2tav2wt792kt?utm_source=poll&utm_medium=link))
+to allow for flexibility between time zones and give ample opportunities
+for attendees to pop in and out as their schedule allows. We will be
+using **[this page](https://psysciacc.org/psacon2021/)** to update
+people as we continue to organize all matters of PSACON2021. We hope to
+see you there!
 
-<!-- wp:paragraph -->
-<p>To register and reserve your virtual seat fill out<a href="https://psysciacc.org/the-2021-meeting-of-the-psychological-science-accelerator/"> <strong>this form</strong></a>!</p>
-<!-- /wp:paragraph -->
+To register and reserve your virtual seat fill out [**this
+form**](https://psysciacc.org/the-2021-meeting-of-the-psychological-science-accelerator/)!
 
-<!-- wp:paragraph -->
-<p>To propose a session for the 2021 Virtual Meeting of the Psychological Science Accelerator, please fill out this <a href="https://psysciacc.org/psa-conference-2021-call-for-presenters/"><strong>form</strong></a>!</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
+To propose a session for the 2021 Virtual Meeting of the Psychological
+Science Accelerator, please fill out this
+[**form**](https://psysciacc.org/psa-conference-2021-call-for-presenters/)!
+:::
 
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":4} -->
-<h4><strong><span style="text-decoration: underline;">Call for Translators!  </span></strong></h4>
-<!-- /wp:heading -->
+::: wp-block-group
+Call for Translators!
 
-<!-- wp:paragraph -->
-<p>The Community building and Network Expansion Committee has created an infographic to help recruit members to the PSA from underpopulated regions. We are asking for some people to assist our committee by translating these for recruitment materials (2-4 pages of materials) in the following languages: Chinese, Hindi, Spanish, Arabic, Portuguese, Bangladesh, and Russia (Other languages are optional if we have people who would like to recruit in their own language) </p>
-<!-- /wp:paragraph -->
+The Community building and Network Expansion Committee has created an
+infographic to help recruit members to the PSA from underpopulated
+regions. We are asking for some people to assist our committee by
+translating these for recruitment materials (2-4 pages of materials) in
+the following languages: Chinese, Hindi, Spanish, Arabic, Portuguese,
+Bangladesh, and Russia (Other languages are optional if we have people
+who would like to recruit in their own language)
 
-<!-- wp:paragraph -->
-<p>If you or someone you know would be able to help please reach out to <span style="text-decoration: underline;">Miguel Silan</span> (MiguelSilan@gmail.com) or <span style="text-decoration: underline;">Maximilian Primbs</span> (maximilian.primbs@gmx.de).<strong> </strong></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
+If you or someone you know would be able to help please reach out to
 
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":4} -->
-<h4><strong><span style="text-decoration: underline;">PSA Receives Funding</span></strong></h4>
-<!-- /wp:heading -->
+Miguel Silan (MiguelSilan@gmail.com) or
 
-<!-- wp:paragraph {"align":null} -->
-<p>A grant written by Chris Chartier and Charlie Ebersole on behalf of the PSA was approved for funding by the John Templeton Foundation. The grant provides just under $1 million over three years and will allow the PSA to hire three full-time staff members. It also contains $160,000 to assist data collection labs over four (to be determined) projects. You can learn more about the grant <a href="https://docs.google.com/document/d/1WpLSX_QvfwMyrx8c9N2erjtHtHK2jcFlky8VtuquW4o/edit?usp=sharing">here</a>. </p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
+Maximilian Primbs (maximilian.primbs@gmx.de).
+:::
 
-<!-- wp:heading {"level":4} -->
-<h4><strong><span style="text-decoration: underline;">CREP Partnership</span></strong></h4>
-<!-- /wp:heading -->
+::: wp-block-group
+PSA Receives Funding
 
-<!-- wp:paragraph -->
-<p>Our study selection for the second Accelerated CREP update is complete! We will be replicating <a rel="noreferrer noopener" target="_blank" href="https://doi.apa.org/doiLanding?doi=10.1037%2Fxge0000465">Study 2 from Pennycook, Cannon, &amp; Rand (2018)</a>, <em>Prior exposure increases perceived accuracy of fake news</em>. Keep an eye out on our newsletter for updates; we anticipate that teams will be able to start signing up in October or earlier.</p>
-<!-- /wp:paragraph -->
+A grant written by Chris Chartier and Charlie Ebersole on behalf of the
+PSA was approved for funding by the John Templeton Foundation. The grant
+provides just under \$1 million over three years and will allow the PSA
+to hire three full-time staff members. It also contains \$160,000 to
+assist data collection labs over four (to be determined) projects. You
+can learn more about the grant
+[here](https://docs.google.com/document/d/1WpLSX_QvfwMyrx8c9N2erjtHtHK2jcFlky8VtuquW4o/edit?usp=sharing).
+:::
 
-<!-- wp:heading {"level":4} -->
-<h4><strong><span style="text-decoration: underline;">NEW MEMBERS!!</span></strong></h4>
-<!-- /wp:heading -->
+CREP Partnership
 
-<!-- wp:paragraph -->
-<p>Over the past month, we have received several new members on our Slack, Twitter, and Membership website, due in part to presentations on the PSA at the Society for the Improvement of Psychological Science 2021 conference. Welcome new members! We are excited for you to join our organization. Below you will find more ways to get connected.</p>
-<!-- /wp:paragraph -->
+Our study selection for the second Accelerated CREP update is complete!
+We will be replicating [Study 2 from Pennycook, Cannon, & Rand
+(2018)](https://doi.apa.org/doiLanding?doi=10.1037%2Fxge0000465){rel="noreferrer noopener"
+target="_blank"}, *Prior exposure increases perceived accuracy of fake
+news*. Keep an eye out on our newsletter for updates; we anticipate that
+teams will be able to start signing up in October or earlier.
 
-<!-- wp:paragraph -->
-<p><strong>Slack- </strong>If you have not already you can join our Slack. Slack is a platform that PSA uses to communicate with each other, talk about our work and even learn about some fun and interesting events! To join in at our slack channel just click<strong><a href="https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-6xdadc02-JKn5bEPNMN8vliJlAJBU5w"> here</a> </strong>to be part of our chat, and see all the interesting information that we have. </p>
-<!-- /wp:paragraph -->
+NEW MEMBERS!!
 
-<!-- wp:paragraph -->
-<p><strong>Welcome channel</strong>- For new members joining the PSA off of amazing SIPS energy, come join our<a href="https://psych-sci-accelerator.slack.com/archives/C026QSPK8VA"> <strong>#welcome</strong></a> channel on slack for a comprehensive look at all PSA-relevant information. We also encourage PSA members, in general, to return to this channel as and when they need quick information about the current status of our projects &amp; committees to see how to contribute.</p>
-<!-- /wp:paragraph -->
+Over the past month, we have received several new members on our Slack,
+Twitter, and Membership website, due in part to presentations on the PSA
+at the Society for the Improvement of Psychological Science 2021
+conference. Welcome new members! We are excited for you to join our
+organization. Below you will find more ways to get connected.
 
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":4} -->
-<h4><strong><span style="text-decoration: underline;">Swiss Psychology Open </span></strong></h4>
-<!-- /wp:heading -->
+**Slack-** If you have not already you can join our Slack. Slack is a
+platform that PSA uses to communicate with each other, talk about our
+work and even learn about some fun and interesting events! To join in at
+our slack channel just click
+**[here](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-6xdadc02-JKn5bEPNMN8vliJlAJBU5w)**
+to be part of our chat, and see all the interesting information that we
+have.
 
-<!-- wp:paragraph -->
-<p>We want to let you know of an exciting opportunity with the Swiss Psychology Open. The Swiss Psychology open is a new open-access journal that focuses on advancing and supporting best practices in psychological science and teaching. SPS has released two special calls for papers, one of which relates to "big team science". The call allows for very practically oriented submissions on logistics, technical implementation, and legal challenges. For more information you can check out the call <a href="https://swisspsychologyopen.com/collections/special/digitization-and-collaboration/">here</a>.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
+**Welcome channel**- For new members joining the PSA off of amazing SIPS
+energy, come join our
+[**#welcome**](https://psych-sci-accelerator.slack.com/archives/C026QSPK8VA)
+channel on slack for a comprehensive look at all PSA-relevant
+information. We also encourage PSA members, in general, to return to
+this channel as and when they need quick information about the current
+status of our projects & committees to see how to contribute.
+
+::: wp-block-group
+Swiss Psychology Open
+
+We want to let you know of an exciting opportunity with the Swiss
+Psychology Open. The Swiss Psychology open is a new open-access journal
+that focuses on advancing and supporting best practices in psychological
+science and teaching. SPS has released two special calls for papers, one
+of which relates to \"big team science\". The call allows for very
+practically oriented submissions on logistics, technical implementation,
+and legal challenges. For more information you can check out the call
+[here](https://swisspsychologyopen.com/collections/special/digitization-and-collaboration/).
+:::
+

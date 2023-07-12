@@ -1,88 +1,165 @@
 ---
 title: "News from the Accelerator: April 2021"
+author: "Svannah Lewis"
 date: 2021-04-30
+categories:
+  - monthly update
 ---
 
-<!-- wp:paragraph -->
-<p><strong>Study updates:</strong></p>
-<!-- /wp:paragraph -->
+**Study updates:**
 
-<!-- wp:list {"className":"is-style-default"} -->
-<ul class="is-style-default"><li><strong>PSA-002: Object Orientation &amp; PSA-003: Gendered Prejudice-.</strong> PSA-002 &amp; -003 are finishing up data collection for English-speaking labs this month. We anticipate finishing data collection for non-English speaking labs by the end of May and will draft the Stage 2 report shortly afterward.</li><li><strong>PSA-004: Accelerated CREP-</strong> 004 has completely finished data collection! The leadership team and other volunteers have begun the process of data processing, pre-processing work, and working on final reviews for finished labs. </li><li><strong>PSA-005: Stereotype Threat-</strong> We are waiting on vaccine distribution to get to a place that allows in-person data collection again. This summer, we will evaluate whether in-person data collection is likely to be feasible in Fall 2021.</li><li><strong>PSA-006: Trolley Problem-</strong> This project is coming close to an end as we have submitted the manuscript! Now we are waiting to hear more from the reviewers. </li><li><strong>PSA-007: SPAM-L-</strong> The 007 Canvas Website is in use. We have rolled out the three pre-projects and have had several people already contribute so far!! If you would like to contribute to the pre-projects, please email Erin Buchanan (buchananlab@gmail.com).</li><li><strong>PSA-COVID Rapid Bundle (001/002/003)- </strong>PSACR is now focused on getting manuscripts written, revised, and submitted. PSACR-001 is revising their manuscript based on team feedback. PSACR-002 has been accepted with minor revisions at Nature Human Behavior, and all co-authors are reviewing the submission and updating their authorship information over the next 10 days. PSACR-003 is revising their manuscript based on team feedback. Erin Buchannan is also drafting a data paper that describes the method of the bundled project. Once this manuscript is ready, we will share the draft with the entire PSACR team (i.e., all data collection labs, translators, etc.), who are invited to serve as co-authors. </li></ul>
-<!-- /wp:list -->
+-   **PSA-002: Object Orientation & PSA-003: Gendered Prejudice-.**
+    PSA-002 & -003 are finishing up data collection for English-speaking
+    labs this month. We anticipate finishing data collection for
+    non-English speaking labs by the end of May and will draft the Stage
+    2 report shortly afterward.
+-   **PSA-004: Accelerated CREP-** 004 has completely finished data
+    collection! The leadership team and other volunteers have begun the
+    process of data processing, pre-processing work, and working on
+    final reviews for finished labs.
+-   **PSA-005: Stereotype Threat-** We are waiting on vaccine
+    distribution to get to a place that allows in-person data collection
+    again. This summer, we will evaluate whether in-person data
+    collection is likely to be feasible in Fall 2021.
+-   **PSA-006: Trolley Problem-** This project is coming close to an end
+    as we have submitted the manuscript! Now we are waiting to hear more
+    from the reviewers.
+-   **PSA-007: SPAM-L-** The 007 Canvas Website is in use. We have
+    rolled out the three pre-projects and have had several people
+    already contribute so far!! If you would like to contribute to the
+    pre-projects, please email Erin Buchanan (buchananlab@gmail.com).
+-   **PSA-COVID Rapid Bundle (001/002/003)-** PSACR is now focused on
+    getting manuscripts written, revised, and submitted. PSACR-001 is
+    revising their manuscript based on team feedback. PSACR-002 has been
+    accepted with minor revisions at Nature Human Behavior, and all
+    co-authors are reviewing the submission and updating their
+    authorship information over the next 10 days. PSACR-003 is revising
+    their manuscript based on team feedback. Erin Buchannan is also
+    drafting a data paper that describes the method of the bundled
+    project. Once this manuscript is ready, we will share the draft with
+    the entire PSACR team (i.e., all data collection labs, translators,
+    etc.), who are invited to serve as co-authors.
 
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading {"level":5} -->
-<h5><strong>A note from the amazing Charlie Ebersole (former Interim Director)</strong></h5>
-<!-- /wp:heading -->
+::: wp-block-group
+##### **A note from the amazing Charlie Ebersole (former Interim Director)**
 
-<!-- wp:paragraph -->
-<p>Over the last few months, I got to see the PSA from a new perspective, serving as its interim director. I came into this role through a very competitive process among the Associate Directors - that being that I was the only one who wasn’t currently teaching and/or raising very small children. In hindsight, though, I’m incredibly grateful for this somewhat random opportunity. I gained a lot from this experience, but what I will take most from it is hope. I am more hopeful than I have been in some time for psychological research, researchers, and our ability to maybe make the world a bit better. That’s because of you all.</p>
-<!-- /wp:paragraph -->
+Over the last few months, I got to see the PSA from a new perspective,
+serving as its interim director. I came into this role through a very
+competitive process among the Associate Directors - that being that I
+was the only one who wasn't currently teaching and/or raising very small
+children. In hindsight, though, I'm incredibly grateful for this
+somewhat random opportunity. I gained a lot from this experience, but
+what I will take most from it is hope. I am more hopeful than I have
+been in some time for psychological research, researchers, and our
+ability to maybe make the world a bit better. That's because of you all.
 
-<!-- wp:paragraph -->
-<p>The greatest strength of the PSA is our collective knowledge and effort. I knew that before I served as director. However, I didn’t realize just how strong we were as a network. The PSA is filled with more smart, talented, hard-working people that actually want to improve things than I had ever gotten to see before. It is genuinely inspiring. There is more knowledge and experience in this group than I could ever hope to acquire in a career, and I’m thankful that I got to learn from more of you over the last few months. </p>
-<!-- /wp:paragraph -->
+The greatest strength of the PSA is our collective knowledge and effort.
+I knew that before I served as director. However, I didn't realize just
+how strong we were as a network. The PSA is filled with more smart,
+talented, hard-working people that actually want to improve things than
+I had ever gotten to see before. It is genuinely inspiring. There is
+more knowledge and experience in this group than I could ever hope to
+acquire in a career, and I'm thankful that I got to learn from more of
+you over the last few months.
 
-<!-- wp:paragraph -->
-<p>There are a lot of issues that the PSA will continue to grapple with. We’ve struggled to live up to some of our values in terms of global representativeness at all levels of the organization.  Finding funding continues to be difficult. However, I feel very confident that we’ll be able to overcome the challenges we face and continue to build a stronger, more impactful, and more inclusive network. That confidence comes from working with you all. You are an incredible group of scholars and humans. It was my honor to serve as director of such a great collection of people.</p>
-<!-- /wp:paragraph -->
+There are a lot of issues that the PSA will continue to grapple with.
+We've struggled to live up to some of our values in terms of global
+representativeness at all levels of the organization. Finding funding
+continues to be difficult. However, I feel very confident that we'll be
+able to overcome the challenges we face and continue to build a
+stronger, more impactful, and more inclusive network. That confidence
+comes from working with you all. You are an incredible group of scholars
+and humans. It was my honor to serve as director of such a great
+collection of people.
 
-<!-- wp:paragraph -->
-<p>Thanks everyone, Charlie</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
+Thanks everyone, Charlie
+:::
 
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>Elections for Director and Associate Director: </strong></p>
-<!-- /wp:paragraph -->
+::: wp-block-group
+**Elections for Director and Associate Director:**
 
-<!-- wp:paragraph -->
-<p>We are pleased to announce that the most recent PSA election has come to its conclusion. With 187 completed ballots cast, the PSA expressed confidence in Nicholas Coles (<a href="https://twitter.com/coles_nicholas_">@coles_nicholas_</a>) to serve as director, and selected Erin Buchanan (<a href="https://twitter.com/aggieerin">@aggieerin</a>) and Lisa DeBruine (<a href="https://twitter.com/LisaDeBruine">@LisaDeBruine</a>) to serve as Associate Directors. All three have accepted the positions and will start Friday, April 23. Congratulations and THANK YOU, Nicholas, Erin, and Lisa.</p>
-<!-- /wp:paragraph -->
+We are pleased to announce that the most recent PSA election has come to
+its conclusion. With 187 completed ballots cast, the PSA expressed
+confidence in Nicholas Coles
+([\@coles_nicholas\_](https://twitter.com/coles_nicholas_)) to serve as
+director, and selected Erin Buchanan
+([\@aggieerin](https://twitter.com/aggieerin)) and Lisa DeBruine
+([\@LisaDeBruine](https://twitter.com/LisaDeBruine)) to serve as
+Associate Directors. All three have accepted the positions and will
+start Friday, April 23. Congratulations and THANK YOU, Nicholas, Erin,
+and Lisa.
 
-<!-- wp:paragraph -->
-<p>It is always tough when there are many more wonderful candidates than there are positions to fill. As we collectively wish Nicholas, Erin, and Lisa well in their new roles, let's also offer our thanks and kudos to all the candidates for their willingness to throw their hats into the ring. I’m sure I’m not alone in appreciating the great ideas and thoughts that went into the statements and conversations on Slack. THANK YOU, Hans Rocha IJzerman (<a href="https://twitter.com/hansijzerman">@hansijzerman</a>), Jessica Flake(<a href="https://twitter.com/JkayFlake">@JkayFlake</a>), Sandersan (Sandy) Onie (<a href="https://twitter.com/DrSandersanOnie">@DrSandersanOnie</a>), Gerit Pfuhl (<a href="https://twitter.com/Gerit_Pfuhl">@Gerit_Pfuhl</a>), and Rima-Maria Rahal (<a href="https://twitter.com/rimamrahal">@rimamrahal</a>).</p>
-<!-- /wp:paragraph -->
+It is always tough when there are many more wonderful candidates than
+there are positions to fill. As we collectively wish Nicholas, Erin, and
+Lisa well in their new roles, let\'s also offer our thanks and kudos to
+all the candidates for their willingness to throw their hats into the
+ring. I'm sure I'm not alone in appreciating the great ideas and
+thoughts that went into the statements and conversations on Slack. THANK
+YOU, Hans Rocha IJzerman
+([\@hansijzerman](https://twitter.com/hansijzerman)), Jessica
+Flake([\@JkayFlake](https://twitter.com/JkayFlake)), Sandersan (Sandy)
+Onie ([\@DrSandersanOnie](https://twitter.com/DrSandersanOnie)), Gerit
+Pfuhl ([\@Gerit_Pfuhl](https://twitter.com/Gerit_Pfuhl)), and Rima-Maria
+Rahal ([\@rimamrahal](https://twitter.com/rimamrahal)).
 
-<!-- wp:paragraph -->
-<p>Let's also please offer our thanks and kudos to our election tellers, Crystal Steltenpohl (<a href="https://twitter.com/CrystalNSYoung">@CrystalNSYoung</a>), Ilker Dalgar (<a href="https://twitter.com/IlkerDalgar">@IlkerDalgar</a>), and Max Primbs (<a href="https://twitter.com/MaxPrimbs">@MaxPrimbs</a>). They were on the receiving end of a LOT of emails and did their due diligence to ensure a fair and accurate process. THANK YOU, Crystal, Ilker, and Max.</p>
-<!-- /wp:paragraph -->
+Let\'s also please offer our thanks and kudos to our election tellers,
+Crystal Steltenpohl
+([\@CrystalNSYoung](https://twitter.com/CrystalNSYoung)), Ilker Dalgar
+([\@IlkerDalgar](https://twitter.com/IlkerDalgar)), and Max Primbs
+([\@MaxPrimbs](https://twitter.com/MaxPrimbs)). They were on the
+receiving end of a LOT of emails and did their due diligence to ensure a
+fair and accurate process. THANK YOU, Crystal, Ilker, and Max.
 
-<!-- wp:paragraph -->
-<p>We're all very lucky that we get to work and think with bright people the world over!&nbsp;&nbsp;</p>
-<!-- /wp:paragraph -->
+We\'re all very lucky that we get to work and think with bright people
+the world over!  
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}}} -->
-<p style="line-height:1.2">Best,&nbsp;</p>
-<!-- /wp:paragraph -->
+Best, 
 
-<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.2"}}} -->
-<p style="line-height:1.2">Heather Urry</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
+Heather Urry
+:::
 
-<!-- wp:paragraph -->
-<p><strong>A special thank you to Heather Urry</strong></p>
-<!-- /wp:paragraph -->
+**A special thank you to Heather Urry**
 
-<!-- wp:paragraph -->
-<p>We also would like to thank the amazing Heather Urry (<a href="https://twitter.com/HeatherUrry">@HeatherUrry</a>) for coordinating these elections. This was the biggest election process that the PSA has seen so far, and she did a FANTASTIC job coordinating everything. To give you an idea of her contribution to this election, we have listed a few tasks that she worked on during this process (This is not a complete list of her contributions). She managed the nominations, contacted each of the nominations to see if they were still interested, collected and distributed the statements, answered questions about the process, created each candidate's Slack channels, kept the entire network up to date and in the loop, set up the election ballot, and analyzed the election outcome data. So, if you have a moment to send Heather a Slack, direct message, or email, please thank her for her amazing work to make this election happen!</p>
-<!-- /wp:paragraph -->
+We also would like to thank the amazing Heather Urry
+([\@HeatherUrry](https://twitter.com/HeatherUrry)) for coordinating
+these elections. This was the biggest election process that the PSA has
+seen so far, and she did a FANTASTIC job coordinating everything. To
+give you an idea of her contribution to this election, we have listed a
+few tasks that she worked on during this process (This is not a complete
+list of her contributions). She managed the nominations, contacted each
+of the nominations to see if they were still interested, collected and
+distributed the statements, answered questions about the process,
+created each candidate\'s Slack channels, kept the entire network up to
+date and in the loop, set up the election ballot, and analyzed the
+election outcome data. So, if you have a moment to send Heather a Slack,
+direct message, or email, please thank her for her amazing work to make
+this election happen!
 
-<!-- wp:paragraph -->
-<p><strong>Community Building and Network Expansion</strong></p>
-<!-- /wp:paragraph -->
+**Community Building and Network Expansion**
 
-<!-- wp:paragraph -->
-<p>We have implemented monthly social events to allow new members to get integrated into our community. Everyone is welcome to join these meetings to get to know other members in our network. Here is the<a href="https://ashlanduniversity.zoom.us/j/93076610476"> link</a> for each month's meeting! We will post the dates for each month on the PSA gcal.&nbsp;</p>
-<!-- /wp:paragraph -->
+We have implemented monthly social events to allow new members to get
+integrated into our community. Everyone is welcome to join these
+meetings to get to know other members in our network. Here is the
+[link](https://ashlanduniversity.zoom.us/j/93076610476) for each
+month\'s meeting! We will post the dates for each month on the PSA
+gcal. 
 
-<!-- wp:paragraph -->
-<p>If you want to keep up to date with the various events that are happening on the PSA Network, subscribe to our calendar via <a href="https://www.businessinsider.com/how-to-subscribe-to-a-google-calendar">Gmail</a> or <a href="https://support.microsoft.com/en-us/office/import-google-calendar-to-outlook-098ed60c-936b-41fb-83d6-7e3786437330">Outlook</a>, depending on what you use! <a href="https://calendar.google.com/calendar/embed?src=snln35l2i6o1pn3uubrgv3qd10%40group.calendar.google.com">This should be the link to the calendar.</a> </p>
-<!-- /wp:paragraph -->
+If you want to keep up to date with the various events that are
+happening on the PSA Network, subscribe to our calendar via
+[Gmail](https://www.businessinsider.com/how-to-subscribe-to-a-google-calendar)
+or
+[Outlook](https://support.microsoft.com/en-us/office/import-google-calendar-to-outlook-098ed60c-936b-41fb-83d6-7e3786437330),
+depending on what you use! [This should be the link to the
+calendar.](https://calendar.google.com/calendar/embed?src=snln35l2i6o1pn3uubrgv3qd10%40group.calendar.google.com)
 
-<!-- wp:paragraph -->
-<p>Another initiative the CBNE committee is implementing is Community Energizing threads- informal Slack threads to help members get to know each other better, their works, ideas, approaches, etc. [Similar to the idea of ‘themed discussion days' on certain subreddits, if you're familiar with Reddit]. The community building committee thought it was a good time to bring it back!  Absolutely all members are welcome to join in. Feel free to make the thread messy, especially if you want to reply to the responses you find to be interesting, or with topics you find similar interests on. We will be posting these periodically so be on the lookout for these threads.</p>
-<!-- /wp:paragraph -->
+Another initiative the CBNE committee is implementing is Community
+Energizing threads- informal Slack threads to help members get to know
+each other better, their works, ideas, approaches, etc. \[Similar to the
+idea of 'themed discussion days\' on certain subreddits, if you\'re
+familiar with Reddit\]. The community building committee thought it was
+a good time to bring it back! Absolutely all members are welcome to join
+in. Feel free to make the thread messy, especially if you want to reply
+to the responses you find to be interesting, or with topics you find
+similar interests on. We will be posting these periodically so be on the
+lookout for these threads.
+

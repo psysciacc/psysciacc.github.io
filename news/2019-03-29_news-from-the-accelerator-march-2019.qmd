@@ -1,52 +1,119 @@
 ---
 title: "News from the Accelerator - March 2019"
+author: "Chris Chartier"
 date: 2019-03-29
+categories:
+  - monthly update
 ---
 
-March has been a particularly active month for the PSA, and we are building serious momentum collecting data, preparing multiple studies to begin data collection, and establishing new PSA policies around data management and ethics approvals.
+March has been a particularly active month for the PSA, and we are
+building serious momentum collecting data, preparing multiple studies to
+begin data collection, and establishing new PSA policies around data
+management and ethics approvals. The network also continues to grow (556
+researchers, 446 laboratories, 65 countries)! Nick Coles is regularly
+updating [this
+map](https://nicholas-coles.shinyapps.io/PSA_Map_Prototype/){target="_blank"} to reflect our ever-expanding roster of
+member researchers. If you don\'t see yourself or your lab on the map,
+let us know! Congratulations and thank yous are in order for Chuan-Peng
+Hu and Ilker Dalgar who will both be taking up roles as Assistant
+Directors of the PSA for the Translation and Cultural Diversity
+Committee. We will be working with Chuan-Peng and Ilker to, among other
+things, identify translation coordinators for all PSA projects and to
+further refine and improve our translation procedures. Thank you to
+Oscar Oviedo Trespalacios who served this role for many months and was
+integral in creating our initial PSA translation policies!
 
-The network also continues to grow (556 researchers, 446 laboratories, 65 countries)! Nick Coles is regularly updating <a href="https://nicholas-coles.shinyapps.io/PSA_Map_Prototype/" target="_blank" rel="noopener noreferrer">this map</a> to reflect our ever-expanding roster of member researchers. If you don't see yourself or your lab on the map, let us know!
+# **Study Updates**
 
-Congratulations and thank yous are in order for Chuan-Peng Hu and Ilker Dalgar who will both be taking up roles as Assistant Directors of the PSA for the Translation and Cultural Diversity Committee. We will be working with Chuan-Peng and Ilker to, among other things, identify translation coordinators for all PSA projects and to further refine and improve our translation procedures. Thank you to Oscar Oviedo Trespalacios who served this role for many months and was integral in creating our initial PSA translation policies!
-<h1><strong>Study Updates</strong></h1>
-<ul>
-	<li>001 FACE PERCEPTION. We've collected data from over 7,000 participants! This study is right on track to wrap up by the planned end of data collection in September.</li>
-	<li>002 OBJECT ORIENTATION &amp; 003 GENDERED PREJUDICE. Labs are securing IRB approval and contributors are translating materials into their local languages.</li>
-	<li>004 TRUE BELIEF. Still under review. Fingers crossed!</li>
-	<li>005 STEREOTYPE THREAT. IRB materials have been drafted and put through a final review with the ethics committee. They will be shared with labs very soon.</li>
-	<li>006 TROLLEY PROBLEM. Over 80 labs have submitted IRB documents and 40 have approval. We plan to submit the project as a stage 1 registered report to Nature Human Behaviour on April 15th.</li>
-</ul>
-<h1> Funding</h1>
-<ul>
-	<li>Hans IJzerman is organizing a team to submit a European Research Council Synergy Grant application, and is recruiting researchers who are interested in leading one of the proposed research centers in Europe. You can read more about this opportunity and indicate your interest in getting involved <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3N6bTMXcNa3F4BhLcfo3IZ8v-ITGgRHqMSm_M8QPKb2TrNA/viewform" target="_blank" rel="noopener noreferrer">here</a>.</li>
-	<li>We have also started a crowd-funding campaign to pool monthly contributions into small (at first) stipends to support PSA labor that is currently being completed on a volunteer basis. Examples include translation, data management, project management, ethics review (and on and on and on). You can see the ongoing campaign info, and contribute if you are willing and able, at the <a href="https://www.patreon.com/psysciacc" target="_blank" rel="noopener noreferrer">PSA Patreon page</a>. Thanks to those who have already generously donated, we can begin the process of selecting recipients and paying these stipends next month!</li>
-</ul>
-<h1>Policy Documents</h1>
-<ul>
-	<li>A group led by Patrick Forscher has drafted a very nice and extensive set of <a href="https://psyarxiv.com/buqyc" target="_blank" rel="noopener noreferrer">data management guidelines for the PSA</a>. This policy document has been voted on and approved by the Data and Methods Committee, but they remain open to your feedback on all things data management and data release. One important element of the guidelines is to identify a data manager for every PSA project. If you are interested in data management, you can check out <a href="https://twitter.com/PsySciAcc/status/1108415904851918851" target="_blank" rel="noopener noreferrer">this tweet thread</a> to learn a bit more and find out how to get involved in a data management role for the PSA.</li>
-	<li>The Ethics Committee is drafting a brief policy document to clarify our plans for documenting situations where labs do not require local ethical approval to conduct a PSA study. You can see the draft policy statement, and the conversation surrounding it in <a href="https://docs.google.com/document/d/1DgOS6Q2X9ICpjM_DBHW506-sAlUjIvmxV1I0bdTt_iU/edit" target="_blank" rel="noopener noreferrer">this google doc</a>. Please feel free to provide your feedback in the comments.</li>
-</ul>
-<h1>Interesting Links and Opportunities</h1>
-There are several cool posts up on <a href="https://osf.io/view/StudySwap/" target="_blank" rel="noopener noreferrer">StudySwap</a> seeking collaborators or offering up equipment:
-<ul>
-	<li><a href="https://osf.io/qp58b/" target="_blank" rel="noopener noreferrer">Multi-site study on the interpersonal effects of emotional crying</a></li>
-	<li><a href="https://osf.io/m7nrf/">Analysts needed. A crowdsourced data analysis of ALSPAC data - the MAPS project</a></li>
-	<li><a href="https://osf.io/8v75j/">Transcranial Magnetic Stimulation (TMS) Lab at CUBRIC, Cardiff University, UK</a></li>
-</ul>
-<h1>PSA Talks</h1>
-<ul>
-	<li>Lisa DeBruine gave a talk about the PSA at the Open Science IMC conference.</li>
-	<li>Braeden Hall gave a talk on both the CREP and the PSA as part of an ECR-led Open Science in Action symposium.</li>
-	<li>Ben Jones gave a talk on the PSA at Abertay University</li>
-</ul>
+-   001 FACE PERCEPTION. We\'ve collected data from over 7,000
+    participants! This study is right on track to wrap up by the planned
+    end of data collection in September.
+-   002 OBJECT ORIENTATION & 003 GENDERED PREJUDICE. Labs are securing
+    IRB approval and contributors are translating materials into their
+    local languages.
+-   004 TRUE BELIEF. Still under review. Fingers crossed!
+-   005 STEREOTYPE THREAT. IRB materials have been drafted and put
+    through a final review with the ethics committee. They will be
+    shared with labs very soon.
+-   006 TROLLEY PROBLEM. Over 80 labs have submitted IRB documents and
+    40 have approval. We plan to submit the project as a stage 1
+    registered report to Nature Human Behaviour on April 15th.
+
+# Funding
+
+-   Hans IJzerman is organizing a team to submit a European Research
+    Council Synergy Grant application, and is recruiting researchers who
+    are interested in leading one of the proposed research centers in
+    Europe. You can read more about this opportunity and indicate your
+    interest in getting involved
+    [here](https://docs.google.com/forms/d/e/1FAIpQLSe3N6bTMXcNa3F4BhLcfo3IZ8v-ITGgRHqMSm_M8QPKb2TrNA/viewform){target="_blank"
+    rel="noopener noreferrer"}.
+-   We have also started a crowd-funding campaign to pool monthly
+    contributions into small (at first) stipends to support PSA labor
+    that is currently being completed on a volunteer basis. Examples
+    include translation, data management, project management, ethics
+    review (and on and on and on). You can see the ongoing campaign
+    info, and contribute if you are willing and able, at the [PSA
+    Patreon page](https://www.patreon.com/psysciacc){target="_blank"
+    rel="noopener noreferrer"}. Thanks to those who have already
+    generously donated, we can begin the process of selecting recipients
+    and paying these stipends next month!
+
+# Policy Documents
+
+-   A group led by Patrick Forscher has drafted a very nice and
+    extensive set of [data management guidelines for the
+    PSA](https://psyarxiv.com/buqyc){target="_blank"
+    rel="noopener noreferrer"}. This policy document has been voted on
+    and approved by the Data and Methods Committee, but they remain open
+    to your feedback on all things data management and data release. One
+    important element of the guidelines is to identify a data manager
+    for every PSA project. If you are interested in data management, you
+    can check out [this tweet
+    thread](https://twitter.com/PsySciAcc/status/1108415904851918851){target="_blank"
+    rel="noopener noreferrer"} to learn a bit more and find out how to
+    get involved in a data management role for the PSA.
+-   The Ethics Committee is drafting a brief policy document to clarify
+    our plans for documenting situations where labs do not require local
+    ethical approval to conduct a PSA study. You can see the draft
+    policy statement, and the conversation surrounding it in [this
+    google
+    doc](https://docs.google.com/document/d/1DgOS6Q2X9ICpjM_DBHW506-sAlUjIvmxV1I0bdTt_iU/edit){target="_blank"
+    rel="noopener noreferrer"}. Please feel free to provide your
+    feedback in the comments.
+
+# Interesting Links and Opportunities
+
+There are several cool posts up on
+[StudySwap](https://osf.io/view/StudySwap/){target="_blank"
+rel="noopener noreferrer"} seeking collaborators or offering up
+equipment:
+
+-   [Multi-site study on the interpersonal effects of emotional
+    crying](https://osf.io/qp58b/){target="_blank"
+    rel="noopener noreferrer"}
+-   [Analysts needed. A crowdsourced data analysis of ALSPAC data - the
+    MAPS project](https://osf.io/m7nrf/)
+-   [Transcranial Magnetic Stimulation (TMS) Lab at CUBRIC, Cardiff
+    University, UK](https://osf.io/8v75j/)
+
+# PSA Talks
+
+-   Lisa DeBruine gave a talk about the PSA at the Open Science IMC
+    conference.
+-   Braeden Hall gave a talk on both the CREP and the PSA as part of an
+    ECR-led Open Science in Action symposium.
+-   Ben Jones gave a talk on the PSA at Abertay University
+
 Thanks for spreading the word!
+![](https://pbs.twimg.com/media/D1hoOPMWsAEUpvZ.jpg){width="358"
+height="268"}
+![](https://pbs.twimg.com/media/D2N0kAWX4AA2krq.jpg){width="356"
+height="223"}
+![](https://pbs.twimg.com/media/D00dnW2X4AA0t6p.jpg){width="358"
+height="268"} [PSA
+Facebook](https://www.facebook.com/psysciacc/){target="_blank"
+rel="noopener noreferrer"} [PSA
+Twitter](https://twitter.com/PsySciAcc){target="_blank"
+rel="noopener noreferrer"}
 
-<img class="" src="https://pbs.twimg.com/media/D1hoOPMWsAEUpvZ.jpg" width="358" height="268" />
-
-<img class="" src="https://pbs.twimg.com/media/D2N0kAWX4AA2krq.jpg" width="356" height="223" />
-
-<img class="" src="https://pbs.twimg.com/media/D00dnW2X4AA0t6p.jpg" width="358" height="268" />
-
-<a href="https://www.facebook.com/psysciacc/" target="_blank" rel="noopener noreferrer">PSA Facebook</a>
-
-<a href="https://twitter.com/PsySciAcc" target="_blank" rel="noopener noreferrer">PSA Twitter</a>

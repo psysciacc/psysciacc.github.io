@@ -1,56 +1,83 @@
 ---
 title: "News from the Accelerator- October/November 2021"
+author: "Svannah Lewis"
 date: 2021-11-30
+categories:
+  - monthly update
 ---
 
-<!-- wp:paragraph -->
-<p><strong>QUICK READ:&nbsp;</strong></p>
-<!-- /wp:paragraph -->
+## QUICK READ:
 
-<!-- wp:list -->
-<ul><li>PSACON2021 Videos are now uploaded on our<strong> <a href="https://youtube.com/playlist?list=PLnSnD80jG7I7dDe2fD0TvT36fQBX4hb5Q">YouTube page</a> </strong>and will soon be on the website. </li><li>PSA 006 (Trolley Problem) has been accepted with minor revisions! </li></ul>
-<!-- /wp:list -->
+-   PSACON2021 Videos are now uploaded on our **[YouTube
+    page](https://youtube.com/playlist?list=PLnSnD80jG7I7dDe2fD0TvT36fQBX4hb5Q)**
+    and will soon be on the website.
+-   PSA 006 (Trolley Problem) has been accepted with minor revisions!
 
-<!-- wp:heading {"level":3} -->
-<h3 id="elections"><strong>Elections</strong></h3>
-<!-- /wp:heading -->
+### Elections
 
-<!-- wp:paragraph -->
-<p>Thank you to everybody who nominated PSA members for Assistant Director positions. We are pleased to announce that Hans IJzerman and David Vaidis have been elected to serve as the Assistant Directors of the Funding and Project Monitoring committees respectively.</p>
-<!-- /wp:paragraph -->
+Thank you to everybody who nominated PSA members for Assistant Director
+positions. We are pleased to announce that Hans IJzerman and David
+Vaidis have been elected to serve as the Assistant Directors of the
+Funding and Project Monitoring committees respectively.
 
-<!-- wp:heading {"level":3} -->
-<h3 id="study-updates"><strong>Study updates:</strong></h3>
-<!-- /wp:heading -->
+### Study updates:
 
-<!-- wp:list -->
-<ul><li><strong>PSA-002 (Object Orientation): </strong>The lead team has submitted the Stage II manuscript to <em>Psychonomic Bulletin &amp; Review </em>and is still awaiting feedback.</li><li><strong>PSA-003 (Gendered Prejudice): </strong>The lead team has completed initial data analyses and is working on drafting a manuscript to send to collaborators for feedback.</li><li><strong>PSA-004 (Accelerated CREP):</strong> The lead team is currently working on data processing, data analysis, and authorship credit tracking. The lead team expects to have a revised draft available for full team review/approval at the end of January.</li><li><strong>PSA-005 (Stereotype Threat):</strong> PSA-005 data collection officially launched a month ago! As of right now, we have collected 393 participants! The lead team sends their thanks to everybody who helped with piloting the study.</li><li><strong>PSA-006 (Trolley Problem):</strong> The manuscript has received an acceptance with minor revisions from <em>Nature Human Behavior</em>. </li><li><strong>PSA-007 (SPAM-L):</strong> The lead team is recruiting data collection collaborators. Interested people can now get added to canvas, view the current version of the registered report, and begin working on their institution’s necessary ethical documentation to collect data. Data collection timing will depend on the registered report process, translation, and coding. If you are interested in becoming a collaborator or want to learn more about 007 please email <a href="mailto:007spaml@gmail.com"><strong>007spaml@gmail.com</strong></a></li><li><strong>PSA-COVID Rapid Bundle (001/002/003)-</strong> <ul><li>PSACR-001 received a R&amp;R at <em>Affective Science</em>. The lead team plans to solicit feedback from the full author group in the coming weeks.</li><li>PSACR-002 is now<strong> <a href="https://doi.org/10.1038/s41562-021-01173-x">published in <em>Nature Human Behaviour</em></a>.</strong></li><li>PSACR-003 received another favorable R&amp;R from PNAS. The lead team is working on revisions and will soon update collaborators.</li></ul></li></ul>
-<!-- /wp:list -->
+-   **PSA-002 (Object Orientation):** The lead team has submitted the
+    Stage II manuscript to *Psychonomic Bulletin & Review* and is still
+    awaiting feedback.
+-   **PSA-003 (Gendered Prejudice):** The lead team has completed
+    initial data analyses and is working on drafting a manuscript to
+    send to collaborators for feedback.
+-   **PSA-004 (Accelerated CREP):** The lead team is currently working
+    on data processing, data analysis, and authorship credit tracking.
+    The lead team expects to have a revised draft available for full
+    team review/approval at the end of January.
+-   **PSA-005 (Stereotype Threat):** PSA-005 data collection officially
+    launched a month ago! As of right now, we have collected 393
+    participants! The lead team sends their thanks to everybody who
+    helped with piloting the study.
+-   **PSA-006 (Trolley Problem):** The manuscript has received an
+    acceptance with minor revisions from *Nature Human Behavior*.
+-   **PSA-007 (SPAM-L):** The lead team is recruiting data collection
+    collaborators. Interested people can now get added to canvas, view
+    the current version of the registered report, and begin working on
+    their institution's necessary ethical documentation to collect data.
+    Data collection timing will depend on the registered report process,
+    translation, and coding. If you are interested in becoming a
+    collaborator or want to learn more about 007 please email
+    [**007spaml@gmail.com**](mailto:007spaml@gmail.com)
+-   **PSA-COVID Rapid Bundle (001/002/003)-**
+    -   PSACR-001 received a R&R at *Affective Science*. The lead team
+        plans to solicit feedback from the full author group in the
+        coming weeks.
+    -   PSACR-002 is now **[published in *Nature Human
+        Behaviour*](https://doi.org/10.1038/s41562-021-01173-x).**
+    -   PSACR-003 received another favorable R&R from PNAS. The lead
+        team is working on revisions and will soon update collaborators.
 
-<!-- wp:heading {"level":3} -->
-<h3 id="psacon"><strong>PSACON</strong></h3>
-<!-- /wp:heading -->
+### PSACON
 
-<!-- wp:image {"align":"left","id":2583,"sizeSlug":"thumbnail","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="alignleft size-thumbnail"><img src="https://psysciacc.org/wp-content/uploads/2021/08/opt3-150x150.png?crop=1" alt="" class="wp-image-2583"/></figure></div>
-<!-- /wp:image -->
+::: wp-block-image
+![](images/opt3-150x150.png?crop=1){.wp-image-2583}
+:::
 
-<!-- wp:paragraph -->
-<p>PSACON was a blast. We had 254 people register to attend from 50 different geographical regions. A big thank you to all who presented, moderated, organized, attended, and sponsored seats to make this year's conference a success. The PSACON videos have now been uploaded to our <a href="https://youtube.com/playlist?list=PLnSnD80jG7I7dDe2fD0TvT36fQBX4hb5Q"><strong>YouTube page</strong></a> and will be posted to the website soon. Please also make sure to fill out this <a href="https://forms.gle/v14iuA5RZ9WUmevZ9"><strong>feedback </strong></a>survey so we can make next year's conference even better.&nbsp;</p>
-<!-- /wp:paragraph -->
+PSACON was a blast. We had 254 people register to attend from 50
+different geographical regions. A big thank you to all who presented,
+moderated, organized, attended, and sponsored seats to make this year\'s
+conference a success. The PSACON videos have now been uploaded to our
+[**YouTube
+page**](https://youtube.com/playlist?list=PLnSnD80jG7I7dDe2fD0TvT36fQBX4hb5Q)
+and will be posted to the website soon. Please also make sure to fill
+out this [**feedback**](https://forms.gle/v14iuA5RZ9WUmevZ9) survey so
+we can make next year\'s conference even better.
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+### Canvas
 
-<!-- wp:heading {"level":3} -->
-<h3 id="canvas"><strong>Canvas</strong></h3>
-<!-- /wp:heading -->
+::: wp-block-image
+![](images/Camvas.png){.wp-image-2581}
+:::
 
-<!-- wp:image {"align":"right","id":2581,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="alignright size-full"><img src="https://psysciacc.org/wp-content/uploads/2021/08/Camvas.png" alt="" class="wp-image-2581"/></figure></div>
-<!-- /wp:image -->
+Everyone with a PSA account has now been added to the new membership
+site on **[Canvas](https://canvas.psysciacc.org/)**. Make sure to log on
+to update your affiliations and to join projects.
 
-<!-- wp:paragraph -->
-<p>Everyone with a PSA account has now been added to the new membership site on<strong> <a href="https://canvas.psysciacc.org/">Canvas</a>.</strong> Make sure to log on to update your affiliations and to join projects.&nbsp;</p>
-<!-- /wp:paragraph -->

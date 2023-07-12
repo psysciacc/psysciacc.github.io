@@ -17,16 +17,42 @@ x <- read_xml("PSA_WordPress_Export.xml") |>
 
 
 ```{r}
+dir.create("news", FALSE)
+
+authors <- list(
+    crchartier = "Chris Chartier",
+    erinsievers = "Erin Sievers",
+    savlewis16 = "Svannah Lewis",
+    ncoles797da2f80654f = "Nicholas Coles"
+  )
+
+tmp <- tempfile(fileext = ".html")
+md <- tempfile(fileext = ".md")
+
 posts <- map_df(x, function(item) {
   title = item$title[[1]]
   date = date(item$post_date[[1]])
   author = item$creator[[1]]
-  contents = item$encoded[[1]]
+  
+  # clean contents
+  html = item$encoded[[1]] |>
+    gsub('<span style="font-weight:400;">', "", x = _, fixed = TRUE) |>
+    gsub('</span>', "", x = _, fixed = TRUE) |>
+    gsub(" ", " ", x = _, fixed = TRUE) |>
+    gsub("rel=\"noopener\"", "", x = _, fixed = TRUE)
+  
+  # convert to markdown
+  write(html, tmp)
+  rmarkdown::pandoc_convert(tmp, to = "markdown", from = "html", output = md, verbose = FALSE)
+  contents <- readLines(md) |> paste(collapse = "\n")
+
+  # save to file
   path <- paste0("news/",  date,  "_", 
                  item$post_name[[1]], ".qmd")
   
   txt <- glue::glue("---
 title: \"{title}\"
+author: \"{authors[author]}\"
 date: {date}
 ---
 
@@ -37,10 +63,44 @@ date: {date}
   write(txt, path)
   
   tibble(
-    path = path
+    path = path,
+    title = title,
+    date = date,
+    author = authors[author],
+    contents = contents
   )
 })
 ```
+
+Find all images from wordpress
+
+```{r}
+images <- str_extract_all(posts$contents,
+                          "https://psysciacc\\.org/wp-content/[^\\)]*", 
+                          simplify = TRUE)
+images <- images[images != ""] |> unique()
+dir.create("images", FALSE)
+
+sink <- map(images, function(img) {
+  destpath <- file.path("images", basename(img))
+  download.file(img, destfile = destpath)
+})
+
+```
+
+
+```{r}
+files <- list.files("news", "*.qmd", full.names = TRUE)
+
+sink <- map(files, function(file) {
+  txt <- read_file(file) |>
+    gsub("https://psysciacc\\.org/wp-content/uploads/\\d{4}/\\d{2}/", "images/", x = _)
+  write(txt, file)
+})
+ 
+```
+
+
 
 
 

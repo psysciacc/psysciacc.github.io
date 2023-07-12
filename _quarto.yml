@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  
+execute: 
+  freeze: auto
 
 website:
   title: "Psychological Science Accelerator"
@@ -26,6 +29,8 @@ website:
           - text: "{{< ai google-scholar size=2x >}} Papers"
             aria-label: Google Scholar
             href: https://scholar.google.com/citations?user=yHWkiu4AAAAJ
+      - text: News
+        href: news.qmd
       - text: Conferences
         menu:
           - conf-register.qmd

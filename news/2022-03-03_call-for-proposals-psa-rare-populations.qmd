@@ -1,80 +1,100 @@
 ---
-title: "Call for Proposals: PSA Rare Populations￼"
+title: "Call for Proposals: PSA Rare Populations"
+author: "Svannah Lewis"
 date: 2022-03-03
+categories:
+  - call for submissions
+  - rare populations
 ---
 
-<!-- wp:paragraph -->
-<p>The Psychological Science Accelerator is a distributed network of researchers across the behavioral sciences. Great theoretical advances can be made by conducting studies with participants being members of rare populations, but power is necessarily small in single-center investigations (due to the populations being rare). With over 1200 labs from 82 countries on all six populated continents, the PSA has the ability to collect large-sample data from rare populations and advance theory. The PSA is able to contribute to the discovery of generalizable knowledge through a new initiative where researchers may propose a study using a rare population for strong theoretical testing.</p>
-<!-- /wp:paragraph -->
+The Psychological Science Accelerator is a distributed network of
+researchers across the behavioral sciences. Great theoretical advances
+can be made by conducting studies with participants being members of
+rare populations, but power is necessarily small in single-center
+investigations (due to the populations being rare). With over 1200 labs
+from 82 countries on all six populated continents, the PSA has the
+ability to collect large-sample data from rare populations and advance
+theory. The PSA is able to contribute to the discovery of generalizable
+knowledge through a new initiative where researchers may propose a study
+using a rare population for strong theoretical testing.
 
-<!-- wp:heading {"level":4} -->
-<h4 id="what-is-a-rare-population"><strong>What is a rare population?&nbsp;</strong></h4>
-<!-- /wp:heading -->
+## What is a rare population?
 
-<!-- wp:paragraph -->
-<p>For this call, rare populations are defined in a broad manner: these include hard-to-reach samples whether because of logistical, geographic, cultural or other reasons. Examples include people extremely high or low on a given trait; people with a specific diagnosis; members of rare minority groups, trauma survivors and other vulnerable populations, and so on. Rare populations (broadly defined) that can be accessed across multiple countries globally are preferred to rare populations that can only be accessed within a specific country/region. This would ensure the engagement of the full PSA network, increased data gathering capabilities of the study and that the results are generalizable and not dependent on the idiosyncrasies of the local data collection.</p>
-<!-- /wp:paragraph -->
+For this call, rare populations are defined in a broad manner: these
+include hard-to-reach samples whether because of logistical, geographic,
+cultural or other reasons. Examples include people extremely high or low
+on a given trait; people with a specific diagnosis; members of rare
+minority groups, trauma survivors and other vulnerable populations, and
+so on. Rare populations (broadly defined) that can be accessed across
+multiple countries globally are preferred to rare populations that can
+only be accessed within a specific country/region. This would ensure the
+engagement of the full PSA network, increased data gathering
+capabilities of the study and that the results are generalizable and not
+dependent on the idiosyncrasies of the local data collection.
 
-<!-- wp:heading {"level":4} -->
-<h4 id="what-makes-for-a-strong-submission"><strong>What makes for a strong submission?</strong></h4>
-<!-- /wp:heading -->
+## What makes for a strong submission?
 
-<!-- wp:paragraph -->
-<p>A major factor of the proposals will be to use a study design where studying the rare population would contribute to a major theoretical advance, <em>regardless of the outcome of the results</em>. In this line, a broad range of methodologies are welcome, not only experimental/quantitative but also including descriptive, exploratory, mixed-methods and qualitative designs. Strong submissions should also justify the need for the use of the PSA network and resources.</p>
-<!-- /wp:paragraph -->
+A major factor of the proposals will be to use a study design where
+studying the rare population would contribute to a major theoretical
+advance, *regardless of the outcome of the results*. In this line, a
+broad range of methodologies are welcome, not only
+experimental/quantitative but also including descriptive, exploratory,
+mixed-methods and qualitative designs. Strong submissions should also
+justify the need for the use of the PSA network and resources.
 
-<!-- wp:heading {"level":5} -->
-<h5 id="stage-1"><strong>Stage 1:</strong></h5>
-<!-- /wp:heading -->
+### Stage 1
 
-<!-- wp:paragraph -->
-<p>Submit a 2-page proposal with a supplementary document. The proposal should include rationale for the study, the targeted rare population and the study design (including measures, protocols and data analysis).</p>
-<!-- /wp:paragraph -->
+Submit a 2-page proposal with a supplementary document. The proposal
+should include rationale for the study, the targeted rare population and
+the study design (including measures, protocols and data analysis).
 
-<!-- wp:paragraph -->
-<p>Importantly, the proposal should come with an additional supplementary document that details the steps to be taken for data gathering labs to access the rare population. As applicable, this document may include protocols to “filter” the general population, partnering with relevant local  institutions, or any such criteria as to demarcate the population of interest and how to access them. This is important so PSA can review the feasibility of the proposal.</p>
-<!-- /wp:paragraph -->
+Importantly, the proposal should come with an additional supplementary
+document that details the steps to be taken for data gathering labs to
+access the rare population. As applicable, this document may include
+protocols to "filter" the general population, partnering with relevant
+local institutions, or any such criteria as to demarcate the population
+of interest and how to access them. This is important so PSA can review
+the feasibility of the proposal.
 
-<!-- wp:paragraph -->
-<p>Note: Rare Populations can be vulnerable and data collection in some countries can pose ethical or legal risk. Please consider this when preparing your submission and be prepared to submit (separate from the 2-page proposal) discussion of any ethical issues from an international, multi-lab perspective.</p>
-<!-- /wp:paragraph -->
+Note: Rare Populations can be vulnerable and data collection in some
+countries can pose ethical or legal risk. Please consider this when
+preparing your submission and be prepared to submit (separate from the
+2-page proposal) discussion of any ethical issues from an international,
+multi-lab perspective.
 
-<!-- wp:paragraph -->
-<p>Stage 1 screening will be conducted blind to authors’ identity by the PSA Rare Populations Working Group with proposals first screened for depth of theoretical advance as well as feasibility.</p>
-<!-- /wp:paragraph -->
+Stage 1 screening will be conducted blind to authors' identity by the
+PSA Rare Populations Working Group with proposals first screened for
+depth of theoretical advance as well as feasibility.
 
-<!-- wp:heading {"level":5} -->
-<h5 id="stage-2"><strong>Stage 2:</strong></h5>
-<!-- /wp:heading -->
+### Stage 2
 
-<!-- wp:paragraph -->
-<p>If the 2-page proposal passes the first round, we will be requesting the proposers to write a more detailed proposal with an introduction and methods section in a format that can be submitted as a Registered Report to a major journal [e.g. <a href="https://media.nature.com/original/nature-cms/uploads/ckeditor/attachments/4825/RegisteredReportsGuidelines_NatureHumanBehaviour.pdf">here</a>].</p>
-<!-- /wp:paragraph -->
+If the 2-page proposal passes the first round, we will be requesting the
+proposers to write a more detailed proposal with an introduction and
+methods section in a format that can be submitted as a Registered Report
+to a major journal \[e.g.
+[here](https://media.nature.com/original/nature-cms/uploads/ckeditor/attachments/4825/RegisteredReportsGuidelines_NatureHumanBehaviour.pdf)\].
 
-<!-- wp:paragraph -->
-<p>This longer proposal more fully details the theoretical contributions and methods of the study. Importantly, this should also discuss the specific ethical issues of studying the particular rare population of interest. Potential harms and protocols to mitigate these harms should be discussed.&nbsp;</p>
-<!-- /wp:paragraph -->
+This longer proposal more fully details the theoretical contributions
+and methods of the study. Importantly, this should also discuss the
+specific ethical issues of studying the particular rare population of
+interest. Potential harms and protocols to mitigate these harms should
+be discussed.
 
-<!-- wp:paragraph -->
-<p>Review of Stage 2 Proposals will be conducted blind to the authors’ identity, and will be done by the PSA Rare Populations Working Group and content experts.&nbsp;</p>
-<!-- /wp:paragraph -->
+Review of Stage 2 Proposals will be conducted blind to the authors'
+identity, and will be done by the PSA Rare Populations Working Group and
+content experts.
 
-<!-- wp:heading {"level":4} -->
-<h4 id="timeline"><strong>Timeline&nbsp;</strong></h4>
-<!-- /wp:heading -->
+### Timeline
 
-<!-- wp:paragraph -->
-<p>Deadline for the 2-page proposal: April 15, 2022&nbsp;<br>Announcement for successful proposals: May 6, 2022&nbsp;<br>Deadline for the detailed proposal: June 10, 2022&nbsp;<br>Announcement for any selected proposal: July 7, 2022&nbsp;</p>
-<!-- /wp:paragraph -->
+- Deadline for the 2-page proposal: April 15, 2022
+- Announcement for successful proposals: May 6, 2022
+- Deadline for the detailed proposal: June 10, 2022
+- Announcement for any selected proposal: July 7, 2022
 
-<!-- wp:paragraph -->
-<p><strong>Initial 2-page proposal with supplemental steps should be submitted using this Google form <span style="text-decoration: underline;"><a href="https://forms.gle/KDfTuaXtnrzzDzgW7">here</a>.</span> </strong></p>
-<!-- /wp:paragraph -->
+Initial 2-page proposal with supplemental steps should be submitted
+using this Google form [here](https://forms.gle/KDfTuaXtnrzzDzgW7).
 
-<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
-<!-- wp:paragraph -->
-<p><strong>For general inquiries, email John Protzko (<a href="mailto:protzko@gmail.com">protzko@gmail.com</a>) with the Subject Line: PSA:RP Question</strong>.</p>
-<!-- /wp:paragraph -->
+**For general inquiries, email John Protzko (<protzko@gmail.com>) with
+the Subject Line: PSA:RP Question**.
+

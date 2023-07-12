@@ -1,23 +1,57 @@
 ---
 title: "Announcing PSA Member Lab Grants for 2019-2020"
+author: "Chris Chartier"
 date: 2019-08-28
 ---
 
-<span style="font-weight:400;">Opportunity is distributed unequally in human affairs. Science is a human affair, so this dictum applies to science as it applies to any other human endeavor.</span>
+Opportunity is distributed unequally in human affairs. Science is a
+human affair, so this dictum applies to science as it applies to any
+other human endeavor. At the PSA we recognize this as an unfortunate
+current characteristic of science, but we also think that science will
+be both fairer and of higher quality if opportunity were distributed
+more evenly. Working toward this aspiration is central to our [core
+principles](https://psyarxiv.com/785qu/). However, we have some ways to
+go to meet it: of the over 500 labs that have joined our network, only
+14% were in South and Central America, 5% in Eastern Europe, 6% in the
+Middle East, 4% in Asia, and 1% in Africa. Last year, we started an
+initiative to move us closer to our aspiration: we issued three small
+grants of \$400 to under-resourced labs PSA labs. These grants helped
+these labs collect data and earn authorship on one of our studies. This
+year, we are continuing this program. While the exact number of grants
+we will be able to issue is uncertain, we hope to issue **six grants of
+\$400 each** to PSA labs that wish to collect data for one of our
+studies. These grants will be funded using money collected from our
+[Patreon](https://www.patreon.com/psysciacc) if we meet our support goal
+(see [this previous
+post](https://psysciacc.org/2019/08/27/the-psas-patreon-sustainability-drive/)
+for more details). We will select recipients based on the following two
+criteria:
 
-<span style="font-weight:400;">At the PSA we recognize this as an unfortunate current characteristic of science, but we also think that science will be both fairer and of higher quality if opportunity were distributed more evenly. Working toward this aspiration is central to our </span><a href="https://psyarxiv.com/785qu/"><span style="font-weight:400;">core principles</span></a><span style="font-weight:400;">. However, we have some ways to go to meet it: of the over 500 labs that have joined our network, only 14% were in South and Central America, 5% in Eastern Europe, 6% in the Middle East, 4% in Asia, and 1% in Africa. </span>
+1.  *Demonstrated need*. We define "need" to mean that the data
+    collection could not happen without the provision of the grant. As
+    an additional provision, and as an attempt to improve lab
+    representation from non-Western countries, at least three of the
+    grants will go to labs from those regions.
+2.  *Benefit to the PSA study in question*. We will prioritize labs that
+    provide a unique benefit to the PSA study in which they are
+    participating. For example, in a study of how a psychological
+    process varies across cultures, we will prioritize labs that allow
+    the recruitment of participants from a culture that is not already
+    represented in the study.
 
-<span style="font-weight:400;">Last year, we started an initiative to move us closer to our aspiration: we issued three small grants of $400 to under-resourced labs PSA labs. These grants helped these labs collect data and earn authorship on one of our studies.</span>
+Our current crop of accepted studies deal with topics ranging from
+language comprehension, to stereotype threat, to moral decision-making.
+Five of these six studies ([002 through
+006](https://psysciacc.org/studies/)) are actively recruiting labs. We
+also have an active [call for
+studies](https://psysciacc.org/2019-call-for-studies/) that ends
+September 15, 2019 that will give us a new wave of studies covering yet
+more topics. This provides prospective labs with the opportunity to join
+studies, and earn authorship on manuscripts, that match their interests.
+If you are interested in applying for one of these grants, fill out this
+[form](https://docs.google.com/forms/d/e/1FAIpQLSeW-qQXZSuvqLaVEwlfaEeKiE2I6cEzNkHyU-arQzVpLoo-Wg/viewform?usp=sf_link).
+We hope this initiative will play a small but measurable role in
+redistributing scientific opportunities in a fairer way.
 
-<span style="font-weight:400;">This year, we are continuing this program. While the exact number of grants we will be able to issue is uncertain, we hope to issue </span><b>six grants of $400 each</b><span style="font-weight:400;"> to PSA labs that wish to collect data for one of our studies. These grants will be funded using money collected from our </span><a href="https://www.patreon.com/psysciacc"><span style="font-weight:400;">Patreon</span></a><span style="font-weight:400;"> if we meet our support goal (see </span><a href="https://psysciacc.org/2019/08/27/the-psas-patreon-sustainability-drive/"><span style="font-weight:400;">this previous post</span></a><span style="font-weight:400;"> for more details).  </span>
+![](images/capture-1.jpg)
 
-<span style="font-weight:400;">We will select recipients based on the following two criteria:</span>
-<ol>
-	<li style="font-weight:400;"><i><span style="font-weight:400;">Demonstrated need</span></i><span style="font-weight:400;">. We define “need” to mean that the data collection could not happen without the provision of the grant. As an additional provision, and as an attempt to improve lab representation from non-Western countries, at least three of the grants will go to labs from those regions.</span></li>
-	<li style="font-weight:400;"><i><span style="font-weight:400;">Benefit to the PSA study in question</span></i><span style="font-weight:400;">. We will prioritize labs that provide a unique benefit to the PSA study in which they are participating. For example, in a study of how a psychological process varies across cultures, we will prioritize labs that allow the recruitment of participants from a culture that is not already represented in the study.</span></li>
-</ol>
-<span style="font-weight:400;">Our current crop of accepted studies deal with topics ranging from language comprehension, to stereotype threat, to moral decision-making. Five of these six studies (</span><a href="https://psysciacc.org/studies/"><span style="font-weight:400;">002 through 006</span></a><span style="font-weight:400;">) are actively recruiting labs. We also have an active </span><a href="https://psysciacc.org/2019-call-for-studies/"><span style="font-weight:400;">call for studies</span></a><span style="font-weight:400;"> that ends September 15, 2019 that will give us a new wave of studies covering yet more topics. This provides prospective labs with the opportunity to join studies, and earn authorship on manuscripts, that match their interests.</span>
-
-<span style="font-weight:400;">If you are interested in applying for one of these grants, fill out this </span><a href="https://docs.google.com/forms/d/e/1FAIpQLSeW-qQXZSuvqLaVEwlfaEeKiE2I6cEzNkHyU-arQzVpLoo-Wg/viewform?usp=sf_link"><span style="font-weight:400;">form</span></a><span style="font-weight:400;">. We hope this initiative will play a small but measurable role in redistributing scientific opportunities in a fairer way.</span>
-
-<img class="alignnone size-full wp-image-553" src="https://psysciacc.org/wp-content/uploads/2019/08/capture-1.jpg" alt="Capture" width="1010" height="418" />

@@ -1,52 +1,113 @@
 ---
 title: "News from the Accelerator- April 2022"
+author: "Svannah Lewis"
 date: 2022-05-03
+categories:
+  - monthly update
 ---
 
-<!-- wp:heading {"textAlign":"left","level":4} -->
-<h4 class="has-text-align-left"><strong>Quick Read&nbsp;</strong></h4>
-<!-- /wp:heading -->
+#### **Quick Read ** {#quick-read .has-text-align-left}
 
-<!-- wp:list -->
-<ul><li><strong>Quick Read&nbsp;</strong><ul><li>PSA 006- You can now <a href="https://www.nature.com/articles/s41562-022-01319-5">access the full published manuscript</a> with Nature Human Behaviour. Congratulations to all collaborators</li><li>We have a <a href="https://osf.us18.list-manage.com/track/click?u=f8bacf294e5a46e350b638374&amp;id=cfa6f8e159&amp;e=2a82fb47c9">Special Call for Studies – Studying Generalizability with Global Samples</a>!&nbsp;</li></ul></li></ul>
-<!-- /wp:list -->
+-   **Quick Read **
+    -   PSA 006- You can now [access the full published
+        manuscript](https://www.nature.com/articles/s41562-022-01319-5)
+        with Nature Human Behaviour. Congratulations to all
+        collaborators
+    -   We have a [Special Call for Studies -- Studying Generalizability
+        with Global
+        Samples](https://osf.us18.list-manage.com/track/click?u=f8bacf294e5a46e350b638374&id=cfa6f8e159&e=2a82fb47c9)! 
 
-<!-- wp:heading {"level":4} -->
-<h4><strong>Study updates</strong></h4>
-<!-- /wp:heading -->
+#### **Study updates**
 
-<!-- wp:list {"className":"is-style-none"} -->
-<ul class="is-style-none"><li><ul><li><strong>PSA-002 (Object Orientation): </strong>The lead team is working on implementing the extensive feedback from Psychonomic Bulletin and Review into the Stage 2 Registered Report.</li></ul><ul><li><strong>PSA-003 (Gendered Prejudice): </strong>The lead team has written a response letter to the PBR feedback and is in the process of finalizing a new draft of the manuscript.&nbsp;</li><li><strong>PSA-004 (Accelerated CREP):</strong> The lead team is working on the authorship order and authorship credit tracking. All collaborators were sent the revised manuscript to review by May 8th and an invitation to canvas to fill out the authorship form. If you have not received this invitation, please email <a href="mailto:slewis16@ashland.edu">Savannah Lewis</a>.</li><li><strong>PSA-005 (Stereotype Threat):</strong> Data collection continues through the summer and fall. As of May 02, the team has collected 797 participants across 32 sites!</li><li><strong>PSA-006 (Trolley Problem):</strong> The manuscript has final acceptance at Nature Human Behaviour. You can now access the <a href="https://www.nature.com/articles/s41562-022-01319-5">full printed manuscript!</a>&nbsp;</li><li><strong>PSA-007 (SPAM-L):</strong> The admin team is continually working on coding the experiment in lab.js, piloting the experiment, and setting up the system for material translations. The admin team is also pursuing funding opportunities that will allow for the recruitment of additional languages. The project team will be sending out updates in the near future regarding ways to collect data for this project. If you are interested in becoming a collaborator or want to learn more about 007, please <a href="mailto:007spaml@gmail.com">email the lead team</a>.</li><li><strong>PSA-008 (Minimal Groups): </strong>The lead team is continuing to finalize their registered report manuscript for submission to Nature Human Behaviour. Onboarding information for those who have filled out the interest survey will be sent out soon; potential collaborators can still express interest in the project (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdF2vlRHo_Z6mfNG3eAzstQhgB_hwSvkuRYa0hc39fXVwDNvQ/viewform">here</a>)</li><li><strong>PSA-COVID Rapid Bundle (001/003)-</strong>&nbsp;<ul><li>The PSACR-001 lead team has now resubmitted the manuscript to Affective Science.</li><li>PSACR-003 has been accepted at <em>PNAS</em>. The lead team is currently waiting on paper proofs. <em>PNAS</em> confirmed they will write a letter confirming everyone in the group's name is a full author. To receive this letter, please email <a href="mailto:eshumeyko@nas.edu">Emma Shumeyko</a>.</li></ul></li></ul></li></ul>
-<!-- /wp:list -->
+-   -   **PSA-002 (Object Orientation):** The lead team is working on
+        implementing the extensive feedback from Psychonomic Bulletin
+        and Review into the Stage 2 Registered Report.
 
-<!-- wp:heading -->
-<h2><a href="https://osf.us18.list-manage.com/track/click?u=f8bacf294e5a46e350b638374&amp;id=cfa6f8e159&amp;e=2a82fb47c9"><strong><span style="text-decoration: underline;">Special Call for Studies – Studying Generalizability with Global Samples</span></strong></a></h2>
-<!-- /wp:heading -->
+    ```{=html}
+    <!-- -->
+    ```
+    -   **PSA-003 (Gendered Prejudice):** The lead team has written a
+        response letter to the PBR feedback and is in the process of
+        finalizing a new draft of the manuscript. 
+    -   **PSA-004 (Accelerated CREP):** The lead team is working on the
+        authorship order and authorship credit tracking. All
+        collaborators were sent the revised manuscript to review by May
+        8th and an invitation to canvas to fill out the authorship form.
+        If you have not received this invitation, please email [Savannah
+        Lewis](mailto:slewis16@ashland.edu).
+    -   **PSA-005 (Stereotype Threat):** Data collection continues
+        through the summer and fall. As of May 02, the team has
+        collected 797 participants across 32 sites!
+    -   **PSA-006 (Trolley Problem):** The manuscript has final
+        acceptance at Nature Human Behaviour. You can now access the
+        [full printed
+        manuscript!](https://www.nature.com/articles/s41562-022-01319-5) 
+    -   **PSA-007 (SPAM-L):** The admin team is continually working on
+        coding the experiment in lab.js, piloting the experiment, and
+        setting up the system for material translations. The admin team
+        is also pursuing funding opportunities that will allow for the
+        recruitment of additional languages. The project team will be
+        sending out updates in the near future regarding ways to collect
+        data for this project. If you are interested in becoming a
+        collaborator or want to learn more about 007, please [email the
+        lead team](mailto:007spaml@gmail.com).
+    -   **PSA-008 (Minimal Groups):** The lead team is continuing to
+        finalize their registered report manuscript for submission to
+        Nature Human Behaviour. Onboarding information for those who
+        have filled out the interest survey will be sent out soon;
+        potential collaborators can still express interest in the
+        project
+        ([here](https://docs.google.com/forms/d/e/1FAIpQLSdF2vlRHo_Z6mfNG3eAzstQhgB_hwSvkuRYa0hc39fXVwDNvQ/viewform))
+    -   **PSA-COVID Rapid Bundle (001/003)-** 
+        -   The PSACR-001 lead team has now resubmitted the manuscript
+            to Affective Science.
+        -   PSACR-003 has been accepted at *PNAS*. The lead team is
+            currently waiting on paper proofs. *PNAS* confirmed they
+            will write a letter confirming everyone in the group\'s name
+            is a full author. To receive this letter, please email [Emma
+            Shumeyko](mailto:eshumeyko@nas.edu).
 
-<!-- wp:paragraph -->
-<p>The Psychological Science Accelerator (PSA), supported by the John Templeton Foundation (JTF), welcomes study proposals to test the generalizability of phenomena related to JTF strategic priorities with large, global samples.</p>
-<!-- /wp:paragraph -->
+Special Call for Studies -- Studying Generalizability with Global
+Samples
 
-<!-- wp:paragraph -->
-<p>To be eligible for this call, projects must investigate questions related to one or more of the strategic priorities of JTF: the dynamics of religious change, intellectual humility, religious cognition, the science of character virtue, and health, religion, and spirituality.&nbsp;</p>
-<!-- /wp:paragraph -->
+The Psychological Science Accelerator (PSA), supported by the John
+Templeton Foundation (JTF), welcomes study proposals to test the
+generalizability of phenomena related to JTF strategic priorities with
+large, global samples.
 
-<!-- wp:paragraph -->
-<p>Projects selected through this special call will be advertised to members of the PSA network in collaboration with the proposing authors. Each study will be supported by $40,000 of direct funding for data collection. The proposing author teams will also be collectively supported by 3 full-time scientific staff members (a Research Coordinator, a Postdoctoral Researcher, and a Research Scientist), an additional ⅓ time senior staff member (Dr. Christopher R. Chartier), a ½ time staff member equivalent team of undergraduate research assistants, several members of PSA committees (at their discretion), and members of the network at large (at their discretion).</p>
-<!-- /wp:paragraph -->
+To be eligible for this call, projects must investigate questions
+related to one or more of the strategic priorities of JTF: the dynamics
+of religious change, intellectual humility, religious cognition, the
+science of character virtue, and health, religion, and spirituality. 
 
-<!-- wp:heading {"level":4} -->
-<h4><strong>Selection Process and Timeline</strong></h4>
-<!-- /wp:heading -->
+Projects selected through this special call will be advertised to
+members of the PSA network in collaboration with the proposing authors.
+Each study will be supported by \$40,000 of direct funding for data
+collection. The proposing author teams will also be collectively
+supported by 3 full-time scientific staff members (a Research
+Coordinator, a Postdoctoral Researcher, and a Research Scientist), an
+additional ⅓ time senior staff member (Dr. Christopher R. Chartier), a ½
+time staff member equivalent team of undergraduate research assistants,
+several members of PSA committees (at their discretion), and members of
+the network at large (at their discretion).
 
-<!-- wp:paragraph -->
-<p><strong>Submission deadline:&nbsp; </strong>July 20, 2022.<br><strong>Initial feasibility and quality review: </strong>July 20- July 27, 2022.<br><strong>Reviewer selection: </strong>July 27- August 3, 2022.<br><strong>Network rating solicitation: </strong>August 3, 2022.<br><strong>Review submission deadline: </strong>August 17, 2022.<br><strong>Network rating deadline: </strong>August 17, 2022<br><strong>Study selection decision deadline:</strong> August 31, 2022.&nbsp;</p>
-<!-- /wp:paragraph -->
+#### **Selection Process and Timeline**
 
-<!-- wp:paragraph -->
-<p><a href="https://osf.us18.list-manage.com/track/click?u=f8bacf294e5a46e350b638374&amp;id=0c6d14ea73&amp;e=2a82fb47c9"><strong>Please use this form to submit your proposal.</strong></a></p>
-<!-- /wp:paragraph -->
+**Submission deadline: ** July 20, 2022.\
+**Initial feasibility and quality review:** July 20- July 27, 2022.\
+**Reviewer selection:** July 27- August 3, 2022.\
+**Network rating solicitation:** August 3, 2022.\
+**Review submission deadline:** August 17, 2022.\
+**Network rating deadline:** August 17, 2022\
+**Study selection decision deadline:** August 31, 2022. 
 
-<!-- wp:paragraph -->
-<p>For pre-submission inquiries, please email Chris Chartier at cchartie@ashland.edu. He is happy to meet with proposing authors and/or answer questions about what is likely to make for a strong submission. To learn more information about submission details and formatting, please visit the <a href="https://psysciacc.org/2022/04/20/special-call-for-studies-studying-generalizability-with-global-samples/">official call.</a></p>
-<!-- /wp:paragraph -->
+[**Please use this form to submit your
+proposal.**](https://osf.us18.list-manage.com/track/click?u=f8bacf294e5a46e350b638374&id=0c6d14ea73&e=2a82fb47c9)
+
+For pre-submission inquiries, please email Chris Chartier at
+cchartie@ashland.edu. He is happy to meet with proposing authors and/or
+answer questions about what is likely to make for a strong submission.
+To learn more information about submission details and formatting,
+please visit the [official
+call.](https://psysciacc.org/2022/04/20/special-call-for-studies-studying-generalizability-with-global-samples/)
+

@@ -1,40 +1,86 @@
 ---
 title: "News from the Accelerator- March 2022"
+author: "Svannah Lewis"
 date: 2022-04-04
+categories:
+  - monthly update
 ---
 
-<!-- wp:heading {"level":4} -->
-<h4><strong>Quick Read </strong></h4>
-<!-- /wp:heading -->
+#### **Quick Read**
 
-<!-- wp:list -->
-<ul><li>On April 29th, Nicholas Coles and Heidi Baumgartner (from ManyBabies) will be hosting a free online panel on <strong><a href="https://bigteamsciencelab.github.io/events/">authorship challenges in big team science</a>.</strong></li><li>PSA-005 has officially collected more participants than any other study focused on stereotype threat with African American students.</li></ul>
-<!-- /wp:list -->
+-   On April 29th, Nicholas Coles and Heidi Baumgartner (from
+    ManyBabies) will be hosting a free online panel on **[authorship
+    challenges in big team
+    science](https://bigteamsciencelab.github.io/events/).**
+-   PSA-005 has officially collected more participants than any other
+    study focused on stereotype threat with African American students.
 
-<!-- wp:heading {"level":4} -->
-<h4><strong>Study updates</strong></h4>
-<!-- /wp:heading -->
+#### **Study updates**
 
-<!-- wp:list -->
-<ul><li><strong>PSA-002 (Object Orientation): </strong>The lead team is working on implementing the extensive feedback from Psychonomic Bulletin and Review into the Stage 2 Registered Report.</li><li><strong>PSA-003 (Gendered Prejudice): </strong>The lead team has written a response letter to the PBR feedback and is in the process of finalizing a new draft of the manuscript. </li><li><strong>PSA-004 (Accelerated CREP):</strong> The lead team is working on data processing, data analysis, and authorship credit tracking. Collaborators were added to canvas to fill out the authorship form. If you have not received this invitation, please <strong><a href="mailto:slewis16@ashland.edu">email Savannah Lewis</a>.</strong></li><li><strong>PSA-005 (Stereotype Threat): </strong>PSA-005 has collected more participants than any other study focused on stereotype threat with African American students, with a total of 681 participants! Congrats to all collaborators on this huge success. Data collection will continue into (Northern Hemisphere) Fall of 2022. </li><li><strong>PSA-006 (Trolley Problem): </strong>The manuscript has final acceptance at Nature Human Behaviour. The lead team is waiting to receive the final paper proofs. </li><li><strong>PSA-007 (SPAM-L): </strong>The team is working on revise-and-resubmit from Nature Human Behavior. The admin team is additionally working on coding the experiment in lab.js, piloting the experiment, and setting up the system for material translations. The project team will be sending out updates in the near future regarding ways to contribute to the current project.  If you are interested in becoming a collaborator, or want to learn more about 007 please<a href="mailto:007spaml@gmail.com"> <strong>e-mail the lead team.</strong></a></li><li><strong>PSA- 008 (Minimal Groups): </strong>The lead team is finalizing their registered report manuscript for submission to Nature Human Behaviour. They have reopened the <strong><a href="https://forms.gle/AwaCTwSvRcqY1ecf9">interest survey </a></strong>to more effectively collect information about potential collaborators and will send out onboarding instructions in the next couple of weeks. </li><li><strong>PSA-COVID Rapid Bundle (001/003)-</strong> <ul><li>The PSACR-001 lead team is working on revising the manuscript at Affective Science.</li><li>PSACR-003 has been accepted at PNAS. Collaborators should receive an update soon from the lead team.</li></ul></li></ul>
-<!-- /wp:list -->
+-   **PSA-002 (Object Orientation):** The lead team is working on
+    implementing the extensive feedback from Psychonomic Bulletin and
+    Review into the Stage 2 Registered Report.
+-   **PSA-003 (Gendered Prejudice):** The lead team has written a
+    response letter to the PBR feedback and is in the process of
+    finalizing a new draft of the manuscript.
+-   **PSA-004 (Accelerated CREP):** The lead team is working on data
+    processing, data analysis, and authorship credit tracking.
+    Collaborators were added to canvas to fill out the authorship form.
+    If you have not received this invitation, please **[email Savannah
+    Lewis](mailto:slewis16@ashland.edu).**
+-   **PSA-005 (Stereotype Threat):** PSA-005 has collected more
+    participants than any other study focused on stereotype threat with
+    African American students, with a total of 681 participants!
+    Congrats to all collaborators on this huge success. Data collection
+    will continue into (Northern Hemisphere) Fall of 2022.
+-   **PSA-006 (Trolley Problem):** The manuscript has final acceptance
+    at Nature Human Behaviour. The lead team is waiting to receive the
+    final paper proofs.
+-   **PSA-007 (SPAM-L):** The team is working on revise-and-resubmit
+    from Nature Human Behavior. The admin team is additionally working
+    on coding the experiment in lab.js, piloting the experiment, and
+    setting up the system for material translations. The project team
+    will be sending out updates in the near future regarding ways to
+    contribute to the current project. If you are interested in becoming
+    a collaborator, or want to learn more about 007 please [**e-mail the
+    lead team.**](mailto:007spaml@gmail.com)
+-   **PSA- 008 (Minimal Groups):** The lead team is finalizing their
+    registered report manuscript for submission to Nature Human
+    Behaviour. They have reopened the **[interest
+    survey](https://forms.gle/AwaCTwSvRcqY1ecf9)** to more effectively
+    collect information about potential collaborators and will send out
+    onboarding instructions in the next couple of weeks.
+-   **PSA-COVID Rapid Bundle (001/003)-**
+    -   The PSACR-001 lead team is working on revising the manuscript at
+        Affective Science.
+    -   PSACR-003 has been accepted at PNAS. Collaborators should
+        receive an update soon from the lead team.
 
-<!-- wp:heading {"level":4} -->
-<h4><strong>Upcoming Big Team Science Panel&nbsp;</strong></h4>
-<!-- /wp:heading -->
+#### **Upcoming Big Team Science Panel **
 
-<!-- wp:paragraph -->
-<p>On April 29th, the director of ManyBabies and the Director of the PSA will be hosting a panel on authorship challenges in big team science. Panelists will include the co-developer of the <a href="https://casrai.org/credit/"><strong>CRediT taxonomy </strong></a>(Liz Allen), co-developer of the <strong><a href="https://forrt.org/publications/">Framework for Open and Reproducible Research Training</a> (</strong>Flavio Azevedo), former chair of <strong><a href="https://casrai.org/about/">CASRAI</a> </strong>(Simon Kerridge), and metascience researcher at the <strong><a href="https://metrics.stanford.edu/">Meta-Research Innovation Center at Stanford (METRICS)</a> </strong>(Robert Thibault). All attendees are welcome and encouraged to bring their own questions and contribute to the conversation.</p>
-<!-- /wp:paragraph -->
+On April 29th, the director of ManyBabies and the Director of the PSA
+will be hosting a panel on authorship challenges in big team science.
+Panelists will include the co-developer of the [**CRediT
+taxonomy**](https://casrai.org/credit/) (Liz Allen), co-developer of the
+**[Framework for Open and Reproducible Research
+Training](https://forrt.org/publications/) (**Flavio Azevedo), former
+chair of **[CASRAI](https://casrai.org/about/)** (Simon Kerridge), and
+metascience researcher at the **[Meta-Research Innovation Center at
+Stanford (METRICS)](https://metrics.stanford.edu/)** (Robert Thibault).
+All attendees are welcome and encouraged to bring their own questions
+and contribute to the conversation.
 
-<!-- wp:paragraph -->
-<p>To register for this (FREE) event, check out his link: <br><a href="https://bigteamsciencelab.github.io/events/"><strong>https://bigteamsciencelab.github.io/events/</strong></a></p>
-<!-- /wp:paragraph -->
+To register for this (FREE) event, check out his link:\
+[**https://bigteamsciencelab.github.io/events/**](https://bigteamsciencelab.github.io/events/)
 
-<!-- wp:heading {"level":4} -->
-<h4><strong>PSA Ethics Committee launches a call for new members!</strong></h4>
-<!-- /wp:heading -->
+#### **PSA Ethics Committee launches a call for new members!**
 
-<!-- wp:paragraph -->
-<p>The PSA Ethics Committee is excited to welcome new members and encourages all interested candidates to respond to our call by 25 April (18:00 CET). For more details regarding the mission of the PSA Ethics Committee, the specifics of the call, the qualifications of potential candidates, and the submission procedures please consult the <a href="https://docs.google.com/document/d/1XsClBJrR6KrucCeYluJqTexRidz7cPI4RSFEVcqc20Y/edit"><strong>following link</strong></a>. We are expecting you!</p>
-<!-- /wp:paragraph -->
+The PSA Ethics Committee is excited to welcome new members and
+encourages all interested candidates to respond to our call by 25 April
+(18:00 CET). For more details regarding the mission of the PSA Ethics
+Committee, the specifics of the call, the qualifications of potential
+candidates, and the submission procedures please consult the
+[**following
+link**](https://docs.google.com/document/d/1XsClBJrR6KrucCeYluJqTexRidz7cPI4RSFEVcqc20Y/edit).
+We are expecting you!
+

@@ -1,66 +1,106 @@
 ---
 title: "News from the Accelerator- May 2021"
+author: "Svannah Lewis"
 date: 2021-06-01
+categories:
+  - monthly update
 ---
 
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:heading -->
-<h2><strong>Study updates:</strong></h2>
-<!-- /wp:heading -->
+::: wp-block-group
+## **Study updates:**
 
-<!-- wp:list {"className":"is-style-default"} -->
-<ul class="is-style-default"><li><strong>PSA-002 (Object Orientation) PSA-003 (Gendered Prejudice): </strong> The 002/003 team is happy to report that as of 6/1, we are completing data collection for the project. There are a few labs who are still in the process of finishing up, but we anticipate that all data collection for the project will draw to a close within a week. The lead teams will begin data processing and analysis shortly thereafter.</li><li><strong>PSA-004 (Accelerated CREP):</strong> The leadership team is currently working on data processing, data analysis, and authorship credit tracking.</li><li><strong>PSA-005 (Stereotype Threat): </strong>We are waiting on vaccine distribution to get to a place that allows in-person data collection again. This summer the leadership team will evaluate whether in-person data collection is feasible in Fall 2021.</li><li><strong>PSA-006 (Trolley Problem):</strong> The Stage II submission has received a revise-and-resubmit from <em>Nature Human Behavior</em>.</li><li><strong>PSA-007 (SPAM-L):</strong> SPAML is currently in its beginning stages and recruiting collaborators for a variety of pre-project tasks. More information about these tasks can be found <a href="https://docs.google.com/document/d/1xslViVFZrapUG75mwsF2eijFoQqm5GABoOf9ekIweH4/edit?usp=sharing">here</a> and <a href="https://docs.google.com/document/d/1VKR-7csBlL-lGOTbRTnlmaYkqi8bj2FhYtvbzEN25Wk/edit?usp=sharing">here</a>. For more information on this project, please contact buchananlab@gmail.com, Kelly.cuccolo@und.edu, or check out the<a href="https://www.youtube.com/watch?v=KcVIb7-k74A&amp;feature=youtu.be"> hackathon</a> hosted by Erin and Savannah.</li><li><strong>PSA-COVID Rapid Bundle (001/002/003)-</strong> <ul><li>001: is submitted to PNAS. A preprint will be uploaded in the near future.</li><li>002: the revised Stage II manuscript will soon be resubmitted to Nature Human Behavior</li><li>003: the proposing authors are currently incorporating feedback from the PSA network.</li></ul></li></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group -->
+-   **PSA-002 (Object Orientation) PSA-003 (Gendered Prejudice):** The
+    002/003 team is happy to report that as of 6/1, we are completing
+    data collection for the project. There are a few labs who are still
+    in the process of finishing up, but we anticipate that all data
+    collection for the project will draw to a close within a week. The
+    lead teams will begin data processing and analysis shortly
+    thereafter.
+-   **PSA-004 (Accelerated CREP):** The leadership team is currently
+    working on data processing, data analysis, and authorship credit
+    tracking.
+-   **PSA-005 (Stereotype Threat):** We are waiting on vaccine
+    distribution to get to a place that allows in-person data collection
+    again. This summer the leadership team will evaluate whether
+    in-person data collection is feasible in Fall 2021.
+-   **PSA-006 (Trolley Problem):** The Stage II submission has received
+    a revise-and-resubmit from *Nature Human Behavior*.
+-   **PSA-007 (SPAM-L):** SPAML is currently in its beginning stages and
+    recruiting collaborators for a variety of pre-project tasks. More
+    information about these tasks can be found
+    [here](https://docs.google.com/document/d/1xslViVFZrapUG75mwsF2eijFoQqm5GABoOf9ekIweH4/edit?usp=sharing)
+    and
+    [here](https://docs.google.com/document/d/1VKR-7csBlL-lGOTbRTnlmaYkqi8bj2FhYtvbzEN25Wk/edit?usp=sharing).
+    For more information on this project, please contact
+    buchananlab@gmail.com, Kelly.cuccolo@und.edu, or check out the
+    [hackathon](https://www.youtube.com/watch?v=KcVIb7-k74A&feature=youtu.be)
+    hosted by Erin and Savannah.
+-   **PSA-COVID Rapid Bundle (001/002/003)-**
+    -   001: is submitted to PNAS. A preprint will be uploaded in the
+        near future.
+    -   002: the revised Stage II manuscript will soon be resubmitted to
+        Nature Human Behavior
+    -   003: the proposing authors are currently incorporating feedback
+        from the PSA network.
+:::
 
-<!-- wp:heading -->
-<h2><strong>Webinar&nbsp;</strong></h2>
-<!-- /wp:heading -->
+## **Webinar **
 
-<!-- wp:paragraph -->
-<p>On June 17th 10-11:30 AM Eastern Pacific, we will be hosting a summer symposium titled "Revisiting the role of demand characteristics in social science research". More information <a href="https://stanford.zoom.us/webinar/register/WN_J0tfhbNRQwG7UowpyEPekA">here</a>. All are welcome!&nbsp;</p>
-<!-- /wp:paragraph -->
+On June 17th 10-11:30 AM Eastern Pacific, we will be hosting a summer
+symposium titled \"Revisiting the role of demand characteristics in
+social science research\". More information
+[here](https://stanford.zoom.us/webinar/register/WN_J0tfhbNRQwG7UowpyEPekA).
+All are welcome! 
 
-<!-- wp:heading -->
-<h2><strong>CREP Collaborations</strong></h2>
-<!-- /wp:heading -->
+## **CREP Collaborations**
 
-<!-- wp:paragraph -->
-<p>Please help us decide on the next Accelerated CREP Study!&nbsp;&nbsp;</p>
-<!-- /wp:paragraph -->
+Please help us decide on the next Accelerated CREP Study!  
 
-<!-- wp:paragraph -->
-<p>Accelerated CREP is a joint effort between the PSA and the Collaborative Replications and Education Project (osf.io/wfc6u).&nbsp; You can learn about our first study, PSA 004 True Belief, here: <a href="https://psyarxiv.com/zeux9/">https://psyarxiv.com/zeux9/</a>. We are asking interested PSA members to vote on the next collaboration. More information (and a link to voting) is available <a href="https://docs.google.com/forms/d/e/1FAIpQLSdle_CXUwE4mEi4fAtBuAexYujzLulSMik-C95OLKrQk2eIEg/viewform">here</a>.</p>
-<!-- /wp:paragraph -->
+Accelerated CREP is a joint effort between the PSA and the Collaborative
+Replications and Education Project (osf.io/wfc6u).  You can learn about
+our first study, PSA 004 True Belief, here:
+<https://psyarxiv.com/zeux9/>. We are asking interested PSA members to
+vote on the next collaboration. More information (and a link to voting)
+is available
+[here](https://docs.google.com/forms/d/e/1FAIpQLSdle_CXUwE4mEi4fAtBuAexYujzLulSMik-C95OLKrQk2eIEg/viewform).
 
-<!-- wp:heading -->
-<h2><strong>PSACON 2021</strong></h2>
-<!-- /wp:heading -->
+## **PSACON 2021**
 
-<!-- wp:paragraph -->
-<p><br>The preparations for this year’s edition of the PSA conference (PSACON 2021) are underway. We have a fresh new team of PSA members who will serve in their capacity as organizing committee who volunteered to dedicate some of their time to the organization of the event. If you are interested in serving on this committee you are welcome to reach out to any of the following members. The team thus far consists of an amazing group of people in our organization.&nbsp;</p>
-<!-- /wp:paragraph -->
+\
+The preparations for this year's edition of the PSA conference (PSACON
+2021) are underway. We have a fresh new team of PSA members who will
+serve in their capacity as organizing committee who volunteered to
+dedicate some of their time to the organization of the event. If you are
+interested in serving on this committee you are welcome to reach out to
+any of the following members. The team thus far consists of an amazing
+group of people in our organization. 
 
-<!-- wp:group -->
-<div class="wp-block-group"><!-- wp:group -->
-<div class="wp-block-group"><!-- wp:list -->
-<ul><li> Savannah Lewis (<a href="mailto:slewis16@ashland.edu">slewis16@ashland.edu</a>), Ashland University&nbsp;</li><li>Biljana Gjoneska (<a href="mailto:biljanagjoneska@manu.edu.mk">biljanagjoneska@manu.edu.mk</a>), Macedonian Academy of Sciences and Arts</li><li>Aishwarya Iyer (<a href="mailto:iyeraishwarya.work@gmail.com">iyeraishwarya.work@gmail.com</a>), Montfort College</li><li>Nadia Corral-Frias&nbsp; (<a href="mailto:nadiacorralfrias@unison.mx">nadiacorralfrias@unison.mx</a>) University of Sonora</li><li>Crystal Steltenpohl&nbsp; (<a href="mailto:cnsteltenp@usi.edu">cnsteltenp@usi.edu</a>), University of Southern Indiana</li></ul>
-<!-- /wp:list -->
+::: wp-block-group
+::: wp-block-group
+-   Savannah Lewis (<slewis16@ashland.edu>), Ashland University 
+-   Biljana Gjoneska (<biljanagjoneska@manu.edu.mk>), Macedonian Academy
+    of Sciences and Arts
+-   Aishwarya Iyer (<iyeraishwarya.work@gmail.com>), Montfort College
+-   Nadia Corral-Frias  (<nadiacorralfrias@unison.mx>) University of
+    Sonora
+-   Crystal Steltenpohl  (<cnsteltenp@usi.edu>), University of Southern
+    Indiana
+:::
+:::
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
+We've kept the best parts of PSACON2020! Much like last year, interested
+individuals can sponsor another attendee's registration while paying for
+their own. PSACON2021 will be hosting a wide variety of events,
+including PSA studies, presentations from our collaborators, hackathons,
+and coffee hour sessions. As the organizing committee delves into the
+process of putting out a call for presenters, we hope to welcome
+increasingly creative ways of talking about science during a virtual
+conference. More details about the schedule, the format of the
+conference, and sending in presentations will be sent around mid-June!
 
-<!-- wp:paragraph -->
-<p>We’ve kept the best parts of PSACON2020! Much like last year, interested individuals can sponsor another attendee’s registration while paying for their own. PSACON2021 will be hosting a wide variety of events, including PSA studies, presentations from our collaborators, hackathons, and coffee hour sessions. As the organizing committee delves into the process of putting out a call for presenters, we hope to welcome increasingly creative ways of talking about science during a virtual conference. More details about the schedule, the format of the conference, and sending in presentations will be sent around mid-June!</p>
-<!-- /wp:paragraph -->
+As part of our planning for this virtual event, we are asking you to
+help us in making a joint, informed decision regarding some important
+organizational aspects. You can do this by filling out [this
+poll](https://forms.gle/TSwNpCQYfMjQJ9TB9). Please make your voice
+heard, and we hope to see you at this year\'s conference!
 
-<!-- wp:paragraph -->
-<p>As part of our planning for this virtual event, we are asking you to help us in making a joint, informed decision regarding some important organizational aspects. You can do this by filling out <a href="https://forms.gle/TSwNpCQYfMjQJ9TB9">this poll</a>. Please make your voice heard, and we hope to see you at this year's conference!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

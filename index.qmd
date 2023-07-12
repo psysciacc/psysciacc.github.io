@@ -1,15 +1,15 @@
 ---
-listing:
-  id: news-listing
-  contents: news
-  date-format: iso
-  sort: "date desc"
-  type: default
-  max-items: 3
-  image-placeholder: "images/logo.png"
-  categories: false
-  sort-ui: false
-  filter-ui: false
+# listing:
+#   id: news-listing
+#   contents: news
+#   date-format: iso
+#   sort: "date desc"
+#   type: default
+#   max-items: 3
+#   image-placeholder: "images/logo.png"
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
 ---
 
 <img src="images/logo.png" style="float:left; padding: 1em 1em 0 0; width: 7em; min-width: 50px;"/>
@@ -24,9 +24,11 @@ We believe that many of the world's biggest challenges cannot be addressed by a 
 
 -   Examined the extent to which stereotype threat impacts academic performance among African American college students [ongoing].
 
+<!--
 ### Recent News
 
 ::: {#news-listing}
 :::
 
 [Older news...](news.html)
+-->

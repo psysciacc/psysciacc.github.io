@@ -1,27 +1,69 @@
 ---
 title: "Join the PSA’s Rapid-Response COVID-19 Project"
+author: "Chris Chartier"
 date: 2020-03-21
+categories:
+  - COVID rapid
 ---
 
-<span style="font-weight:400;">The world is currently witnessing a public health crisis that is unprecedented in our lifetimes: the global COVID-19 pandemic. At the Psychological Science Accelerator (PSA), we are deeply concerned about the many impacts of this outbreak, but we are also optimistic about behavioral science’s potential to mitigate these impacts. With our network of more than 500 labs from over 70 countries, we believe that – with your help – the PSA can play a crucial role in this process. This can only occur if our member labs, and new labs who would like to join us, contribute to project administration and local data collection.</span>
+The world is currently witnessing a public health crisis that is
+unprecedented in our lifetimes: the global COVID-19 pandemic. At the
+Psychological Science Accelerator (PSA), we are deeply concerned about
+the many impacts of this outbreak, but we are also optimistic about
+behavioral science's potential to mitigate these impacts. With our
+network of more than 500 labs from over 70 countries, we believe that --
+with your help -- the PSA can play a crucial role in this process. This
+can only occur if our member labs, and new labs who would like to join
+us, contribute to project administration and local data collection. Last
+week, we put out [a
+call](https://psysciacc.org/2020/03/13/the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19/)
+for rapid and impactful studies to understand the behavioral and
+psychological aspects of the COVID-19 outbreak. We received an
+overwhelming response. The community submitted a whopping 66 (!!)
+proposals. 141 PSA members voted on the 11 proposals that passed triage.
+Yesterday, we provisionally accepted the three proposals that received
+the most votes, with another four proposals on our "waitlist."
+Waitlisted studies will come off the waitlist if we receive an
+overwhelming response during lab recruitment and if early preparation
+for our first three studies goes smoothly. We anticipate that all PSA
+COVID-Rapid studies will be bundled into a single data collection
+effort. You can read more details about the selected studies and the
+process of contributing to data collection
+[here](https://docs.google.com/document/u/1/d/1IlM4NvrSPNVArMNCCD2VJFpBiPpzoghxrge8iHun_kw/edit#).
+**We need your help.** This project is big. We aim to recruit thousands
+of participants from all over the globe. We can only succeed with this
+aim through the collective energy of our members. **You can contribute
+your time and expertise.** One way to help is by joining the COVID-Rapid
+project. After joining, you can volunteer to manage the projects,
+translate the project materials into one of over 50 languages, or help
+with data collection by recruiting online participants from your local
+community. If you have questions about the process of joining the study,
+contact the PSA COVID-19 Gmail account at <psacovid@gmail.com>. To join
+this project:
 
-<span style="font-weight:400;">Last week, we put out </span><a href="https://psysciacc.org/2020/03/13/the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19/"><span style="font-weight:400;">a call</span></a><span style="font-weight:400;"> for rapid and impactful studies to understand the behavioral and psychological aspects of the COVID-19 outbreak. We received an overwhelming response. The community submitted a whopping 66 (!!) proposals. 141 PSA members voted on the 11 proposals that passed triage. Yesterday, we provisionally accepted the three proposals that received the most votes, with another four proposals on our “waitlist.” Waitlisted studies will come off the waitlist if we receive an overwhelming response during lab recruitment and if early preparation for our first three studies goes smoothly.</span>
+1.  Become a member of the PSA by registering at the [member
+    website](https://member.psysciacc.org)
+2.  Log in to the [member website](https://member.psysciacc.org)
+3.  Click on My Lab \> Study Sign Up
+4.  Complete your member profile at My Account \> Create Profile
 
-<span style="font-weight:400;">We anticipate that all PSA COVID-Rapid studies will be bundled into a single data collection effort. You can read more details about the selected studies and the process of contributing to data collection </span><a href="https://docs.google.com/document/u/1/d/1IlM4NvrSPNVArMNCCD2VJFpBiPpzoghxrge8iHun_kw/edit#"><span style="font-weight:400;">here</span></a><span style="font-weight:400;">.</span>
+If you wish to recruit participants for the project, you must be willing
+to do so *fast*. This will require very fast ethics approval and data
+collection. We anticipate that most sites will either join an existing
+IRB application as an investigator (e.g., the application at Chris
+Chartier's Ashland University), ask their local IRBs to defer to an IRB
+that has granted us approval, obtain an ethics waiver because the study
+is minimal risk, or go through expedited review. We will work with you
+on the ethics process once you join the project. **You can also
+contribute financially.** To pull off a project of this magnitude, we
+also need financial contributions. For those who can, you can donate via
+[PayPal](https://www.paypal.com/donate/?token=bZ78t4mUg7XlbPPdAJmzQ645Ti_4TkgU2MZx4QXwiO71MnVSCDG6jgjYdOzWHvAkUbobA0&country.x=US&locale.x=US).
+Every dollar received will be spent [supporting this
+project](https://psysciacc.org/2020/03/18/support-the-psa-covid-19-rapid-and-impactful-studies-with-a-donation/).
+Financial contributions will be used to pay participants, aid with
+recruitment, compensate translators, and compensate other administrative
+contributors. The PSA has an opportunity to activate our global network
+to confront the global challenge of COVID-19. We will only succeed with
+your support and involvement. Together, we can harness the potential of
+behavioral science to further the public good.
 
-<b>We need your help.</b><span style="font-weight:400;"> This project is big. We aim to recruit thousands of participants from all over the globe. We can only succeed with this aim through the collective energy of our members.</span>
-
-<b>You can contribute your time and expertise. </b><span style="font-weight:400;">One way to help is by joining the COVID-Rapid project. After joining, you can volunteer to manage the projects, translate the project materials into one of over 50 languages, or help with data collection by recruiting online participants from your local community. If you have questions about the process of joining the study, contact the PSA COVID-19 Gmail account at </span><a href="mailto:psacovid@gmail.com"><span style="font-weight:400;">psacovid@gmail.com</span></a><span style="font-weight:400;">.</span>
-
-<span style="font-weight:400;">To join this project:</span>
-<ol>
-	<li style="font-weight:400;"><span style="font-weight:400;">Become a member of the PSA by registering at the </span><a href="https://member.psysciacc.org"><span style="font-weight:400;">member website</span></a><b> </b></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Log in to the </span><a href="https://member.psysciacc.org"><span style="font-weight:400;">member website</span></a><b> </b></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Click on My Lab &gt; Study Sign Up</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Complete your member profile at My Account &gt; Create Profile</span></li>
-</ol>
-<span style="font-weight:400;">If you wish to recruit participants for the project, you must be willing to do so </span><i><span style="font-weight:400;">fast</span></i><span style="font-weight:400;">. This will require very fast ethics approval and data collection. We anticipate that most sites will either join an existing IRB application as an investigator (e.g., the application at Chris Chartier’s Ashland University), ask their local IRBs to defer to an IRB that has granted us approval, obtain an ethics waiver because the study is minimal risk, or go through expedited review. We will work with you on the ethics process once you join the project. </span>
-
-<b>You can also contribute financially. </b><span style="font-weight:400;">To pull off a project of this magnitude, we also need financial contributions. For those who can, you can donate via </span><a href="https://www.paypal.com/donate/?token=bZ78t4mUg7XlbPPdAJmzQ645Ti_4TkgU2MZx4QXwiO71MnVSCDG6jgjYdOzWHvAkUbobA0&amp;country.x=US&amp;locale.x=US"><span style="font-weight:400;">PayPal</span></a><span style="font-weight:400;">. Every dollar received will be spent </span><a href="https://psysciacc.org/2020/03/18/support-the-psa-covid-19-rapid-and-impactful-studies-with-a-donation/"><span style="font-weight:400;">supporting this project</span></a><span style="font-weight:400;">. Financial contributions will be used to pay participants, aid with recruitment, compensate translators, and compensate other administrative contributors.</span>
-
-<span style="font-weight:400;">The PSA has an opportunity to activate our global network to confront the global challenge of COVID-19. We will only succeed with your support and involvement. Together, we can harness the potential of behavioral science to further the public good.</span>

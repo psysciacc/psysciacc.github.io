@@ -1,52 +1,137 @@
 ---
 title: "News from the Accelerator - February 2019"
+author: "Chris Chartier"
 date: 2019-02-28
+categories:
+  - monthly update
 ---
 
-<span style="font-weight:400;">This month (our 18th month!) we have made progress on PSA policy documents, our search for funding (don't get too excited...no big news yet), and all 6 of our in-progress studies. Also of note, we're now up to 428 unique labs! Thank you so much for everyone who has gotten involved in the PSA!</span>
-<h1><span style="font-weight:400;">PSA Policies</span></h1>
-<ul>
-	<li><span style="font-weight:400;">The </span><a href="https://psysciacc.org/membership/" target="_blank" rel="noopener noreferrer">membership policy</a><span style="font-weight:400;"> was ratified in our most recent vote and is now official PSA policy. This will lead to slight changes in our onboarding process for the PSA generally and specific PSA studies. In the near future we will distribute a one-time form for those already in our membership roster to affirm the code of conduct and the mission of the PSA (be on the lookout for that!).</span></li>
-	<li><span style="font-weight:400;">We now call for final comments and votes on our <a href="https://docs.google.com/document/d/1aXjXwouFc6wvcyy7IFmEKGL0j2yxzYukyI_YFf6sZtM/edit" target="_blank" rel="noopener noreferrer">Personnel, Appointments, and Elections Policy Document</a>. PSA members will receive the draft policy via email and have until March 15th, 2019 to vote.</span></li>
-</ul>
-<h1><span style="font-weight:400;">Updates from the Funding Committee</span></h1>
-<span style="font-weight:400;">The funding committee has been working extremely hard to identify and pursue promising funding opportunities for the PSA. We all owe a big thanks to Neil Lewis Jr., Thuy-vy Nguyen, and Hans IJzerman for their efforts in organizing our funding search and attempts to date. Here are some notable attempts:</span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">We have requested an NSF grant (under review)</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">We requested a Marie Curie grant (but it was rejected :( )</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">In the Netherlands, we will collaborate with Marcel van Assen to request an Open Competition Grant</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Diego Forero is requesting an internal grant at his University to create a PSA hub</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">EU PSA researchers are working on requesting a Synergy Grant. Two centers for this grant have been identified, but we will want to identify two more. Those interested in participating can contact Hans IJzerman.</span></li>
-</ul>
-<span style="font-weight:400;">PSA researchers can identify smaller grant opportunities and contact the funding committee (Neil Lewis and Thuy-Vy Vu) to investigate possibilities. We are always looking for ways to support the PSA and to support PSA members through grants, large and small.</span>
+This month (our 18th month!) we have made progress on PSA policy
+documents, our search for funding (don\'t get too excited\...no big news
+yet), and all 6 of our in-progress studies. Also of note, we\'re now up
+to 428 unique labs! Thank you so much for everyone who has gotten
+involved in the PSA!
 
-<span style="font-weight:400;">Finally, central to our future funding requests is to work on a long-term vision document, detailing what we are able to accomplish with our current support and capacity, but also what we would plan to do with additional support to make an even bigger impact on psychological science. Chris Chartier is taking the lead on this, and will share drafts in the coming months.</span>
-<h1><strong>Study Updates</strong></h1>
-Now that we have 6 studies concurrently in preparation or data collection, some of us are having trouble keeping them straight when discussing their status! So, we've started using 3-digit codes and 2-word titles for our in-progress studies. Here are some mini-updates on all 6 PSA studies:
-<ul>
-	<li>001 FACE PERCEPTION. The study is now up and running, in at least demo mode, for 22 of our data collection languages. You can test out all versions via <a href="https://psa.psy.gla.ac.uk/">these demo links</a>. We have now collected data from 3,497 total raters across 9 world regions and are well on our way to meeting our September target for completing data collection!</li>
-	<li><span style="font-weight:400;">002 OBJECT ORIENTATION &amp; 003 GENDERED PREJUDICE. These two studies are "bundled" for a shared data collection session. Now that 002 has an in principle acceptance in hand from <em>Psychonomic Bulletin and Review, </em>we have decided to pursue results-blind review (rather than a registered report) for 003. We have initiated IRB and translation processes for these studies in the hopes of initiating data collection quite soon.</span></li>
-	<li>004 TRUE BELIEF. We are still in the "revise and resubmit" process for this study at <em>Advances in Methods and Practices in Psychological Science. </em>We hope to have news of an in principle acceptance to share soon!</li>
-	<li>005 STEREOTYPE THREAT. The leadership team for this study has made considerable recent progress on making final design decisions and we will be sharing IRB materials with data collection labs in the coming weeks.</li>
-	<li>006 TROLLEY PROBLEM. This study now includes a team of 130 labs across 40 countries! We are hoping to submit as a registered report to <em>Nature Human Behaviour. </em>Our next step is to initiate IRB submission in all data collection labs.</li>
-</ul>
-<h1>Spreading the Word</h1>
-Members have presented, or otherwise shared, information about the PSA with wide audiences this month.
-<ul>
-	<li>Hannah Moshontz presented at the SIPS pre-conference session of SPSP in Portland, Oregon. You can see her slides <a href="https://osf.io/zxk7u/" target="_blank" rel="noopener noreferrer">here</a>.</li>
-	<li>Gianni Ribeiro presented to an open science meetup group at IGDORE in Bali.<img class="  wp-image-373 aligncenter" src="https://psysciacc.org/wp-content/uploads/2019/02/dytuybbuuaeuoyb-e1551362748747.jpg" alt="DytUYbBUUAEUOyB" width="425" height="276" /></li>
-	<li>Lisa DeBruine gave an excellent interview on the <a href="https://everythinghertz.com/78" target="_blank" rel="noopener noreferrer">Everything Hertz podcast</a>.</li>
-	<li>Ben Jones published <a href="https://www.psychologytoday.com/gb/blog/face-facts/201902/how-do-faces-shape-first-impressions" target="_blank" rel="noopener noreferrer">an article on Psychology Today</a> discussing first impressions and how the PSA is working to make the literature less WEIRD.</li>
-	<li>Chris Chartier, Nick Coles, and Hans IJzerman published <a href="https://sciencetrends.com/the-psychological-science-accelerator-building-a-cern-for-psychology/" target="_blank" rel="noopener noreferrer">an article on Science Trends</a> calling for more researchers to join us in building up the PSA.</li>
-</ul>
-<h1><strong>Interesting Links and Opportunities</strong></h1>
-<span style="font-weight:400;">Finally, here are some links to other projects or opportunities that PSA members may find interesting (feel free to pass such links along to Chris for future newsletters):</span>
-<ul>
-	<li><a href="https://www.nwo.nl/en/policies/international+collaboration/money+follows+cooperation" target="_blank" rel="noopener noreferrer">Call for the "Money Follows Cooperation" funding stream in the Netherlands.</a></li>
-	<li><span style="font-weight:400;"> <a href="https://docs.google.com/document/d/16JpGOqXO2KsPCU13otoonS2_I3zNnrudz8QHX_KxJZc/edit" target="_blank" rel="noopener noreferrer">Information about joining the recently announced DARPA SCORE project.</a>.</span></li>
-</ul>
-<a href="https://www.facebook.com/psysciacc/" target="_blank" rel="noopener noreferrer">PSA Facebook</a>
+# PSA Policies
 
-<a href="https://twitter.com/PsySciAcc" target="_blank" rel="noopener noreferrer">PSA Twitter</a>
+-   The [membership
+    policy](https://psysciacc.org/membership/){target="_blank"
+    rel="noopener noreferrer"} was ratified in our most recent vote and
+    is now official PSA policy. This will lead to slight changes in our
+    onboarding process for the PSA generally and specific PSA studies.
+    In the near future we will distribute a one-time form for those
+    already in our membership roster to affirm the code of conduct and
+    the mission of the PSA (be on the lookout for that!).
+-   We now call for final comments and votes on our [Personnel,
+    Appointments, and Elections Policy
+    Document](https://docs.google.com/document/d/1aXjXwouFc6wvcyy7IFmEKGL0j2yxzYukyI_YFf6sZtM/edit){target="_blank"
+    rel="noopener noreferrer"}. PSA members will receive the draft
+    policy via email and have until March 15th, 2019 to vote.
 
-&nbsp;
+# Updates from the Funding Committee
+
+The funding committee has been working extremely hard to identify and
+pursue promising funding opportunities for the PSA. We all owe a big
+thanks to Neil Lewis Jr., Thuy-vy Nguyen, and Hans IJzerman for their
+efforts in organizing our funding search and attempts to date. Here are
+some notable attempts:
+
+-   We have requested an NSF grant (under review)
+-   We requested a Marie Curie grant (but it was rejected :( )
+-   In the Netherlands, we will collaborate with Marcel van Assen to
+    request an Open Competition Grant
+-   Diego Forero is requesting an internal grant at his University to
+    create a PSA hub
+-   EU PSA researchers are working on requesting a Synergy Grant. Two
+    centers for this grant have been identified, but we will want to
+    identify two more. Those interested in participating can contact
+    Hans IJzerman.
+
+PSA researchers can identify smaller grant opportunities and contact the
+funding committee (Neil Lewis and Thuy-Vy Vu) to investigate
+possibilities. We are always looking for ways to support the PSA and to
+support PSA members through grants, large and small. Finally, central to
+our future funding requests is to work on a long-term vision document,
+detailing what we are able to accomplish with our current support and
+capacity, but also what we would plan to do with additional support to
+make an even bigger impact on psychological science. Chris Chartier is
+taking the lead on this, and will share drafts in the coming months.
+
+# **Study Updates**
+
+Now that we have 6 studies concurrently in preparation or data
+collection, some of us are having trouble keeping them straight when
+discussing their status! So, we\'ve started using 3-digit codes and
+2-word titles for our in-progress studies. Here are some mini-updates on
+all 6 PSA studies:
+
+-   001 FACE PERCEPTION. The study is now up and running, in at least
+    demo mode, for 22 of our data collection languages. You can test out
+    all versions via [these demo links](https://psa.psy.gla.ac.uk/). We
+    have now collected data from 3,497 total raters across 9 world
+    regions and are well on our way to meeting our September target for
+    completing data collection!
+-   002 OBJECT ORIENTATION & 003 GENDERED PREJUDICE. These two studies
+    are \"bundled\" for a shared data collection session. Now that 002
+    has an in principle acceptance in hand from *Psychonomic Bulletin
+    and Review,* we have decided to pursue results-blind review (rather
+    than a registered report) for 003. We have initiated IRB and
+    translation processes for these studies in the hopes of initiating
+    data collection quite soon.
+-   004 TRUE BELIEF. We are still in the \"revise and resubmit\" process
+    for this study at *Advances in Methods and Practices in
+    Psychological Science.* We hope to have news of an in principle
+    acceptance to share soon!
+-   005 STEREOTYPE THREAT. The leadership team for this study has made
+    considerable recent progress on making final design decisions and we
+    will be sharing IRB materials with data collection labs in the
+    coming weeks.
+-   006 TROLLEY PROBLEM. This study now includes a team of 130 labs
+    across 40 countries! We are hoping to submit as a registered report
+    to *Nature Human Behaviour.* Our next step is to initiate IRB
+    submission in all data collection labs.
+
+# Spreading the Word
+
+Members have presented, or otherwise shared, information about the PSA
+with wide audiences this month.
+
+-   Hannah Moshontz presented at the SIPS pre-conference session of SPSP
+    in Portland, Oregon. You can see her slides
+    [here](https://osf.io/zxk7u/){target="_blank"
+    rel="noopener noreferrer"}.
+-   Gianni Ribeiro presented to an open science meetup group at IGDORE
+    in
+    Bali.![DytUYbBUUAEUOyB](images/dytuybbuuaeuoyb-e1551362748747.jpg){.wp-image-373
+    .aligncenter width="425" height="276"}
+-   Lisa DeBruine gave an excellent interview on the [Everything Hertz
+    podcast](https://everythinghertz.com/78){target="_blank"
+    rel="noopener noreferrer"}.
+-   Ben Jones published [an article on Psychology
+    Today](https://www.psychologytoday.com/gb/blog/face-facts/201902/how-do-faces-shape-first-impressions){target="_blank"
+    rel="noopener noreferrer"} discussing first impressions and how the
+    PSA is working to make the literature less WEIRD.
+-   Chris Chartier, Nick Coles, and Hans IJzerman published [an article
+    on Science
+    Trends](https://sciencetrends.com/the-psychological-science-accelerator-building-a-cern-for-psychology/){target="_blank"
+    rel="noopener noreferrer"} calling for more researchers to join us
+    in building up the PSA.
+
+# **Interesting Links and Opportunities**
+
+Finally, here are some links to other projects or opportunities that PSA
+members may find interesting (feel free to pass such links along to
+Chris for future newsletters):
+
+-   [Call for the \"Money Follows Cooperation\" funding stream in the
+    Netherlands.](https://www.nwo.nl/en/policies/international+collaboration/money+follows+cooperation){target="_blank"
+    rel="noopener noreferrer"}
+-   [Information about joining the recently announced DARPA SCORE
+    project.](https://docs.google.com/document/d/16JpGOqXO2KsPCU13otoonS2_I3zNnrudz8QHX_KxJZc/edit){target="_blank"
+    rel="noopener noreferrer"}.
+
+[PSA Facebook](https://www.facebook.com/psysciacc/){target="_blank"
+rel="noopener noreferrer"} [PSA
+Twitter](https://twitter.com/PsySciAcc){target="_blank"
+rel="noopener noreferrer"}  
+

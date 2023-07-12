@@ -1,29 +1,119 @@
 ---
 title: "News from the Accelerator - June 2019"
+author: "Chris Chartier"
 date: 2019-06-30
+categories:
+  - monthly update
 ---
 
-<span style="font-weight:400;">June was an action-packed month for the Accelerator. This news roundup includes a new call for studies, exciting updates on several current studies, info on the PSA’s first hire (!), and tons of links to other great things PSA members are up to.</span>
-<h2><span style="font-weight:400;">2019 Call for Studies</span></h2>
-<span style="font-weight:400;">We welcome new study submissions now through September 15th. A detailed description can be found in the </span><a href="https://psysciacc.org/2019/06/15/the-psychological-science-accelerator-calls-for-study-submissions/"><span style="font-weight:400;">blogpost announcing the call</span></a><span style="font-weight:400;">. Please do not hesitate to respond to this email with any questions you have about the submission, review, and selection process.</span>
-<h2><span style="color:var(--color-text);">The PSA's First Hire</span></h2>
-<span style="font-weight:400;">Patrick Forscher has accepted a postdoc at Université Grenoble Alpes in Hans IJzerman’s lab to coordinate and write grants to fund the PSA.  The first grant they’re working on is a Synergy Grant, which could provide big-time funding for PSA activities. Receiving the grant would have major implications for the PSA, so you’ll very probably be hearing more about the grant preparations in the coming months.  Congrats, Patrick!</span>
-<h2>002 Object Orientation and 003 Gendered Prejudice: Ready for Data Collection</h2>
-This bundled project will now begin to roll out data collection! 003's <a href="https://docs.google.com/document/d/16vh_qNWyhWSSK5tbNowt2CUPdPPwEYri59KXcjhjXeM/edit" target="_blank" rel="noopener">preregistration</a> was finalized, we've recorded a <a href="https://osf.io/pe6ja/" target="_blank" rel="noopener">demo video </a>of a mock data collection session, and have established the c<a href="https://docs.google.com/document/d/1B273zUHTxmL9vE6rcSRdcV88GiDaDrVLS181QQrH5uw/edit" target="_blank" rel="noopener">ollaboration agreement </a>describing how contributions on both studies will be credited. If you're a member lab for this study, be on the lookout for a detailed update email on next steps very soon!
-<h2>004 True Belief: Accepted in Principle at AMPPS and Ready for Data Collection</h2>
-The Accelerated CREP collaboration is also ready to begin data collection, after receiving an in principle acceptance at <em>Advances in Methods and Practices in Psychological Science</em>. You can read more about the project, and detailed instructions for how to get involved, in this highly informative <a href="https://psysciacc.org/2019/06/29/update-on-the-accelerated-crep-a-collaborative-crep-replication-project-powered-by-the-psa/" target="_blank" rel="noopener">blog post</a> from project leader Braeden Hall.
-<h2>Planning for PSA Activities at SIPS</h2>
-Many Accelerators will be attending this year's meeting of the <a href="https://improvingpsych.org/" target="_blank" rel="noopener">Society for the Improvement of Psychological Science</a> in Rotterdam. Sau-chin Chen has put together a <a href="https://docs.google.com/spreadsheets/d/1LXUwDkTy1hPKm2ZxnmbaeTaAE-BMU-u4l2xPlBEQ7A4/edit#gid=0" target="_blank" rel="noopener">google sheet</a> highlighting sessions led by PSA members. There will also be 5 PSA specific work meetings at the conference. Follow the conversation on our Slack workspace to see the time and location for those as they are determined.
-<h2>Project Monitoring Committee</h2>
-<span style="font-weight:400;">The Project Monitoring Committee has changed its name to the Project Monitoring Committee. The initials and role will remain the same: Project Monitors (PMs) will monitor, encourage, and track progress on projects. They’ll still be the person on the team who maintains a big-picture view, has an eye towards adherence to PSA policies, and helps submitting authors anticipate and overcome issues. The new name captures this role better, and makes more clear that the PM isn’t responsible for making progress on a project or leading a project.</span>
-<h2>T-Shirts and Stickers</h2>
-We are selling PSA t-shirts and stickers. You can reply to this email with order details (sizes and quantities) and address and we will ship to you. Short sleeve shirts are $15, long-sleeve shirts are $20, and stickers are $5. You can see pictures of each <a href="https://twitter.com/CRChartier/status/1143894284560736256" target="_blank" rel="noopener">here</a>.
-<h2>PSA Talks and Shout-outs</h2>
-<img class="alignnone size-full wp-image-474" src="https://psysciacc.org/wp-content/uploads/2019/06/20190629_104250-e1561903587853.jpg?w=535" alt="20190629_104250.jpg" width="535" height="227" />
+June was an action-packed month for the Accelerator. This news roundup
+includes a new call for studies, exciting updates on several current
+studies, info on the PSA's first hire (!), and tons of links to other
+great things PSA members are up to.
 
-The PSA has been presented or mentioned in many recent presentations, workshops, and blogposts. Pictured above are Neil Lewis Jr. (Assistant Director of Funding), Jess Flake (Assistant Director of Methods), and Hans IJzerman (Associate Director) in Estonia where they are providing open science training at the Empirical Methods in Cognitive Linguistics meeting. <a href="https://twitter.com/siminevazire/status/1144239346553360385" target="_blank" rel="noopener">Here</a> <a href="https://twitter.com/siminevazire/status/1144239346553360385" target="_blank" rel="noopener">are</a> <a href="https://twitter.com/thundercauldron/status/1144174942008860672" target="_blank" rel="noopener">more</a> <a href="https://twitter.com/alasdairgf/status/1141715574126460928" target="_blank" rel="noopener">links</a> to <a href="https://twitter.com/SandersanOnie/status/1141334115746082817" target="_blank" rel="noopener">other</a> <a href="https://twitter.com/kirstie_j/status/1135862461624672256" target="_blank" rel="noopener">pictures</a> and <a href="https://twitter.com/bg_farrar/status/1139192500533518337" target="_blank" rel="noopener">articles</a> from twitter.
-<h2>Other Collaboration Opportunities</h2>
-<ul>
-	<li><span style="font-weight:400;">Several members of the PSA have started a MetaResearch Hub. </span><span style="font-weight:400;">Anyone interested in meta-research should check it out. You can join a project or share your ideas to find collaborators:  </span><a href="https://t.co/BoDwtgYibi?amp=1"><span style="font-weight:400;">bit.do/MetaResearchHub</span></a></li>
-	<li><span style="font-weight:400;">Rick Klein, Olivier Dujols, and Hans IJzerman are looking for collaborators on a new (non-PSA) cross-national project to assess whether individual differences exist in risk distribution, social thermoregulation, and food sharing. The project home is at the </span><a href="https://osf.io/ghbzk/"><span style="font-weight:400;">OSF</span></a><span style="font-weight:400;">, the current proposal is in </span><a href="https://docs.google.com/document/d/1eNj50TWWA4dNvrNt-jWLJ-N3PPnATAbK5V9CnBnW7B8/edit?usp=sharing"><span style="font-weight:400;">Google Docs</span></a><span style="font-weight:400;">, and the current collaborator list in </span><a href="https://docs.google.com/spreadsheets/d/1_p4xU52a3NupIlHnKee-Ducgm1TOIGVGv8qvcX6t5fc/edit?usp=sharing"><span style="font-weight:400;">Google Sheets</span></a><span style="font-weight:400;">. Interested researchers can contact them directly. </span></li>
-</ul>
+## 2019 Call for Studies
+
+We welcome new study submissions now through September 15th. A detailed
+description can be found in the [blogpost announcing the
+call](https://psysciacc.org/2019/06/15/the-psychological-science-accelerator-calls-for-study-submissions/).
+Please do not hesitate to respond to this email with any questions you
+have about the submission, review, and selection process.
+
+The PSA\'s First Hire
+
+Patrick Forscher has accepted a postdoc at Université Grenoble Alpes in
+Hans IJzerman's lab to coordinate and write grants to fund the PSA. The
+first grant they're working on is a Synergy Grant, which could provide
+big-time funding for PSA activities. Receiving the grant would have
+major implications for the PSA, so you'll very probably be hearing more
+about the grant preparations in the coming months. Congrats, Patrick!
+
+## 002 Object Orientation and 003 Gendered Prejudice: Ready for Data Collection
+
+This bundled project will now begin to roll out data collection! 003\'s
+[preregistration](https://docs.google.com/document/d/16vh_qNWyhWSSK5tbNowt2CUPdPPwEYri59KXcjhjXeM/edit){target="_blank"}
+was finalized, we\'ve recorded a [demo
+video](https://osf.io/pe6ja/){target="_blank"} of a mock data collection
+session, and have established the c[ollaboration
+agreement](https://docs.google.com/document/d/1B273zUHTxmL9vE6rcSRdcV88GiDaDrVLS181QQrH5uw/edit){target="_blank"}
+describing how contributions on both studies will be credited. If
+you\'re a member lab for this study, be on the lookout for a detailed
+update email on next steps very soon!
+
+## 004 True Belief: Accepted in Principle at AMPPS and Ready for Data Collection
+
+The Accelerated CREP collaboration is also ready to begin data
+collection, after receiving an in principle acceptance at *Advances in
+Methods and Practices in Psychological Science*. You can read more about
+the project, and detailed instructions for how to get involved, in this
+highly informative [blog
+post](https://psysciacc.org/2019/06/29/update-on-the-accelerated-crep-a-collaborative-crep-replication-project-powered-by-the-psa/){target="_blank"}
+from project leader Braeden Hall.
+
+## Planning for PSA Activities at SIPS
+
+Many Accelerators will be attending this year\'s meeting of the [Society
+for the Improvement of Psychological
+Science](https://improvingpsych.org/){target="_blank"} in Rotterdam.
+Sau-chin Chen has put together a [google
+sheet](https://docs.google.com/spreadsheets/d/1LXUwDkTy1hPKm2ZxnmbaeTaAE-BMU-u4l2xPlBEQ7A4/edit#gid=0){target="_blank"}
+highlighting sessions led by PSA members. There will also be 5 PSA
+specific work meetings at the conference. Follow the conversation on our
+Slack workspace to see the time and location for those as they are
+determined.
+
+## Project Monitoring Committee
+
+The Project Monitoring Committee has changed its name to the Project
+Monitoring Committee. The initials and role will remain the same:
+Project Monitors (PMs) will monitor, encourage, and track progress on
+projects. They'll still be the person on the team who maintains a
+big-picture view, has an eye towards adherence to PSA policies, and
+helps submitting authors anticipate and overcome issues. The new name
+captures this role better, and makes more clear that the PM isn't
+responsible for making progress on a project or leading a project.
+
+## T-Shirts and Stickers
+
+We are selling PSA t-shirts and stickers. You can reply to this email
+with order details (sizes and quantities) and address and we will ship
+to you. Short sleeve shirts are \$15, long-sleeve shirts are \$20, and
+stickers are \$5. You can see pictures of each
+[here](https://twitter.com/CRChartier/status/1143894284560736256){target="_blank"}.
+
+## PSA Talks and Shout-outs
+
+![20190629_104250.jpg](images/20190629_104250-e1561903587853.jpg?w=535){.alignnone
+.size-full .wp-image-474 width="535" height="227"} The PSA has been
+presented or mentioned in many recent presentations, workshops, and
+blogposts. Pictured above are Neil Lewis Jr. (Assistant Director of
+Funding), Jess Flake (Assistant Director of Methods), and Hans IJzerman
+(Associate Director) in Estonia where they are providing open science
+training at the Empirical Methods in Cognitive Linguistics meeting.
+[Here](https://twitter.com/siminevazire/status/1144239346553360385){target="_blank"}
+[are](https://twitter.com/siminevazire/status/1144239346553360385){target="_blank"}
+[more](https://twitter.com/thundercauldron/status/1144174942008860672){target="_blank"}
+[links](https://twitter.com/alasdairgf/status/1141715574126460928){target="_blank"}
+to
+[other](https://twitter.com/SandersanOnie/status/1141334115746082817){target="_blank"}
+[pictures](https://twitter.com/kirstie_j/status/1135862461624672256){target="_blank"}
+and
+[articles](https://twitter.com/bg_farrar/status/1139192500533518337){target="_blank"}
+from twitter.
+
+## Other Collaboration Opportunities
+
+-   Several members of the PSA have started a MetaResearch Hub. Anyone
+    interested in meta-research should check it out. You can join a
+    project or share your ideas to find collaborators:
+    [bit.do/MetaResearchHub](https://t.co/BoDwtgYibi?amp=1)
+-   Rick Klein, Olivier Dujols, and Hans IJzerman are looking for
+    collaborators on a new (non-PSA) cross-national project to assess
+    whether individual differences exist in risk distribution, social
+    thermoregulation, and food sharing. The project home is at the
+    [OSF](https://osf.io/ghbzk/), the current proposal is in [Google
+    Docs](https://docs.google.com/document/d/1eNj50TWWA4dNvrNt-jWLJ-N3PPnATAbK5V9CnBnW7B8/edit?usp=sharing),
+    and the current collaborator list in [Google
+    Sheets](https://docs.google.com/spreadsheets/d/1_p4xU52a3NupIlHnKee-Ducgm1TOIGVGv8qvcX6t5fc/edit?usp=sharing).
+    Interested researchers can contact them directly.
+

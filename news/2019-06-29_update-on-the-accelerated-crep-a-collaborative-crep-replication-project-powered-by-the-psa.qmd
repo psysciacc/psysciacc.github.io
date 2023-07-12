@@ -1,226 +1,250 @@
 ---
-title: "Update on the Accelerated CREP. A Collaborative CREP Replication Project Powered by the PSA "
+title: "Update on the Accelerated CREP. A Collaborative CREP Replication Project Powered by the PSA"
+author: "Chris Chartier"
 date: 2019-06-29
+categories:
+  - CREP
 ---
 
-<h2>Post authored by Braeden Hall</h2>
-<span style="font-weight:400;">Last year, the Collaborative Replications and Education Project (</span><a href="https://osf.io/wfc6u/"><span style="font-weight:400;">CREP</span></a><span style="font-weight:400;">; pronounced like grape) and the Psychological Science Accelerator (PSA) partnered on a project, now referred to as the </span><a href="https://osf.io/n5b3w/"><span style="font-weight:400;">Accelerated CREP</span></a><span style="font-weight:400;"> (or PSA 004 Justified True Belief). The mission of the Accelerator is to accelerate the accumulation of reliable and generalizable evidence in psychological science, while the mission of the CREP is to improve undergraduate training through crowdsourced replication. Over the course of the last year, the CREP and PSA networks have worked together to collaboratively fulfill these two parallel missions by putting together a </span><a href="https://www.psychologicalscience.org/publications/replication"><span style="font-weight:400;">registered replication report (RRR)</span></a><span style="font-weight:400;">, now provisionally accepted at Advances in Methods and Practices in Psychological Science (AMPPS; </span><span style="font-weight:400;">preprint here: </span><a href="http://psyarxiv.com/zeux9"><span style="font-weight:400;">psyarxiv.com/zeux9</span></a><span style="font-weight:400;">)</span><span style="font-weight:400;">. The purpose of the Accelerated CREP is to harness the power of undergraduate research projects across five continents to address the need for replication in the field of Psychological Science. Having students perform replications as part of their psychological science education serves both as a pedagogical tool for teaching junior researchers about open science and as a rigorous scientific method for collecting high quality, transparent data for a field in need of corroboration.  </span>
+## Post authored by Braeden Hall
 
-<span style="font-weight:400;">When we first began this project, we didn't know whether we would simply preregister the study or attempt to publish it as a registered report. However, after writing a short proposal to AMPPS for the project, we were invited in June of 2018 to submit our study plan as a full </span><a href="https://www.psychologicalscience.org/publications/replication"><span style="font-weight:400;">Stage 1 registered replication report (RRR)</span></a><span style="font-weight:400;">. After several months of writing, planning, and R coding multilevel data simulations and power analyses, we submitted our collaborative study plan in November 2018. In January 2019, AMPPS requested that we resubmit our paper with revisions that considerably improved the study plan. After making these revisions and other improvements, our team resubmitted the paper back to AMPPS for review in February 2019. In April 2019, AMPPS requested a few additional changes, which were resubmitted the following month. And in June 2019, the Accelerated CREP Stage 1 RRR was provisionally accepted at AMPPS. </span>
+Last year, the Collaborative Replications and Education Project
+([CREP](https://osf.io/wfc6u/); pronounced like grape) and the
+Psychological Science Accelerator (PSA) partnered on a project, now
+referred to as the [Accelerated CREP](https://osf.io/n5b3w/) (or PSA 004
+Justified True Belief). The mission of the Accelerator is to accelerate
+the accumulation of reliable and generalizable evidence in psychological
+science, while the mission of the CREP is to improve undergraduate
+training through crowdsourced replication. Over the course of the last
+year, the CREP and PSA networks have worked together to collaboratively
+fulfill these two parallel missions by putting together a [registered
+replication report
+(RRR)](https://www.psychologicalscience.org/publications/replication),
+now provisionally accepted at Advances in Methods and Practices in
+Psychological Science (AMPPS; preprint here:
+[psyarxiv.com/zeux9](http://psyarxiv.com/zeux9)). The purpose of the
+Accelerated CREP is to harness the power of undergraduate research
+projects across five continents to address the need for replication in
+the field of Psychological Science. Having students perform replications
+as part of their psychological science education serves both as a
+pedagogical tool for teaching junior researchers about open science and
+as a rigorous scientific method for collecting high quality, transparent
+data for a field in need of corroboration. When we first began this
+project, we didn\'t know whether we would simply preregister the study
+or attempt to publish it as a registered report. However, after writing
+a short proposal to AMPPS for the project, we were invited in June of
+2018 to submit our study plan as a full [Stage 1 registered replication
+report
+(RRR)](https://www.psychologicalscience.org/publications/replication).
+After several months of writing, planning, and R coding multilevel data
+simulations and power analyses, we submitted our collaborative study
+plan in November 2018. In January 2019, AMPPS requested that we resubmit
+our paper with revisions that considerably improved the study plan.
+After making these revisions and other improvements, our team
+resubmitted the paper back to AMPPS for review in February 2019. In
+April 2019, AMPPS requested a few additional changes, which were
+resubmitted the following month. And in June 2019, the Accelerated CREP
+Stage 1 RRR was provisionally accepted at AMPPS. A lot of changes have
+been made to the Accelerated CREP project over the last year since its
+inception, and many of those changes arose from our decision to publish
+our plan as a registered report. We originally planned a very simple
+direct replication, but the AMPPS editor and reviewers made suggestions
+for how we could improve our design, including testing similar stimuli
+as a random factor to improve our test\'s generalizability, adjusting
+our cross-cultural and covariate analysis plans, and improving our
+theoretical precision. One of the original authors also suggested that
+we transition from using a binary response to a scaled response for a
+more sensitive measure of people\'s attributions of knowledge. When
+making all of these changes, it was also important for us to always
+consider student feasibility against other goals of the study. And,
+while publishing a registered report considerably delayed our original
+study timeline, it has no doubt resulted in a much more rigorous, much
+more fine tuned study from which students can learn. Due to the delays
+in our study timeline, we decided to allow some sites who had written
+their curriculum around the replicated Turri, Buckwalter, and Blouw
+(2015) study to participate in a traditional CREP preregistered direct
+replication with their students - which can all be found forked off the
+[Accelerated CREP\'s OSF page](https://osf.io/n5b3w/). The data from
+these direct replication studies will not be used for our primary
+planned multilevel analyses, but they may serve as an interesting
+comparison to the rest of the study. The first phase of this joint study
+took a lot of collaboration and planning, so we\'re eager to begin data
+collection! See below for more information about how to participate,
+using SoSciSurvey (and alternatives), CREP procedures, translation
+procedures, and some open science teaching resources. **Survey is Now
+Live on SoSciSurvey** As of July 27th, the universal English version of
+our main online survey is now live! We will have it open for one week
+for testing/debugging across all 50+ labs before resetting the data for
+sites to begin collecting data from participants. Our survey monitor,
+[Sophia
+Weissgerber](https://www.uni-kassel.de/fb01/de/institute/psychologie/allgemeine-psychologie/sophia-christin-weissgerber-msc/publikationen.html),
+has worked hard to code a universal survey in SoSciSurvey which is now
+open for contributors to start testing so they can request site specific
+versions, if they need one. Teams not testing in English will use the
+PSA procedures to translate the study materials to their local language
+(all posted to the OSF), and then Sophia will create a language specific
+version for the study with the help of our translation coordinator, [Jan
+Philipp Röer](https://www.researchgate.net/profile/Jan_Roeer/amp). By
+using SoSciSurvey, we are able to provide a boilerplate study experience
+to all interested labs that is both free and accessible globally (via
+internet access). We will also work with labs to create specific
+versions of the survey for those who have more unique needs or who want
+to run an extension of the study. We will allow sites to use other
+survey programs/applications; however, all data must conform to our
+universal data template - which our data monitor, [Daniel
+Dunleavy](https://csw.fsu.edu/person/daniel-dunleavy), will share to the
+[OSF](http://osf.io/n5b3w/) after contributors have finish testing the
+current version. Each lab's data collection plan must be cleared by the
+CREP review team prior to collecting data. **Steps to Participate** If
+you and/or your students are interested in participating in our
+collaborative, student-led project, you will need to take the following
+steps (this is an abbreviated list, see the [CREP
+step-by-step](https://docs.google.com/document/d/1Wtv514fz-_xDgH7UdOQcxUWvB8RtdKU1SCm2G04YMEs/edit?usp=sharing)
+for more detailed information):
 
-<span style="font-weight:400;">A lot of changes have been made to the Accelerated CREP project over the last year since its inception, and many of those changes arose from our decision to publish our plan as a registered report. We originally planned a very simple direct replication, but the AMPPS editor and reviewers made suggestions for how we could improve our design, including testing similar stimuli as a random factor to improve our test's generalizability, adjusting our cross-cultural and covariate analysis plans, and improving our theoretical precision. One of the original authors also suggested that we transition from using a binary response to a scaled response for a more sensitive measure of people's attributions of knowledge. When making all of these changes, it was also important for us to always consider student feasibility against other goals of the study. And, while publishing a registered report considerably delayed our original study timeline, it has no doubt resulted in a much more rigorous, much more fine tuned study from which students can learn. </span>
+-   **Step 1**: Become a member of the PSA
+    -   The PSA is comprised of 760 researchers representing 548
+        laboratories from 72 countries across 6 continents ([see map
+        here](https://nicholas-coles.shinyapps.io/PSA_Map_Prototype/)).
+    -   You can join easily by providing your contact info
+        [here](https://psysciacc.org/get-involved/).
+-   **Step 2**: Sign up for the [Accelerated
+    CREP](https://osf.io/n5b3w/)
+    -   First, [provide us with your
+        information](https://docs.google.com/forms/d/e/1FAIpQLSdUif1jYxmf_Mr6svuPm3oqBC7vm3EjbiBdewiqNgzU-Iz7ng/viewform).
+        -   If your site will have more than one team of researchers
+            collecting data concurrently, you should submit just one OSF
+            page for review. We ask that you describe the multiple teams
+            in your OSF page wiki, and clearly identify the materials,
+            methods, data, and results from each team in your files.
+    -   Then, someone from the CREP will contact you with more
+        instructions and a project number within two business days.
+        -   We will be tracking some details related to each site\'s
+            project
+            [here](https://docs.google.com/spreadsheets/d/1Bmdr6U0Ut5nBpgYbKiEqTfMT_PXmVXq-em4RvZx-5ZY/edit?usp=sharing).
+    -   In the meantime, please feel free to start working on the [CREP
+        step-by-step instructions provided
+        here](https://docs.google.com/document/d/1Wtv514fz-_xDgH7UdOQcxUWvB8RtdKU1SCm2G04YMEs/edit?usp=sharing).
+-   **Step 3**: Get Ethics/IRB Approval
+    -   Once you are familiar with the [CREP
+        procedures](https://docs.google.com/document/d/1Wtv514fz-_xDgH7UdOQcxUWvB8RtdKU1SCm2G04YMEs/edit?usp=sharing)
+        and you have been assigned a project number, your next step is
+        to get ethics approval from your institution.
+        -   To help contributors expedite their IRB/Ethics application
+            process, we have provided a template for you to use to fill
+            out your own institution's ethics application - which can be
+            found
+            [here](https://docs.google.com/document/d/1xNKG1a8dhzxFph7HH1JhRUCTg32aUY4RrtHLfB-MyIw/edit?usp=sharing).
+-   **Step 4**: Submitting Protocol for Review
+    -   After you have received your institutional ethics approval, you
+        and/or your students will submit your lab's protocol for review
+        to the CREP review team.
+        -   To submit your protocol for review, you will fork your study
+            off the [Accelerated CREP parent OSF
+            page](https://osf.io/n5b3w/) to create your lab's
+            preregistration on the Open Science Framework (OSF).
+            -   Your lab's preregistration will include a written
+                protocol that should match all protocols and procedures
+                set forth in the Stage 1 RRR.
+            -   A video of the methods used for the study.
+            -   Your institutional ethics approval.
+        -   The CREP review team will work with your group to approve
+            your protocol. The goal is approval, no contributors will be
+            denied outright. The review process is just to ensure that
+            your lab understands the study plan entirely.
+-   **Step 5**: Collect Data
+    -   After the CREP review team has approved your protocol, you will
+        be cleared to collect data.
+    -   Overall data collection will end on June 1st, 2020.
+        -   Labs who turn in their data report after this date may not
+            have their data represented in the Stage 2 paper.
+-   **Step 6**: Submit Data
+    -   After data collection ends or your team reaches its target
+        sample size, your team may submit your data, analysis report,
+        and other information to the CREP for a final review.
+    -   Once approved, we will collate your data into the aggregate
+        dataset for analysis.
+        -   Teams will also post their site level analyses to their
+            preregistered OSF pages.
 
-<span style="font-weight:400;">Due to the delays in our study timeline, we decided to allow some sites who had written their curriculum around the replicated Turri, Buckwalter, and Blouw (2015) study to participate in a traditional CREP preregistered direct replication with their students - which can all be found forked off the </span><a href="https://osf.io/n5b3w/"><span style="font-weight:400;">Accelerated CREP's OSF page</span></a><span style="font-weight:400;">. The data from these direct replication studies will not be used for our primary planned multilevel analyses, but they may serve as an interesting comparison to the rest of the study. </span>
+**Authorship Requirements and Current Contributions** When you sign up
+to contribute to this study, you must agree to our [Collaboration
+Agreement](https://docs.google.com/document/d/1WZq-_59zNGGGVSmrtBfGQPWQuY9clsH4ImXjdspHF8k/edit?usp=sharing).
+If you have any questions/concerns about this agreement, please email me
+at <HallBF@hendrix.edu>. Contributors who collect a larger sample (N \>
+100) and/or collect non-university participants will be given more
+advanced authorship. Authors can be added to a Registered Replication
+Report at different stages. Details about stage 1 author contributions
+can be found in the manuscript in the \"Author Contributions\" section:
+Preprint: <https://psyarxiv.com/zeux9>. ***What constitutes authorship
+on the final manuscript?*** All authors must make contributions to
+writing - review and editing (which involves approval of the submission)
+and must also make contributions in at least one another category of the
+[CRediT taxonomy](https://www.casrai.org/credit.html) (see table below).
+"Writing - Review and Editing" minimally requires closely reading the
+full manuscript, providing any relevant feedback and suggested edits,
+and confirming approval of submission. Most authors will contribute to
+"Investigation" and "Writing - Review & Editing." PIs of contributing
+labs are responsible for their students and staff working on the
+project. This includes: honestly reporting the contributions of their
+lab members, evaluating whether contributions merit authorship according
+to the above paragraph and the CRediT table below, and verifying that
+contributions are correctly described in any formal publication. PIs are
+also responsible for showing this agreement to lab members who will be
+authors and making sure they agree to it. Author contributions will be
+reported on research products (e.g., the Registered Report submission,
+the final manuscript) using the [CRediT
+taxonomy.](https://www.cell.com/pb/assets/raw/shared/guidelines/CRediT-taxonomy.pdf)
 
-<span style="font-weight:400;">The first phase of this joint study took a lot of collaboration and planning, so we're eager to begin data collection! See below for more information about how to participate, using SoSciSurvey (and alternatives), CREP procedures, translation procedures, and some open science teaching resources. </span>
+  ------------------------------ ------------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **CRediT Contributor Roles**                                  
+  **\#**                         **Role**                       **Definition**
+  1                              ​Conceptualization              ​Ideas; formulation or evolution of overarching research goals and aims.
+  2                              Data curation                  Monitoring activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use.
+  3                              Formal analysis                Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data.
+  4                              Funding acquisition ​           ​Acquisition of the financial support for the project leading to this publication.
+  5                              ​Investigation                  ​Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection.
+  6                              ​Methodology                    ​Development or design of methodology; creation of models.
+  7                              Project administration ​        ​Monitoring and coordination responsibility for the research activity planning and execution.
+  8                              ​Resources                      ​Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools.
+  9                              ​Software                       ​Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.
+  10                             ​Supervision                    ​Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team.
+  11                             ​Validation                     ​Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs.
+  12                             ​Visualization                  ​Preparation, creation and/or presentation of the published work, specifically visualization/data presentation.
+  13                             Writing -- original draft ​     ​Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation).
+  14                             Writing -- review & editing ​   ​Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision -- including pre- or post-publication stages.
+  ------------------------------ ------------------------------ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<b>Survey is Now Live on SoSciSurvey</b>
+***How will authorship order be determined?*** For the final manuscript,
+authorship will be assigned in tiers according to contributor roles (see
+table) using the [CRediT
+taxonomy](https://www.cell.com/pb/assets/raw/shared/guidelines/CRediT-taxonomy.pdf)
+(see . Contributions will be described in the author note.
 
-<span style="font-weight:400;">As of July 27th, the universal English version of our main online survey is now live! We will have it open for one week for testing/debugging across all 50+ labs before resetting the data for sites to begin collecting data from participants. </span>
+  ----------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **CRediT Authorship Tiers**   
+  **Tier 1**                    **Contributions to conceptualization, methodology, formal analysis, software, or resources, and writing - original draft, review and editing. (e.g., submitting authors, project monitor).**
+  **Tier 2**                    **Major contributions to validation, project administration, and/or writing - original draft, review and editing. Ordered alphabetically unless otherwise determined by discussion with project leadership.**
+  **Tier 3**                    **Investigation and writing - review and editing (Data collection PIs, students, and staff). Ordering alphabetical.**
+  **Tier 4**                    **Supervision and writing - review and editing (e.g., Chartier, Ethics Committee Liaison). Ordered alphabetically with Chartier and Grahe last.**
+  ----------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<span style="font-weight:400;">Our survey monitor, </span><a href="https://www.uni-kassel.de/fb01/de/institute/psychologie/allgemeine-psychologie/sophia-christin-weissgerber-msc/publikationen.html"><span style="font-weight:400;">Sophia Weissgerber</span></a><span style="font-weight:400;">, has worked hard to code a universal survey in SoSciSurvey which is now open for contributors to start testing so they can request site specific versions, if they need one. Teams not testing in English will use the PSA procedures to translate the study materials to their local language (all posted to the OSF), and then Sophia will create a language specific version for the study with the help of our translation coordinator, </span><a href="https://www.researchgate.net/profile/Jan_Roeer/amp"><span style="font-weight:400;">Jan Philipp Röer</span></a><span style="font-weight:400;">. By using SoSciSurvey, we are able to provide a boilerplate study experience to all interested labs that is both free and accessible globally (via internet access). </span>
+***What if I have questions or concerns related to authorship?*** We
+encourage you to ask questions and raise concerns about authorship as
+early as possible. We suggest directing questions or concerns to Braeden
+Hall (<hallbf@hendrix.edu>), Jordan Wagge (<jordan.wagge@avila.edu>),
+the director of the CREP (Jon Grahe, <graheje@plu.edu>), or to any
+[director, associate director, or assistant director of the
+PSA](https://psysciacc.org/people/), including: associate directors
+Heather Urry and Charlie Ebersole, and director Chris Chartier.
+**Educational Tools** If you would like some awesome open resources on
+teaching with replication and other great educational open science
+tools, check out this OSF page: [Consolidating Teaching
+Resources](http://osf.io/bts5d/wiki/home/) If you would like any more
+information or have questions about how to build a solid curriculum
+around open science, please don\'t hesitate to reach out to us for more
+resources. We are a team of enthusiastic replicators and educators, and
+we welcome any and all to join the project, especially students!
 
-<span style="font-weight:400;">We will also work with labs to create specific versions of the survey for those who have more unique needs or who want to run an extension of the study. We will allow sites to use other survey programs/applications; however, all data must conform to our universal data template - which our data monitor, </span><a href="https://csw.fsu.edu/person/daniel-dunleavy"><span style="font-weight:400;">Daniel Dunleavy</span></a><span style="font-weight:400;">, will share to the </span><a href="http://osf.io/n5b3w/"><span style="font-weight:400;">OSF</span></a><span style="font-weight:400;"> after contributors have finish testing the current version. Each lab’s data collection plan must be cleared by the CREP review team prior to collecting data.  </span>
+## -Braeden Hall
 
-<b>Steps to Participate </b>
-
-<span style="font-weight:400;">If you and/or your students are interested in participating in our collaborative, student-led project, you will need to take the following steps (this is an abbreviated list, see the </span><a href="https://docs.google.com/document/d/1Wtv514fz-_xDgH7UdOQcxUWvB8RtdKU1SCm2G04YMEs/edit?usp=sharing"><span style="font-weight:400;">CREP step-by-step</span></a><span style="font-weight:400;"> for more detailed information): </span>
-<ul>
-	<li style="font-weight:400;"><b>Step 1</b><span style="font-weight:400;">: Become a member of the PSA</span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">The PSA is comprised of 760 researchers representing 548 laboratories from 72 countries across 6 continents (</span><a href="https://nicholas-coles.shinyapps.io/PSA_Map_Prototype/"><span style="font-weight:400;">see map here</span></a><span style="font-weight:400;">).</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">You can join easily by providing your contact info </span><a href="https://psysciacc.org/get-involved/"><span style="font-weight:400;">here</span></a><span style="font-weight:400;">.</span></li>
-</ul>
-</li>
-	<li style="font-weight:400;"><b>Step 2</b><span style="font-weight:400;">: Sign up for the </span><a href="https://osf.io/n5b3w/"><span style="font-weight:400;">Accelerated CREP</span></a>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">First, </span><a href="https://docs.google.com/forms/d/e/1FAIpQLSdUif1jYxmf_Mr6svuPm3oqBC7vm3EjbiBdewiqNgzU-Iz7ng/viewform"><span style="font-weight:400;">provide us with your information</span></a><span style="font-weight:400;">.</span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">If your site will have more than one team of researchers collecting data concurrently, you should submit just one OSF page for review. We ask that you describe the multiple teams in your OSF page wiki, and clearly identify the materials, methods, data, and results from each team in your files.</span></li>
-</ul>
-</li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Then, someone from the CREP will contact you with more instructions and a project number within two business days. </span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">We will be tracking some details related to each site's project </span><a href="https://docs.google.com/spreadsheets/d/1Bmdr6U0Ut5nBpgYbKiEqTfMT_PXmVXq-em4RvZx-5ZY/edit?usp=sharing"><span style="font-weight:400;">here</span></a><span style="font-weight:400;">. </span></li>
-</ul>
-</li>
-	<li style="font-weight:400;"><span style="font-weight:400;">In the meantime, please feel free to start working on the </span><a href="https://docs.google.com/document/d/1Wtv514fz-_xDgH7UdOQcxUWvB8RtdKU1SCm2G04YMEs/edit?usp=sharing"><span style="font-weight:400;">CREP step-by-step instructions provided here</span></a><span style="font-weight:400;">. </span></li>
-</ul>
-</li>
-	<li style="font-weight:400;"><b>Step 3</b><span style="font-weight:400;">: Get Ethics/IRB Approval </span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">Once you are familiar with the </span><a href="https://docs.google.com/document/d/1Wtv514fz-_xDgH7UdOQcxUWvB8RtdKU1SCm2G04YMEs/edit?usp=sharing"><span style="font-weight:400;">CREP procedures</span></a><span style="font-weight:400;"> and you have been assigned a project number, your next step is to get ethics approval from your institution. </span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">To help contributors expedite their IRB/Ethics application process, we have provided a template for you to use to fill out your own institution’s ethics application - which can be found </span><a href="https://docs.google.com/document/d/1xNKG1a8dhzxFph7HH1JhRUCTg32aUY4RrtHLfB-MyIw/edit?usp=sharing"><span style="font-weight:400;">here</span></a><span style="font-weight:400;">. </span></li>
-</ul>
-</li>
-</ul>
-</li>
-	<li style="font-weight:400;"><b>Step 4</b><span style="font-weight:400;">: Submitting Protocol for Review </span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">After you have received your institutional ethics approval, you and/or your students will submit your lab’s protocol for review to the CREP review team. </span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">To submit your protocol for review, you will fork your study off the </span><a href="https://osf.io/n5b3w/"><span style="font-weight:400;">Accelerated CREP parent OSF page</span></a><span style="font-weight:400;"> to create your lab’s preregistration on the Open Science Framework (OSF).</span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">Your lab’s preregistration will include a written protocol that should match all protocols and procedures set forth in the Stage 1 RRR. </span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">A video of the methods used for the study. </span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Your institutional ethics approval. </span></li>
-</ul>
-</li>
-	<li style="font-weight:400;"><span style="font-weight:400;">The CREP review team will work with your group to approve your protocol. The goal is approval, no contributors will be denied outright. The review process is just to ensure that your lab understands the study plan entirely. </span></li>
-</ul>
-</li>
-</ul>
-</li>
-	<li style="font-weight:400;"><b>Step 5</b><span style="font-weight:400;">: Collect Data</span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">After the CREP review team has approved your protocol, you will be cleared to collect data. </span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Overall data collection will end on June 1st, 2020. </span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">Labs who turn in their data report after this date may not have their data represented in the Stage 2 paper. </span></li>
-</ul>
-</li>
-</ul>
-</li>
-	<li style="font-weight:400;"><b>Step 6</b><span style="font-weight:400;">: Submit Data </span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">After data collection ends or your team reaches its target sample size, your team may submit your data, analysis report, and other information to the CREP for a final review. </span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Once approved, we will collate your data into the aggregate dataset for analysis. </span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">Teams will also post their site level analyses to their preregistered OSF pages.</span></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<b>Authorship Requirements and Current Contributions</b>
-
-<span style="font-weight:400;">When you sign up to contribute to this study, you must agree to our </span><a href="https://docs.google.com/document/d/1WZq-_59zNGGGVSmrtBfGQPWQuY9clsH4ImXjdspHF8k/edit?usp=sharing"><span style="font-weight:400;">Collaboration Agreement</span></a><span style="font-weight:400;">. If you have any questions/concerns about this agreement, please email me at </span><a href="mailto:HallBF@hendrix.edu"><span style="font-weight:400;">HallBF@hendrix.edu</span></a><span style="font-weight:400;">. Contributors who  collect a larger sample (N &gt; 100) and/or collect non-university participants will be given more advanced authorship. </span><span style="font-weight:400;">Authors can be added to a Registered Replication Report at different stages. Details about stage 1 author contributions can be found in the manuscript in the "Author Contributions" section: Preprint: </span><a href="https://psyarxiv.com/zeux9"><span style="font-weight:400;">https://psyarxiv.com/zeux9</span></a><span style="font-weight:400;">.</span>
-
-<b><i>What constitutes authorship on the final manuscript?</i></b>
-
-<span style="font-weight:400;">All authors must make contributions to writing - review and editing (which involves approval of the submission) and must also make contributions in at least one another category of the </span><a href="https://www.casrai.org/credit.html"><span style="font-weight:400;">CRediT taxonomy</span></a><span style="font-weight:400;"> (see table below). “Writing - Review and Editing” minimally requires closely reading the full manuscript, providing any relevant feedback and suggested edits, and confirming approval of submission. Most authors will contribute to “Investigation” and “Writing - Review &amp; Editing.”</span>
-
-<span style="font-weight:400;">PIs of contributing labs are responsible for their students and staff working on the project. This includes: honestly reporting the contributions of their lab members, evaluating whether contributions merit authorship according to the above paragraph and the CRediT table below, and verifying that contributions are correctly described in any formal publication. PIs are also responsible for showing this agreement to lab members who will be authors and making sure they agree to it.</span>
-
-<span style="font-weight:400;">Author contributions will be reported on research products (e.g., the Registered Report submission, the final manuscript) using the </span><a href="https://www.cell.com/pb/assets/raw/shared/guidelines/CRediT-taxonomy.pdf"><span style="font-weight:400;">CRediT taxonomy.</span></a>
-<table>
-<tbody>
-<tr>
-<td colspan="3"><b>CRediT Contributor Roles</b></td>
-</tr>
-<tr>
-<td><b>#</b></td>
-<td><b>Role</b></td>
-<td><b>Definition</b></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">1</span></td>
-<td><span style="font-weight:400;">​Conceptualization</span></td>
-<td><span style="font-weight:400;">​Ideas; formulation or evolution of overarching research goals and aims.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">2</span></td>
-<td><span style="font-weight:400;">Data curation</span></td>
-<td><span style="font-weight:400;">Monitoring activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later re-use.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">3</span></td>
-<td><span style="font-weight:400;">Formal analysis</span></td>
-<td><span style="font-weight:400;">Application of statistical, mathematical, computational, or other formal techniques to analyse or synthesize study data.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">4</span></td>
-<td><span style="font-weight:400;">Funding acquisition ​</span></td>
-<td><span style="font-weight:400;">​Acquisition of the financial support for the project leading to this publication.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">5</span></td>
-<td><span style="font-weight:400;">​Investigation</span></td>
-<td><span style="font-weight:400;">​Conducting a research and investigation process, specifically performing the experiments, or data/evidence collection.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">6</span></td>
-<td><span style="font-weight:400;">​Methodology</span></td>
-<td><span style="font-weight:400;">​Development or design of methodology; creation of models.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">7</span></td>
-<td><span style="font-weight:400;">Project administration ​</span></td>
-<td><span style="font-weight:400;">​Monitoring and coordination responsibility for the research activity planning and execution.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">8</span></td>
-<td><span style="font-weight:400;">​Resources</span></td>
-<td><span style="font-weight:400;">​Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">9</span></td>
-<td><span style="font-weight:400;">​Software</span></td>
-<td><span style="font-weight:400;">​Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">10</span></td>
-<td><span style="font-weight:400;">​Supervision</span></td>
-<td><span style="font-weight:400;">​Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">11</span></td>
-<td><span style="font-weight:400;">​Validation</span></td>
-<td><span style="font-weight:400;">​Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">12</span></td>
-<td><span style="font-weight:400;">​Visualization</span></td>
-<td><span style="font-weight:400;">​Preparation, creation and/or presentation of the published work, specifically visualization/data presentation.</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">13</span></td>
-<td><span style="font-weight:400;">Writing – original draft ​</span></td>
-<td><span style="font-weight:400;">​Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation).</span></td>
-</tr>
-<tr>
-<td><span style="font-weight:400;">14</span></td>
-<td><span style="font-weight:400;">Writing – review &amp; editing ​</span></td>
-<td><span style="font-weight:400;">​Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or post-publication stages.</span></td>
-</tr>
-</tbody>
-</table>
-<b><i>How will authorship order be determined?</i></b>
-
-<span style="font-weight:400;">For the final manuscript, authorship will be assigned in tiers according to contributor roles (see table) using the </span><a href="https://www.cell.com/pb/assets/raw/shared/guidelines/CRediT-taxonomy.pdf"><span style="font-weight:400;">CRediT taxonomy</span></a><span style="font-weight:400;"> (see . Contributions will be described in the author note.</span>
-<table>
-<tbody>
-<tr>
-<td colspan="2"><b>CRediT Authorship Tiers</b></td>
-</tr>
-<tr>
-<td><b>Tier 1</b></td>
-<td><b>Contributions to conceptualization, methodology, formal analysis, software, or resources, and writing - original draft, review and editing. (e.g., submitting authors, project monitor). </b></td>
-</tr>
-<tr>
-<td><b>Tier 2</b></td>
-<td><b>Major contributions to validation, project administration, and/or writing - original draft, review and editing. Ordered alphabetically unless otherwise determined by discussion with project leadership.</b></td>
-</tr>
-<tr>
-<td><b>Tier 3</b></td>
-<td><b>Investigation and writing - review and editing (Data collection PIs, students, and staff). Ordering alphabetical.</b></td>
-</tr>
-<tr>
-<td><b>Tier 4</b></td>
-<td><b>Supervision and writing - review and editing (e.g., Chartier, Ethics Committee Liaison). Ordered alphabetically with Chartier and Grahe last.</b></td>
-</tr>
-</tbody>
-</table>
-<b><i>What if I have questions or concerns related to authorship?</i></b>
-
-<span style="font-weight:400;">We encourage you to ask questions and raise concerns about authorship as early as possible. We suggest directing questions or concerns to Braeden Hall (</span><a href="mailto:hallbf@hendrix.edu"><span style="font-weight:400;">hallbf@hendrix.edu</span></a><span style="font-weight:400;">), Jordan Wagge (</span><a href="mailto:jordan.wagge@avila.edu"><span style="font-weight:400;">jordan.wagge@avila.edu</span></a><span style="font-weight:400;">), the director of the CREP (Jon Grahe, </span><a href="mailto:graheje@plu.edu"><span style="font-weight:400;">graheje@plu.edu</span></a><span style="font-weight:400;">), or to any </span><a href="https://psysciacc.org/people/"><span style="font-weight:400;">director, associate director, or assistant director of the PSA</span></a><span style="font-weight:400;">, including: associate directors Heather Urry and Charlie Ebersole, and director Chris Chartier.</span>
-
-<b>Educational Tools </b>
-
-<span style="font-weight:400;">If you would like some awesome open resources on teaching with replication and other great educational open science tools, check out this OSF page:</span>
-
-<a href="http://osf.io/bts5d/wiki/home/"><span style="font-weight:400;">Consolidating Teaching Resources</span></a>
-
-<span style="font-weight:400;">If you would like any more information or have questions about how to build a solid curriculum around open science, please don't hesitate to reach out to us for more resources. We are a team of enthusiastic replicators and educators, and we welcome any and all to join the project, especially students! </span>
-<h2>-Braeden Hall</h2>

@@ -1,36 +1,74 @@
 ---
 title: "News from the Accelerator- July 2021"
+author: "Svannah Lewis"
 date: 2021-08-02
+categories:
+  - monthly update
 ---
 
-<!-- wp:heading -->
-<h2><strong>PSACON</strong></h2>
-<!-- /wp:heading -->
+## **PSACON**
 
-<!-- wp:image {"align":"left","id":2583,"sizeSlug":"thumbnail","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="alignleft size-thumbnail"><img src="https://psysciacc.org/wp-content/uploads/2021/08/opt3-150x150.png?crop=1" alt="" class="wp-image-2583"/></figure></div>
-<!-- /wp:image -->
+::: wp-block-image
+![](images/opt3-150x150.png?crop=1){.wp-image-2583}
+:::
 
-<!-- wp:paragraph -->
-<p><a href="https://psysciacc.org/the-2021-meeting-of-the-psychological-science-accelerator/"><span style="text-decoration: underline;"><strong>Registration</strong></span></a> and<span style="text-decoration: underline;"><strong> <a href="https://psysciacc.org/psa-conference-2021-call-for-presenters/">presentation</a></strong></span> submissions are open for the second annual virtual <a href="https://psysciacc.org/psacon2021/"><strong><span style="text-decoration: underline;">PSACON</span></strong></a>! This year's conference looks like it will be very exciting, and we have thus far been able to accommodate all members who have requested free access to the conference. We look forward to seeing you there!&nbsp;</p>
-<!-- /wp:paragraph -->
+**Registration** and
 
-<!-- wp:heading -->
-<h2><strong>Study updates:</strong></h2>
-<!-- /wp:heading -->
+**[presentation](https://psysciacc.org/psa-conference-2021-call-for-presenters/)**
+submissions are open for the second annual virtual
 
-<!-- wp:list -->
-<ul><li><strong>PSA-002 (Object Orientation) PSA-003 (Gendered Prejudice): </strong>Data collection for 002 and 003 is officially complete! The 002 and 003 teams are now working on data cleaning and executing the pre-registered analysis plans. The lead team will be reaching out to the data collection teams for help with the coding of text responses soon<strong>.</strong></li><li><strong>PSA-004 (Accelerated CREP):</strong> The leadership team is currently working on data processing, data analysis, and authorship credit tracking.</li><li><strong>PSA-005 (Stereotype Threat): </strong>Given the progress of vaccination in the US, we are hoping to collect data in the Fall! Each collaborator should have been added to the Canvas course. If you have not please email <a href="mailto:psa005stero@gmail.com"><strong><span style="text-decoration: underline;">psa005stero@gmail.com</span></strong></a>!</li><li><strong>PSA-006 (Trolley Problem):</strong> The lead team has submitted the Stage II submission to <em>Nature Human Behavior.</em></li><li><strong>PSA-007 (SPAM-L):</strong> SPAML is still recruiting collaborators, with contribution opportunities available through the <strong><span style="text-decoration: underline;"><a href="https://docs.google.com/document/d/1VKR-7csBlL-lGOTbRTnlmaYkqi8bj2FhYtvbzEN25Wk/edit?usp=sharing">Words2Many</a> </span></strong>and <strong><a href="https://docs.google.com/document/d/1xslViVFZrapUG75mwsF2eijFoQqm5GABoOf9ekIweH4/edit?usp=sharing"><span style="text-decoration: underline;">Subs2Strudel</span></a> </strong>pre-projects. If you are interested in becoming a collaborator or want to learn more about 007 please email <a href="mailto:007spaml@gmail.com"><strong><span style="text-decoration: underline;">007spaml@gmail.com</span></strong></a></li><li><strong>PSA-COVID Rapid Bundle (001/002/003)-</strong>&nbsp;<ul><li>PSACR001 has been submitted to <em>Science Advances</em>.</li><li>PSACR002 has reviewed proofs! We are not sure when this will be officially published, but hopefully, it will show up online soon.</li><li>PSACR003 received a revise and resubmit from <em>PNAS</em>. The team expects to send out the revised manuscript with a draft author list, the revision letter, and the reviews to collaborators in the first week of August.</li></ul></li></ul>
-<!-- /wp:list -->
+PSACON! This year\'s conference looks like it will be very exciting, and
+we have thus far been able to accommodate all members who have requested
+free access to the conference. We look forward to seeing you there! 
 
-<!-- wp:heading -->
-<h2><strong>Canvas</strong></h2>
-<!-- /wp:heading -->
+## **Study updates:**
 
-<!-- wp:image {"align":"left","id":2581,"width":92,"height":92,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="alignleft size-full is-resized"><img src="https://psysciacc.org/wp-content/uploads/2021/08/Camvas.png" alt="" class="wp-image-2581" width="92" height="92"/></figure></div>
-<!-- /wp:image -->
+-   **PSA-002 (Object Orientation) PSA-003 (Gendered Prejudice):** Data
+    collection for 002 and 003 is officially complete! The 002 and 003
+    teams are now working on data cleaning and executing the
+    pre-registered analysis plans. The lead team will be reaching out to
+    the data collection teams for help with the coding of text responses
+    soon**.**
+-   **PSA-004 (Accelerated CREP):** The leadership team is currently
+    working on data processing, data analysis, and authorship credit
+    tracking.
+-   **PSA-005 (Stereotype Threat):** Given the progress of vaccination
+    in the US, we are hoping to collect data in the Fall! Each
+    collaborator should have been added to the Canvas course. If you
+    have not please email
+    psa005stero@gmail.com!
+-   **PSA-006 (Trolley Problem):** The lead team has submitted the Stage
+    II submission to *Nature Human Behavior.*
+-   **PSA-007 (SPAM-L):** SPAML is still recruiting collaborators, with
+    contribution opportunities available through the
+    [Words2Many](https://docs.google.com/document/d/1VKR-7csBlL-lGOTbRTnlmaYkqi8bj2FhYtvbzEN25Wk/edit?usp=sharing)
+    and
+    Subs2Strudel pre-projects. If you are interested in becoming a
+    collaborator or want to learn more about 007 please email
+    007spaml@gmail.com
+-   **PSA-COVID Rapid Bundle (001/002/003)-** 
+    -   PSACR001 has been submitted to *Science Advances*.
+    -   PSACR002 has reviewed proofs! We are not sure when this will be
+        officially published, but hopefully, it will show up online
+        soon.
+    -   PSACR003 received a revise and resubmit from *PNAS*. The team
+        expects to send out the revised manuscript with a draft author
+        list, the revision letter, and the reviews to collaborators in
+        the first week of August.
 
-<!-- wp:paragraph -->
-<p>The PSA is slowly integrating our new membership website to Canvas. Canvas is designed for teaching, so many of the terms online are focused on teaching - but we plan to explore Canvas as a project management tool. We will be starting to add in every member in the next couple of months. <span style="text-decoration: underline;">At this moment, there isn’t anything you will need to do as of right now.</span></p>
-<!-- /wp:paragraph -->
+## **Canvas**
+
+::: wp-block-image
+![](images/Camvas.png){.wp-image-2581
+width="92" height="92"}
+:::
+
+The PSA is slowly integrating our new membership website to Canvas.
+Canvas is designed for teaching, so many of the terms online are focused
+on teaching - but we plan to explore Canvas as a project management
+tool. We will be starting to add in every member in the next couple of
+months.
+
+At this moment, there isn't anything you will need to do as of right
+now.
+

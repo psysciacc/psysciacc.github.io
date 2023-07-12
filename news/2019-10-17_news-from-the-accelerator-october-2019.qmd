@@ -1,34 +1,74 @@
 ---
 title: "News from the Accelerator - October 2019"
+author: "Chris Chartier"
 date: 2019-10-17
+categories:
+  - monthly update
 ---
 
-Hi all,
+Hi all, This month we have progress to report on our latest round of
+study selection, our 6 current studies, a policy document up for a vote,
+and an invitation to join a new PSA press team!
 
-This month we have progress to report on our latest round of study selection, our 6 current studies, a policy document up for a vote, and an invitation to join a new PSA press team!
-<h2>Vote on the Analysis Plan Approval Policy</h2>
-We now call for a vote on our <a href="https://docs.google.com/document/d/1DtoIMZoi3-a4nmgvQbV0LsbEH2xNMgRNnS94H6Jx3jo/edit#heading=h.x22gltabenuo" target="_blank" rel="noopener">analysis plan approval policy</a>. All members will receive a email asking for them to vote yes or no on this proposed policy.
-<h2>Study Selection Update</h2>
-We are now reviewing the 11 submissions we received in response to our 2019 call for studies. Initial feasibility checks are happening now (and have actually been completed for several submissions). Peer review requests will be made in the coming weeks. To participate in this process in any way (viewing, rating, or reviewing submissions), you will need to become an official PSA member through our new member website here: <a href="https://member.psysciacc.org/" target="_blank" rel="noopener">https://member.psysciacc.org/</a>. The more the merrier!
-<h2>Progress on All 6 Current Studies</h2>
-<a href="https://psysciacc.org/001-face-perception/" target="_blank" rel="noopener">PSA 001</a> is nearing completion and we will submit the stage 2 manuscript to Nature Human Behaviour, <a href="https://psysciacc.org/2019/09/01/introducing-the-psa001-secondary-analysis-challenge/" target="_blank" rel="noopener">release exploratory data</a>, and update our <a href="https://psyarxiv.com/n26dy" target="_blank" rel="noopener">preprint </a>all on October 31.
+## Vote on the Analysis Plan Approval Policy
 
-<a href="https://psyarxiv.com/t2pjv" target="_blank" rel="noopener">PSA 002</a>/<a href="https://psysciacc.org/003-gendered-prejudice/" target="_blank" rel="noopener">003</a> are moving quickly now with lots of recent activity on both translation and data collection. Several teams have even completed collection for these studies!
+We now call for a vote on our [analysis plan approval
+policy](https://docs.google.com/document/d/1DtoIMZoi3-a4nmgvQbV0LsbEH2xNMgRNnS94H6Jx3jo/edit#heading=h.x22gltabenuo){target="_blank"}.
+All members will receive a email asking for them to vote yes or no on
+this proposed policy.
 
-<a href="https://psyarxiv.com/zeux9" target="_blank" rel="noopener">PSA 004</a> is also in a period of rapid progress with many teams finalizing their materials and a handful of sites already collecting data.
+## Study Selection Update
 
-<a href="https://psyarxiv.com/6hju9/" target="_blank" rel="noopener">PSA 005</a> recently received some wonderful news, with a very favorable revise and resubmit decision from Nature Human Behaviour on the stage 1 registered report manuscript. The lead team is working on the revisions now.
+We are now reviewing the 11 submissions we received in response to our
+2019 call for studies. Initial feasibility checks are happening now (and
+have actually been completed for several submissions). Peer review
+requests will be made in the coming weeks. To participate in this
+process in any way (viewing, rating, or reviewing submissions), you will
+need to become an official PSA member through our new member website
+here:
+[https://member.psysciacc.org/](https://member.psysciacc.org/){target="_blank"}.
+The more the merrier!
 
-<a href="https://psyarxiv.com/9uaqm/" target="_blank" rel="noopener">PSA 006</a> is back under review as a stage 1 registered report at Nature Human Behaviour after its own revise and resubmit decision. We hope to be hearing some good news soon!
-<h2>Would You Like to Join PSA’s Press Team?</h2>
-The PSA is looking for people who would like to help with press issues. This is a great opportunity to either join the network or become more involved.
-Potential tasks of the press team include:
-<ul>
-	<li>Draft press releases</li>
-	<li>Contact bloggers, journalists, and media outlets with PSA updates</li>
-	<li>Organize contacts in PSA member university press offices</li>
-	<li>Write plain language summaries of PSA projects (for e.g. In-Mind, The Conversation, Psych Today, and other outlets that allow contributed articles)</li>
-	<li>Write Twitter threads, Facebook posts, etc.</li>
-	<li>Eventually coordinate TED-style talks</li>
-</ul>
-We will always provide the source info about the PSA and current studies so even people who are not familiar with the structure, goals or are not even sure what is going on in the PSA are welcome to volunteer! If you're interested please send an email to <a href="mailto:psysciaccelerator@gmail.com">psysciaccelerator@gmail.com</a>.
+## Progress on All 6 Current Studies
+
+[PSA 001](https://psysciacc.org/001-face-perception/){target="_blank"}
+is nearing completion and we will submit the stage 2 manuscript to
+Nature Human Behaviour, [release exploratory
+data](https://psysciacc.org/2019/09/01/introducing-the-psa001-secondary-analysis-challenge/){target="_blank"},
+and update our [preprint](https://psyarxiv.com/n26dy){target="_blank"}
+all on October 31. [PSA
+002](https://psyarxiv.com/t2pjv){target="_blank"}/[003](https://psysciacc.org/003-gendered-prejudice/){target="_blank"}
+are moving quickly now with lots of recent activity on both translation
+and data collection. Several teams have even completed collection for
+these studies! [PSA 004](https://psyarxiv.com/zeux9){target="_blank"} is
+also in a period of rapid progress with many teams finalizing their
+materials and a handful of sites already collecting data. [PSA
+005](https://psyarxiv.com/6hju9/){target="_blank"} recently received
+some wonderful news, with a very favorable revise and resubmit decision
+from Nature Human Behaviour on the stage 1 registered report manuscript.
+The lead team is working on the revisions now. [PSA
+006](https://psyarxiv.com/9uaqm/){target="_blank"} is back under review
+as a stage 1 registered report at Nature Human Behaviour after its own
+revise and resubmit decision. We hope to be hearing some good news soon!
+
+## Would You Like to Join PSA's Press Team?
+
+The PSA is looking for people who would like to help with press issues.
+This is a great opportunity to either join the network or become more
+involved. Potential tasks of the press team include:
+
+-   Draft press releases
+-   Contact bloggers, journalists, and media outlets with PSA updates
+-   Organize contacts in PSA member university press offices
+-   Write plain language summaries of PSA projects (for e.g. In-Mind,
+    The Conversation, Psych Today, and other outlets that allow
+    contributed articles)
+-   Write Twitter threads, Facebook posts, etc.
+-   Eventually coordinate TED-style talks
+
+We will always provide the source info about the PSA and current studies
+so even people who are not familiar with the structure, goals or are not
+even sure what is going on in the PSA are welcome to volunteer! If
+you\'re interested please send an email to
+<psysciaccelerator@gmail.com>.
+

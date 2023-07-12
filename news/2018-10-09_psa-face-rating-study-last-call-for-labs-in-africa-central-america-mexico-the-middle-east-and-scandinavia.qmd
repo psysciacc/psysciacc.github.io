@@ -1,26 +1,47 @@
 ---
 title: "PSA Face Rating Study: Last Call for Labs in Africa, Central America, Mexico, the Middle East, and Scandinavia."
+author: "Chris Chartier"
 date: 2018-10-09
+categories:
+  - PSA001
 ---
 
-<span style="font-weight:400;">Lab recruitment for the first official PSA study has far exceeded our wildest expectations. The study is now back under review (following a revise and resubmit decision) at </span><i><span style="font-weight:400;">Nature Human Behaviour</span></i><span style="font-weight:400;"> as a Stage 1 Registered Report. This means that we are having our critical rounds of peer review now, prior to data collection. You can read the current draft of the manuscript </span><a href="https://psyarxiv.com/n26dy" target="_blank" rel="noopener">here</a><span style="font-weight:400;">. The study will test the generalizability of the valence-dominance model of face perception across world regions, specifically: Africa, Asia, Australia and New Zealand, Central America and Mexico, Eastern Europe, the Middle East, the USA and Canada, Scandinavia, South America, the UK, and Western Europe. Our currently planned minimum N is greater than 9,000.</span>
+Lab recruitment for the first official PSA study has far exceeded our
+wildest expectations. The study is now back under review (following a
+revise and resubmit decision) at *Nature Human Behaviour* as a Stage 1
+Registered Report. This means that we are having our critical rounds of
+peer review now, prior to data collection. You can read the current
+draft of the manuscript
+[here](https://psyarxiv.com/n26dy){target="_blank"}. The study will test
+the generalizability of the valence-dominance model of face perception
+across world regions, specifically: Africa, Asia, Australia and New
+Zealand, Central America and Mexico, Eastern Europe, the Middle East,
+the USA and Canada, Scandinavia, South America, the UK, and Western
+Europe. Our currently planned minimum N is greater than 9,000. 
 
-<img class=" aligncenter" src="https://images.freeimages.com/images/large-previews/459/see-the-world-1-1359033.jpg" alt="See the world 1" width="583" height="304" />
+![See the world (Photo by Gabriel Picco)](https://images.freeimages.com/images/large-previews/459/see-the-world-1-1359033.jpg)
 
-<span style="font-weight:400;">We are extremely excited to have such a large and diverse team involved, but the project could still be strengthened by additional contributions from a few key world regions. While we no longer need labs in most world regions, we would warmly welcome additional labs from:</span>
-<ul>
-	<li><span style="font-weight:400;">Africa</span></li>
-	<li><span style="font-weight:400;">Central America</span></li>
-	<li><span style="font-weight:400;">Mexico</span></li>
-	<li><span style="font-weight:400;">The Middle East</span></li>
-	<li><span style="font-weight:400;">Scandinavia</span></li>
-</ul>
-<span style="font-weight:400;">Luckily, we can still expand our team of data collection labs and have the efforts of new labs recognized via authorship on the final published report, thanks to some excellent flexibility in the RR submission model at NHB. Data collection will begin as soon as possible (this depends on editorial decisions at NHB) and run through early September 2019. Please pass this information along to colleagues in the above regions who you think would be interested in contributing.</span>
+We are extremely excited to have such a large
+and diverse team involved, but the project could still be strengthened
+by additional contributions from a few key world regions. While we no
+longer need labs in most world regions, we would warmly welcome
+additional labs from:
 
-<span style="font-weight:400;">Sign up for the PSA network </span><a href="https://psysciacc.org/get-involved/" target="_blank" rel="noopener">here</a><span style="font-weight:400;">.</span>
+-   Africa
+-   Central America
+-   Mexico
+-   The Middle East
+-   Scandinavia
 
-<span style="font-weight:400;">Sign up for this specific study </span><a href="https://goo.gl/forms/U5zxA3rmClZFM1Mi1" target="_blank" rel="noopener">here</a><span style="font-weight:400;">.</span>
+Luckily, we can still expand our team of data collection labs and have
+the efforts of new labs recognized via authorship on the final published
+report, thanks to some excellent flexibility in the RR submission model
+at NHB. Data collection will begin as soon as possible (this depends on
+editorial decisions at NHB) and run through early September 2019. Please
+pass this information along to colleagues in the above regions who you
+think would be interested in contributing. Sign up for the PSA network
+[here](https://psysciacc.org/get-involved/){target="_blank"}. Sign up
+for this specific study
+[here](https://goo.gl/forms/U5zxA3rmClZFM1Mi1){target="_blank"}.
 
-&nbsp;
 
-<em><a href="https://www.freeimages.com/photo/see-the-world-1-1359033" target="_blank" rel="noopener">Photo</a> by Gabriel Picco </em>

@@ -1,78 +1,160 @@
 ---
 title: "The Psychological Science Accelerator: Call for Study Submissions (Deadline: June 20th)"
+author: "Chris Chartier"
 date: 2018-04-30
+categories:
+  - call for submissions
 ---
 
-<span style="font-weight:400;">The Psychological Science Accelerator (PSA), a network of</span><span style="font-weight:400;"> 300</span><span style="font-weight:400;"> labs collaborating to collect large-scale international samples of psychological data, is currently accepting study proposals from all areas of psychological science. Anyone can submit a proposal, whether or not they are a member of the PSA. Our mission is to accelerate the accumulation of reliable and generalizable evidence in psychological science, reducing the distance between truth about human behavior and mental processes and our current understanding. For a full overview of the PSA, please see our pre-print introducing our policies and procedures (</span><a href="https://psyarxiv.com/785qu/" target="_blank" rel="noopener">https://psyarxiv.com/785qu/</a><span style="font-weight:400;">). </span>
+The Psychological Science Accelerator (PSA), a network of 300 labs
+collaborating to collect large-scale international samples of
+psychological data, is currently accepting study proposals from all
+areas of psychological science. Anyone can submit a proposal, whether or
+not they are a member of the PSA. Our mission is to accelerate the
+accumulation of reliable and generalizable evidence in psychological
+science, reducing the distance between truth about human behavior and
+mental processes and our current understanding. For a full overview of
+the PSA, please see our pre-print introducing our policies and
+procedures
+([https://psyarxiv.com/785qu/](https://psyarxiv.com/785qu/){target="_blank"}).
+![Capture](images/capture.jpg){.alignnone
+.size-full .wp-image-282 width="1022" height="522"} Proposed studies can
+test novel hypotheses or focus on the replication of previous findings,
+can be basic or applied in focus, and can be exploratory or confirmatory
+in nature. Because accepted studies will likely involve considerable use
+of resources, the study selection process begins with the preparation
+and evaluation of a [Registered
+Report](https://osf.io/8mpji/){target="_blank"} style submission by
+authors hoping to collect data via the PSA network. Our Study Selection
+Committee will conduct an initial feasibility evaluation for all
+proposed studies (see below for more information on this feasibility
+check). Studies that pass this check will be evaluated by 10 peer
+reviewers and ourStudy Selection Committee for final selection. We plan
+to accept 2-3 studies during this round of review. Selected studies will
+then proceed through the PSA workflow depicted in the figure below.
+![processfigures1_001.jpg](images/processfigures1_001-e1525105474318.jpg){.alignnone
+.size-full .wp-image-284 width="1280" height="676"} Please email
+submissions to our Director, Dr. Christopher R. Chartier,
+cchartie@ashland.edu. Submissions will be accepted until June 20th,
+2018.
 
-<img class="alignnone size-full wp-image-282" src="https://psysciacc.org/wp-content/uploads/2018/04/capture.jpg" alt="Capture" width="1022" height="522" />
+## Feasibility
 
-<span style="font-weight:400;">Proposed studies can test novel hypotheses or focus on the replication of previous findings, can be basic or applied in focus, and can be exploratory or confirmatory in nature. Because accepted studies will likely involve considerable use of resources, the study selection process begins with the preparation and evaluation of a </span><a href="https://osf.io/8mpji/" target="_blank" rel="noopener">Registered Report</a><span style="font-weight:400;"> style submission by authors hoping to collect data via the PSA network. Our Study Selection Committee will conduct an initial feasibility evaluation for all proposed studies (see below for more information on this feasibility check). Studies that pass this check will be evaluated by 10 peer reviewers and ourStudy Selection Committee for final selection. We plan to accept 2-3 studies during this round of review. Selected studies will then proceed through the PSA workflow depicted in the figure below.</span>
+All feasibility decisions are made with respect to our current, and ever
+changing, resources. Although the PSA is comprised of hundreds of labs
+from around the world who have agreed to volunteer some of their
+resources to PSA projects, we are currently unable to accommodate all
+types of designs. Submissions are more likely to pass the initial
+feasibility check if they have the following characteristics:
 
-<img class="alignnone size-full wp-image-284" src="https://psysciacc.org/wp-content/uploads/2018/04/processfigures1_001-e1525105474318.jpg" alt="processfigures1_001.jpg" width="1280" height="676" />
+-   Do not require specialized equipment (e.g., eye-tracking, EEG) or
+    proprietary experimental software (e.g., E-Prime) to be used at the
+    data collection sites, unless the proposing team can provide these
+    resources to data collection labs
+-   Experimental materials and analysis scripts can be shared easily and
+    made publicly available
+-   Do not require hard-to-reach samples (e.g., clinical populations).
+    We hope to better accommodate such sampling in the future.
+-   Target sample size per site is less than 150 participants
+-   Target number of data collection sites is less than 150
+-   Duration of an individual data collection session is less than 90
+    minutes
+-   The likelihood and severity of risk to the participant is kept to a
+    minimum, such that the risk is not greater than what participants
+    would face normally and would not require special consideration or
+    deliberation from an ethics board.
 
-<span style="font-weight:400;">Please email submissions to our Director, Dr. Christopher R. Chartier, cchartie@ashland.edu. Submissions will be accepted until June 20</span><span style="font-weight:400;">th</span><span style="font-weight:400;">, 2018. </span>
-<h2 style="text-align:center;"><b>Feasibility </b></h2>
-<span style="font-weight:400;">All feasibility decisions are made with respect to our current, and ever changing, resources. Although the PSA is comprised of hundreds of labs from around the world who have agreed to volunteer some of their resources to PSA projects, we are currently unable to accommodate all types of designs. Submissions are more likely to pass the initial feasibility check if they have the following characteristics:</span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">Do not require specialized equipment (e.g., eye-tracking, EEG) or proprietary experimental software (e.g., E-Prime) to be used at the data collection sites, unless the proposing team can provide these resources to data collection labs</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Experimental materials and analysis scripts can be shared easily and made publicly available</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Do not require hard-to-reach samples (e.g., clinical populations). We hope to better accommodate such sampling in the future.</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Target sample size per site is less than 150 participants</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Target number of data collection sites is less than 150</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Duration of an individual data collection session is less than 90 minutes</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">The likelihood and severity of risk to the participant is kept to a minimum, such that the risk is not greater than what participants would face normally and would not require special consideration or deliberation from an ethics board.</span></li>
-</ul>
-<h2 style="text-align:center;"><b>Characteristics of strong submissions</b></h2>
-<span style="font-weight:400;">Beyond simply being feasible given current PSA resources, strong submissions will also:</span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">Accurately and clearly describe literature relevant to the study’s goals and design, such that researchers unfamiliar with the subject can understand the basic concepts behind the theory/phenomenon and the purpose of the research. </span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Clearly articulate the purpose of the research, relevant research questions, and hypotheses.</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Clearly articulate the research design, with a focus on sound methodology appropriate to the research questions, including a</span><span style="font-weight:400;">dequate power analysis to justify sample size</span><span style="font-weight:400;">.</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Provide examples of relevant material, for example websites, experimental scripts (e.g., E-prime, Inquist, OpenSesame), precise experimental design, and/or stimuli.</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Accurately and clearly describe an analysis strategy appropriate to the research questions and design. Pilot or simulated data and working analysis scripts are ideal for clarity.</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Make a compelling case for the importance of large-scale collaborative data collection.</span></li>
-</ul>
-<h2 style="text-align:center;"><b>Submission Format and Guidelines</b></h2>
-<span style="font-weight:400;">The following components are required for all submissions:</span>
-<ul>
-	<li style="font-weight:400;"><span style="font-weight:400;">Cover Page, including title of the study, date of the latest draft, and keywords</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Abstract of up to 150 words</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Main body submission text of up to 5,000 words</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">References</span></li>
-	<li style="font-weight:400;"><span style="font-weight:400;">Supplementary materials</span></li>
-</ul>
-<span style="font-weight:400;">The following guidelines are intended to assist you in the preparation of your study submission to the Psychological Science Accelerator. Submissions normally include a description of the key background literature and motivation for the study, hypotheses, study procedures, proposed statistical analysis plan, a statistical power analysis, and pilot data (wherever applicable). </span>
+## **Characteristics of strong submissions** {#characteristics-of-strong-submissions style="text-align:center;"}
 
-<b>Introduction</b>
+Beyond simply being feasible given current PSA resources, strong
+submissions will also:
 
-<span style="font-weight:400;">A review of the relevant literature that motivates the research question and a full description of the study aims and hypotheses.</span>
+-   Accurately and clearly describe literature relevant to the study's
+    goals and design, such that researchers unfamiliar with the subject
+    can understand the basic concepts behind the theory/phenomenon and
+    the purpose of the research.
+-   Clearly articulate the purpose of the research, relevant research
+    questions, and hypotheses.
+-   Clearly articulate the research design, with a focus on sound
+    methodology appropriate to the research questions, including
+    adequate power analysis to justify sample size.
+-   Provide examples of relevant material, for example websites,
+    experimental scripts (e.g., E-prime, Inquist, OpenSesame), precise
+    experimental design, and/or stimuli.
+-   Accurately and clearly describe an analysis strategy appropriate to
+    the research questions and design. Pilot or simulated data and
+    working analysis scripts are ideal for clarity.
+-   Make a compelling case for the importance of large-scale
+    collaborative data collection.
 
-<b>Methods</b>
+## **Submission Format and Guidelines** {#submission-format-and-guidelines style="text-align:center;"}
 
-<span style="font-weight:400;">A full description of proposed sample characteristics, including criteria for data inclusion and exclusion (e.g. outlier extraction). Procedures for objectively defining exclusion criteria due to technical errors or for any other reasons must be specified, including details of how and under what conditions data would be replaced.</span>
+The following components are required for all submissions:
 
-<span style="font-weight:400;">A description of study procedures in sufficient detail to allow another researcher to repeat the methodology exactly, without requiring further information.</span>
+-   Cover Page, including title of the study, date of the latest draft,
+    and keywords
+-   Abstract of up to 150 words
+-   Main body submission text of up to 5,000 words
+-   References
+-   Supplementary materials
 
-<span style="font-weight:400;">Proposed analysis pipeline, including all preprocessing steps, and a precise description of all planned analyses, including appropriate correction for multiple comparisons. Specify all covariates or regressors. Specify analysis decisions that are contingent on the outcome of prior analyses.</span>
+The following guidelines are intended to assist you in the preparation
+of your study submission to the Psychological Science Accelerator.
+Submissions normally include a description of the key background
+literature and motivation for the study, hypotheses, study procedures,
+proposed statistical analysis plan, a statistical power analysis, and
+pilot data (wherever applicable). 
 
-<b>Results</b>
+### Introduction
 
-<span style="font-weight:400;">Studies involving Neyman-Pearson inference must include a statistical power analysis. Estimated effect sizes should be justified with reference to the existing literature or theory. Since publication bias overinflates published estimates of effect size, power analysis should be based on the lowest available or meaningful estimate of the effect size. </span>
+A review of the relevant literature that motivates the research question and a full
+description of the study aims and hypotheses. 
 
-<span style="font-weight:400;">In the case of highly uncertain effect sizes, a variable sample size and interim data analysis is permissible but with inspection points stated in advance, </span><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2023" target="_blank" rel="noopener">appropriate Type I error correction for ‘peeking’ employed</a><span style="font-weight:400;">, and a final stopping rule for data collection outlined.</span><span style="font-weight:400;">
-</span><span style="font-weight:400;">
-</span><span style="font-weight:400;">For studies involving analyses with Bayes factors, the predictions of the theory must be specified so that a Bayes factor can be calculated. Authors should indicate what distribution will be used to represent the predictions of the theory and how its parameters will be specified.  </span>
+### Methods
 
-<span style="font-weight:400;">Full descriptions must be provided of any outcome-neutral criteria that must be met for successful testing of the stated hypotheses. Such quality checks might include the absence of floor or ceiling effects in data distributions, positive controls, or other quality checks that are orthogonal to the experimental hypotheses.</span>
+A full description of proposed sample characteristics, including criteria for
+data inclusion and exclusion (e.g. outlier extraction). Procedures for
+objectively defining exclusion criteria due to technical errors or for
+any other reasons must be specified, including details of how and under
+what conditions data would be replaced. A description of study
+procedures in sufficient detail to allow another researcher to repeat
+the methodology exactly, without requiring further information. Proposed
+analysis pipeline, including all preprocessing steps, and a precise
+description of all planned analyses, including appropriate correction
+for multiple comparisons. Specify all covariates or regressors. Specify
+analysis decisions that are contingent on the outcome of prior analyses.
 
-<b>Supplemental Materials</b>
+### Results
 
-<span style="font-weight:400;">Include full questionnaires, stimuli, and materials needed to conduct the study. Pilot data can be included to establish proof of concept, effect size estimations, or feasibility of proposed methods. Simulated data and analysis scripts are ideal for clarity of the exclusion criteria and analysis plan.</span><span style="font-weight:400;">
-</span>
+Studies involving Neyman-Pearson inference must include a
+statistical power analysis. Estimated effect sizes should be justified
+with reference to the existing literature or theory. Since publication
+bias overinflates published estimates of effect size, power analysis
+should be based on the lowest available or meaningful estimate of the
+effect size. In the case of highly uncertain effect sizes, a variable
+sample size and interim data analysis is permissible but with inspection
+points stated in advance, [appropriate Type I error correction for
+'peeking' employed](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2023){target="_blank"}, and a final stopping rule for data collection outlined. For studies
+involving analyses with Bayes factors, the predictions of the theory
+must be specified so that a Bayes factor can be calculated. Authors
+should indicate what distribution will be used to represent the
+predictions of the theory and how its parameters will be specified. Full
+descriptions must be provided of any outcome-neutral criteria that must
+be met for successful testing of the stated hypotheses. Such quality
+checks might include the absence of floor or ceiling effects in data
+distributions, positive controls, or other quality checks that are
+orthogonal to the experimental hypotheses. 
 
-<em><span style="font-weight:400;">These guidelines were adapted from </span><a href="https://osf.io/pukzy" target="_blank" rel="noopener">https://osf.io/pukzy</a><span style="font-weight:400;">.</span></em>
+### Supplemental Materials
 
-&nbsp;
+Include full questionnaires, stimuli, and materials needed to conduct
+the study. Pilot data can be included to establish proof of concept,
+effect size estimations, or feasibility of proposed methods. Simulated
+data and analysis scripts are ideal for clarity of the exclusion
+criteria and analysis plan. *These guidelines were adapted from
+[https://osf.io/pukzy](https://osf.io/pukzy){target="_blank"}.*
 
-<strong>Please email submissions to our Director, Dr. Christopher R. Chartier, cchartie@ashland.edu. Submissions will be accepted until June 20th, 2018. </strong>
+**Please email submissions to our Director, Dr. Christopher R. Chartier,
+cchartie@ashland.edu. Submissions will be accepted until June 20th,
+2018.**
+

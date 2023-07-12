@@ -1,40 +1,55 @@
 ---
 title: "Launching PSA-Affiliated Projects"
+author: "Nicholas Coles"
 date: 2022-01-31
+categories:
+  - affiliated projects
 ---
 
-<!-- wp:paragraph -->
-<p>Today, the PSA is launching a pilot of a new stream of activity called “PSA-affiliated projects”.&nbsp;</p>
-<!-- /wp:paragraph -->
+Today, the PSA is launching a pilot of a new stream of activity called
+"PSA-affiliated projects".
 
-<!-- wp:paragraph -->
-<p>Due to resource and infrastructure constraints, the PSA is limited in the number of projects it can officially support. Nonetheless, members of the PSA often self-organize to create initiatives and collaborations that are not “officially” supported by the PSA, but are nonetheless guided by PSA principles and policies. The goal for the PSA-affiliated project line is to develop a formal mechanism for recognizing, promoting, and supporting these types of activities.</p>
-<!-- /wp:paragraph -->
+Due to resource and infrastructure constraints, the PSA is limited in
+the number of projects it can officially support. Nonetheless, members
+of the PSA often self-organize to create initiatives and collaborations
+that are not "officially" supported by the PSA, but are nonetheless
+guided by PSA principles and policies. The goal for the PSA-affiliated
+project line is to develop a formal mechanism for recognizing,
+promoting, and supporting these types of activities.
 
-<!-- wp:paragraph -->
-<p>Official policies and infrastructure will be developed along the way, but PSA-affiliated projects will be expected to follow three rules:</p>
-<!-- /wp:paragraph -->
+Official policies and infrastructure will be developed along the way,
+but PSA-affiliated projects will be expected to follow three rules:
 
-<!-- wp:paragraph -->
-<p>1. Be led by at least one member of the PSA who has agreed to abide by the PSA Code of Conduct.</p>
-<!-- /wp:paragraph -->
+1\. Be led by at least one member of the PSA who has agreed to abide by
+the PSA Code of Conduct.
 
-<!-- wp:paragraph -->
-<p>2. Follow the five PSA Core Principles (or transparently articulate why those principles are not followed).</p>
-<!-- /wp:paragraph -->
+2\. Follow the five PSA Core Principles (or transparently articulate why
+those principles are not followed).
 
-<!-- wp:paragraph -->
-<p>3. Provide annual updates on how PSA core principles are being upheld (until the project is completed).</p>
-<!-- /wp:paragraph -->
+3\. Provide annual updates on how PSA core principles are being upheld
+(until the project is completed).
 
-<!-- wp:paragraph -->
-<p>To pilot this initiative, we will start with one project: "The Preference-Matching Project: Testing the Predictive Validity of Ideal Partner Preference-Matching Across Cultures", led by Paul Eastwick, Jehan Sparks, Eli J. Finkel, &amp; Eva M. Meza. This project provides a unique opportunity to test the PSA-affiliated initiative because it was originally accepted with minor revisions by the PSA Study Selection Committee--but placed on a waitlist due to PSA resource constraints. PSA committees will not offer direct support to this project, but we suspect that many members of the PSA would be interested in contributing.</p>
-<!-- /wp:paragraph -->
+To pilot this initiative, we will start with one project: \"The
+Preference-Matching Project: Testing the Predictive Validity of Ideal
+Partner Preference-Matching Across Cultures\", led by Paul Eastwick,
+Jehan Sparks, Eli J. Finkel, & Eva M. Meza. This project provides a
+unique opportunity to test the PSA-affiliated initiative because it was
+originally accepted with minor revisions by the PSA Study Selection
+Committee\--but placed on a waitlist due to PSA resource constraints.
+PSA committees will not offer direct support to this project, but we
+suspect that many members of the PSA would be interested in
+contributing.
 
-<!-- wp:paragraph -->
-<p>See the following links for a <a rel="noreferrer noopener" href="https://osf.io/2khp4/?view_only=d366f20990094356a4fd71248abd0ae4" data-type="URL" data-id="Preprint: https://osf.io/2khp4/?view_only=d366f20990094356a4fd71248abd0ae4" target="_blank">manuscript draft</a> and <a rel="noreferrer noopener" href="https://drive.google.com/file/d/1Gq6BKM4knWa9ebI4pXtHKPz76reLFI-U/view?usp=sharing" data-type="URL" data-id="https://drive.google.com/file/d/1Gq6BKM4knWa9ebI4pXtHKPz76reLFI-U/view?usp=sharing" target="_blank">recruitment flyer</a>.</p>
-<!-- /wp:paragraph -->
+See the following links for a [manuscript
+draft](https://osf.io/2khp4/?view_only=d366f20990094356a4fd71248abd0ae4){rel="noreferrer noopener"
+data-type="URL"
+data-id="Preprint: https://osf.io/2khp4/?view_only=d366f20990094356a4fd71248abd0ae4"
+target="_blank"} and [recruitment
+flyer](https://drive.google.com/file/d/1Gq6BKM4knWa9ebI4pXtHKPz76reLFI-U/view?usp=sharing){rel="noreferrer noopener"
+data-type="URL"
+data-id="https://drive.google.com/file/d/1Gq6BKM4knWa9ebI4pXtHKPz76reLFI-U/view?usp=sharing"
+target="_blank"}.
 
-<!-- wp:paragraph -->
-<p>If members of the PSA seem interested in more of these types of initiatives, we will consider expanding this program in the future!</p>
-<!-- /wp:paragraph -->
+If members of the PSA seem interested in more of these types of
+initiatives, we will consider expanding this program in the future!
+

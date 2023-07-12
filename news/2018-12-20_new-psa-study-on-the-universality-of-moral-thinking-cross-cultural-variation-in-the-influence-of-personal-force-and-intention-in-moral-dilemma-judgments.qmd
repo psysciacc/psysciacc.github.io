@@ -1,16 +1,33 @@
 ---
 title: "New PSA Study! On the universality of moral thinking: Cross-cultural variation in the influence of personal force and intention in moral dilemma judgments."
+author: "Chris Chartier"
 date: 2018-12-20
+categories:
+  - PSA006
 ---
 
-<span style="font-weight:400;">We are excited to announce that we have selected “</span><i><span style="font-weight:400;">On the universality of moral thinking: Cross-cultural variation in the influence of personal force and intention in moral dilemma judgments</span></i><span style="font-weight:400;">” as our next official PSA study! This proposal was submitted by Bence Bago (Toulouse School of Economics, France) and Balazs Aczel (Eotvos Lorand University, Hungary). Congratulations!</span>
+We are excited to announce that we have selected "*On the universality
+of moral thinking: Cross-cultural variation in the influence of personal
+force and intention in moral dilemma judgments*" as our next official
+PSA study! This proposal was submitted by Bence Bago (Toulouse School of
+Economics, France) and Balazs Aczel (Eotvos Lorand University, Hungary).
+Congratulations! The project focuses on people's reasoning in moral
+dilemmas in which deontological perspectives (emphasizing individual
+rights) are in conflict with consequentialist reasoning (following the
+greater good). In an important and central experiment, [Greene et al.
+(2009)](https://www.sciencedirect.com/science/article/pii/S0010027709000420){target="_blank"}
+investigated whether people are sensitive to the intention of agents
+when evaluating moral actions. They found that this is only the case
+when people have to apply personal force to do so. Yet, their work could
+not explore the effect of a potentially important component: culture.
+Therefore, the goal of the present project is to empirically test the
+universality of the effect of intention on utilitarian and deontological
+responding by directly replicating Greene et al.'s experiments in
+non-WEIRD samples as well. You can read the accepted proposal here:
+[https://osf.io/d2ptq/](https://osf.io/d2ptq/){target="_blank"} Stay
+tuned for more information on lab recruitment and project planning soon!
+If you already know you would like to join this project, please email us
+(psysciaccelerator@gmail.com) to express your interest. ![pasted image
+0](images/pasted-image-0-e1545151564402.png){.size-full
+.wp-image-346 .aligncenter width="500" height="225"}
 
-<span style="font-weight:400;">The project focuses on people’s reasoning in moral dilemmas in which deontological perspectives (emphasizing individual rights) are in conflict with consequentialist reasoning (following the greater good). In an important and central experiment, </span><a href="https://www.sciencedirect.com/science/article/pii/S0010027709000420" target="_blank" rel="noopener">Greene et al. (2009)</a><span style="font-weight:400;"> investigated whether people are sensitive to the intention of agents when evaluating moral actions. They found that this is only the case when people have to apply personal force to do so. Yet, their work could not explore the effect of a potentially important component: culture. Therefore, the goal of the present project is to empirically test the universality of the effect of intention on utilitarian and deontological responding by directly replicating Greene et al.’s experiments in non-WEIRD samples as well.</span>
-
-<span style="font-weight:400;">You can read the accepted proposal here: </span><a href="https://osf.io/d2ptq/" target="_blank" rel="noopener">https://osf.io/d2ptq/</a>
-
-<span style="font-weight:400;">Stay tuned for more information on lab recruitment and project planning soon! </span>
-
-<span style="font-weight:400;">If you already know you would like to join this project, please email us (psysciaccelerator@gmail.com) to express your interest.</span>
-
-<img class=" size-full wp-image-346 aligncenter" src="https://psysciacc.org/wp-content/uploads/2018/12/pasted-image-0-e1545151564402.png" alt="pasted image 0" width="500" height="225" />
