@@ -38,7 +38,6 @@ website:
       - text: About Us
         menu: 
           - about.qmd
-          - history.qmd
           - media.qmd
           - contacts.qmd
           - newsletter.qmd
