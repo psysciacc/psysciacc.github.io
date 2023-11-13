@@ -2,4 +2,4 @@
 title: "Registration"
 ---
 
-We are currently planning on organizing a 2023 Big Team Science Conference in  late 2023. Once registration is open, we will add information here.
+We recently helped co-organize the [2023 Big Team Science Conference]('https://bigteamscienceconference.github.io/'), and we hope to participate in the 2024 conference as well. Please check the conference website for more information.
