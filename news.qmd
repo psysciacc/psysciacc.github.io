@@ -11,3 +11,4 @@ listing:
 page-layout: full
 title-block-banner: false
 ---
+In the past, the PSA announced news through blog posts, which are copied below as an archive. Future news is now announced through our [listserv](https://psysciacc.us18.list-manage.com/subscribe?u=f8bacf294e5a46e350b638374&id=35f4b6c03f).
