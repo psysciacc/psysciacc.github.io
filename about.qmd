@@ -1,8 +1,6 @@
 ---
 title: "About"
-image: images/logo.png
 about:
-  template: marquee
   links:
     - icon: twitter
       text: Twitter
