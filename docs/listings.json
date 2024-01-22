@@ -1,18 +1,5 @@
 [
   {
-    "listing": "/affiliated.html",
-    "items": [
-      "/affiliated/af001.html",
-      "/affiliated/af002.html"
-    ]
-  },
-  {
-    "listing": "/papers.html",
-    "items": [
-      "/papers/PSA-intro_2018.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
       "/news/2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.html",
@@ -84,6 +71,19 @@
       "/news/2017-11-08_the-psychological-science-accelerators-first-study.html",
       "/news/2017-10-25_timeline-for-late-2017-and-early-2018.html",
       "/news/2017-10-24_check-here-for-updates-on-the-accelerator.html"
+    ]
+  },
+  {
+    "listing": "/affiliated.html",
+    "items": [
+      "/affiliated/af001.html",
+      "/affiliated/af002.html"
+    ]
+  },
+  {
+    "listing": "/papers.html",
+    "items": [
+      "/papers/PSA-intro_2018.html"
     ]
   },
   {

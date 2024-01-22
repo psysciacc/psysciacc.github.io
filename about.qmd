@@ -1,13 +1,5 @@
 ---
 title: "About"
-about:
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/psysciacc
-    - icon: github
-      text: Github
-      href: https://github.com/psysciacc
 ---
 
 The Psychological Science Accelerator (PSA) is a globally distributed network of researchers (2468 researchers from 73 countries) that pool intellectual and material resources to accelerate the accumulation of rigorous knowledge in psychological science. Below is some information about how we got started, our guiding principles, notable accomplishments, and future directions.
