@@ -1,0 +1,16 @@
+---
+order: 1010
+title: "PSA-JTF1: Moral Experiences"
+status: Ongoing - data collection
+image: /images/icons/PSAJTF001.png
+categories:
+  - morality
+  - experience sampling
+  - multi-language
+  - ongoing
+links:
+  preprint: https://osf.io/preprints/psyarxiv/jktnv
+abstract: |
+  Do people in different societies experience morality differently in everyday life? Using experience sampling methods, we investigate everyday moral experiences in a sample from 20 countries across 6 continents, thereby replicating and extending a large-scale study originally conducted in the United States and Canada. We aim to replicate key findings about the kinds of moral experiences people have, the relationship between such experiences and religious or political affiliation, how such experiences affect momentary feelings, and how such experiences influence moral behavior. An international sample enables us to assess the generalizability of these findings across different socio-cultural contexts.
+---
+
