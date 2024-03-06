@@ -10,3 +10,7 @@ categories:
 abstract: |
   The cultural logics of dignity, honor, and face describe different grounds for evaluating a person’s worth and ensuring cooperation that vary in prevalence across cultures. We will collaboratively develop and validate a measure capturing these cultural logics, which will allow us to map world cultures on the prevalence of these logics. We will further explore the interrelations of dignity, honor, and face with prosocial behavior, values, moral beliefs, and religiosity, and the generalizability of these relationships across cultures. Finally, we will test historical antecedents (e.g., historical threats) and current correlates (e.g., inequality) of country-level prevalence of these cultural logics. This study will generate a new dataset of country scores for dignity, honor, and face that will be available for future comparative research. It will also provide valuable theoretical insights for researchers and practitioners interested in cooperation and (pro)social behavior across cultures.
 ---
+
+## Contact
+
+For more information about this project, please contact the project lead team at [psajtf2@gmail.com] (mailto:psajtf2@gmail.com)
