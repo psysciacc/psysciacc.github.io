@@ -5,8 +5,13 @@ status: Ongoing - pre data collection
 image: /images/icons/PSAJTF001.png
 categories:
   - ongoing
+  - prosociality
   - cultural logic
   - multi-language
+personnel:
+  Proposers: [Lusine Grigoryan, Ani Grigoryan, Shuxian Jin, Narine Kachatryan, Ayse K. Uskul, Peter Smith]
+  PMs: [Priya Silverstein]
+summary: "This project is investigating dignity, honor, and face cultural logics globally."
 abstract: |
   The cultural logics of dignity, honor, and face describe different grounds for evaluating a person’s worth and ensuring cooperation that vary in prevalence across cultures. We will collaboratively develop and validate a measure capturing these cultural logics, which will allow us to map world cultures on the prevalence of these logics. We will further explore the interrelations of dignity, honor, and face with prosocial behavior, values, moral beliefs, and religiosity, and the generalizability of these relationships across cultures. Finally, we will test historical antecedents (e.g., historical threats) and current correlates (e.g., inequality) of country-level prevalence of these cultural logics. This study will generate a new dataset of country scores for dignity, honor, and face that will be available for future comparative research. It will also provide valuable theoretical insights for researchers and practitioners interested in cooperation and (pro)social behavior across cultures.
 ---
