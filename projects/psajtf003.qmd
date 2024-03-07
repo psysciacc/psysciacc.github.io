@@ -8,6 +8,10 @@ categories:
   - ongoing
   - multi-language
   - intellectual humility
+personnel:
+  Proposers: [Miroslav Sirota, Jakub Srol, Matteo Lisi, Marie Juanich, Kavya Guglani]
+  PMs: [Christopher Chartier]
+summary: "This project is investigating global error correction behavior."
 abstract: |
   Our intuition intelligently guides our thinking but can also, at times, be a source of errors. Recent research suggests that, surprisingly, deliberation corrects only a small fraction of such errors, whereas providing feedback and motivating accuracy encourages corrective behaviour. However, these findings are limited to WEIRD (Western, Educated, Industrialised, Rich, and Democratic) samples, and whether people’s corrective behaviour around the world is guided by similar mechanisms is unclear. In the large-scale experiment proposed here, a culturally diverse sample of participants will solve problems that elicit appealing yet incorrect intuitions twice: first, intuitively, then, reflectively, allowing them to correct initial errors in a 2 (feedback: absent vs. present) × 2 (answer justification: absent vs. present) between-participants design. We will also examine the role of cross-cultural and individual differences, including metacognitive aspects of error recognition, in corrective behaviour. The results will shed light on the nature, universality, and promotion of corrective behaviour.
 ---
