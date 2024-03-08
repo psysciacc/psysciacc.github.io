@@ -7,3 +7,15 @@ title: "PSA in the Media"
 * [title of the news article](https://news.org/title) - Science (2022-03-31)
 * [title2](https) - News of the World (2022-01-12)
 -->
+
+* [The replication crisis has led to positive structural, procedural, and community changes](https://www.nature.com/articles/s44271-023-00003-2) - Nature (2023-07-25)
+* [Canadian physician Gordon Guyatt and the Psychological Science Accelerator honored as this year's recipients of the €500,000 prize for enhancing quality in research](https://www.eurekalert.org/news-releases/973160) - EurekAlert! (2022-12-02)
+* [What an enormous global study can tell us about feeling better during the pandemic](https://www.vox.com/science-and-health/22641291/global-mental-health-covid-19-cognitive-reappraisal-study) - Vox (2021-09-21)
+* [Study across 87 countries shows simple intervention helps build emotional resilience during COVID-19](https://www.eurekalert.org/news-releases/924171) - EurekAlert (2021-08-02)
+* [The replication crisis devastated psychology. This group is looking to rebuild it.](https://www.vox.com/science-and-health/22360363/replication-crisis-psychological-science-accelerator) - Vox (2021-04-07)
+* [Psychology looks to physics to solve replication crisis](https://www.nature.com/nature-index/news/psychology-looks-physics-to-solve-replication-crisis) - Nature (2020-01-06)
+* [Taking a global approach to psychology research](https://reporter.mcgill.ca/taking-a-global-approach-to-psychology-research/) - McGill Reporter (2019-12-16)
+* [Can A Research Accelerator Solve The Psychology Replication Crisis?](https://www.npr.org/sections/health-shots/2019/12/13/787567309/can-a-research-accelerator-solve-the-psychology-replication-crisis) - NPR (2019-12-13)
+* [The Psychological Science Accelerator: Building A “CERN For Psychology”](https://sciencetrends.com/the-psychological-science-accelerator-building-a-cern-for-psychology/) - Science Trends (2019-02-05)
+* [Open science is now the only way forward for psychology](https://www.theguardian.com/science/head-quarters/2018/aug/23/open-science-is-now-the-only-way-forward-for-psychology) - The Guardian (2018-08-23)
+* [Hundreds Of Researchers Are Trying To Replicate High-Profile Psychology Studies](https://www.buzzfeednews.com/article/stephaniemlee/psychology-science-accelerator-replication) - Buzzfeed News (2018-04-03)
