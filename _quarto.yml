@@ -29,8 +29,6 @@ website:
           - text: "{{< ai google-scholar size=2x >}} Papers"
             aria-label: Google Scholar
             href: https://scholar.google.com/citations?user=yHWkiu4AAAAJ
-      - text: News
-        href: news.qmd
       - text: Conferences
         menu:
           - conf-register.qmd
@@ -40,7 +38,7 @@ website:
           - about.qmd
           - media.qmd
           - contacts.qmd
-          - newsletter.qmd
+          - news.qmd
           - funding.qmd
           - text: "{{< ai osf >}} OSF"
             aria-label: OSF
@@ -70,7 +68,9 @@ website:
         href: https://twitter.com/psysciacc
 format:
   html:
-    theme: [slate, styles.scss]
+    theme: 
+      light: [flatly, light.scss]
+      dark: [darkly, styles.scss]
     include-in-header: 
       - text: "<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>"
 

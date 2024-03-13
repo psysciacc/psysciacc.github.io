@@ -2,7 +2,7 @@
 order: 1010
 title: "PSA-JTF1: Moral Experiences"
 status: Ongoing - data collection
-image: /images/icons/PSAJTF001.png
+image: /images/icons/PSAJTF001icon.png
 categories:
   - morality
   - experience sampling

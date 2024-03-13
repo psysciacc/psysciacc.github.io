@@ -2,6 +2,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/2023-07-01_tia-blackall-assistant-start.html",
       "/news/2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.html",
       "/news/2022-10-31_using-crowdfunding-to-finish-the-largest-stereotype-threat-project-with-black-american-participants-ever.html",
       "/news/2022-09-16_help-us-select-our-next-projects.html",
@@ -74,16 +75,16 @@
     ]
   },
   {
+    "listing": "/papers.html",
+    "items": [
+      "/papers/PSA-intro_2018.html"
+    ]
+  },
+  {
     "listing": "/affiliated.html",
     "items": [
       "/affiliated/af001.html",
       "/affiliated/af002.html"
-    ]
-  },
-  {
-    "listing": "/papers.html",
-    "items": [
-      "/papers/PSA-intro_2018.html"
     ]
   },
   {
@@ -97,6 +98,9 @@
       "/projects/psa006.html",
       "/projects/psa007.html",
       "/projects/psa008.html",
+      "/projects/psajtf001.html",
+      "/projects/psajtf002.html",
+      "/projects/psajtf003.html",
       "/projects/cr001.html",
       "/projects/cr002.html",
       "/projects/cr003.html"

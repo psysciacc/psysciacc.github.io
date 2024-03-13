@@ -1,8 +1,8 @@
 ---
 order: 1012
-title: "PSA-JTF003 Error Correction"
+title: "PSA-JTF3: Error Correction"
 status: Ongoing - pre-data collection
-image: /images/icons/PSAJTF001.png
+image: /images/icons/PSAJTF001icon.png
 categories:
   - error correction
   - ongoing

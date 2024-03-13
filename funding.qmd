@@ -3,6 +3,7 @@ title: "Funding"
 ---
 
 Our work has been generously supported by the John Templeton Foundation, the Einstein Foundation, the Leibniz Institute for Psychology, individual donations, and the volunteer efforts of thousands of researchers around the world. With this financial support, we have been able to:
+
 - Provide data collection grants for underresourced labs 
 - Collect diverse and representative participant samples
 - Hire personnel and offer internships 
@@ -10,4 +11,6 @@ Our work has been generously supported by the John Templeton Foundation, the Ein
 
 The PSA is currently fiscally hosted by the [Open Collective Foundation](https://docs.opencollective.com/help/about/introduction), a registered 501(c)(3) organization. This allows us to accept and manage our finances in a completely transparent and decentralized manner. Records of our expenses and spending summaries are available [here](https://opencollective.com/psysciacc).
 
+<!--
 If you are interested in supporting the PSA, you can make [tax-exempt] donations [here](https://opencollective.com/psysciacc/donate?interval=oneTime&amount=20).
+-->

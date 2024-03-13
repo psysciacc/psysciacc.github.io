@@ -1,8 +1,8 @@
 ---
 order: 1011
-title: "Dignity Honor Face"
+title: "PSA-JTF2: Dignity Honor Face"
 status: Ongoing - pre data collection
-image: /images/icons/PSAJTF001.png
+image: /images/icons/PSAJTF001icon.png
 categories:
   - ongoing
   - prosociality
