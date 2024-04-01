@@ -18,4 +18,4 @@ abstract: |
 
 ## Contact
 
-For more information about this project, please contact the project lead team at [psajtf3@gmail.com] (mailto:psajtf3@gmail.com)
+For more information about this project, please contact the project lead team at psajtf3@gmail.com
