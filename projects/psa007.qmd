@@ -10,7 +10,7 @@ image: /images/icons/007icon.png
 categories:
   - language
   - multi-language
-  - ongoing
+  - publication-process
 personnel:
   Proposer: Erin Buchanan
   PMs: [Savannah Lewis, Jacob Miranda]

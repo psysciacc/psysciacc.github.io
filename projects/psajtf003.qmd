@@ -5,7 +5,7 @@ status: Ongoing - pre-data collection
 image: /images/icons/PSAJTF001icon.png
 categories:
   - error correction
-  - ongoing
+  - accepting-collaborators
   - multi-language
   - intellectual humility
 personnel:

@@ -7,7 +7,7 @@ categories:
   - morality
   - experience sampling
   - multi-language
-  - ongoing
+  - in-progress
 personnel:
   Proposers: [Samuel Murray, William Jiménez-Leal, Santiago Amaya]
   PMs: [Kathleen Schmidt]

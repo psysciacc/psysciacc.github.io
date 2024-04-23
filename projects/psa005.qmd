@@ -6,7 +6,7 @@ doi: 10.31234/osf.io/6hju9
 image: /images/icons/005icon.png
 categories:
   - stereotypes
-  - ongoing
+  - in-progress
 personnel:
   Proposers: [Patrick Forscher, Valerie Jones Taylor, Neil A. Lewis, Jr., Daniel Cavagnaro]
   PM: Bharathy Premachandra

@@ -7,7 +7,7 @@ categories:
   - prejudice
   - gender
   - multi-language
-  - ongoing
+  - publication-process
 personnel:
   Proposer: Curtis Phills
   PM: Jeremy Miller

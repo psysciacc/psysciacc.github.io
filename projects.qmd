@@ -12,3 +12,5 @@ listing:
 page-layout: full
 title-block-banner: false
 ---
+
+If you are interested in joining a project, please use the [accepting collaborators](https://psysciacc.org/projects.html#category=accepting-collaborators) category to view those projects. Other projects are either [ongoing but not accepting collaborators](https://psysciacc.org/projects.html#category=in-progress), [working publishing the final manuscript](https://psysciacc.org/projects.html#category=publication-process), or [published](https://psysciacc.org/projects.html#category=published). Other category labels are used to help you discover projects related to a specific topic.  

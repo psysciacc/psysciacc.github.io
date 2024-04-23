@@ -4,7 +4,7 @@ title: "PSA-JTF2: Dignity Honor Face"
 status: Ongoing - pre data collection
 image: /images/icons/PSAJTF001icon.png
 categories:
-  - ongoing
+  - accepting-collaborators
   - prosociality
   - cultural logic
   - multi-language

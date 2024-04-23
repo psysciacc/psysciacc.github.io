@@ -6,7 +6,7 @@ image: /images/icons/008icon.png
 categories:
   - groups
   - multi-language
-  - ongoing
+  - accepting-collaborators
 personnel:
   Proposers: [Xin (Kate) Yang, Jonathan Schultz, Yarrow Dunham]
   PMs: [Kathleen Schmidt, Anna Exner]

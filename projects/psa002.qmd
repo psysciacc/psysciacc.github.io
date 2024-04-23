@@ -8,13 +8,16 @@ categories:
   - mental imagery
   - language
   - multi-language
-  - ongoing
+  - publication-process
 personnel:
   Proposer: Sau-Chin Chen
   PM: Jeremy Miller
 summary: "This project is investigating the match advantage of object orientation on sentence verification; results will provide insight on perceptual simulation processes."
 links:
-  preprint: 10.31234/osf.io/t2pjv
+  prereg: https://osf.io/preprints/psyarxiv/t2pjv 
+  resources: https://osf.io/e428p/
+  preprint: https://osf.io/preprints/osf/2qf6w
+  
 abstract: |
   Mental simulation theories of language comprehension propose that people automatically create mental representations of real objects. Evidence from sentence-picture verification tasks has shown that people mentally represent various visual properties such as shape, color, and size. However, the evidence for mental simulations of object orientation is limited. We report a study that investigates the match advantage of object orientation across speakers of different languages. This multi-laboratory project aims to achieve two objectives. First, we examine the replicability of the match advantage of object orientation across multiple languages and laboratories. Second, we will use a mental rotation task to measure participants’ mental imagery after the sentence-picture verification task. The relationship between the participants’ performance of the two tasks will provide a cross-linguistic examination of perceptual simulation processes. With the (broad) evaluation of individual mental imagery ability and potential linguistic moderators, we expect a robust estimation of match advantage of object orientation.
 ---

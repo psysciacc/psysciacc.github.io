@@ -7,7 +7,7 @@ image: /images/icons/004icon.png
 categories:
   - knowledge
   - multi-language
-  - ongoing
+  - published
 personnel:
   Proposers: [Braeden Hall, Jordan Wagge]
   PM: Jordan Wagge
