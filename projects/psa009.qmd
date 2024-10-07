@@ -1,0 +1,22 @@
+---
+order: 1009
+title: "PSA009: Gendered Leader"
+status: Ongoing - pre data collection
+image: /images/icons/009icon.png
+categories:
+  - multi-language
+  - leadership
+  - gender perceptions
+  - language
+  - accepting-collaborators
+personnel:
+  Proposers: [Kim Peters]
+  PMs: [Alma Jeftic]
+summary: "This project is a multi-country test of a gender fair language intervention for stereotype bias"
+abstract: |
+  Women are greatly underrepresented in positions of political leadership around the world. In seeking to explain this underrepresentation, some researchers have pointed to people’s tendencies to stereotype leaders as more similar to men than women as these tendencies can support the belief that women are unsuited to leadership. This project aims to test whether a subtle linguistic intervention is able to ameliorate this gender bias in political leadership stereotypes across different languages and national contexts (minimum anticipated N country = 15, N sample = 3,600). Specifically, this project will examine whether gender fair language (e.g., the use of paired pronouns ‘he or she’) can reduce the tendency for people to stereotype political leaders as more similar to men than women. To increase the rigor with which these stereotypes are measured, this project will complement the dominant ‘cheap talk’ measure of stereotype content with a novel incentivised measure of this content. This project will support an understanding of the capacity for gender fair language interventions to shift gender bias in the political leadership domain in different regions of the world.
+---
+
+## Contact
+
+For more information about this project, please contact the project lead team at [psa.project.009@gmail.com](mailto:psa.project.009@gmail.com).
