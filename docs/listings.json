@@ -75,16 +75,16 @@
     ]
   },
   {
-    "listing": "/papers.html",
-    "items": [
-      "/papers/PSA-intro_2018.html"
-    ]
-  },
-  {
     "listing": "/affiliated.html",
     "items": [
       "/affiliated/af001.html",
       "/affiliated/af002.html"
+    ]
+  },
+  {
+    "listing": "/papers.html",
+    "items": [
+      "/papers/PSA-intro_2018.html"
     ]
   },
   {
@@ -98,6 +98,7 @@
       "/projects/psa006.html",
       "/projects/psa007.html",
       "/projects/psa008.html",
+      "/projects/psa009.html",
       "/projects/psajtf001.html",
       "/projects/psajtf002.html",
       "/projects/psajtf003.html",
