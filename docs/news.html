@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Psychological Science Accelerator - News</title>
+<title>News – Psychological Science Accelerator</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -52,7 +52,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -61,6 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -98,8 +105,35 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -107,9 +141,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./images/logo.png" alt="Green circle with 3 white chevrons like a fast-forward button" class="navbar-logo">
     </a>
@@ -118,110 +152,110 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-membership" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-membership" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Membership</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-membership">    
         <li>
-    <a class="dropdown-item" href="./join.html" rel="" target="">
+    <a class="dropdown-item" href="./join.html">
  <span class="dropdown-text">Join the PSA</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://canvas.psysciacc.org/login/canvas" rel="" target="">
+    <a class="dropdown-item" href="https://canvas.psysciacc.org/login/canvas">
  <span class="dropdown-text">Current Members</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-studies" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-studies" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Studies</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-studies">    
         <li>
-    <a class="dropdown-item" href="./projects.html" rel="" target="">
+    <a class="dropdown-item" href="./projects.html">
  <span class="dropdown-text">Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./affiliated.html" rel="" target="">
+    <a class="dropdown-item" href="./affiliated.html">
  <span class="dropdown-text">Affiliated Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./submit.html" rel="" target="">
+    <a class="dropdown-item" href="./submit.html">
  <span class="dropdown-text">How to Submit</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://scholar.google.com/citations?user=yHWkiu4AAAAJ" rel="" target="">
+    <a class="dropdown-item" href="https://scholar.google.com/citations?user=yHWkiu4AAAAJ">
  <span class="dropdown-text"><i class="ai  ai-google-scholar ai-2x" title="" style="color:"></i> Papers</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-conferences" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-conferences" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Conferences</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-conferences">    
         <li>
-    <a class="dropdown-item" href="./conf-register.html" rel="" target="">
+    <a class="dropdown-item" href="./conf-register.html">
  <span class="dropdown-text">Registration</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./conf-previous.html" rel="" target="">
+    <a class="dropdown-item" href="./conf-previous.html">
  <span class="dropdown-text">Previous Conferences</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-us" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about-us" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">About Us</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about-us">    
         <li>
-    <a class="dropdown-item" href="./about.html" rel="" target="">
+    <a class="dropdown-item" href="./about.html">
  <span class="dropdown-text">About</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./media.html" rel="" target="">
+    <a class="dropdown-item" href="./media.html">
  <span class="dropdown-text">PSA in the Media</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./contacts.html" rel="" target="">
+    <a class="dropdown-item" href="./contacts.html">
  <span class="dropdown-text">Contact Us</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./news.html" rel="" target="">
+    <a class="dropdown-item" href="./news.html">
  <span class="dropdown-text">News</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./funding.html" rel="" target="">
+    <a class="dropdown-item" href="./funding.html">
  <span class="dropdown-text">Funding</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://osf.io/93qpg/" rel="" target="">
+    <a class="dropdown-item" href="https://osf.io/93qpg/">
  <span class="dropdown-text"><i class="ai  ai-osf" title="" style="color:"></i> OSF</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://github.com/psysciacc" rel="" target=""><i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="dropdown-item" href="https://github.com/psysciacc"><i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
  <span class="dropdown-text">GitHub</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://twitter.com/psysciacc" rel="" target=""><i class="bi bi-twitter" role="img" aria-label="Twitter">
+    <a class="dropdown-item" href="https://twitter.com/psysciacc"><i class="bi bi-twitter" role="img" aria-label="Twitter">
 </i> 
  <span class="dropdown-text">Twitter</span></a>
   </li>  
     </ul>
   </li>
 </ul>
+          </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -242,7 +276,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -250,7 +284,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <p>Want to receive regular updates about the PSA? Sign up for our <a href="https://psysciacc.us18.list-manage.com/subscribe?u=f8bacf294e5a46e350b638374&amp;id=35f4b6c03f">monthly newsletter</a>.</p>
 <p>If you missed a past newsletter, fret not! Copies of all our past newsletters can be found <a href="https://us18.campaign-archive.com/home/?u=f8bacf294e5a46e350b638374&amp;id=35f4b6c03f">here</a>.</p>
@@ -266,7 +302,6 @@ ul.task-list li input[type="checkbox"] {
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
-
 <table class="quarto-listing-table table">
 <thead>
 <tr>
@@ -282,7 +317,7 @@ Author
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="welcome" data-listing-date-sort="1688184000000" data-listing-file-modified-sort="1710519354402" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Introducing th new PSA Research Coordinator, Tia Blackall" data-listing-filename-sort="2023-07-01_tia-blackall-assistant-start.qmd">
+<tr data-index="0" data-categories="welcome" data-listing-date-sort="1688187600000" data-listing-file-modified-sort="1730411239401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="40" data-listing-title-sort="Introducing th new PSA Research Coordinator, Tia Blackall" data-listing-filename-sort="2023-07-01_tia-blackall-assistant-start.qmd">
 <td>
 <span class="listing-date">Jul 1, 2023</span>
 </td>
@@ -293,7 +328,7 @@ Author
 <span class="listing-author">Lisa DeBruine</span>
 </td>
 </tr>
-<tr data-index="1" data-categories="call for submissions,JTF grant" data-listing-date-sort="1670302800000" data-listing-file-modified-sort="1710519354402" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-title-sort="Second Special Call for Studies – Studying Generalizability with Global Samples" data-listing-filename-sort="2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.qmd">
+<tr data-index="1" data-categories="call for submissions,JTF grant" data-listing-date-sort="1670306400000" data-listing-file-modified-sort="1730411239401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2260" data-listing-title-sort="Second Special Call for Studies – Studying Generalizability with Global Samples" data-listing-filename-sort="2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.qmd">
 <td>
 <span class="listing-date">Dec 6, 2022</span>
 </td>
@@ -304,7 +339,7 @@ Author
 <span class="listing-author">Erin Sievers</span>
 </td>
 </tr>
-<tr data-index="2" data-listing-date-sort="1667188800000" data-listing-file-modified-sort="1710519354402" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Using crowdfunding to finish the largest stereotype threat&nbsp;project with Black American participants ever" data-listing-filename-sort="2022-10-31_using-crowdfunding-to-finish-the-largest-stereotype-threat-project-with-black-american-participants-ever.qmd">
+<tr data-index="2" data-listing-date-sort="1667192400000" data-listing-file-modified-sort="1730411239401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="287" data-listing-title-sort="Using crowdfunding to finish the largest stereotype threat&nbsp;project with Black American participants ever" data-listing-filename-sort="2022-10-31_using-crowdfunding-to-finish-the-largest-stereotype-threat-project-with-black-american-participants-ever.qmd">
 <td>
 <span class="listing-date">Oct 31, 2022</span>
 </td>
@@ -315,7 +350,7 @@ Author
 <span class="listing-author">Nicholas Coles</span>
 </td>
 </tr>
-<tr data-index="3" data-categories="JTF grant" data-listing-date-sort="1663300800000" data-listing-file-modified-sort="1710519354402" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Help us select our next project(s)!" data-listing-filename-sort="2022-09-16_help-us-select-our-next-projects.qmd">
+<tr data-index="3" data-categories="JTF grant" data-listing-date-sort="1663304400000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="82" data-listing-title-sort="Help us select our next project(s)!" data-listing-filename-sort="2022-09-16_help-us-select-our-next-projects.qmd">
 <td>
 <span class="listing-date">Sep 16, 2022</span>
 </td>
@@ -326,7 +361,7 @@ Author
 <span class="listing-author">Erin Sievers</span>
 </td>
 </tr>
-<tr data-index="4" data-categories="call for submissions,JTF grant" data-listing-date-sort="1658980800000" data-listing-file-modified-sort="1710519354402" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-title-sort="Special Call for Studies – Studying Generalizability with Global Samples DEADLINE EXTENDED" data-listing-filename-sort="2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.qmd">
+<tr data-index="4" data-categories="call for submissions,JTF grant" data-listing-date-sort="1658984400000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1472" data-listing-title-sort="Special Call for Studies – Studying Generalizability with Global Samples DEADLINE EXTENDED" data-listing-filename-sort="2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.qmd">
 <td>
 <span class="listing-date">Jul 28, 2022</span>
 </td>
@@ -337,7 +372,7 @@ Author
 <span class="listing-author">Erin Sievers</span>
 </td>
 </tr>
-<tr data-index="5" data-categories="elections" data-listing-date-sort="1656993600000" data-listing-file-modified-sort="1710519354402" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="Nominations for PSA leadership positions" data-listing-filename-sort="2022-07-05_nominations-for-psa-leadership-positions.qmd">
+<tr data-index="5" data-categories="elections" data-listing-date-sort="1656997200000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="642" data-listing-title-sort="Nominations for PSA leadership positions" data-listing-filename-sort="2022-07-05_nominations-for-psa-leadership-positions.qmd">
 <td>
 <span class="listing-date">Jul 5, 2022</span>
 </td>
@@ -348,7 +383,7 @@ Author
 <span class="listing-author">Nicholas Coles</span>
 </td>
 </tr>
-<tr data-index="6" data-categories="monthly update" data-listing-date-sort="1651550400000" data-listing-file-modified-sort="1710519354402" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-title-sort="News from the Accelerator- April 2022" data-listing-filename-sort="2022-05-03_news-from-the-accelerator-april-2022.qmd">
+<tr data-index="6" data-categories="monthly update" data-listing-date-sort="1651554000000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="993" data-listing-title-sort="News from the Accelerator- April 2022" data-listing-filename-sort="2022-05-03_news-from-the-accelerator-april-2022.qmd">
 <td>
 <span class="listing-date">May 3, 2022</span>
 </td>
@@ -359,7 +394,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="7" data-categories="call for submissions,JTF grant" data-listing-date-sort="1650427200000" data-listing-file-modified-sort="1710519354402" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-title-sort="Special Call for Studies - Studying Generalizability with Global Samples" data-listing-filename-sort="2022-04-20_special-call-for-studies-studying-generalizability-with-global-samples.qmd">
+<tr data-index="7" data-categories="call for submissions,JTF grant" data-listing-date-sort="1650430800000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1407" data-listing-title-sort="Special Call for Studies - Studying Generalizability with Global Samples" data-listing-filename-sort="2022-04-20_special-call-for-studies-studying-generalizability-with-global-samples.qmd">
 <td>
 <span class="listing-date">Apr 20, 2022</span>
 </td>
@@ -370,7 +405,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="8" data-categories="monthly update" data-listing-date-sort="1649044800000" data-listing-file-modified-sort="1710519354402" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="News from the Accelerator- March 2022" data-listing-filename-sort="2022-04-04_news-from-the-accelerator-march-2022.qmd">
+<tr data-index="8" data-categories="monthly update" data-listing-date-sort="1649048400000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="638" data-listing-title-sort="News from the Accelerator- March 2022" data-listing-filename-sort="2022-04-04_news-from-the-accelerator-march-2022.qmd">
 <td>
 <span class="listing-date">Apr 4, 2022</span>
 </td>
@@ -381,7 +416,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="9" data-categories="monthly update" data-listing-date-sort="1646629200000" data-listing-file-modified-sort="1710519354401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="News from the Accelerator- February 2022" data-listing-filename-sort="2022-03-07_3354.qmd">
+<tr data-index="9" data-categories="monthly update" data-listing-date-sort="1646632800000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1002" data-listing-title-sort="News from the Accelerator- February 2022" data-listing-filename-sort="2022-03-07_3354.qmd">
 <td>
 <span class="listing-date">Mar 7, 2022</span>
 </td>
@@ -392,7 +427,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="10" data-categories="call for submissions,rare populations" data-listing-date-sort="1646283600000" data-listing-file-modified-sort="1710519354401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Call for Proposals: PSA Rare Populations" data-listing-filename-sort="2022-03-03_call-for-proposals-psa-rare-populations.qmd">
+<tr data-index="10" data-categories="call for submissions,rare populations" data-listing-date-sort="1646287200000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="580" data-listing-title-sort="Call for Proposals: PSA Rare Populations" data-listing-filename-sort="2022-03-03_call-for-proposals-psa-rare-populations.qmd">
 <td>
 <span class="listing-date">Mar 3, 2022</span>
 </td>
@@ -403,7 +438,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="11" data-categories="affiliated projects" data-listing-date-sort="1643605200000" data-listing-file-modified-sort="1710519354401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Launching PSA-Affiliated Projects" data-listing-filename-sort="2022-01-31_launching-psa-affiliated-projects.qmd">
+<tr data-index="11" data-categories="affiliated projects" data-listing-date-sort="1643608800000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="261" data-listing-title-sort="Launching PSA-Affiliated Projects" data-listing-filename-sort="2022-01-31_launching-psa-affiliated-projects.qmd">
 <td>
 <span class="listing-date">Jan 31, 2022</span>
 </td>
@@ -414,7 +449,7 @@ Author
 <span class="listing-author">Nicholas Coles</span>
 </td>
 </tr>
-<tr data-index="12" data-categories="monthly update" data-listing-date-sort="1642568400000" data-listing-file-modified-sort="1710519354401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-title-sort="News from the Accelerator- January 2022" data-listing-filename-sort="2022-01-19_news-from-the-accelerator-january-2022.qmd">
+<tr data-index="12" data-categories="monthly update" data-listing-date-sort="1642572000000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="891" data-listing-title-sort="News from the Accelerator- January 2022" data-listing-filename-sort="2022-01-19_news-from-the-accelerator-january-2022.qmd">
 <td>
 <span class="listing-date">Jan 19, 2022</span>
 </td>
@@ -425,7 +460,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="13" data-categories="monthly update" data-listing-date-sort="1638248400000" data-listing-file-modified-sort="1710519354401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="News from the Accelerator- October/November 2021" data-listing-filename-sort="2021-11-30_3230.qmd">
+<tr data-index="13" data-categories="monthly update" data-listing-date-sort="1638252000000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="542" data-listing-title-sort="News from the Accelerator- October/November 2021" data-listing-filename-sort="2021-11-30_3230.qmd">
 <td>
 <span class="listing-date">Nov 30, 2021</span>
 </td>
@@ -436,7 +471,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="14" data-categories="monthly update" data-listing-date-sort="1632974400000" data-listing-file-modified-sort="1710519354401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="News from the Accelerator- September 2021" data-listing-filename-sort="2021-09-30_news-from-the-accelerator-september-2021.qmd">
+<tr data-index="14" data-categories="monthly update" data-listing-date-sort="1632978000000" data-listing-file-modified-sort="1730411239400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="540" data-listing-title-sort="News from the Accelerator- September 2021" data-listing-filename-sort="2021-09-30_news-from-the-accelerator-september-2021.qmd">
 <td>
 <span class="listing-date">Sep 30, 2021</span>
 </td>
@@ -447,7 +482,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="15" data-categories="monthly update" data-listing-date-sort="1630468800000" data-listing-file-modified-sort="1710519354401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="News from the Accelerator- August 2021" data-listing-filename-sort="2021-09-01_news-from-the-accelerator-august-2021.qmd">
+<tr data-index="15" data-categories="monthly update" data-listing-date-sort="1630472400000" data-listing-file-modified-sort="1730411239399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="653" data-listing-title-sort="News from the Accelerator- August 2021" data-listing-filename-sort="2021-09-01_news-from-the-accelerator-august-2021.qmd">
 <td>
 <span class="listing-date">Sep 1, 2021</span>
 </td>
@@ -458,7 +493,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="16" data-categories="monthly update" data-listing-date-sort="1627876800000" data-listing-file-modified-sort="1710519354400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="News from the Accelerator- July 2021" data-listing-filename-sort="2021-08-02_news-from-the-accelerator-july-2021.qmd">
+<tr data-index="16" data-categories="monthly update" data-listing-date-sort="1627880400000" data-listing-file-modified-sort="1730411239399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="457" data-listing-title-sort="News from the Accelerator- July 2021" data-listing-filename-sort="2021-08-02_news-from-the-accelerator-july-2021.qmd">
 <td>
 <span class="listing-date">Aug 2, 2021</span>
 </td>
@@ -469,7 +504,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="17" data-categories="COVID rapid" data-listing-date-sort="1627876800000" data-listing-file-modified-sort="1710519354401" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-title-sort="Releasing the Results of the PSA’s COVID-Rapid Project" data-listing-filename-sort="2021-08-02_releasing-the-results-of-the-psas-covid-rapid-project.qmd">
+<tr data-index="17" data-categories="COVID rapid" data-listing-date-sort="1627880400000" data-listing-file-modified-sort="1730411239399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1826" data-listing-title-sort="Releasing the Results of the PSA’s COVID-Rapid Project" data-listing-filename-sort="2021-08-02_releasing-the-results-of-the-psas-covid-rapid-project.qmd">
 <td>
 <span class="listing-date">Aug 2, 2021</span>
 </td>
@@ -480,7 +515,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="18" data-categories="monthly update" data-listing-date-sort="1625198400000" data-listing-file-modified-sort="1710519354400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-title-sort="News from the Accelerator- June 2021" data-listing-filename-sort="2021-07-02_news-from-the-accelerator-june-2021.qmd">
+<tr data-index="18" data-categories="monthly update" data-listing-date-sort="1625202000000" data-listing-file-modified-sort="1730411239399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="980" data-listing-title-sort="News from the Accelerator- June 2021" data-listing-filename-sort="2021-07-02_news-from-the-accelerator-june-2021.qmd">
 <td>
 <span class="listing-date">Jul 2, 2021</span>
 </td>
@@ -491,7 +526,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="19" data-categories="monthly update" data-listing-date-sort="1622520000000" data-listing-file-modified-sort="1710519354400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="News from the Accelerator- May 2021" data-listing-filename-sort="2021-06-01_news-from-the-accelerator-may-2021.qmd">
+<tr data-index="19" data-categories="monthly update" data-listing-date-sort="1622523600000" data-listing-file-modified-sort="1730411239399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="688" data-listing-title-sort="News from the Accelerator- May 2021" data-listing-filename-sort="2021-06-01_news-from-the-accelerator-may-2021.qmd">
 <td>
 <span class="listing-date">Jun 1, 2021</span>
 </td>
@@ -502,7 +537,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="20" data-categories="monthly update" data-listing-date-sort="1619755200000" data-listing-file-modified-sort="1710519354400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="News from the Accelerator: April 2021" data-listing-filename-sort="2021-04-30_news-from-the-accelerator-april-2021.qmd">
+<tr data-index="20" data-categories="monthly update" data-listing-date-sort="1619758800000" data-listing-file-modified-sort="1730411239399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1182" data-listing-title-sort="News from the Accelerator: April 2021" data-listing-filename-sort="2021-04-30_news-from-the-accelerator-april-2021.qmd">
 <td>
 <span class="listing-date">Apr 30, 2021</span>
 </td>
@@ -513,7 +548,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="21" data-categories="monthly update" data-listing-date-sort="1614574800000" data-listing-file-modified-sort="1710519354400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-title-sort="News from the Accelerator- February 2021" data-listing-filename-sort="2021-03-01_news-from-the-accelerator-february-2021.qmd">
+<tr data-index="21" data-categories="monthly update" data-listing-date-sort="1614578400000" data-listing-file-modified-sort="1730411239399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1239" data-listing-title-sort="News from the Accelerator- February 2021" data-listing-filename-sort="2021-03-01_news-from-the-accelerator-february-2021.qmd">
 <td>
 <span class="listing-date">Mar 1, 2021</span>
 </td>
@@ -524,7 +559,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="22" data-categories="monthly update" data-listing-date-sort="1612155600000" data-listing-file-modified-sort="1710519354400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-title-sort="News from the Accelerator- January 2021" data-listing-filename-sort="2021-02-01_news-from-the-accelerator-january-2021.qmd">
+<tr data-index="22" data-categories="monthly update" data-listing-date-sort="1612159200000" data-listing-file-modified-sort="1730411239399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="968" data-listing-title-sort="News from the Accelerator- January 2021" data-listing-filename-sort="2021-02-01_news-from-the-accelerator-january-2021.qmd">
 <td>
 <span class="listing-date">Feb 1, 2021</span>
 </td>
@@ -535,7 +570,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="23" data-categories="funding" data-listing-date-sort="1610341200000" data-listing-file-modified-sort="1710519354400" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="23" data-listing-title-sort="How should we fund the PSA?" data-listing-filename-sort="2021-01-11_how-should-we-fund-the-psa.qmd">
+<tr data-index="23" data-categories="funding" data-listing-date-sort="1610344800000" data-listing-file-modified-sort="1730411239399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="23" data-listing-word-count-sort="4439" data-listing-title-sort="How should we fund the PSA?" data-listing-filename-sort="2021-01-11_how-should-we-fund-the-psa.qmd">
 <td>
 <span class="listing-date">Jan 11, 2021</span>
 </td>
@@ -546,7 +581,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="24" data-categories="funding" data-listing-date-sort="1607662800000" data-listing-file-modified-sort="1710519354399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-title-sort="The financial cost of the PSA’s vision" data-listing-filename-sort="2020-12-11_the-financial-cost-of-the-psas-vision.qmd">
+<tr data-index="24" data-categories="funding" data-listing-date-sort="1607666400000" data-listing-file-modified-sort="1730411239398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1417" data-listing-title-sort="The financial cost of the PSA’s vision" data-listing-filename-sort="2020-12-11_the-financial-cost-of-the-psas-vision.qmd">
 <td>
 <span class="listing-date">Dec 11, 2020</span>
 </td>
@@ -557,7 +592,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="25" data-categories="monthly update" data-listing-date-sort="1607576400000" data-listing-file-modified-sort="1710519354399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-title-sort="News from the Accelerator- November/December 2020" data-listing-filename-sort="2020-12-10_news-from-the-psa-nov-dec-2020.qmd">
+<tr data-index="25" data-categories="monthly update" data-listing-date-sort="1607580000000" data-listing-file-modified-sort="1730411239398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="924" data-listing-title-sort="News from the Accelerator- November/December 2020" data-listing-filename-sort="2020-12-10_news-from-the-psa-nov-dec-2020.qmd">
 <td>
 <span class="listing-date">Dec 10, 2020</span>
 </td>
@@ -568,7 +603,7 @@ Author
 <span class="listing-author">Svannah Lewis</span>
 </td>
 </tr>
-<tr data-index="26" data-listing-date-sort="1607058000000" data-listing-file-modified-sort="1710519354399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="How many resources does the PSA possess?" data-listing-filename-sort="2020-12-04_how-many-resources-does-the-psa-possess.qmd">
+<tr data-index="26" data-listing-date-sort="1607061600000" data-listing-file-modified-sort="1730411239398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1187" data-listing-title-sort="How many resources does the PSA possess?" data-listing-filename-sort="2020-12-04_how-many-resources-does-the-psa-possess.qmd">
 <td>
 <span class="listing-date">Dec 4, 2020</span>
 </td>
@@ -579,7 +614,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="27" data-categories="monthly update" data-listing-date-sort="1603857600000" data-listing-file-modified-sort="1710519354399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="News from the Accelerator- October 2020" data-listing-filename-sort="2020-10-28_news-from-the-accelerator-october-2020.qmd">
+<tr data-index="27" data-categories="monthly update" data-listing-date-sort="1603861200000" data-listing-file-modified-sort="1730411239398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="795" data-listing-title-sort="News from the Accelerator- October 2020" data-listing-filename-sort="2020-10-28_news-from-the-accelerator-october-2020.qmd">
 <td>
 <span class="listing-date">Oct 28, 2020</span>
 </td>
@@ -590,7 +625,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="28" data-categories="monthly update" data-listing-date-sort="1601611200000" data-listing-file-modified-sort="1710519354399" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-title-sort="News from the Accelerator - August &amp; September 2020" data-listing-filename-sort="2020-10-02_news-from-the-accelerator-august-september-2020.qmd">
+<tr data-index="28" data-categories="monthly update" data-listing-date-sort="1601614800000" data-listing-file-modified-sort="1730411239398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1405" data-listing-title-sort="News from the Accelerator - August &amp; September 2020" data-listing-filename-sort="2020-10-02_news-from-the-accelerator-august-september-2020.qmd">
 <td>
 <span class="listing-date">Oct 2, 2020</span>
 </td>
@@ -601,7 +636,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="29" data-categories="PSA001" data-listing-date-sort="1600056000000" data-listing-file-modified-sort="1710519354398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-title-sort="Incentivizing Discovery through the PSA001 Secondary Analysis Challenge" data-listing-filename-sort="2020-09-14_incentivizing-discovery-through-the-psa001-secondary-analysis-challenge.qmd">
+<tr data-index="29" data-categories="PSA001" data-listing-date-sort="1600059600000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2091" data-listing-title-sort="Incentivizing Discovery through the PSA001 Secondary Analysis Challenge" data-listing-filename-sort="2020-09-14_incentivizing-discovery-through-the-psa001-secondary-analysis-challenge.qmd">
 <td>
 <span class="listing-date">Sep 14, 2020</span>
 </td>
@@ -612,7 +647,7 @@ Author
 <span class="listing-author">Patrick S. Forscher, Abigail Noyce, Lisa M. DeBruine, Benedict C. Jones, Jessica K. Flake, Nicholas A. Coles, Christopher R. Chartier</span>
 </td>
 </tr>
-<tr data-index="30" data-categories="monthly update" data-listing-date-sort="1595563200000" data-listing-file-modified-sort="1710519354398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="News from the Accelerator- July 2020" data-listing-filename-sort="2020-07-24_news-from-the-accelerator-july-2020.qmd">
+<tr data-index="30" data-categories="monthly update" data-listing-date-sort="1595566800000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1179" data-listing-title-sort="News from the Accelerator- July 2020" data-listing-filename-sort="2020-07-24_news-from-the-accelerator-july-2020.qmd">
 <td>
 <span class="listing-date">Jul 24, 2020</span>
 </td>
@@ -623,7 +658,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="31" data-categories="monthly update" data-listing-date-sort="1593403200000" data-listing-file-modified-sort="1710519354398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="News from the Accelerator- June 2020" data-listing-filename-sort="2020-06-29_news-from-the-accelerator-june-2020.qmd">
+<tr data-index="31" data-categories="monthly update" data-listing-date-sort="1593406800000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="796" data-listing-title-sort="News from the Accelerator- June 2020" data-listing-filename-sort="2020-06-29_news-from-the-accelerator-june-2020.qmd">
 <td>
 <span class="listing-date">Jun 29, 2020</span>
 </td>
@@ -634,7 +669,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="32" data-listing-date-sort="1590552000000" data-listing-file-modified-sort="1710519354398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="The 2020 Virtual Meeting of the Psychological Science Accelerator" data-listing-filename-sort="2020-05-27_the-2020-virtual-meeting-of-the-psychological-science-accelerator.qmd">
+<tr data-index="32" data-listing-date-sort="1590555600000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3" data-listing-title-sort="The 2020 Virtual Meeting of the Psychological Science Accelerator" data-listing-filename-sort="2020-05-27_the-2020-virtual-meeting-of-the-psychological-science-accelerator.qmd">
 <td>
 <span class="listing-date">May 27, 2020</span>
 </td>
@@ -645,7 +680,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="33" data-categories="monthly update" data-listing-date-sort="1590033600000" data-listing-file-modified-sort="1710519354398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-title-sort="News from the Accelerator - May 2020" data-listing-filename-sort="2020-05-21_news-from-the-accelerator-may-2020.qmd">
+<tr data-index="33" data-categories="monthly update" data-listing-date-sort="1590037200000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1961" data-listing-title-sort="News from the Accelerator - May 2020" data-listing-filename-sort="2020-05-21_news-from-the-accelerator-may-2020.qmd">
 <td>
 <span class="listing-date">May 21, 2020</span>
 </td>
@@ -656,7 +691,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="34" data-categories="COVID rapid" data-listing-date-sort="1584763200000" data-listing-file-modified-sort="1710519354398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Join the PSA’s Rapid-Response COVID-19 Project" data-listing-filename-sort="2020-03-21_join-the-psas-rapid-response-covid-19-project.qmd">
+<tr data-index="34" data-categories="COVID rapid" data-listing-date-sort="1584766800000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="515" data-listing-title-sort="Join the PSA’s Rapid-Response COVID-19 Project" data-listing-filename-sort="2020-03-21_join-the-psas-rapid-response-covid-19-project.qmd">
 <td>
 <span class="listing-date">Mar 21, 2020</span>
 </td>
@@ -667,7 +702,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="35" data-categories="COVID rapid,funding" data-listing-date-sort="1584504000000" data-listing-file-modified-sort="1710519354398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Support the PSA COVID-19 Rapid and Impactful Studies with a Donation" data-listing-filename-sort="2020-03-18_support-the-psa-covid-19-rapid-and-impactful-studies-with-a-donation.qmd">
+<tr data-index="35" data-categories="COVID rapid,funding" data-listing-date-sort="1584507600000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="381" data-listing-title-sort="Support the PSA COVID-19 Rapid and Impactful Studies with a Donation" data-listing-filename-sort="2020-03-18_support-the-psa-covid-19-rapid-and-impactful-studies-with-a-donation.qmd">
 <td>
 <span class="listing-date">Mar 18, 2020</span>
 </td>
@@ -678,7 +713,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="36" data-categories="COVID rapid" data-listing-date-sort="1584072000000" data-listing-file-modified-sort="1710519354398" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="The PSA Calls for Rapid and Impactful Study Proposals on COVID-19" data-listing-filename-sort="2020-03-13_the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19.qmd">
+<tr data-index="36" data-categories="COVID rapid" data-listing-date-sort="1584075600000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="588" data-listing-title-sort="The PSA Calls for Rapid and Impactful Study Proposals on COVID-19" data-listing-filename-sort="2020-03-13_the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19.qmd">
 <td>
 <span class="listing-date">Mar 13, 2020</span>
 </td>
@@ -689,7 +724,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="37" data-categories="monthly update" data-listing-date-sort="1582779600000" data-listing-file-modified-sort="1710519354397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="News from the Accelerator - February 2020" data-listing-filename-sort="2020-02-27_news-from-the-accelerator-february-2020.qmd">
+<tr data-index="37" data-categories="monthly update" data-listing-date-sort="1582783200000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="773" data-listing-title-sort="News from the Accelerator - February 2020" data-listing-filename-sort="2020-02-27_news-from-the-accelerator-february-2020.qmd">
 <td>
 <span class="listing-date">Feb 27, 2020</span>
 </td>
@@ -700,7 +735,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="38" data-categories="monthly update" data-listing-date-sort="1578891600000" data-listing-file-modified-sort="1710519354397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-title-sort="News from the Accelerator - January 2020" data-listing-filename-sort="2020-01-13_news-from-the-accelerator-january-2020.qmd">
+<tr data-index="38" data-categories="monthly update" data-listing-date-sort="1578895200000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1964" data-listing-title-sort="News from the Accelerator - January 2020" data-listing-filename-sort="2020-01-13_news-from-the-accelerator-january-2020.qmd">
 <td>
 <span class="listing-date">Jan 13, 2020</span>
 </td>
@@ -711,7 +746,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="39" data-categories="monthly update" data-listing-date-sort="1571284800000" data-listing-file-modified-sort="1710519354397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="News from the Accelerator - October 2019" data-listing-filename-sort="2019-10-17_news-from-the-accelerator-october-2019.qmd">
+<tr data-index="39" data-categories="monthly update" data-listing-date-sort="1571288400000" data-listing-file-modified-sort="1730411239397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="414" data-listing-title-sort="News from the Accelerator - October 2019" data-listing-filename-sort="2019-10-17_news-from-the-accelerator-october-2019.qmd">
 <td>
 <span class="listing-date">Oct 17, 2019</span>
 </td>
@@ -722,7 +757,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="40" data-categories="monthly update" data-listing-date-sort="1567656000000" data-listing-file-modified-sort="1710519354397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="News from the Accelerator - September 2019" data-listing-filename-sort="2019-09-05_news-from-the-accelerator-september-2019.qmd">
+<tr data-index="40" data-categories="monthly update" data-listing-date-sort="1567659600000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="652" data-listing-title-sort="News from the Accelerator - September 2019" data-listing-filename-sort="2019-09-05_news-from-the-accelerator-september-2019.qmd">
 <td>
 <span class="listing-date">Sep 5, 2019</span>
 </td>
@@ -733,7 +768,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="41" data-listing-date-sort="1567310400000" data-listing-file-modified-sort="1710519354397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="Introducing the PSA001 Secondary Analysis Challenge" data-listing-filename-sort="2019-09-01_introducing-the-psa001-secondary-analysis-challenge.qmd">
+<tr data-index="41" data-listing-date-sort="1567314000000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1132" data-listing-title-sort="Introducing the PSA001 Secondary Analysis Challenge" data-listing-filename-sort="2019-09-01_introducing-the-psa001-secondary-analysis-challenge.qmd">
 <td>
 <span class="listing-date">Sep 1, 2019</span>
 </td>
@@ -744,7 +779,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="42" data-listing-date-sort="1567137600000" data-listing-file-modified-sort="1710519354397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="The PSA’s Draft Vision Document is Open for Feedback" data-listing-filename-sort="2019-08-30_the-psas-draft-vision-document-is-open-for-feedback.qmd">
+<tr data-index="42" data-listing-date-sort="1567141200000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="367" data-listing-title-sort="The PSA’s Draft Vision Document is Open for Feedback" data-listing-filename-sort="2019-08-30_the-psas-draft-vision-document-is-open-for-feedback.qmd">
 <td>
 <span class="listing-date">Aug 30, 2019</span>
 </td>
@@ -755,7 +790,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="43" data-listing-date-sort="1567051200000" data-listing-file-modified-sort="1710519354397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-title-sort="Recognizing Invisible Labor in the PSA" data-listing-filename-sort="2019-08-29_recognizing-invisible-labor-in-the-psa.qmd">
+<tr data-index="43" data-listing-date-sort="1567054800000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1255" data-listing-title-sort="Recognizing Invisible Labor in the PSA" data-listing-filename-sort="2019-08-29_recognizing-invisible-labor-in-the-psa.qmd">
 <td>
 <span class="listing-date">Aug 29, 2019</span>
 </td>
@@ -766,7 +801,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="44" data-listing-date-sort="1566964800000" data-listing-file-modified-sort="1710519354397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Announcing PSA Member Lab Grants for 2019-2020" data-listing-filename-sort="2019-08-28_announcing-psa-member-lab-grants-for-2019-2020.qmd">
+<tr data-index="44" data-listing-date-sort="1566968400000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="442" data-listing-title-sort="Announcing PSA Member Lab Grants for 2019-2020" data-listing-filename-sort="2019-08-28_announcing-psa-member-lab-grants-for-2019-2020.qmd">
 <td>
 <span class="listing-date">Aug 28, 2019</span>
 </td>
@@ -777,7 +812,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="45" data-listing-date-sort="1566878400000" data-listing-file-modified-sort="1710519354397" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="The PSA’s Patreon Sustainability Drive" data-listing-filename-sort="2019-08-27_the-psas-patreon-sustainability-drive.qmd">
+<tr data-index="45" data-listing-date-sort="1566882000000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="330" data-listing-title-sort="The PSA’s Patreon Sustainability Drive" data-listing-filename-sort="2019-08-27_the-psas-patreon-sustainability-drive.qmd">
 <td>
 <span class="listing-date">Aug 27, 2019</span>
 </td>
@@ -788,7 +823,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="46" data-listing-date-sort="1566792000000" data-listing-file-modified-sort="1710519354396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-title-sort="Highlights of the PSA’s First Two Years" data-listing-filename-sort="2019-08-26_highlights-of-the-psas-first-two-years.qmd">
+<tr data-index="46" data-listing-date-sort="1566795600000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="979" data-listing-title-sort="Highlights of the PSA’s First Two Years" data-listing-filename-sort="2019-08-26_highlights-of-the-psas-first-two-years.qmd">
 <td>
 <span class="listing-date">Aug 26, 2019</span>
 </td>
@@ -799,7 +834,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="47" data-listing-date-sort="1566446400000" data-listing-file-modified-sort="1710519354396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="The PSA is Two Years Old. Let’s Celebrate!" data-listing-filename-sort="2019-08-22_the-psa-is-two-years-old-lets-celebrate.qmd">
+<tr data-index="47" data-listing-date-sort="1566450000000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185" data-listing-title-sort="The PSA is Two Years Old. Let’s Celebrate!" data-listing-filename-sort="2019-08-22_the-psa-is-two-years-old-lets-celebrate.qmd">
 <td>
 <span class="listing-date">Aug 22, 2019</span>
 </td>
@@ -810,7 +845,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="48" data-categories="monthly update" data-listing-date-sort="1564545600000" data-listing-file-modified-sort="1710519354396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="News from the Accelerator - July 2019" data-listing-filename-sort="2019-07-31_news-from-the-accelerator-july-2019.qmd">
+<tr data-index="48" data-categories="monthly update" data-listing-date-sort="1564549200000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="799" data-listing-title-sort="News from the Accelerator - July 2019" data-listing-filename-sort="2019-07-31_news-from-the-accelerator-july-2019.qmd">
 <td>
 <span class="listing-date">Jul 31, 2019</span>
 </td>
@@ -821,7 +856,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="49" data-categories="monthly update" data-listing-date-sort="1561867200000" data-listing-file-modified-sort="1710519354396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="News from the Accelerator - June 2019" data-listing-filename-sort="2019-06-30_news-from-the-accelerator-june-2019.qmd">
+<tr data-index="49" data-categories="monthly update" data-listing-date-sort="1561870800000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="638" data-listing-title-sort="News from the Accelerator - June 2019" data-listing-filename-sort="2019-06-30_news-from-the-accelerator-june-2019.qmd">
 <td>
 <span class="listing-date">Jun 30, 2019</span>
 </td>
@@ -832,7 +867,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="50" data-categories="CREP" data-listing-date-sort="1561780800000" data-listing-file-modified-sort="1710519354396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-title-sort="Update on the Accelerated CREP. A Collaborative CREP Replication Project Powered by the PSA" data-listing-filename-sort="2019-06-29_update-on-the-accelerated-crep-a-collaborative-crep-replication-project-powered-by-the-psa.qmd">
+<tr data-index="50" data-categories="CREP" data-listing-date-sort="1561784400000" data-listing-file-modified-sort="1730411239396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-word-count-sort="3365" data-listing-title-sort="Update on the Accelerated CREP. A Collaborative CREP Replication Project Powered by the PSA" data-listing-filename-sort="2019-06-29_update-on-the-accelerated-crep-a-collaborative-crep-replication-project-powered-by-the-psa.qmd">
 <td>
 <span class="listing-date">Jun 29, 2019</span>
 </td>
@@ -843,7 +878,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="51" data-categories="call for submissions" data-listing-date-sort="1560571200000" data-listing-file-modified-sort="1710519354396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-title-sort="The Psychological Science Accelerator Calls for Study Submissions" data-listing-filename-sort="2019-06-15_the-psychological-science-accelerator-calls-for-study-submissions.qmd">
+<tr data-index="51" data-categories="call for submissions" data-listing-date-sort="1560574800000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1565" data-listing-title-sort="The Psychological Science Accelerator Calls for Study Submissions" data-listing-filename-sort="2019-06-15_the-psychological-science-accelerator-calls-for-study-submissions.qmd">
 <td>
 <span class="listing-date">Jun 15, 2019</span>
 </td>
@@ -854,7 +889,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="52" data-categories="monthly update" data-listing-date-sort="1559275200000" data-listing-file-modified-sort="1710519354396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="News from the Accelerator - May 2019" data-listing-filename-sort="2019-05-31_news-from-the-accelerator-may-2019.qmd">
+<tr data-index="52" data-categories="monthly update" data-listing-date-sort="1559278800000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1111" data-listing-title-sort="News from the Accelerator - May 2019" data-listing-filename-sort="2019-05-31_news-from-the-accelerator-may-2019.qmd">
 <td>
 <span class="listing-date">May 31, 2019</span>
 </td>
@@ -865,7 +900,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="53" data-categories="monthly update" data-listing-date-sort="1556596800000" data-listing-file-modified-sort="1710519354396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="News from the Accelerator - April 2019" data-listing-filename-sort="2019-04-30_news-from-the-accelerator-april-2019.qmd">
+<tr data-index="53" data-categories="monthly update" data-listing-date-sort="1556600400000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="541" data-listing-title-sort="News from the Accelerator - April 2019" data-listing-filename-sort="2019-04-30_news-from-the-accelerator-april-2019.qmd">
 <td>
 <span class="listing-date">Apr 30, 2019</span>
 </td>
@@ -876,7 +911,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="54" data-categories="monthly update" data-listing-date-sort="1553832000000" data-listing-file-modified-sort="1710519354396" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-title-sort="News from the Accelerator - March 2019" data-listing-filename-sort="2019-03-29_news-from-the-accelerator-march-2019.qmd">
+<tr data-index="54" data-categories="monthly update" data-listing-date-sort="1553835600000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="842" data-listing-title-sort="News from the Accelerator - March 2019" data-listing-filename-sort="2019-03-29_news-from-the-accelerator-march-2019.qmd">
 <td>
 <span class="listing-date">Mar 29, 2019</span>
 </td>
@@ -887,7 +922,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="55" data-categories="monthly update" data-listing-date-sort="1551330000000" data-listing-file-modified-sort="1710519354395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="News from the Accelerator - February 2019" data-listing-filename-sort="2019-02-28_news-from-the-accelerator-february-2019.qmd">
+<tr data-index="55" data-categories="monthly update" data-listing-date-sort="1551333600000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1047" data-listing-title-sort="News from the Accelerator - February 2019" data-listing-filename-sort="2019-02-28_news-from-the-accelerator-february-2019.qmd">
 <td>
 <span class="listing-date">Feb 28, 2019</span>
 </td>
@@ -898,7 +933,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="56" data-categories="monthly update" data-listing-date-sort="1548910800000" data-listing-file-modified-sort="1710519354395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="News from the Accelerator - January 2019" data-listing-filename-sort="2019-01-31_news-from-the-accelerator-january-2019.qmd">
+<tr data-index="56" data-categories="monthly update" data-listing-date-sort="1548914400000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="505" data-listing-title-sort="News from the Accelerator - January 2019" data-listing-filename-sort="2019-01-31_news-from-the-accelerator-january-2019.qmd">
 <td>
 <span class="listing-date">Jan 31, 2019</span>
 </td>
@@ -909,7 +944,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="57" data-categories="PSA006" data-listing-date-sort="1545282000000" data-listing-file-modified-sort="1710519354395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="New PSA Study! On the universality of moral thinking: Cross-cultural variation in the influence of personal force and intention in moral dilemma judgments." data-listing-filename-sort="2018-12-20_new-psa-study-on-the-universality-of-moral-thinking-cross-cultural-variation-in-the-influence-of-personal-force-and-intention-in-moral-dilemma-judgments.qmd">
+<tr data-index="57" data-categories="PSA006" data-listing-date-sort="1545285600000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="195" data-listing-title-sort="New PSA Study! On the universality of moral thinking: Cross-cultural variation in the influence of personal force and intention in moral dilemma judgments." data-listing-filename-sort="2018-12-20_new-psa-study-on-the-universality-of-moral-thinking-cross-cultural-variation-in-the-influence-of-personal-force-and-intention-in-moral-dilemma-judgments.qmd">
 <td>
 <span class="listing-date">Dec 20, 2018</span>
 </td>
@@ -920,7 +955,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="58" data-categories="monthly update" data-listing-date-sort="1545282000000" data-listing-file-modified-sort="1710519354395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-title-sort="News from the Accelerator - December 2018" data-listing-filename-sort="2018-12-20_news-from-the-accelerator-december-2018.qmd">
+<tr data-index="58" data-categories="monthly update" data-listing-date-sort="1545285600000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="984" data-listing-title-sort="News from the Accelerator - December 2018" data-listing-filename-sort="2018-12-20_news-from-the-accelerator-december-2018.qmd">
 <td>
 <span class="listing-date">Dec 20, 2018</span>
 </td>
@@ -931,7 +966,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="59" data-categories="PSA005" data-listing-date-sort="1539921600000" data-listing-file-modified-sort="1710519354395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="A Large-Scale, Multi-Site Examination of Stereotype Threat Across Varying Operationalizations. A Newly Selected Accelerator Study." data-listing-filename-sort="2018-10-19_a-large-scale-multi-site-examination-of-stereotype-threat-across-varying-operationalizations-a-newly-selected-accelerator-study.qmd">
+<tr data-index="59" data-categories="PSA005" data-listing-date-sort="1539925200000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="228" data-listing-title-sort="A Large-Scale, Multi-Site Examination of Stereotype Threat Across Varying Operationalizations. A Newly Selected Accelerator Study." data-listing-filename-sort="2018-10-19_a-large-scale-multi-site-examination-of-stereotype-threat-across-varying-operationalizations-a-newly-selected-accelerator-study.qmd">
 <td>
 <span class="listing-date">Oct 19, 2018</span>
 </td>
@@ -942,7 +977,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="60" data-categories="CREP,PSA004" data-listing-date-sort="1539576000000" data-listing-file-modified-sort="1710519354395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-title-sort="Update on the Accelerated CREP: Registered Replication Report Submission Coming Soon. More Labs Welcome to Join!" data-listing-filename-sort="2018-10-15_update-on-the-accelerated-crep-registered-replication-report-submission-coming-soon-more-labs-welcome-to-join.qmd">
+<tr data-index="60" data-categories="CREP,PSA004" data-listing-date-sort="1539579600000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1466" data-listing-title-sort="Update on the Accelerated CREP: Registered Replication Report Submission Coming Soon. More Labs Welcome to Join!" data-listing-filename-sort="2018-10-15_update-on-the-accelerated-crep-registered-replication-report-submission-coming-soon-more-labs-welcome-to-join.qmd">
 <td>
 <span class="listing-date">Oct 15, 2018</span>
 </td>
@@ -953,7 +988,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="61" data-categories="PSA001" data-listing-date-sort="1539057600000" data-listing-file-modified-sort="1710519354395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="PSA Face Rating Study: Last Call for Labs in Africa, Central America, Mexico, the Middle East, and Scandinavia." data-listing-filename-sort="2018-10-09_psa-face-rating-study-last-call-for-labs-in-africa-central-america-mexico-the-middle-east-and-scandinavia.qmd">
+<tr data-index="61" data-categories="PSA001" data-listing-date-sort="1539061200000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="254" data-listing-title-sort="PSA Face Rating Study: Last Call for Labs in Africa, Central America, Mexico, the Middle East, and Scandinavia." data-listing-filename-sort="2018-10-09_psa-face-rating-study-last-call-for-labs-in-africa-central-america-mexico-the-middle-east-and-scandinavia.qmd">
 <td>
 <span class="listing-date">Oct 9, 2018</span>
 </td>
@@ -964,7 +999,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="62" data-listing-date-sort="1535256000000" data-listing-file-modified-sort="1710519354395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-title-sort="The Psychological Science Accelerator's First Year" data-listing-filename-sort="2018-08-26_the-psychological-science-accelerators-first-year.qmd">
+<tr data-index="62" data-listing-date-sort="1535259600000" data-listing-file-modified-sort="1730411239395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1697" data-listing-title-sort="The Psychological Science Accelerator's First Year" data-listing-filename-sort="2018-08-26_the-psychological-science-accelerators-first-year.qmd">
 <td>
 <span class="listing-date">Aug 26, 2018</span>
 </td>
@@ -975,7 +1010,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="63" data-categories="call for submissions" data-listing-date-sort="1525060800000" data-listing-file-modified-sort="1710519354394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="The Psychological Science Accelerator: Call for Study Submissions (Deadline: June 20th)" data-listing-filename-sort="2018-04-30_the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th.qmd">
+<tr data-index="63" data-categories="call for submissions" data-listing-date-sort="1525064400000" data-listing-file-modified-sort="1730411239394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1098" data-listing-title-sort="The Psychological Science Accelerator: Call for Study Submissions (Deadline: June 20th)" data-listing-filename-sort="2018-04-30_the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th.qmd">
 <td>
 <span class="listing-date">Apr 30, 2018</span>
 </td>
@@ -986,7 +1021,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="64" data-categories="CREP" data-listing-date-sort="1523160000000" data-listing-file-modified-sort="1710519354394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-title-sort="The Accelerated CREP" data-listing-filename-sort="2018-04-08_the-accelerated-crep.qmd">
+<tr data-index="64" data-categories="CREP" data-listing-date-sort="1523163600000" data-listing-file-modified-sort="1730411239394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1141" data-listing-title-sort="The Accelerated CREP" data-listing-filename-sort="2018-04-08_the-accelerated-crep.qmd">
 <td>
 <span class="listing-date">Apr 8, 2018</span>
 </td>
@@ -997,7 +1032,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="65" data-categories="PSA002" data-listing-date-sort="1516770000000" data-listing-file-modified-sort="1710519354394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="New Study Accepted: The Object Orientation Effect" data-listing-filename-sort="2018-01-24_new-study-accepted-the-object-orientation-effect.qmd">
+<tr data-index="65" data-categories="PSA002" data-listing-date-sort="1516773600000" data-listing-file-modified-sort="1730411239394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="348" data-listing-title-sort="New Study Accepted: The Object Orientation Effect" data-listing-filename-sort="2018-01-24_new-study-accepted-the-object-orientation-effect.qmd">
 <td>
 <span class="listing-date">Jan 24, 2018</span>
 </td>
@@ -1008,7 +1043,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="66" data-listing-date-sort="1512450000000" data-listing-file-modified-sort="1710519354394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Accepted for 2018: Gendered Social Category Representations" data-listing-filename-sort="2017-12-05_accepted-for-2018-gendered-social-category-representations.qmd">
+<tr data-index="66" data-listing-date-sort="1512453600000" data-listing-file-modified-sort="1730411239394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="317" data-listing-title-sort="Accepted for 2018: Gendered Social Category Representations" data-listing-filename-sort="2017-12-05_accepted-for-2018-gendered-social-category-representations.qmd">
 <td>
 <span class="listing-date">Dec 5, 2017</span>
 </td>
@@ -1019,7 +1054,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="67" data-categories="PSA001" data-listing-date-sort="1510117200000" data-listing-file-modified-sort="1710519354394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="The Psychological Science Accelerator's First Study" data-listing-filename-sort="2017-11-08_the-psychological-science-accelerators-first-study.qmd">
+<tr data-index="67" data-categories="PSA001" data-listing-date-sort="1510120800000" data-listing-file-modified-sort="1730411239394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="359" data-listing-title-sort="The Psychological Science Accelerator's First Study" data-listing-filename-sort="2017-11-08_the-psychological-science-accelerators-first-study.qmd">
 <td>
 <span class="listing-date">Nov 8, 2017</span>
 </td>
@@ -1030,7 +1065,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="68" data-listing-date-sort="1508904000000" data-listing-file-modified-sort="1710519354394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Timeline for late 2017 and early 2018" data-listing-filename-sort="2017-10-25_timeline-for-late-2017-and-early-2018.qmd">
+<tr data-index="68" data-listing-date-sort="1508907600000" data-listing-file-modified-sort="1730411239394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="217" data-listing-title-sort="Timeline for late 2017 and early 2018" data-listing-filename-sort="2017-10-25_timeline-for-late-2017-and-early-2018.qmd">
 <td>
 <span class="listing-date">Oct 25, 2017</span>
 </td>
@@ -1041,7 +1076,7 @@ Author
 <span class="listing-author">Chris Chartier</span>
 </td>
 </tr>
-<tr data-index="69" data-listing-date-sort="1508817600000" data-listing-file-modified-sort="1710519354394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Check here for updates on the Accelerator" data-listing-filename-sort="2017-10-24_check-here-for-updates-on-the-accelerator.qmd">
+<tr data-index="69" data-listing-date-sort="1508821200000" data-listing-file-modified-sort="1730411239394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="52" data-listing-title-sort="Check here for updates on the Accelerator" data-listing-filename-sort="2017-10-24_check-here-for-updates-on-the-accelerator.qmd">
 <td>
 <span class="listing-date">Oct 24, 2017</span>
 </td>
@@ -1053,7 +1088,6 @@ Author
 </td>
 </tr>
 </tbody>
-
 </table>
 <div class="listing-no-matching d-none">
 No matching items
@@ -1103,6 +1137,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -1171,13 +1232,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -1212,18 +1275,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -1255,11 +1307,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/psysciacc\.github\.io");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1269,8 +1360,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1282,7 +1382,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1326,6 +1549,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1351,6 +1575,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1422,7 +1672,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="https://osf.io/93qpg/"><i class="ai  ai-osf ai-1x" title="" style="color:"></i></a>
+    <a class="nav-link" href="https://osf.io/93qpg/">
+<p><i class="ai  ai-osf ai-1x" title="" style="color:"></i></p>
+</a>
   </li>  
     <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/psysciacc">
@@ -1431,7 +1683,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="https://scholar.google.com/citations?user=yHWkiu4AAAAJ"><i class="ai  ai-google-scholar ai-2x" title="" style="color:"></i></a>
+    <a class="nav-link" href="https://scholar.google.com/citations?user=yHWkiu4AAAAJ">
+<p><i class="ai  ai-google-scholar ai-2x" title="" style="color:"></i></p>
+</a>
   </li>  
     <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/psysciacc">
@@ -1443,6 +1697,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+
 
 
 

@@ -1,385 +1,308 @@
 {
-  "index.qmd": {
-    "index.html": "14ba4d35"
-  },
-  "about.qmd": {
-    "about.html": "61a7288e"
-  },
-  "projects.qmd": {
-    "projects.html": "a651e1ce"
-  },
-  "projects/001/index.qmd": {
-    "index.html": "ef39237e"
-  },
-  "projects/CR003/index.qmd": {
-    "index.html": "94a405f1"
-  },
-  "projects/CR002/index.qmd": {
-    "index.html": "e3bcb761"
-  },
-  "projects/007/index.qmd": {
-    "index.html": "f3121bfe"
-  },
-  "projects/009/index.qmd": {
-    "index.html": "667c9c4a"
-  },
-  "projects/008/index.qmd": {
-    "index.html": "e5a0d686"
-  },
-  "projects/006/index.qmd": {
-    "index.html": "438f378d"
-  },
-  "projects/CR001/index.qmd": {
-    "index.html": "8f6eb561"
-  },
-  "projects/003/index.qmd": {
-    "index.html": "928d71e2"
-  },
-  "projects/004/index.qmd": {
-    "index.html": "496aabd7"
-  },
-  "projects/005/index.qmd": {
-    "index.html": "5972f1cd"
-  },
-  "projects/002/index.qmd": {
-    "index.html": "fc671c32"
-  },
-  "news.qmd": {
-    "news.html": "7449bd25"
-  },
-  "core-principles.qmd": {
-    "core-principles.html": "73162503"
-  },
-  "news/2022-12-06_2nd-call.qmd": {
-    "2022-12-06_2nd-call.html": "b9fd0b45"
-  },
-  "papers/PSA-intro_2018.qmd": {
-    "PSA-intro_2018.html": "35271184"
-  },
-  "papers.qmd": {
-    "papers.html": "8540d948"
-  },
-  "current-members.qmd": {
-    "current-members.html": "905a11e2"
-  },
-  "join.qmd": {
-    "join.html": "710b5bcb"
+  "conf-register.qmd": {
+    "conf-register.html": "0f0785ff"
   },
   "affiliated.qmd": {
-    "affiliated.html": "38aa66c7"
-  },
-  "submit.qmd": {
-    "submit.html": "4565aa6d"
-  },
-  "conf-register.qmd": {
-    "conf-register.html": "8246809c"
-  },
-  "newsletter.qmd": {
-    "newsletter.html": "b6716733"
-  },
-  "media.qmd": {
-    "media.html": "2fc71261"
-  },
-  "contacts.qmd": {
-    "contacts.html": "8ea04d0b"
-  },
-  "funding.qmd": {
-    "funding.html": "5625d42a"
-  },
-  "conf-previous.qmd": {
-    "conf-previous.html": "602157d8"
-  },
-  "history.qmd": {
-    "history.html": "6d34021d"
-  },
-  "projects/AF-gratitude/index.qmd": {
-    "index.html": "563f1b1e"
-  },
-  "projects/AF-relationships/index.qmd": {
-    "index.html": "10ceec00"
-  },
-  "projects/AF-relationships/af002.qmd": {
-    "af002.html": "4a53294b"
-  },
-  "projects/af001.qmd": {
-    "af001.html": "a2feceb1"
-  },
-  "projects/psa008.qmd": {
-    "psa008.html": "d7cb568a"
-  },
-  "projects/psa001.qmd": {
-    "psa001.html": "e6fe010b"
-  },
-  "projects/psa003.qmd": {
-    "psa003.html": "5d9d1cfd"
-  },
-  "projects/psa002.qmd": {
-    "psa002.html": "331c2c72"
-  },
-  "projects/psa006.qmd": {
-    "psa006.html": "9902e4d1"
-  },
-  "projects/psa007.qmd": {
-    "psa007.html": "eef14ab8"
-  },
-  "projects/af002.qmd": {
-    "af002.html": "693f0408"
-  },
-  "projects/psa005.qmd": {
-    "psa005.html": "0ac26baa"
-  },
-  "projects/psa004.qmd": {
-    "psa004.html": "872a2cfd"
-  },
-  "projects/cr001.qmd": {
-    "cr001.html": "195225d2"
-  },
-  "projects/cr003.qmd": {
-    "cr003.html": "6e4d0ac4"
-  },
-  "projects/cr002.qmd": {
-    "cr002.html": "837c6f1f"
-  },
-  "afiliated/af001.qmd": {
-    "af001.html": "a96601b5"
-  },
-  "afiliated/af002.qmd": {
-    "af002.html": "9d9bf488"
+    "affiliated.html": "c9e8e556"
   },
   "affiliated/af001.qmd": {
-    "af001.html": "5d94cf9b"
+    "af001.html": "b0190685"
   },
   "affiliated/af002.qmd": {
-    "af002.html": "f9451cd3"
+    "af002.html": "99bbd0ac"
   },
-  "news/2020-02-27_news-from-the-accelerator-february-2020.qmd": {
-    "2020-02-27_news-from-the-accelerator-february-2020.html": "e0711030"
+  "papers/PSA-intro_2018.qmd": {
+    "PSA-intro_2018.html": "3e11fae5"
   },
-  "news/2021-08-02_news-from-the-accelerator-july-2021.qmd": {
-    "2021-08-02_news-from-the-accelerator-july-2021.html": "23279fd2"
+  "papers.qmd": {
+    "papers.html": "ee9e7020"
   },
-  "news/2019-08-22_the-psa-is-two-years-old-lets-celebrate.qmd": {
-    "2019-08-22_the-psa-is-two-years-old-lets-celebrate.html": "549a01f1"
+  "join.qmd": {
+    "join.html": "966b8312"
   },
-  "news/2019-05-31_news-from-the-accelerator-may-2019.qmd": {
-    "2019-05-31_news-from-the-accelerator-may-2019.html": "e2b72696"
+  "projects/psa008.qmd": {
+    "psa008.html": "ef22bb17"
   },
-  "news/2020-12-11_the-financial-cost-of-the-psas-vision.qmd": {
-    "2020-12-11_the-financial-cost-of-the-psas-vision.html": "b8914c98"
+  "projects/psa001.qmd": {
+    "psa001.html": "708be3ce"
   },
-  "news/2018-12-20_new-psa-study-on-the-universality-of-moral-thinking-cross-cultural-variation-in-the-influence-of-personal-force-and-intention-in-moral-dilemma-judgments.qmd": {
-    "2018-12-20_new-psa-study-on-the-universality-of-moral-thinking-cross-cultural-variation-in-the-influence-of-personal-force-and-intention-in-moral-dilemma-judgments.html": "5f6fae97"
+  "projects/psa003.qmd": {
+    "psa003.html": "700c62c9"
   },
-  "news/2022-10-31_using-crowdfunding-to-finish-the-largest-stereotype-threat-project-with-black-american-participants-ever.qmd": {
-    "2022-10-31_using-crowdfunding-to-finish-the-largest-stereotype-threat-project-with-black-american-participants-ever.html": "c8964eaa"
+  "projects/psa002.qmd": {
+    "psa002.html": "3c547ff9"
   },
-  "news/2020-07-24_news-from-the-accelerator-july-2020.qmd": {
-    "2020-07-24_news-from-the-accelerator-july-2020.html": "ca7980e3"
+  "projects/psa006.qmd": {
+    "psa006.html": "7bc6b3f2"
   },
-  "news/2020-09-14_incentivizing-discovery-through-the-psa001-secondary-analysis-challenge.qmd": {
-    "2020-09-14_incentivizing-discovery-through-the-psa001-secondary-analysis-challenge.html": "57971bf3"
-  },
-  "news/2022-05-03_news-from-the-accelerator-april-2022.qmd": {
-    "2022-05-03_news-from-the-accelerator-april-2022.html": "988b79a6"
-  },
-  "news/2019-08-28_announcing-psa-member-lab-grants-for-2019-2020.qmd": {
-    "2019-08-28_announcing-psa-member-lab-grants-for-2019-2020.html": "c046d86a"
-  },
-  "news/2019-08-27_the-psas-patreon-sustainability-drive.qmd": {
-    "2019-08-27_the-psas-patreon-sustainability-drive.html": "a81e0954"
-  },
-  "news/2020-10-28_news-from-the-accelerator-october-2020.qmd": {
-    "2020-10-28_news-from-the-accelerator-october-2020.html": "e6323a2f"
-  },
-  "news/2018-01-24_new-study-accepted-the-object-orientation-effect.qmd": {
-    "2018-01-24_new-study-accepted-the-object-orientation-effect.html": "c2b7f76b"
-  },
-  "news/2017-10-24_check-here-for-updates-on-the-accelerator.qmd": {
-    "2017-10-24_check-here-for-updates-on-the-accelerator.html": "7b27e632"
-  },
-  "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.qmd": {
-    "2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html": "cf993f7f"
-  },
-  "news/2020-03-13_the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19.qmd": {
-    "2020-03-13_the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19.html": "2b6a518d"
-  },
-  "news/2022-09-16_.qmd": {
-    "2022-09-16_.html": "41936486"
-  },
-  "news/2021-01-11_how-should-we-fund-the-psa.qmd": {
-    "2021-01-11_how-should-we-fund-the-psa.html": "2639282c"
-  },
-  "news/2022-09-16_help-us-select-our-next-projects.qmd": {
-    "2022-09-16_help-us-select-our-next-projects.html": "67e533e1"
-  },
-  "news/2019-08-26_highlights-of-the-psas-first-two-years.qmd": {
-    "2019-08-26_highlights-of-the-psas-first-two-years.html": "7e595913"
-  },
-  "news/2022-07-05_nominations-for-psa-leadership-positions.qmd": {
-    "2022-07-05_nominations-for-psa-leadership-positions.html": "47e4cf0b"
-  },
-  "news/2017-10-25_timeline-for-late-2017-and-early-2018.qmd": {
-    "2017-10-25_timeline-for-late-2017-and-early-2018.html": "2319199e"
-  },
-  "news/2019-06-29_update-on-the-accelerated-crep-a-collaborative-crep-replication-project-powered-by-the-psa.qmd": {
-    "2019-06-29_update-on-the-accelerated-crep-a-collaborative-crep-replication-project-powered-by-the-psa.html": "31adea4d"
-  },
-  "news/2018-12-20_news-from-the-accelerator-december-2018.qmd": {
-    "2018-12-20_news-from-the-accelerator-december-2018.html": "0a991437"
-  },
-  "news/2020-06-29_news-from-the-accelerator-june-2020.qmd": {
-    "2020-06-29_news-from-the-accelerator-june-2020.html": "2bbc4d5a"
-  },
-  "news/2018-10-09_psa-face-rating-study-last-call-for-labs-in-africa-central-america-mexico-the-middle-east-and-scandinavia.qmd": {
-    "2018-10-09_psa-face-rating-study-last-call-for-labs-in-africa-central-america-mexico-the-middle-east-and-scandinavia.html": "4e515260"
-  },
-  "news/2019-01-31_news-from-the-accelerator-january-2019.qmd": {
-    "2019-01-31_news-from-the-accelerator-january-2019.html": "0998a1d3"
-  },
-  "news/2019-10-17_news-from-the-accelerator-october-2019.qmd": {
-    "2019-10-17_news-from-the-accelerator-october-2019.html": "e4093635"
-  },
-  "news/2020-12-10_news-from-the-psa-nov-dec-2020.qmd": {
-    "2020-12-10_news-from-the-psa-nov-dec-2020.html": "ed33c009"
-  },
-  "news/2019-02-28_news-from-the-accelerator-february-2019.qmd": {
-    "2019-02-28_news-from-the-accelerator-february-2019.html": "80221365"
-  },
-  "news/2021-02-01_news-from-the-accelerator-january-2021.qmd": {
-    "2021-02-01_news-from-the-accelerator-january-2021.html": "bf9d078e"
-  },
-  "news/2020-05-27_the-2020-virtual-meeting-of-the-psychological-science-accelerator.qmd": {
-    "2020-05-27_the-2020-virtual-meeting-of-the-psychological-science-accelerator.html": "fa9d360d"
-  },
-  "news/2021-09-01_news-from-the-accelerator-august-2021.qmd": {
-    "2021-09-01_news-from-the-accelerator-august-2021.html": "07448736"
-  },
-  "news/2020-05-21_news-from-the-accelerator-may-2020.qmd": {
-    "2020-05-21_news-from-the-accelerator-may-2020.html": "ee2ae376"
-  },
-  "news/2021-09-30_news-from-the-accelerator-september-2021.qmd": {
-    "2021-09-30_news-from-the-accelerator-september-2021.html": "c2b74de1"
-  },
-  "news/2019-04-30_news-from-the-accelerator-april-2019.qmd": {
-    "2019-04-30_news-from-the-accelerator-april-2019.html": "654f0c89"
-  },
-  "news/2021-08-02_releasing-the-results-of-the-psas-covid-rapid-project.qmd": {
-    "2021-08-02_releasing-the-results-of-the-psas-covid-rapid-project.html": "65aa3b1f"
-  },
-  "news/2019-06-30_news-from-the-accelerator-june-2019.qmd": {
-    "2019-06-30_news-from-the-accelerator-june-2019.html": "915bbdc2"
-  },
-  "news/2019-09-01_introducing-the-psa001-secondary-analysis-challenge.qmd": {
-    "2019-09-01_introducing-the-psa001-secondary-analysis-challenge.html": "2bab0b40"
-  },
-  "news/2018-04-08_the-accelerated-crep.qmd": {
-    "2018-04-08_the-accelerated-crep.html": "a5d7365a"
-  },
-  "news/2019-08-30_the-psas-draft-vision-document-is-open-for-feedback.qmd": {
-    "2019-08-30_the-psas-draft-vision-document-is-open-for-feedback.html": "6ecb51b0"
-  },
-  "news/2017-12-05_accepted-for-2018-gendered-social-category-representations.qmd": {
-    "2017-12-05_accepted-for-2018-gendered-social-category-representations.html": "491ff50f"
-  },
-  "news/2021-07-02_news-from-the-accelerator-june-2021.qmd": {
-    "2021-07-02_news-from-the-accelerator-june-2021.html": "6250e3c0"
-  },
-  "news/2018-10-15_update-on-the-accelerated-crep-registered-replication-report-submission-coming-soon-more-labs-welcome-to-join.qmd": {
-    "2018-10-15_update-on-the-accelerated-crep-registered-replication-report-submission-coming-soon-more-labs-welcome-to-join.html": "6b2bd4b5"
-  },
-  "news/2019-06-15_the-psychological-science-accelerator-calls-for-study-submissions.qmd": {
-    "2019-06-15_the-psychological-science-accelerator-calls-for-study-submissions.html": "5448efcf"
-  },
-  "news/2022-03-03_call-for-proposals-psa-rare-populations.qmd": {
-    "2022-03-03_call-for-proposals-psa-rare-populations.html": "0cd53410"
-  },
-  "news/2018-10-19_a-large-scale-multi-site-examination-of-stereotype-threat-across-varying-operationalizations-a-newly-selected-accelerator-study.qmd": {
-    "2018-10-19_a-large-scale-multi-site-examination-of-stereotype-threat-across-varying-operationalizations-a-newly-selected-accelerator-study.html": "fc250aad"
-  },
-  "news/2020-03-18_support-the-psa-covid-19-rapid-and-impactful-studies-with-a-donation.qmd": {
-    "2020-03-18_support-the-psa-covid-19-rapid-and-impactful-studies-with-a-donation.html": "bf0be1b6"
-  },
-  "news/2018-08-26_the-psychological-science-accelerators-first-year.qmd": {
-    "2018-08-26_the-psychological-science-accelerators-first-year.html": "69b84472"
-  },
-  "news/2021-06-01_news-from-the-accelerator-may-2021.qmd": {
-    "2021-06-01_news-from-the-accelerator-may-2021.html": "756f714a"
-  },
-  "news/2019-07-31_news-from-the-accelerator-july-2019.qmd": {
-    "2019-07-31_news-from-the-accelerator-july-2019.html": "cd07e922"
-  },
-  "news/2022-01-31_launching-psa-affiliated-projects.qmd": {
-    "2022-01-31_launching-psa-affiliated-projects.html": "10026453"
-  },
-  "news/2020-10-02_news-from-the-accelerator-august-september-2020.qmd": {
-    "2020-10-02_news-from-the-accelerator-august-september-2020.html": "cdaf4e93"
-  },
-  "news/2022-04-20_special-call-for-studies-studying-generalizability-with-global-samples.qmd": {
-    "2022-04-20_special-call-for-studies-studying-generalizability-with-global-samples.html": "e8d7a89c"
-  },
-  "news/2022-01-19_news-from-the-accelerator-january-2022.qmd": {
-    "2022-01-19_news-from-the-accelerator-january-2022.html": "ac856daa"
-  },
-  "news/2022-03-07_3354.qmd": {
-    "2022-03-07_3354.html": "38672791"
-  },
-  "news/2019-08-29_recognizing-invisible-labor-in-the-psa.qmd": {
-    "2019-08-29_recognizing-invisible-labor-in-the-psa.html": "3fa92d31"
-  },
-  "news/2020-03-21_join-the-psas-rapid-response-covid-19-project.qmd": {
-    "2020-03-21_join-the-psas-rapid-response-covid-19-project.html": "5427151e"
-  },
-  "news/2017-11-08_the-psychological-science-accelerators-first-study.qmd": {
-    "2017-11-08_the-psychological-science-accelerators-first-study.html": "a189d8b5"
-  },
-  "news/2019-03-29_news-from-the-accelerator-march-2019.qmd": {
-    "2019-03-29_news-from-the-accelerator-march-2019.html": "3c904559"
-  },
-  "news/2021-03-01_news-from-the-accelerator-february-2021.qmd": {
-    "2021-03-01_news-from-the-accelerator-february-2021.html": "e36e55b3"
-  },
-  "news/2020-12-04_how-many-resources-does-the-psa-possess.qmd": {
-    "2020-12-04_how-many-resources-does-the-psa-possess.html": "f9245c6a"
-  },
-  "news/2021-11-30_3230.qmd": {
-    "2021-11-30_3230.html": "19fd7557"
-  },
-  "news/2019-09-05_news-from-the-accelerator-september-2019.qmd": {
-    "2019-09-05_news-from-the-accelerator-september-2019.html": "2e70a73f"
-  },
-  "news/2020-01-13_news-from-the-accelerator-january-2020.qmd": {
-    "2020-01-13_news-from-the-accelerator-january-2020.html": "927baa29"
-  },
-  "news/2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.qmd": {
-    "2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.html": "222aab19"
-  },
-  "news/2018-04-30_the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th.qmd": {
-    "2018-04-30_the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th.html": "57025007"
-  },
-  "news/2021-09-30_.qmd": {
-    "2021-09-30_.html": "4f3ecf0f"
-  },
-  "news/2022-04-04_news-from-the-accelerator-march-2022.qmd": {
-    "2022-04-04_news-from-the-accelerator-march-2022.html": "9154e325"
-  },
-  "news/2021-04-30_news-from-the-accelerator-april-2021.qmd": {
-    "2021-04-30_news-from-the-accelerator-april-2021.html": "15d74c24"
-  },
-<<<<<<< HEAD
   "projects/psajtf003.qmd": {
-    "psajtf003.html": "a67be237"
+    "psajtf003.html": "31c33e17"
   },
   "projects/psajtf002.qmd": {
-    "psajtf002.html": "5c4fb817"
+    "psajtf002.html": "0d50d4da"
+  },
+  "projects/psa007.qmd": {
+    "psa007.html": "d90a1ba5"
+  },
+  "projects/psa005.qmd": {
+    "psa005.html": "b6e187ef"
   },
   "projects/psajtf001.qmd": {
-    "psajtf001.html": "b11822d4"
+    "psajtf001.html": "5658c80e"
+  },
+  "projects/psa004.qmd": {
+    "psa004.html": "c9c2609d"
+  },
+  "projects/cr001.qmd": {
+    "cr001.html": "9714d83d"
+  },
+  "projects/cr003.qmd": {
+    "cr003.html": "2f9acfe3"
+  },
+  "projects/cr002.qmd": {
+    "cr002.html": "b5303b80"
+  },
+  "news.qmd": {
+    "news.html": "0ade74a1"
+  },
+  "projects.qmd": {
+    "projects.html": "032912ec"
+  },
+  "index.qmd": {
+    "index.html": "fb4695eb"
+  },
+  "media.qmd": {
+    "media.html": "732642c1"
+  },
+  "about.qmd": {
+    "about.html": "b3b01726"
+  },
+  "contacts.qmd": {
+    "contacts.html": "95777a6d"
+  },
+  "core-principles.qmd": {
+    "core-principles.html": "2ebede28"
+  },
+  "news/2020-02-27_news-from-the-accelerator-february-2020.qmd": {
+    "2020-02-27_news-from-the-accelerator-february-2020.html": "abd17d2c"
+  },
+  "news/2021-08-02_news-from-the-accelerator-july-2021.qmd": {
+    "2021-08-02_news-from-the-accelerator-july-2021.html": "d206ecb9"
+  },
+  "news/2019-08-22_the-psa-is-two-years-old-lets-celebrate.qmd": {
+    "2019-08-22_the-psa-is-two-years-old-lets-celebrate.html": "07f4e05e"
+  },
+  "news/2019-05-31_news-from-the-accelerator-may-2019.qmd": {
+    "2019-05-31_news-from-the-accelerator-may-2019.html": "e5f569b8"
+  },
+  "news/2020-12-11_the-financial-cost-of-the-psas-vision.qmd": {
+    "2020-12-11_the-financial-cost-of-the-psas-vision.html": "43b53a13"
+  },
+  "news/2018-12-20_new-psa-study-on-the-universality-of-moral-thinking-cross-cultural-variation-in-the-influence-of-personal-force-and-intention-in-moral-dilemma-judgments.qmd": {
+    "2018-12-20_new-psa-study-on-the-universality-of-moral-thinking-cross-cultural-variation-in-the-influence-of-personal-force-and-intention-in-moral-dilemma-judgments.html": "dedbe270"
+  },
+  "news/2022-10-31_using-crowdfunding-to-finish-the-largest-stereotype-threat-project-with-black-american-participants-ever.qmd": {
+    "2022-10-31_using-crowdfunding-to-finish-the-largest-stereotype-threat-project-with-black-american-participants-ever.html": "d1e853ce"
+  },
+  "news/2020-07-24_news-from-the-accelerator-july-2020.qmd": {
+    "2020-07-24_news-from-the-accelerator-july-2020.html": "9c8df937"
+  },
+  "news/2020-09-14_incentivizing-discovery-through-the-psa001-secondary-analysis-challenge.qmd": {
+    "2020-09-14_incentivizing-discovery-through-the-psa001-secondary-analysis-challenge.html": "a67ed0f8"
+  },
+  "news/2022-05-03_news-from-the-accelerator-april-2022.qmd": {
+    "2022-05-03_news-from-the-accelerator-april-2022.html": "d5959ecc"
+  },
+  "news/2019-08-28_announcing-psa-member-lab-grants-for-2019-2020.qmd": {
+    "2019-08-28_announcing-psa-member-lab-grants-for-2019-2020.html": "ee89baf4"
+  },
+  "news/2019-08-27_the-psas-patreon-sustainability-drive.qmd": {
+    "2019-08-27_the-psas-patreon-sustainability-drive.html": "224e13fe"
+  },
+  "news/2020-10-28_news-from-the-accelerator-october-2020.qmd": {
+    "2020-10-28_news-from-the-accelerator-october-2020.html": "2db15fc9"
+  },
+  "news/2018-01-24_new-study-accepted-the-object-orientation-effect.qmd": {
+    "2018-01-24_new-study-accepted-the-object-orientation-effect.html": "ea6768a1"
+  },
+  "news/2017-10-24_check-here-for-updates-on-the-accelerator.qmd": {
+    "2017-10-24_check-here-for-updates-on-the-accelerator.html": "fb2de4a3"
+  },
+  "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.qmd": {
+    "2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html": "b6197a26"
+  },
+  "news/2020-03-13_the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19.qmd": {
+    "2020-03-13_the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19.html": "43aa419f"
+  },
+  "news/2021-01-11_how-should-we-fund-the-psa.qmd": {
+    "2021-01-11_how-should-we-fund-the-psa.html": "7a9bbc96"
+  },
+  "news/2022-09-16_help-us-select-our-next-projects.qmd": {
+    "2022-09-16_help-us-select-our-next-projects.html": "92503b51"
+  },
+  "news/2019-08-26_highlights-of-the-psas-first-two-years.qmd": {
+    "2019-08-26_highlights-of-the-psas-first-two-years.html": "a9d09102"
+  },
+  "news/2022-07-05_nominations-for-psa-leadership-positions.qmd": {
+    "2022-07-05_nominations-for-psa-leadership-positions.html": "bc35da4d"
+  },
+  "news/2017-10-25_timeline-for-late-2017-and-early-2018.qmd": {
+    "2017-10-25_timeline-for-late-2017-and-early-2018.html": "63b93dc0"
+  },
+  "news/2019-06-29_update-on-the-accelerated-crep-a-collaborative-crep-replication-project-powered-by-the-psa.qmd": {
+    "2019-06-29_update-on-the-accelerated-crep-a-collaborative-crep-replication-project-powered-by-the-psa.html": "b87b6a46"
+  },
+  "news/2018-12-20_news-from-the-accelerator-december-2018.qmd": {
+    "2018-12-20_news-from-the-accelerator-december-2018.html": "933459b2"
+  },
+  "news/2020-06-29_news-from-the-accelerator-june-2020.qmd": {
+    "2020-06-29_news-from-the-accelerator-june-2020.html": "36613c37"
+  },
+  "news/2018-10-09_psa-face-rating-study-last-call-for-labs-in-africa-central-america-mexico-the-middle-east-and-scandinavia.qmd": {
+    "2018-10-09_psa-face-rating-study-last-call-for-labs-in-africa-central-america-mexico-the-middle-east-and-scandinavia.html": "605a162d"
+  },
+  "news/2019-01-31_news-from-the-accelerator-january-2019.qmd": {
+    "2019-01-31_news-from-the-accelerator-january-2019.html": "071d5368"
+  },
+  "news/2019-10-17_news-from-the-accelerator-october-2019.qmd": {
+    "2019-10-17_news-from-the-accelerator-october-2019.html": "49746bed"
+  },
+  "news/2020-12-10_news-from-the-psa-nov-dec-2020.qmd": {
+    "2020-12-10_news-from-the-psa-nov-dec-2020.html": "a0a88daa"
+  },
+  "news/2019-02-28_news-from-the-accelerator-february-2019.qmd": {
+    "2019-02-28_news-from-the-accelerator-february-2019.html": "a1dcd4cb"
+  },
+  "news/2021-02-01_news-from-the-accelerator-january-2021.qmd": {
+    "2021-02-01_news-from-the-accelerator-january-2021.html": "e8792d23"
+  },
+  "news/2020-05-27_the-2020-virtual-meeting-of-the-psychological-science-accelerator.qmd": {
+    "2020-05-27_the-2020-virtual-meeting-of-the-psychological-science-accelerator.html": "51b1ed74"
+  },
+  "news/2021-09-01_news-from-the-accelerator-august-2021.qmd": {
+    "2021-09-01_news-from-the-accelerator-august-2021.html": "e14def7e"
+  },
+  "news/2020-05-21_news-from-the-accelerator-may-2020.qmd": {
+    "2020-05-21_news-from-the-accelerator-may-2020.html": "a6d88775"
+  },
+  "news/2021-09-30_news-from-the-accelerator-september-2021.qmd": {
+    "2021-09-30_news-from-the-accelerator-september-2021.html": "f338f24b"
+  },
+  "news/2019-04-30_news-from-the-accelerator-april-2019.qmd": {
+    "2019-04-30_news-from-the-accelerator-april-2019.html": "4bc9323f"
+  },
+  "news/2021-08-02_releasing-the-results-of-the-psas-covid-rapid-project.qmd": {
+    "2021-08-02_releasing-the-results-of-the-psas-covid-rapid-project.html": "d3673902"
+  },
+  "news/2019-06-30_news-from-the-accelerator-june-2019.qmd": {
+    "2019-06-30_news-from-the-accelerator-june-2019.html": "40ba3481"
+  },
+  "news/2019-09-01_introducing-the-psa001-secondary-analysis-challenge.qmd": {
+    "2019-09-01_introducing-the-psa001-secondary-analysis-challenge.html": "9f5eb3af"
+  },
+  "news/2018-04-08_the-accelerated-crep.qmd": {
+    "2018-04-08_the-accelerated-crep.html": "d7e08116"
+  },
+  "news/2019-08-30_the-psas-draft-vision-document-is-open-for-feedback.qmd": {
+    "2019-08-30_the-psas-draft-vision-document-is-open-for-feedback.html": "a7b85705"
+  },
+  "news/2017-12-05_accepted-for-2018-gendered-social-category-representations.qmd": {
+    "2017-12-05_accepted-for-2018-gendered-social-category-representations.html": "e73eaefa"
+  },
+  "news/2021-07-02_news-from-the-accelerator-june-2021.qmd": {
+    "2021-07-02_news-from-the-accelerator-june-2021.html": "e30b8088"
+  },
+  "news/2018-10-15_update-on-the-accelerated-crep-registered-replication-report-submission-coming-soon-more-labs-welcome-to-join.qmd": {
+    "2018-10-15_update-on-the-accelerated-crep-registered-replication-report-submission-coming-soon-more-labs-welcome-to-join.html": "a13e5ff0"
+  },
+  "news/2019-06-15_the-psychological-science-accelerator-calls-for-study-submissions.qmd": {
+    "2019-06-15_the-psychological-science-accelerator-calls-for-study-submissions.html": "da534dc3"
+  },
+  "news/2022-03-03_call-for-proposals-psa-rare-populations.qmd": {
+    "2022-03-03_call-for-proposals-psa-rare-populations.html": "b397c2ba"
   },
   "news/2023-07-01_tia-blackall-assistant-start.qmd": {
-    "2023-07-01_tia-blackall-assistant-start.html": "954467ff"
-=======
-  "news/2024-06-03_journal-possibilities.qmd": {
-    "2024-06-03_journal-possibilities.html": "0c2dc75f"
->>>>>>> 1101caf (adding new news)
+    "2023-07-01_tia-blackall-assistant-start.html": "f209fb76"
+  },
+  "news/2018-10-19_a-large-scale-multi-site-examination-of-stereotype-threat-across-varying-operationalizations-a-newly-selected-accelerator-study.qmd": {
+    "2018-10-19_a-large-scale-multi-site-examination-of-stereotype-threat-across-varying-operationalizations-a-newly-selected-accelerator-study.html": "eb5a27eb"
+  },
+  "news/2020-03-18_support-the-psa-covid-19-rapid-and-impactful-studies-with-a-donation.qmd": {
+    "2020-03-18_support-the-psa-covid-19-rapid-and-impactful-studies-with-a-donation.html": "dbd771ff"
+  },
+  "news/2018-08-26_the-psychological-science-accelerators-first-year.qmd": {
+    "2018-08-26_the-psychological-science-accelerators-first-year.html": "0cf0821a"
+  },
+  "news/2021-06-01_news-from-the-accelerator-may-2021.qmd": {
+    "2021-06-01_news-from-the-accelerator-may-2021.html": "71bd5a53"
+  },
+  "news/2019-07-31_news-from-the-accelerator-july-2019.qmd": {
+    "2019-07-31_news-from-the-accelerator-july-2019.html": "a020c5d8"
+  },
+  "news/2022-01-31_launching-psa-affiliated-projects.qmd": {
+    "2022-01-31_launching-psa-affiliated-projects.html": "78140a97"
+  },
+  "news/2020-10-02_news-from-the-accelerator-august-september-2020.qmd": {
+    "2020-10-02_news-from-the-accelerator-august-september-2020.html": "e32685a1"
+  },
+  "news/2022-04-20_special-call-for-studies-studying-generalizability-with-global-samples.qmd": {
+    "2022-04-20_special-call-for-studies-studying-generalizability-with-global-samples.html": "e13e7d26"
+  },
+  "news/2022-01-19_news-from-the-accelerator-january-2022.qmd": {
+    "2022-01-19_news-from-the-accelerator-january-2022.html": "ad0887ec"
+  },
+  "news/2022-03-07_3354.qmd": {
+    "2022-03-07_3354.html": "276fcb6f"
+  },
+  "news/2019-08-29_recognizing-invisible-labor-in-the-psa.qmd": {
+    "2019-08-29_recognizing-invisible-labor-in-the-psa.html": "dd2b10ed"
+  },
+  "news/2020-03-21_join-the-psas-rapid-response-covid-19-project.qmd": {
+    "2020-03-21_join-the-psas-rapid-response-covid-19-project.html": "9f1c7963"
+  },
+  "news/2017-11-08_the-psychological-science-accelerators-first-study.qmd": {
+    "2017-11-08_the-psychological-science-accelerators-first-study.html": "10cfd2be"
+  },
+  "news/2019-03-29_news-from-the-accelerator-march-2019.qmd": {
+    "2019-03-29_news-from-the-accelerator-march-2019.html": "70e63d10"
+  },
+  "news/2021-03-01_news-from-the-accelerator-february-2021.qmd": {
+    "2021-03-01_news-from-the-accelerator-february-2021.html": "c33fb3b3"
+  },
+  "news/2020-12-04_how-many-resources-does-the-psa-possess.qmd": {
+    "2020-12-04_how-many-resources-does-the-psa-possess.html": "6b14d641"
+  },
+  "news/2021-11-30_3230.qmd": {
+    "2021-11-30_3230.html": "25707abc"
+  },
+  "news/2019-09-05_news-from-the-accelerator-september-2019.qmd": {
+    "2019-09-05_news-from-the-accelerator-september-2019.html": "e3d3ce26"
+  },
+  "news/2020-01-13_news-from-the-accelerator-january-2020.qmd": {
+    "2020-01-13_news-from-the-accelerator-january-2020.html": "220fc5b3"
+  },
+  "news/2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.qmd": {
+    "2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.html": "94f010a2"
+  },
+  "news/2018-04-30_the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th.qmd": {
+    "2018-04-30_the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th.html": "a312ef22"
+  },
+  "news/2022-04-04_news-from-the-accelerator-march-2022.qmd": {
+    "2022-04-04_news-from-the-accelerator-march-2022.html": "6e9ff11c"
+  },
+  "news/2021-04-30_news-from-the-accelerator-april-2021.qmd": {
+    "2021-04-30_news-from-the-accelerator-april-2021.html": "99fc302f"
+  },
+  "funding.qmd": {
+    "funding.html": "a16b569b"
+  },
+  "conf-previous.qmd": {
+    "conf-previous.html": "5859c174"
+  },
+  "history.qmd": {
+    "history.html": "932a73ab"
+  },
+  "submit.qmd": {
+    "submit.html": "b14acc53"
   }
 }
