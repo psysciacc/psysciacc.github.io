@@ -1,6 +1,6 @@
 ---
 title: "News from the Accelerator- September 2021"
-author: "Svannah Lewis"
+author: "Savannah Lewis"
 date: 2021-09-30
 categories:
   - monthly update

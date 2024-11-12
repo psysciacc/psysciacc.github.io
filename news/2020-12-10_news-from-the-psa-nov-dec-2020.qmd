@@ -1,6 +1,6 @@
 ---
 title: "News from the Accelerator- November/December 2020"
-author: "Svannah Lewis"
+author: "Savannah Lewis"
 date: 2020-12-10
 categories:
   - monthly update

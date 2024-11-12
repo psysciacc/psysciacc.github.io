@@ -1,6 +1,6 @@
 ---
 title: "Special Call for Studies - Studying Generalizability with Global Samples"
-author: "Svannah Lewis"
+author: "Savannah Lewis"
 date: 2022-04-20
 categories:
   - call for submissions

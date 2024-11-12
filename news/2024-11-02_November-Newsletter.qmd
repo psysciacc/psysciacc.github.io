@@ -1,0 +1,53 @@
+---
+title: "November News from the Accelerator"
+author: "Erin Buchanan"
+date: 2024-11-02
+categories:
+  - newsletter
+---
+
+November Newsletter from the PSA
+
+## Quick Read
+
+-   PSA newly elected associate directors are on board!
+-   Several PSA studies are seeking collaborators globally to join and collect data: PSA-009 Gendered Leader, JTF-002 Dignity Honor Face, and JTF-003 Error Correction!
+
+## *PSA News*
+
+*The* *PSA Call for Studies 2024.* *Submit your proposal by December 5th for full consideration*. [Read our Call for Studies](https://docs.google.com/document/d/1WVXRZD117YWXEDiYONvfzFZgICKG3bYQhQHG7MqHE_g/edit#heading=h.b2thwkjlt199) document, or watch the video-recordings of our workshops on [Youtube](https://www.youtube.com/@psychologicalscienceaccele8275/featured). For inquiries, email psysciaccelerator\@gmail.com with subject line "Call for Studies Questions".
+
+*Our newly elected associate directors, Ekaterina Pronizius and John Protzko* have started their two-year terms on November 1st.
+
+*Welcome to many new members who have joined the PSA from all over the world! Are you looking to get more actively involved?* Complete your PSA Membership profile on Canvas so that we can proactively reach out for collaboration or reviewing opportunities that match your research interests and expertise. Drop in at our directors' weekly office hour on Mondays, or email psysciaccelerator\@gmail.com with questions. Find the Zoom link in the calendar [here](https://psysciacc.us18.list-manage.com/track/click?u=f8bacf294e5a46e350b638374&id=7c5314600e&e=96b47c8e01).
+
+*News from Big* Team Science
+
+*Did you know that researchers from the Global South are less likely to be first authors of behavioral science publications?*
+
+Nairobi, Kenya-headquartered Busara Center has launched the [Missing Majority Dashboard](https://remi-theriault.com/dashboards/missing_majority), a tool that highlights disparities in behavioral science research. Drawing data from the OpenAlex database, the tool offers interactive, automatically updating charts and tables that expose significant disparities in the first authors of behavioral science papers. The Missing Majority Dashboard has been co-created by Patrick Forscher and Rémi Thériault.
+
+PSA member Sergio Barbosa de la Torre was a guest on the Ética Psiempre podcast, speaking about Big Team Science. [Listen in Spanish on Spotify](https://open.spotify.com/episode/5AesP5iHz6QqikDqeknezZ), [visit the Ética Psiempre website](https://eticapsicologica.org/index.php/recursos/psiempre). Subtitles in many languages can be found on [Youtube](https://www.youtube.com/watch?v=P3tUy5QZbrM&list=PLDo8eohF0Il4CuowlWt3FHyPKckIWQpR7&index=4).
+
+## Featured Event
+
+[SIPS 2025 Pre-Conference Discussion: What went wrong? How can we do it better?](https://improvingpsych.org/sips-2025-precon-discussion/)
+
+In 2025, the Society for the Improvement of Psychological Sciences (SIPS) will hold its 10th annual meeting!
+
+Several early reformers will discuss challenges and improvements in psychological science. Invited speakers include: SIPS co-founders Simine Vazire, Professor at the University of Melbourne, and Brian Nosek, Executive Director of the Center for Open Science; Dorothy Bishop, University of Oxford. Also featuring co-founders of Data Colada Joseph Simmons, Professor at the University of Pennsylvania, and Leif Nelson, Professor at UC Berkeley. The event is moderated by Balazs Aczel, ELTE, host of SIPS 2025 in Budapest, Hungary.
+
+[Find out more about the event](https://improvingpsych.org/sips-2025-precon-discussion/) and [register here.](https://us02web.zoom.us/meeting/register/tZMtcOysqDkuHdDRijy-QVg_uDzqa6KzCjQj#/registration)
+
+## Project Updates
+
+-   [Object Orientation Study (PSA-002)](https://psysciacc.org/projects/psa002.html): The manuscript is under review at Current Psychology.
+-   [Gendered Prejudice Study (PSA-003)](https://psysciacc.org/projects/psa003.html): The manuscript is under review at PLOS ONE.
+-   [Justified True Belief Study (PSA-004)](https://psysciacc.org/projects/psa004.html): The paper has been published in [AMPPS](https://journals.sagepub.com/doi/10.1177/25152459241267902).
+-   [Stereotype Threat Study (PSA-005)](https://psysciacc.org/projects/psa005.html): We are working on the final data analysis for the full manuscript.
+-   [Semantic Priming Study (PSA-007)](https://psysciacc.org/projects/psa007.html): The manuscript is under review at Nature Human Behaviour.
+-   [Minimal Groups Study (PSA-008)](https://psysciacc.org/projects/psa008.html): Data collection is ongoing in 14 countries, and the project has collected data from over 4000 participants. More sites and countries will soon begin their recruitment as translations become available.
+-   [Gendered Leader (PSA-009)](https://psysciacc.org/projects/psa009.html): In a second phase of collaborator recruitment, we invite labs to join us in collecting data in 25 countries. Specifically in these languages (locations): Armenian (Armenia), Danish (Denmark), Dutch (Netherlands), English (US, Australia, Nigeria, Kenya), Finnish (Finland), French (Morocco), Japanese (Japan), Korean (South Korea), Norwegian (Norway), Persian (Iran), Portuguese (Portugal, Brazil), Romanian (Romania), Serbian (Serbia), Slovak (Slovakia), Spanish (Argentina, Colombia, Mexico), Swedish (Sweden), Thai (Thailand), Urdu (Pakistan), and Vietnamese (Vietnam). [Complete the interest survey by 10 November](https://uqpsych.qualtrics.com/jfe/form/SV_a59KpsrXWccXtau).
+-   [Moral Experiences (PSA-JTF-001)](https://psysciacc.org/projects/psajtf001.html): Data collection continues! The project welcomes new collaborators who can collect data, especially community samples, in France, Japan, Malaysia, Morocco, Saudi Arabia, or the United Kingdom. Please email psajtf1\@gmail.com if you're interested, and see the [preprint](https://osf.io/preprints/psyarxiv/jktnv) for more information.
+-   [Dignity Honor Face (PSA-JTF-002)](https://psysciacc.org/projects/psajtf002.html): Data collection in English and the translation process are both underway, and we have already met our target sample size for the USA. We are still actively seeking collaborators in a list of countries, [please see our interest survey for the full list](https://docs.google.com/forms/d/e/1FAIpQLSfifQfg-HQdZ-AIoSACu2yeI5bR_DA6nqexmjI0S8GdRaaVWA/viewform?usp=sf_link). Join us!
+-   [Error Correction (PSA-JTF-003)](https://psysciacc.org/projects/psajtf003.html): We are making preparations to start data collection! The project welcomes collaborators who can collect data. Interested? [Fill out this interest survey.](https://docs.google.com/forms/d/e/1FAIpQLSdEqUp0cOb-duJXvd3C1-DBX8dTZOksDyV-3fh4KFeKyCYrOg/viewform)

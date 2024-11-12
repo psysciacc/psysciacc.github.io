@@ -1,6 +1,6 @@
 ---
 title: "News from the Accelerator- February 2022"
-author: "Svannah Lewis"
+author: "Savannah Lewis"
 date: 2022-03-07
 categories:
   - monthly update

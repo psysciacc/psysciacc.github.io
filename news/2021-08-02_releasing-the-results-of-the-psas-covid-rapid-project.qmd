@@ -1,6 +1,6 @@
 ---
 title: "Releasing the Results of the PSA’s COVID-Rapid Project"
-author: "Svannah Lewis"
+author: "Savannah Lewis"
 date: 2021-08-02
 categories:
   - COVID rapid

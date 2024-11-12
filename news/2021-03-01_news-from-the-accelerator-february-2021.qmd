@@ -1,6 +1,6 @@
 ---
 title: "News from the Accelerator- February 2021"
-author: "Svannah Lewis"
+author: "Sawvannah Lewis"
 date: 2021-03-01
 categories:
   - monthly update

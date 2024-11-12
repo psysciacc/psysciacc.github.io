@@ -22,7 +22,7 @@ dir.create("news", FALSE)
 authors <- list(
     crchartier = "Chris Chartier",
     erinsievers = "Erin Sievers",
-    savlewis16 = "Svannah Lewis",
+    savlewis16 = "Savannah Lewis",
     ncoles797da2f80654f = "Nicholas Coles"
   )
 

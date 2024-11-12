@@ -1,6 +1,6 @@
 ---
 title: "Call for Proposals: PSA Rare Populations"
-author: "Svannah Lewis"
+author: "Savannah Lewis"
 date: 2022-03-03
 categories:
   - call for submissions

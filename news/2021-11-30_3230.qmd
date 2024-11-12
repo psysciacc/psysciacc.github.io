@@ -1,6 +1,6 @@
 ---
 title: "News from the Accelerator- October/November 2021"
-author: "Svannah Lewis"
+author: "Savannah Lewis"
 date: 2021-11-30
 categories:
   - monthly update
