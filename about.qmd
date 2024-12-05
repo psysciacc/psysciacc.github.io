@@ -28,21 +28,21 @@ The founding members of the PSA established the following core principles:
 
 **Established sustainable governance**. As of December 2020, the PSA is fiscally sponsored by the Open Collective Foundation and led by a Director, four Associate Directors, an ever-shifting number of committees led by 1-2 Assistant Directors, and a grassroots network of contributors. Committees regularly meet to establish workflows, develop policies, and provide guidance to PSA projects.
 
-**Selected and initiated over a dozen large-scale projects**. The PSA currently has over a dozen large-scale projects. See of projects page (link) for more information.
+**Selected and initiated over a dozen large-scale projects**. The PSA currently has over a dozen large-scale projects. See the [projects](projects.html) for information about each study. 
 
-**Received recognition from the scientific community**. In 2019, the PSA was recognized through the [Society for the Improvement of Psychological Science's](https://improvingpsych.org/) Leadership Award. In 2021, the PSA was recognized through the [Society for Personality and Social Psychology](https://spsp.org/) Service to the Field Award. The PSA has also received positive coverage from several popular press outlets, including [Science Magazine](https://www.science.org/content/article/new-accelerator-aims-bring-big-science-psychology), [FiveThirtyEight](https://fivethirtyeight.com/features/can-teamwork-solve-one-of-psychologys-biggest-problems/), and [Buzzfeed](https://www.buzzfeednews.com/article/stephaniemlee/psychology-science-accelerator-replication#.up37Yy0xj).
+**Received recognition from the scientific community**. In 2019, the PSA was recognized through the [Society for the Improvement of Psychological Science's](https://improvingpsych.org/) Leadership Award. In 2021, the PSA was recognized through the [Society for Personality and Social Psychology](https://spsp.org/) Service to the Field Award. The PSA has also received positive coverage from several popular press outlets, including [Science Magazine](https://www.science.org/content/article/new-accelerator-aims-bring-big-science-psychology), [FiveThirtyEight](https://fivethirtyeight.com/features/can-teamwork-solve-one-of-psychologys-biggest-problems/), and [Buzzfeed](https://www.buzzfeednews.com/article/stephaniemlee/psychology-science-accelerator-replication#.up37Yy0xj). In 2022, we received the [Einstein Foundation Award for Promoting Quality in Research](https://www.einsteinfoundation.de/en/award). 
 
 ### Current Aims
 Between 2022-2025, the PSA is primarily pursuing 6 aims. For more information, see our [2022-2025 Vision Plan](https://docs.google.com/document/d/13MQxrgs54eUz2iS9o_L_Ca_PjKUdT81T4xF3X5LLEGk/edit?usp=sharing).
 
-1. Address the "generalizability crisis" as it applies to methodology, measurement, sampling, and data analysis
+1. Address the "generalizability crisis" as it applies to methodology, measurement, sampling, and data analysis.
 
-2. Improve psychological science through meta-science research
+2. Improve psychological science through meta-science research.
 
-3. Create opportunities for PSA members to initiate and collaborate on "affiliated" projects
+3. Create opportunities for PSA members to initiate and collaborate on "affiliated" projects.
 
-4. Build infrastructure for large-scale collaboration networks
+4. Build infrastructure for large-scale collaboration networks.
 
-5. Improve the diversity of psychological science
+5. Improve the diversity of psychological science.
 
-6. Establish long-term organizational and financial sustainability
+6. Establish long-term organizational and financial sustainability.
