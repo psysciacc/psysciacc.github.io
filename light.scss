@@ -116,3 +116,8 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
     clear: none;
     margin: 0 0 0 1em;
 }
+
+#quarto-document-content {
+  max-width: 100% !important;   /* Expand content across the page */
+  padding: 0 20px;              /* Add padding for readability */
+}

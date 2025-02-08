@@ -648,7 +648,7 @@
     "href": "index.html",
     "title": "Psychological Science Accelerator",
     "section": "",
-    "text": "The Psychological Science Accelerator (PSA) is a globally distributed network of researchers that pool intellectual and material resources to accelerate the accumulation of rigorous knowledge in psychological science.\nWe believe that many of the world’s biggest challenges cannot be addressed by a single researcher or small team. We thus seek to leverage big team science to address big questions rooted in theory and/or real-world problems. For example, of the 12+ projects in our study portfolio, we have:\n\nTested whether COVID-19-related cognitive framing manipulations impact emotions, behaviors, attitudes, and well-being around the world.\nExamined cultural and situations forces that shape moral dilemma judgments.\nExamined the extent to which stereotype threat impacts academic performance among African American college students."
+    "text": "The Psychological Science Accelerator (PSA) is a globally distributed network of researchers that pool intellectual and material resources to accelerate the accumulation of rigorous knowledge in psychological science.\nWe believe that many of the world’s biggest challenges cannot be addressed by a single researcher or small team. We thus seek to leverage big team science to address big questions rooted in theory and/or real-world problems. For example, of the 12+ projects in our study portfolio, we have:\n\nTested whether COVID-19-related cognitive framing manipulations impact emotions, behaviors, attitudes, and well-being around the world.\nExamined cultural and situations forces that shape moral dilemma judgments.\nExamined the extent to which stereotype threat impacts academic performance among African American college students.\n Click here to view the member dashboard full screen."
   },
   {
     "objectID": "news.html",
@@ -1804,5 +1804,12 @@
     "title": "January News from the Accelerator",
     "section": "PROJECT UPDATES",
     "text": "PROJECT UPDATES\n002 Object Orientation\nOur manuscript is currently under review at Current Psychology.\n005 Stereotype Threat\nWe are working on the final analyses and robustness checks.\n007 Semantic Priming\nWe are still waiting for feedback from Nature Human Behaviour.\n008 Minimal Groups\nData collection continues! We now have data from 25 countries across all populated continents and nearly 10,000 participants.\n009 Gendered Leadership\nWe completed our second phase of collaborator recruitment.\nJTF1 Moral Experience\nOf the 20 countries in our sample, data collection is complete in 3 countries and almost done in 5 others. So far, we have collected data from over 4000 participants.\nRead more in our preprint\nJTF2 Dignity Honor Face\nWe have now collected data from over 3500 participants (including both student and community samples) in 9 countries! We are now testing in 4 languages with many more on the way.\nRead more in our preprint\nJTF3 Error Correction\nWe are preparing to start data collection and translation. Interested in joining us?\nRead more in the interest survey"
+  },
+  {
+    "objectID": "index.html#psa-member-dashboard",
+    "href": "index.html#psa-member-dashboard",
+    "title": "Psychological Science Accelerator",
+    "section": "PSA Member Dashboard",
+    "text": "PSA Member Dashboard\nHere is an embedded interactive dashboard:"
   }
 ]
