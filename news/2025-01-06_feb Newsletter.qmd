@@ -1,78 +1,52 @@
 ---
-title: "January News from the Accelerator"
-author: "Erin Buchanan"
-date: 2025-01-06
+title: "February News from the Accelerator"
+author: "Savannah Lewis"
+date: 2025-02-06
 categories:
   - newsletter
 ---
 
-January Newsletter from the PSA
+February Newsletter from the PSA
 
-## Quick Read
+Progress in PSA projects, publications and updates from members
 
-Directors review 2024 success, plus career news, project updates
+##Quick read##
 
-## 2025: AN EXCITING YEAR TO COME!
+- Progress in PSA projects: 009 Gendered Leadership and JTF3 Error Correction both started data collection. JTF3 also published their preprint.
 
-As we close out the year, we are thrilled to reflect on the many accomplishments and milestones achieved by the PSA. This year has been one of tremendous growth, collaboration, and progress, and we could not have done it without the hard work and dedication of our incredible research network. Here are some of the highlights:
+- New dataset available in eyewitness identification research, and other publications from PSA members
 
-## *Key Accomplishments*
+##WHAT'S NEW IN BIG TEAM SCIENCE##
 
--   *Successful BTS Conference:* The 2024 conference was a resounding success, bringing together researchers, collaborators, and enthusiasts to discuss and advance critical topics in the field. The event was a testament to the power of collaboration and shared purpose.
+Moving towards a truly inclusive behavioral science
 
--   *Expanded Leadership Team:* We welcomed two new directors, two associate directors, and four assistant directors to our leadership team. Their expertise and enthusiasm have already begun to make a significant impact on the PSA’s work and direction.
+In Communications Psychology[( https://doi.org/10.1038/s44271-024-00179-1 ) ], authors call for more responsible practices and co-authorship to promote global equity in knowledge production. They also conceptualized making assumptions based on skewed knowledge (MASKing) as a threat to diverse open science. Several PSA members are co-authors.
 
--   *Membership Growth:* We were delighted to see 862 new members join our Canvas platform, further expanding our community of researchers and collaborators.
+###Database for Eyewitness identification research###
 
--   *Publications and Submissions:*
+A team including PSA member Stefana Juncu created a database of crime videos and mugshots for eyewitness identification research. Read more in their paper published in Behavior Research Methods[( https://link.springer.com/article/10.3758/s13428-024-02585-z )]. ** The database on OSF[( https://osf.io/vrj3u/ )] ** is accessible by request for academic research that has received ethics approval.
 
-    -   Two studies (PSA 004 & PSA DM) were successfully published this year, showcasing the impactful research conducted by PSA.
+###FEATURED EVENT###
 
-    -   Two additional studies (PSA 003 & 007) were submitted for publication, and PSA003 recently received a revise and resubmit decision at PLoS One —an exciting step forward for our collaborators. PSA002 is still under review at Current Psychology.
+*SIPS 2025 in Budapest and online*
 
--   *Official Non-Profit Status:* A major milestone this year was becoming an official non-profit organization. This achievement has provided us with our own bank account and financial freedoms, allowing us to manage our resources more effectively and expand our initiatives.
+This will be the 10th annual conference of the Society for the Improvement of Psychological Science (SIPS). The program will focus on evaluating the reform thus far and gathering new momentum to improve science. For those traveling to Budapest, there will be sightseeing, hiking, and dinner on a boat on the Danube! Find out more at www.improvingpsych.org/SIPS2025/[( http://www.improvingpsych.org/SIPS2025/ )]
 
--   *BTS Proposals Workshop:* We hosted an 8-week workshop on BTS (Big Team Science) proposals, fostering skill development and providing valuable guidance to participants. The workshop was met with enthusiastic participation and positive feedback.
+##PSA Member Update##
 
-*Looking Ahead* The coming year promises to be just as exciting, with plans already underway for:
+One of the most amazing aspects of the PSA is the powerful connections it fosters among members! We're thrilled to see this in action as two PSA members team up at NYU—an incredible example of collaboration and networking in our community! 🎉👏
 
--   *New Projects*: With a growing network and increased capacity, we look forward to offering more opportunities for researchers to participate in impactful projects. We aim to launch six new projects, broadening the scope of our research and the opportunities for involvement.
--   *Policy Development*: Anticipate new policies that will enhance our operations and support our mission.
--   *Increased Engagement Opportunities:* We are committed to creating more ways for members to engage with the consortium, collaborate with peers, and contribute to meaningful research.
+Rémi Thériault recently started as a postdoctoral fellow at the Social Identity & Morality Lab[( https://www.jayvanbavel.com/people )] directed by Jay Van Bavel at New York University (NYU). Both are PSA members. Rémi Thériault will be working on developing a long-term intervention to reduce polarization in the currently tense US political climate.
 
-As we celebrate this year’s accomplishments, we remain deeply grateful for our vibrant network. Together, we are making significant strides in advancing research and creating meaningful change. Here’s to another year of growth and success!
-
-Erin and Savannah
-
-## *Congratulations, Sav!*
-
-PSA director Savannah C. Lewis recently completed her master's degree and walked across the stage.
-
-## CAREER OPPORTUNITY
-
-Postdoc position at University of York: Apply by Jan 13
-
-PSA member and JTF2 project lead Lusine Grigoryan is recruiting a full-time Postdoctoral Research Associate to work on a project funded by the European Research Council (ERC) Starting Grant: “The many faces of prejudice: the 'what', the 'why', and the 'how' of inferences we make from membership in social groups”. See the [*recruitment ad here*](https://jobs.york.ac.uk/vacancy/research-associate-575275.html) and apply now!
-
-## NEWS IN BIG TEAM SCIENCE
-
-PSA in the press: APA Monitor on Psychology
-
-Several PSA members are quoted in the article [*Psychology takes a global view*](https://www.apa.org/monitor/2025/01/trends-global-view), in the January 2025 issue of Monitor on Psychology , published by the American Psychological Association (APA).
-
-## PROJECT UPDATE - MANUSCRIPT REVISION
-
-*003 Gendered Prejudice*
-
-We received a revise-and-resubmit from PLOS One. The reviews are available on the Slack channel. We have a very short turnaround time for the review; revisions are requested by the end of January.
-
-If you have thoughts on how to address the reviews, please share them on Slack or email psycsciacc002003\@gmail.com.
-
-## PROJECT UPDATES
+##PSA PROJECT UPDATES##
 
 *002 Object Orientation*
 
-Our manuscript is currently under review at Current Psychology.
+The manuscript is still under review at Current Psychology.
+
+*003 Gendered Prejudice*
+
+The revised manuscript has been resubmitted to PLOS One. Thank you to all who provided feedback on this manuscript. An updated preprint will be available soon.
 
 *005 Stereotype Threat*
 
@@ -80,30 +54,30 @@ We are working on the final analyses and robustness checks.
 
 *007 Semantic Priming*
 
-We are still waiting for feedback from Nature Human Behaviour.
+We are working on addressing feedback from NHB reviewers on our Stage 2 Registered Report.
 
 *008 Minimal Groups*
 
-Data collection continues! We now have data from 25 countries across all populated continents and nearly 10,000 participants.
+Data collection continues! We have collected over 10,000 participants across more than 25 countries. Translations have been completed and implemented in 24 languages and are ongoing in a few others.
 
 *009 Gendered Leadership*
 
-We completed our second phase of collaborator recruitment.
+Data collection for the PSA 009 has started in six countries UK, US, Poland, Norway, Slovakia and Japan, with more on the way soon.
 
 *JTF1 Moral Experience*
 
-Of the 20 countries in our sample, data collection is complete in 3 countries and almost done in 5 others. So far, we have collected data from over 4000 participants.
+Data collection has concluded or is nearly complete for half the countries in the sample. Data coding and external validation has begun for the project.
 
-[Read more in our preprint](http://doi.org/10.31234/osf.io/jktnv)
+Read more in our preprint[http://doi.org/10.31234/osf.io/jktnv]
 
 *JTF2 Dignity Honor Face*
 
-We have now collected data from over 3500 participants (including both student and community samples) in 9 countries! We are now testing in 4 languages with many more on the way.
+Data collection has been going very well. We have collected data from over 4000 participants (including student and community samples) in 14 countries! Translation is ongoing, with 12 translations ready for data collection and several more remaining.
 
-[Read more in our preprint](http://doi.org/10.31234/osf.io/9hb8k)
+Read more in our preprint[http://doi.org/10.31234/osf.io/9hb8k]
 
 *JTF3 Error Correction*
 
-We are preparing to start data collection and translation. Interested in joining us?
+The lead team has preregistered the study and data collection has begun! We are working on translating materials into as many requested languages as possible to roll out data collection in a wider set of locations and labs very soon.
 
-[Read more in the interest survey](https://docs.google.com/forms/d/e/1FAIpQLSdEqUp0cOb-duJXvd3C1-DBX8dTZOksDyV-3fh4KFeKyCYrOg/viewform)
+Read more in our preprint[https://osf.io/preprints/psyarxiv/wegc5_v1]
