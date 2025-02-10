@@ -1,0 +1,83 @@
+---
+title: "February News from the Accelerator"
+author: "Savannah Lewis"
+date: 2025-02-06
+categories:
+  - newsletter
+---
+
+February Newsletter from the PSA
+
+Progress in PSA projects, publications and updates from members
+
+## Quick read
+
+- Progress in PSA projects: 009 Gendered Leadership and JTF3 Error Correction both started data collection. JTF3 also published their preprint.
+
+- New dataset available in eyewitness identification research, and other publications from PSA members
+
+## WHAT'S NEW IN BIG TEAM SCIENCE
+
+Moving towards a truly inclusive behavioral science
+
+In Communications Psychology[( https://doi.org/10.1038/s44271-024-00179-1 ) ], authors call for more responsible practices and co-authorship to promote global equity in knowledge production. They also conceptualized making assumptions based on skewed knowledge (MASKing) as a threat to diverse open science. Several PSA members are co-authors.
+
+### Database for Eyewitness identification research
+
+A team including PSA member Stefana Juncu created a database of crime videos and mugshots for eyewitness identification research. Read more in their paper published in [Behavior Research Methods](https://link.springer.com/article/10.3758/s13428-024-02585-z ). ** The database on [OSF](https://osf.io/vrj3u/ ) ** is accessible by request for academic research that has received ethics approval.
+
+### FEATURED EVENT
+
+*SIPS 2025 in Budapest and online*
+
+This will be the 10th annual conference of the Society for the Improvement of Psychological Science (SIPS). The program will focus on evaluating the reform thus far and gathering new momentum to improve science. For those traveling to Budapest, there will be sightseeing, hiking, and dinner on a boat on the Danube! Find out more at [www.improvingpsych.org/SIPS2025/](http://www.improvingpsych.org/SIPS2025/ )
+
+## PSA Member Update
+
+One of the most amazing aspects of the PSA is the powerful connections it fosters among members! We're thrilled to see this in action as two PSA members team up at NYU—an incredible example of collaboration and networking in our community! 🎉👏
+
+Rémi Thériault recently started as a postdoctoral fellow at the [Social Identity & Morality Lab](https://www.jayvanbavel.com/people ) directed by Jay Van Bavel at New York University (NYU). Both are PSA members. Rémi Thériault will be working on developing a long-term intervention to reduce polarization in the currently tense US political climate.
+
+## PSA PROJECT UPDATES
+
+*002 Object Orientation*
+
+The manuscript is still under review at Current Psychology.
+
+*003 Gendered Prejudice*
+
+The revised manuscript has been resubmitted to PLOS One. Thank you to all who provided feedback on this manuscript. An updated preprint will be available soon.
+
+*005 Stereotype Threat*
+
+We are working on the final analyses and robustness checks.
+
+*007 Semantic Priming*
+
+We are working on addressing feedback from NHB reviewers on our Stage 2 Registered Report.
+
+*008 Minimal Groups*
+
+Data collection continues! We have collected over 10,000 participants across more than 25 countries. Translations have been completed and implemented in 24 languages and are ongoing in a few others.
+
+*009 Gendered Leadership*
+
+Data collection for the PSA 009 has started in six countries UK, US, Poland, Norway, Slovakia and Japan, with more on the way soon.
+
+*JTF1 Moral Experience*
+
+Data collection has concluded or is nearly complete for half the countries in the sample. Data coding and external validation has begun for the project.
+
+Read more in our [preprint](http://doi.org/10.31234/osf.io/jktnv0
+
+*JTF2 Dignity Honor Face*
+
+Data collection has been going very well. We have collected data from over 4000 participants (including student and community samples) in 14 countries! Translation is ongoing, with 12 translations ready for data collection and several more remaining.
+
+Read more in our [preprint](http://doi.org/10.31234/osf.io/9hb8k)
+
+*JTF3 Error Correction*
+
+The lead team has preregistered the study and data collection has begun! We are working on translating materials into as many requested languages as possible to roll out data collection in a wider set of locations and labs very soon.
+
+Read more in our [preprint](https://osf.io/preprints/psyarxiv/wegc5_v1)
