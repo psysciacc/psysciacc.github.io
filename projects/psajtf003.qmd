@@ -10,10 +10,12 @@ categories:
   - intellectual humility
 personnel:
   Proposers: [Miroslav Sirota, Jakub Srol, Matteo Lisi, Marie Juanich, Kavya Guglani]
-  PMs: [Christopher Chartier]
-summary: "This project is investigating global error correction behavior."
+  PMs: [Christopher Chartier, Kathleen Schmidt]
+links:
+  preprint: https://osf.io/preprints/psyarxiv/jktnv
+summary: "Mapping and Increasing Error Correction Behaviour in a Culturally Diverse Sample"
 abstract: |
-  Our intuition intelligently guides our thinking but can also, at times, be a source of errors. Recent research suggests that, surprisingly, deliberation corrects only a small fraction of such errors, whereas providing feedback and motivating accuracy encourages corrective behaviour. However, these findings are limited to WEIRD (Western, Educated, Industrialised, Rich, and Democratic) samples, and whether people’s corrective behaviour around the world is guided by similar mechanisms is unclear. In the large-scale experiment proposed here, a culturally diverse sample of participants will solve problems that elicit appealing yet incorrect intuitions twice: first, intuitively, then, reflectively, allowing them to correct initial errors in a 2 (feedback: absent vs. present) × 2 (answer justification: absent vs. present) between-participants design. We will also examine the role of cross-cultural and individual differences, including metacognitive aspects of error recognition, in corrective behaviour. The results will shed light on the nature, universality, and promotion of corrective behaviour.
+Intuition often guides our thinking effectively, but it can also lead to consequential reasoning errors, underpinning poor decisions and biased judgments. Little is known about how people globally self-correct such intuitive reasoning errors and what enhances their correction. Defying prevailing models of reasoning, recent research suggests that people spontaneously correct only a few errors during deliberation; however, enhancing error monitoring and motivating further effort should increase error correction. Here, we study whether these mechanisms apply to reasoning across individualistic and collectivistic cultures (expected N = 33,000 participants from 67 regions). Participants will solve problems that elicit incorrect intuitions twice: first intuitively and then reflectively, allowing them to correct initial errors, in a 2 (feedback: absent vs present) × 2 (answer justification: absent vs present) between-participants design. The study will shed more light on the nature, generalisability, and promotion of corrective behaviour, crucial for understanding and improving reasoning worldwide.
 ---
 
 ## Contact
