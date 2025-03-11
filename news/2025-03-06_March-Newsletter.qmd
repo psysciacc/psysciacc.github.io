@@ -6,16 +6,15 @@ categories:
   - newsletter
 ---
 
-
-PSA newsletter March 2025 
+PSA newsletter March 2025
 
 ## *Quick read*
 
-- The PSA-JTF1 Moral Experiences project is seeking collaborators in data coding and validation (secondary data collection) in 19 countries.
+-   The PSA-JTF1 Moral Experiences project is seeking collaborators in data coding and validation (secondary data collection) in 19 countries.
 
-- PSA 009 is seeking new collaborators for select languages: Armenian, Filipino, Romanian, Spanish (Argentina, Colombia, Mexico), Vietnamese, and Urdu.
+-   PSA 009 is seeking new collaborators for select languages: Armenian, Filipino, Romanian, Spanish (Argentina, Colombia, Mexico), Vietnamese, and Urdu.
 
-- A busy month for PSA members at the SPSP conference, and beyond!
+-   A busy month for PSA members at the SPSP conference, and beyond!
 
 ### *SPSP Roundup*
 
@@ -29,15 +28,15 @@ A big shoutout to Valerie Jones Taylor [PSA 005 - Stereotype Threat project](htt
 
 A round of congratulations to our members around the world. In Italy, *Maria Montefinese* was elected as a member of the steering committee for the Italian Reproducibility Network for the 2025-2026 term. 🌍
 
-Congrats to *Peter Adu* , originally from Ghana, ** who has started a postdoctoral position at McGill University, in the Department of Social and Cultural Psychiatry under the supervision of Cécile Rousseau. Peter was most recently at Victoria University of Wellington, New Zealand, and just relocated to Montreal. ✈️
+Congrats to *Peter Adu* , originally from Ghana, who has started a postdoctoral position at McGill University, in the Department of Social and Cultural Psychiatry under the supervision of Cécile Rousseau. Peter was most recently at Victoria University of Wellington, New Zealand, and just relocated to Montreal. ✈️
 
-And a round of applause to *Ayse* *Uskul* for winning the SPSP Outstanding Contribution to Cultural Psychology Award ! 🏆
+And a round of applause to *Ayse Uskul* for winning the SPSP Outstanding Contribution to Cultural Psychology Award ! 🏆
 
 ## WHAT'S NEW IN BIG TEAM SCIENCE
 
-ManyManys, the Big Team Science network, is dedicated to investigating cognition and behavior across species. They are hosting a series of open webinars exploring how reversal learning can be implemented with different taxa. Register in this [Google Form](https://forms.gle/9VMgoXP4XmqUbvWg9) or email [themanymanys1@gmail.com](http://themanymanys1@gmail.com).
+ManyManys, the Big Team Science network, is dedicated to investigating cognition and behavior across species. They are hosting a series of open webinars exploring how reversal learning can be implemented with different taxa. Register in this [Google Form](https://forms.gle/9VMgoXP4XmqUbvWg9) or email [themanymanys1@gmail.com](mailto:http://themanymanys1@gmail.com).
 
-##PSA PROJECTS COLLABORATION OPPORTUNITIES
+## PSA PROJECTS COLLABORATION OPPORTUNITIES
 
 ### *PSA-JTF1 Moral Experiences*
 
@@ -47,20 +46,20 @@ We are seeking new collaborators in Australia, Argentina, Brazil, China, Colombi
 
 PSA 009 Gendered Leader is seeking collaborators *only for the following countries/languages:*
 
-* Armenian (Armenia)
-* Filipino (the Philippines)
-* Romanian (Romania)
-* Spanish (Argentina, Colombia, Mexico)
-* Vietnamese (Vietnam)
-* Urdu (Pakistan)
+- Armenian (Armenia)
+- Filipino (the Philippines)
+- Romanian (Romania)
+- Spanish (Argentina, Colombia, Mexico)
+- Vietnamese (Vietnam)
+- Urdu (Pakistan)
 
-Please note that we have closed submissions for all other languages, and only researchers from the countries listed above should apply. If you are interested and meet the criteria, please reach out at [psa.project.009@gmail.com](psa.project.009@gmail.com?subject=PSA009 Gendered Leader&body=).
+Please note that we have closed submissions for all other languages, and only researchers from the countries listed above should apply. If you are interested and meet the criteria, please reach out at [psa.project.009@gmail.com](mailto:psa.project.009@gmail.com).
 
 ## PSA PROJECT UPDATES
 
 ### *002 Object Orientation*
 
-002 has received reviews from Current Psychology. You can check out the reviews [here](https://docs.google.com/document/d/1HTGM6ROkZo6nSusT6-PIURtrk-XH-OIjBqemhZpZoHE/edit?usp=sharing). The lead team is working on a revision that addresses the reviewers' comments. If you have comments or questions about how to address these reviews, you can send them to [psycsciacc002003@gmail.com](psycsciacc002003@gmail.com?subject=&body=). Look for an email from the PM asking for any final adjustments to the author list and affiliation information.
+002 has received reviews from Current Psychology. You can check out the reviews [here](https://docs.google.com/document/d/1HTGM6ROkZo6nSusT6-PIURtrk-XH-OIjBqemhZpZoHE/edit?usp=sharing). The lead team is working on a revision that addresses the reviewers' comments. If you have comments or questions about how to address these reviews, you can send them to [psycsciacc002003@gmail.com](mailto:psycsciacc002003@gmail.com). Look for an email from the PM asking for any final adjustments to the author list and affiliation information.
 
 ### *003 Gendered Prejudice*
 
@@ -76,7 +75,7 @@ We are working on addressing feedback from NHB reviewers on our Stage 2 Register
 
 ### *008 Minimal Groups*
 
-We have collected over 12,000 participants across more than 30 countries, over half of which have met the within-country sample size goal of 200. If you can collect data in a country that is not represented or has yet not met the target [see tracker](https://shiny.thedoomlab.com/users/psa/PSA008/#shiny-tab-country_tab ), please reach out: [psa-008@googlegroups.com](psa-008@googlegroups.com?subject=&body=).
+We have collected over 12,000 participants across more than 30 countries, over half of which have met the within-country sample size goal of 200. If you can collect data in a country that is not represented or has yet not met the target [see tracker](https://shiny.thedoomlab.com/users/psa/PSA008/#shiny-tab-country_tab), please reach out: [psa-008@googlegroups.com](mailto:psa-008@googlegroups.com).
 
 ### *009 Gendered Leadership*
 
@@ -96,4 +95,4 @@ Early data collection is going quite well, with over 1,500 total participants ac
 
 ## *Get involved in the PSA*
 
-Join us on [*Slack*](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw) , or drop by our Directors' Office Hours (Mondays at 2pm UTC, [*Zoom link*](https://ua-edu.zoom.us/my/slewis20)).
+Join us on [*Slack*](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw) , or drop by our Directors' Office Hours (Mondays at 2pm UTC, [*Zoom link*](https://ua-edu.zoom.us/my/slewis20).
