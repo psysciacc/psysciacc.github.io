@@ -1,8 +1,15 @@
 [
   {
+    "listing": "/affiliated.html",
+    "items": [
+      "/affiliated/af001.html",
+      "/affiliated/af002.html"
+    ]
+  },
+  {
     "listing": "/news.html",
     "items": [
-      "/news/2025-01-06_feb Newsletter.html",
+      "/news/2025-03-06_March-Newsletter.html",
       "/news/2025-02-05_February-Newsletter.html",
       "/news/2025-01-06_January-Newsletter.html",
       "/news/2024-12-04_December-Newsletter.html",
@@ -65,8 +72,8 @@
       "/news/2019-03-29_news-from-the-accelerator-march-2019.html",
       "/news/2019-02-28_news-from-the-accelerator-february-2019.html",
       "/news/2019-01-31_news-from-the-accelerator-january-2019.html",
-      "/news/2018-12-20_news-from-the-accelerator-december-2018.html",
       "/news/2018-12-20_new-psa-study-on-the-universality-of-moral-thinking.html",
+      "/news/2018-12-20_news-from-the-accelerator-december-2018.html",
       "/news/2018-10-19_a-large-scale-multi-site-examination-of-stereotype-threat-across-varying-operationalizations-a-newly-selected-accelerator-study.html",
       "/news/2018-10-15_update-on-the-accelerated-crep-registered-replication-report-submission-coming-soon-more-labs-welcome-to-join.html",
       "/news/2018-10-09_psa-face-rating-study-last-call-for-labs-in-africa-central-america-mexico-the-middle-east-and-scandinavia.html",
@@ -78,13 +85,6 @@
       "/news/2017-11-08_the-psychological-science-accelerators-first-study.html",
       "/news/2017-10-25_timeline-for-late-2017-and-early-2018.html",
       "/news/2017-10-24_check-here-for-updates-on-the-accelerator.html"
-    ]
-  },
-  {
-    "listing": "/affiliated.html",
-    "items": [
-      "/affiliated/af001.html",
-      "/affiliated/af002.html"
     ]
   },
   {
