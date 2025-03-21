@@ -1,7 +1,7 @@
 ---
 title: "Gorilla Partnership: Grant Opportunity"
 author: "Erin Buchanan"
-date: 2025-02-05
+date: 2025-03-21
 categories:
   - grant
 editor: 
