@@ -1,0 +1,78 @@
+---
+title: "Gorilla Partnership: Grant Opportunity"
+author: "Erin Buchanan"
+date: 2025-02-05
+categories:
+  - grant
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## [Application Link](https://gorilla.sc/grants/psa)
+
+## Gorilla
+
+![](images/clipboard-1800866707.png)
+
+Trusted by over 30,000 behavioral science researchers, Gorilla
+Experiment Builder empowers students and professionals to design and
+manage online psychology and behavioral studies effortlessly, without
+requiring a single line of code. Seamlessly integrating with leading
+recruitment platforms, Gorilla enables rapid, diverse data collection,
+streamlining the research process from start to finish.
+
+Beyond its research capabilities, Gorilla is deeply committed to
+supporting the scientific community. Through its grant programs, Gorilla
+provides vital funding to researchers who may not have access to
+traditional financial resources. These grants are designed to lower
+barriers to entry, enabling passionate individuals to bring their
+research ideas to life. By equipping researchers with the tools they
+need to design and execute high-quality studies, Gorilla is fostering
+innovation and expanding access to behavioural science research.
+
+## Evaluation Criteria
+
+At Gorilla, we are committed to a fair and thorough review process. A
+select panel of team members will evaluate all applications within
+approximately 2–3 weeks after the application deadline.
+
+To ensure impartiality, applications will be anonymized. The team will
+first filter out low-quality submissions and those from existing Gorilla
+users. Each remaining application will then be scored (out of 5) based
+on:
+
+-   Motivation – Is the study well-supported by literature?
+-   Feasibility – Can the study be effectively built in Gorilla?
+-   Content Interest – Will the final study create engaging content for
+    social media and webinars?
+
+The reviewers will then meet to discuss the highest-rated applications,
+selecting five winners. Additionally, the top \~15% of applicants will
+be recognized as runner-ups.
+
+## Grant Winners
+
+Gorilla will notify all applicants of their results. 5 Winners will each
+receive:
+
+-   A complimentary Gorilla Researcher Standard subscription (valued at
+    \$1,470)
+-   Approximately \$250\* in cash
+
+In addition to their complementary subscription, winners will also be
+invited to an exclusive study mapping session with a Gorilla Research
+Specialist, along with dedicated support to set up their Gorilla and
+partner accounts.
+
+15-20\* Runner-Ups will be awarded:
+
+-   A 50% discount on a Gorilla subscription
+-   (Optional) A discount from our partner on their specified services
+
+## Application Form
+
+Here's a quick view of the application form so you know what you will
+need to submit.
+
+![](images/clipboard-1373717113.png)
