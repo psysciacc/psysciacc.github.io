@@ -1,0 +1,103 @@
+---
+title: "April News from the Accelerator"
+author: "Savannah Lewis"
+date: 2025-04-06
+categories:
+  - newsletter
+---
+
+PSA newsletter April 2025
+
+## *Quick read*
+
+-   Studies are ready for network evaluation by April 20th!
+
+-   Grant initiative from the PSA and Gorilla Experiment Builder. Deadline to apply is April 20th!
+
+-   JTF1 Moral Experiences is still seeking new collaborators to help with coding and validation.
+
+### *Network Evaluations*
+
+PSA members are invited to evaluate PSA study proposals
+
+As part of the current PSA call for studies, we invite all PSA members to help evaluate submitted proposals. *Your feedback is essential!* You will help us identifying projects that are feasible, collaborative, and exciting for the network!
+
+There are 8 proposals available for your evaluation. Feel free to respond to as many or as few proposals as you'd like. For each, we’ll ask about your potential to collect data, interest in contributing beyond data collection, and your overall impression of the project’s potential. *Network evaluations are open through **April 20**.* Thank you for helping shape the future of PSA research!
+
+Reminder you must login to canvas before navigating to this link to review submissions! <https://canvas.psysciacc.org/courses/1/quizzes/316>
+
+### *Unlock your success with the Gorilla & PSA Grant Initiative:*
+
+*Exclusive opportunity for PSA members!*
+
+Gorilla Experiment Builder empowers students and professionals to design and manage online psychology and behavioral studies effortlessly—without requiring a single line of code. This grant initiative will help passionate researchers bring their ideas to life, equipping them with the tools needed to design and execute high-quality, innovative studies.
+
+## How to [Apply](https://gorilla.sc/grants/psa)
+
+Applications will be *anonymized* and reviewed by a panel of experts. Each submission will be evaluated within *2-3 weeks after the deadline* based on the following criteria:
+
+-   *Motivation* – Is the study well-supported by literature?
+-   *Feasibility* – Can the study be effectively implemented in Gorilla?
+-   *Content Interest* – Will the study generate engaging content for social media and webinars?
+
+The top five proposals will be selected as winners, with the top 15% of applicants recognized as runners-up. The 15-20 runners-up will also receive exclusive discounts!
+
+This is a *fantastic opportunity* to gain access to cutting-edge research tools, funding, and greater visibility for your work. Feel free to [Email](psysciaccelerator@gmail.com) the directors if you have any questions!
+
+*This exclusive opportunity is available to current PSA members* (defined as member before announcement on March 21, 2025).
+
+Apply now: <https://gorilla.sc/grants/>
+
+Deadline : April 20, 2025 🏆🏆🏆
+
+5 winners will receive a Gorilla standard subscription, \$250 cash, study mapping session, and dedicated support for account setup
+
+## PSA Member Update
+
+A🌍 PSA member Hu Chuan-Peng led a collaborative paper titled " *Open Science in the Developing World: A Collection of Practical Guides for Researchers in Developing Countries* ", where the co-authors summarized the barriers they face in developing countries and provided a four-step guide for researchers in a resource-constrained context. Read more in the [preprint](https://osf.io/7ubk2)
+
+🔎 PSA members Max Korbmacher, Thomas Rhys Evans, Flavio Azevedo and Charlotte Pennington published " *International initiatives to enhance awareness and uptake of open research in psychology: a systematic mapping review* " in Royal Society Open Science. The review identified a total of 187 initiatives in open research in psychology: 30 were procedural (e.g., toolkits, resources, software), 70 structural (e.g., policies, strategies, frameworks) and 87 community-based (e.g. working groups, networks). [Read more](https://doi.org/10.1098/rsos.241726)
+
+## PSA PROJECT UPDATES
+
+### *002 Object Orientation*
+
+002 has responded to the reviews from Current Psychology.
+
+### *003 Gendered Prejudice*
+
+The revised manuscript has been resubmitted to PLOS One.
+
+### *005 Stereotype Threat*
+
+We have finished final analyses and robustness checks.
+
+### *007 Semantic Priming*
+
+The lead team has resubmitted our final manuscript to Nature Human Behavior.
+
+### *008 Minimal Groups*
+
+We have now collected data from over 14,000 participants across more than 30 countries, over half of which have met the within country sample size goal of 200. If you can collect data in a country that is not represented or has yet not met the target [see tracker](https://shiny.thedoomlab.com/users/psa/PSA008/#shiny-tab-country_tab), please reach out: [psa-008\@googlegroups.com](mailto:psa-008@googlegroups.com).
+
+### *009 Gendered Leadership*
+
+We’ve reached over 6,000 participants, after exclusions (14 countries and 11 languages)! We are expecting most other languages to kick off very soon!
+
+### *JTF1 Moral Experiences*
+
+Primary data collection is complete in 19 out of 20 countries! *Next steps in data coding and validation:* We are still seeking new collaborators in Australia, Argentina, Brazil, China, Colombia, France, Greece, India, Indonesia, Japan, Kenya, Malaysia, Morocco, Nigeria, Pakistan, Poland, Saudi Arabia, and the United Kingdom to help with data coding and validation (secondary data collection). Learn more and express your interest [HERE](https://forms.gle/YhjW3PQGkhdPnsaq6) ! You can also [email](psajtf1@gmail.com) with questions.
+
+### *JTF2 Dignity Honor Face*
+
+We have now collected data from over 18000 participants in 42 countries! You can track our data collection [here](https://shiny.thedoomlab.com/jtf/JTF002/).
+
+### *JTF3 Error Correction*
+
+Early data collection is going well, with over 3,000 participants across 14 countries thus far! We are working on translating materials into as many requested languages as possible to roll out data collection in a wider set of locations and labs very soon.
+
+[Read more in our preprint](https://osf.io/preprints/psyarxiv/wegc5_v1)
+
+## *Get involved in the PSA*
+
+Join us on [*Slack*](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw), or drop by our Directors' Office Hours (Mondays at 2pm UTC, [*Zoom link*](https://ua-edu.zoom.us/my/slewis20).
