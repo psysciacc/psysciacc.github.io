@@ -1,5 +1,6 @@
 ---
 title: "Contact Us"
+page-layout: full
 ---
 
-Want to chat? Send us an [email](mailto:psysciaccelerator@gmail.com) or [direct message](https://twitter.com/PsySciAcc) on Twitter.
+Want to chat? Send us an [email](mailto:directors@psysciacc.org).

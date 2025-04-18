@@ -19,9 +19,26 @@ website:
       - text: Membership
         menu: 
           - join.qmd
-          - text: "Current Members"
-            aria-label: Current Members
+          - text: "Current Members Login"
+            aria-label: Current Members Login
             href: https://canvas.psysciacc.org/login/canvas
+      - text: Policies
+        menu: 
+          - text: "Membership"
+            aria-label: Membership
+            href: join.qmd
+          - text: "Code of Conduct"
+            aria-label: Code of Conduct
+            href: https://docs.google.com/document/d/1I81lPGTAPoK-ACAthQDBQhVkf3KJqwIamcTyLMM75kk/edit?tab=t.0#heading=h.bcf6vwg2u1v2
+          - text: "Scientific Integrity"
+            aria-label: Scientific Integrity
+            href: https://docs.google.com/document/d/12UFYNHc31z81FAMv2f-_BCoX0eDof0-QvPN2cry7F88/edit?tab=t.0
+          - text: "Mission and Core Values"
+            aria-label: Mission and Core Values
+            href: https://docs.google.com/document/d/143O4l9vl9FwUweK99I5nKviG6TbcO6eww6Es3rxQGS0/edit?tab=t.0
+          - text: "Elections"
+            aria-label: Elections
+            href: https://docs.google.com/document/d/1aXjXwouFc6wvcyy7IFmEKGL0j2yxzYukyI_YFf6sZtM/edit?tab=t.0#heading=h.p1xd7vlghenh
       - text: Studies
         menu: 
           - projects.qmd

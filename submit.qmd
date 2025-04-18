@@ -1,5 +1,6 @@
 ---
 title: "How to Submit"
+page-layout: full
 ---
 
 # Calls for Submissions (status: closed)

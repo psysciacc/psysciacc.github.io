@@ -1,5 +1,6 @@
 ---
 title: "Join the PSA"
+page-layout: full
 ---
 
 ## New Member Account Registration
@@ -7,27 +8,28 @@ title: "Join the PSA"
 To join the PSA, you should:
 
 - Create an account on [this webpage](https://member.psysciacc.org/).
-- You will receive an invitation to join the PSA Membership Website (Canvas). Please check your spam email!
+- You will receive an invitation to join the PSA Membership Website (Canvas). **Please check your spam email!**
 - You will receive an invitation to join the PSA Membership "course", which is where you can agree to the code of conduct and fill in your profile information. We use this information to match you with opportunities in the PSA.
 - Accounts are usually created within a few days by the web admin. 
 - All projects use the membership website to send messages, track information, and keep you up to date. 
 
 ## Membership
 
-### Membership in the Psychological Science Accelerator
+### Membership in the PSA
 
 This policy document details how to become a member of the PSA, how to maintain active membership in the PSA, the responsibilities of active PSA members, and the rights of active PSA members. Accurate active membership information helps us estimate PSA capacity for future projects.
 
 Becoming a Member of the PSA:
 
-- Read and agree to abide by the code of conduct.
+- Read and agree to abide by the [Code of Conduct](https://docs.google.com/document/d/1I81lPGTAPoK-ACAthQDBQhVkf3KJqwIamcTyLMM75kk/edit?tab=t.0#heading=h.bcf6vwg2u1v2) and [Scientific Integrity Policies](https://docs.google.com/document/d/12UFYNHc31z81FAMv2f-_BCoX0eDof0-QvPN2cry7F88/edit?tab=t.0).
 - Read and agree to support the mission and core principles of the PSA when working on projects supported by the PSA.
-- Provide information for the PSA roster, and indicate what information we can share publicly.
-- You must have a current email, as we delete users when their email bounces!
+- Provide information for the PSA roster and indicate what information we can share publicly.
+- You should also include a non-academic email in your account to ensure you receive all messages. We delete accounts with emails that bounce. 
+- You will also be automatically added to the newsletter. 
 
-All three of the above items are gathered on the membership website. 
+### Maintaining Membership in the PSA
 
-### Maintaining Membership in the PSA. All PSA members must:
+All PSA members must:
 
 - Abide by the code of conduct.
 - Report misconduct or violations of the code of conduct (via anonymous online survey if preferred).
@@ -45,7 +47,9 @@ All three of the above items are gathered on the membership website.
 
 Members who have not engaged in PSA activities for a year will be marked as passive members. These members will still receive PSA communications (newsletters and emails) but will not have voting or nominating rights while they are passive members (see below). Passive members who re-engage with the PSA by contributing in any of the-above listed ways will be once again marked as active members for one year following their most recent contribution.
 
-### Rights of PSA members. All PSA members may:
+### Rights of PSA Members
+
+All PSA members may:
 
 - Indicate their willingness to contribute to, and earn authorship on, PSA projects.
 - Provide feedback on all projects at these stages: study selection, prior to protocol and analysis plan being finalized, prior to any stage of publication submission (initial submission, revisions, etc.).
@@ -58,4 +62,4 @@ Members who have not engaged in PSA activities for a year will be marked as pass
 
 ### Compulsory Membership:
 
-All contributors to PSA studies must become members during their contribution to the project. This is to ensure that all researchers engaging with the PSA have read and agree to abide by our Code of Conduct.
+All contributors to PSA studies must become members during their contribution to the project. This is to ensure that all researchers engaging with the PSA have read and agree to abide by our [Code of Conduct](https://docs.google.com/document/d/1I81lPGTAPoK-ACAthQDBQhVkf3KJqwIamcTyLMM75kk/edit?tab=t.0#heading=h.bcf6vwg2u1v2) and [Scientific Integrity Policies](https://docs.google.com/document/d/12UFYNHc31z81FAMv2f-_BCoX0eDof0-QvPN2cry7F88/edit?tab=t.0).

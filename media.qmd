@@ -1,5 +1,6 @@
 ---
 title: "PSA in the Media"
+page-layout: full
 ---
 
 <!--
@@ -8,7 +9,6 @@ title: "PSA in the Media"
 * [title2](https) - News of the World (2022-01-12)
 -->
 
-* [The replication crisis has led to positive structural, procedural, and community changes](https://www.nature.com/articles/s44271-023-00003-2) - Nature (2023-07-25)
 * [Canadian physician Gordon Guyatt and the Psychological Science Accelerator honored as this year's recipients of the €500,000 prize for enhancing quality in research](https://www.eurekalert.org/news-releases/973160) - EurekAlert! (2022-12-02)
 * [What an enormous global study can tell us about feeling better during the pandemic](https://www.vox.com/science-and-health/22641291/global-mental-health-covid-19-cognitive-reappraisal-study) - Vox (2021-09-21)
 * [Study across 87 countries shows simple intervention helps build emotional resilience during COVID-19](https://www.eurekalert.org/news-releases/924171) - EurekAlert (2021-08-02)

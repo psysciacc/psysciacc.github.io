@@ -1,5 +1,6 @@
 ---
 title: "Funding"
+page-layout: full
 ---
 
 Our work has been generously supported by the John Templeton Foundation, the Einstein Foundation, the Leibniz Institute for Psychology, individual donations, and the volunteer efforts of thousands of researchers around the world. With this financial support, we have been able to:

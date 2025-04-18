@@ -1,5 +1,6 @@
 ---
 title: "Previous Conferences"
+page-layout: full
 ---
 
 In 2020, the PSA created the first conference focused on big team science. In [2020](https://psysciacc.org/psacon2020-videos/) and [2021](https://psysciacc.org/psacon2021-videos/), this conference was called PSA-CON and largely focused on projects conducted by members of the PSA.
