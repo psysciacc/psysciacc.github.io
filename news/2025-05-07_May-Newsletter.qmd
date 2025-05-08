@@ -1,0 +1,80 @@
+---
+title: "May 2025 Newsletter from the Accelerator"
+author: "Savannah Lewis"
+format: html
+editor: visual
+---
+
+## PSA Newsletter May 2025
+
+## *Quick read*
+
+-   Community Building and Network Expansion Committee is actively seeking new members!
+
+-   Congrats to PSA003 Gendered Prejudice project for their acceptance to PLOS One! 
+
+-   The JTF1 Moral Experiences project still seeks collaborators in 6 countries. 
+
+### Join the PSA’s Community Building & Network Expansion Committee!
+
+Are you interested in helping grow a global, collaborative scientific community? The Psychological Science Accelerator (PSA) is looking for new members to join our Community Building and Network Expansion Committee!
+
+This committee focuses on strengthening connections within the PSA and expanding our network around the world. Whether you’re excited about outreach, welcoming new members, organizing events, or building partnerships, this is a great opportunity to get involved. No prior committee experience required, just enthusiasm and a willingness to help. To express interest, simply [email Nadia Sarai Corral Frías](nadia.corral@unison.mx) (Assistant Director).
+
+Help us build bridges and expand the reach of psychological science!
+
+### Results coming soon - Gorilla & PSA Grant Initiative
+
+The Gorilla & PSA Grant Initiative is pleased to share that it received 24 outstanding submissions! The proposals reflect the creativity, collaboration, and scientific rigor of the PSA’s global community.
+
+In the coming weeks, the PSA Directors will review the top ten rated submissions from the partners at Gorilla and help select the grant recipients. The PSA looks forward to announcing and sharing the cool proposals from our network soon.
+
+## PSA PROJECT UPDATES
+
+### *002 Object Orientation*
+
+⚠️ If you are an author on 002, please check your email. ⚠️
+
+In the recent revision sent to CUPS, the lead team added a student author who should have been included in the previous submission. CUPS has requested the lead team acquires a signed note from each author to approve this change. Authors can digitally sign this note by responding to the email Erin sent. If you didn't receive an email and think you should have, please reach out to [psycsciacc002003\@gmail.com](psycsciacc002003@gmail.com)
+
+### *003 Gendered Prejudice*
+
+The PSA 003 lead team is excited to announce that the manuscript has been accepted for publication in PLOS One! Congratulations to everyone who worked so long and hard to push this project over the finish line!
+
+### *005 Stereotype Threat*
+
+The PSA 005 lead team has finished final analyses and robustness checks.
+
+### *007 Semantic Priming*
+
+The lead team is still waiting for a decision on our submitted final manuscript to Nature Human Behavior.
+
+### *008 Minimal Groups*
+
+PSA 008 has now collected data from over 15,000 participants across 35 countries, 22 of which have met the within country sample size goal of 200.
+
+### *009 Gendered Leadership*
+
+The lead team is please to say that data collection continues to go smoothly.
+
+### *JTF1 Moral Experiences*
+
+JTF1 is still seeking collaborators in Morocco and Saudi Arabia to contribute to data coding, and in Argentina, China, Japan, Malaysia, Morocco, and Saudi Arabia to contribute to secondary data collection. Please send an [email](psajtf1@gmail.com) if you are interested!
+
+[Read more in our preprint](https://doi.org/10.31234/osf.io/jktnv_v1)
+
+### *JTF2 Dignity Honor Face*
+
+JTF2 has now collected data from over 22,000 participants! Thanks to everyone for their collaboration thus far.
+
+[Read more in our preprint](http://doi.org/10.31234/osf.io/9hb8k)
+
+### *JTF3 Error Correction*
+
+Early data collection is going well, with over 3,600 participants across 17 countries thus far! The lead team is working on translating materials into as many requested languages as possible to roll out data collection in a wider set of locations and labs very soon.
+
+[Read more in our preprint](https://osf.io/preprints/psyarxiv/wegc5_v1)
+
+## *Get involved in the PSA*
+
+Join us on [*Slack*](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw), or drop by our Directors' Office Hours (Mondays at 2pm UTC, [*Zoom link*](https://ua-edu.zoom.us/my/slewis20)*)*.
