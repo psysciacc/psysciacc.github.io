@@ -1,7 +1,7 @@
 ---
 order: 1002
 title: "PSA002: Object Orientation"
-status: Ongoing - post data collection
+status: publication-process
 doi: 10.31234/osf.io/t2pjv
 image: /images/icons/002icon.png
 categories:
