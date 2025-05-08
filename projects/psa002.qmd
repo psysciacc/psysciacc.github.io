@@ -24,4 +24,4 @@ abstract: |
 
 ## Contact
 
-For more information about this project, please contact Sau-Chin Chen at [pmsp96@gmail.com](mailto:pmsp96@gmail.com) or Jeremy Miller at [millerj@willamette.edu] (mailto:millerj@willamette.edu).
+For more information about this project, please contact Sau-Chin Chen at [pmsp96@gmail.com](mailto:pmsp96@gmail.com) or Jeremy Miller at [millerj@willamette.edu] (mailto:millerj@willamette.edu) .
