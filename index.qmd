@@ -26,15 +26,6 @@ The Psychological Science Accelerator (PSA) is a globally distributed network of
 
 ------------------------------------------------------------------------
 
-<center>
-
-![](images/clipboard-2354168444.png)
-
-<span style="font-size: 24px;"><a href="https://gorilla.sc/grants/psa">Check out our collaboration with Gorilla!</a> <i>or</i> view our [blog post](https://psysciacc.org/news/2025-03-15_Gorilla.html).</span>
-
-</center>
-
-------------------------------------------------------------------------
 
 <a href = "https://shiny.thedoomlab.com/psadata/MemberMap" target = "_blank"> Click here to view the member dashboard full screen.</a> It may take a moment to load below on this page.
 
