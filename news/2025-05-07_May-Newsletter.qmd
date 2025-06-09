@@ -2,8 +2,6 @@
 title: "May 2025 Newsletter from the Accelerator"
 author: "Savannah Lewis"
 date: 2025-05-06
-categories:
-  - newsletter
 ---
 
 PSA Newsletter May 2025
