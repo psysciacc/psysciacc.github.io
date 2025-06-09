@@ -22,10 +22,9 @@ The Psychological Science Accelerator (PSA) is a globally distributed network of
 -   Tested whether COVID-19-related cognitive framing manipulations impact emotions, behaviors, attitudes, and well-being around the world.
 -   Examined cultural and situations forces that shape moral dilemma judgments.
 -   Examined the extent to which stereotype threat impacts academic performance among African American college students.
-- And other cognitive and social psychology phenomena. Check our out projects [here](projects.html).
+-   And other cognitive and social psychology phenomena. Check our out projects [here](projects.html).
 
 ------------------------------------------------------------------------
-
 
 <a href = "https://shiny.thedoomlab.com/psadata/MemberMap" target = "_blank"> Click here to view the member dashboard full screen.</a> It may take a moment to load below on this page.
 
