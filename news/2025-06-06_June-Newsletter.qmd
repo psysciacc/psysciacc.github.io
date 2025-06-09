@@ -1,29 +1,30 @@
 ---
-title: "June 2025 Newsletter from the Accelerator"
+title: "June News from the Accelerator"
 author: "Savannah Lewis"
 date: 2025-06-06
+categories:
+  - newsletter
 ---
-PSA Newsletter June 2025
 
-## *Quick read*
+June Newsletter from the PSA
 
--   Four new projects to enter the next phase in the PSA study pipeline!
+## Quick Read
 
--   The Directors announce the winners of the Gorilla & PSA Grant Initiative!
+- Four new projects to enter the next phase in the PSA study pipeline!
+- The Directors announce the winners of the Gorilla & PSA Grant Initiative!
+- Two PSA projects have been officially accepted for publication! Great work to all collaborators of the Semantic Priming (PSA 007) and Gendered Prejudice (PSA 003) projects!
 
--   Two PSA projects have been officially accepted for publication! Great work to all collaborators of the Semantic Priming (PSA 007) and Gendered Prejudice (PSA 003) projects!
-
-## New PSA Studies in Progress!!
+## New PSA Studies in Progress!
 
 We’re excited to announce that the following studies are now entering the next phase in the PSA’s study pipeline:
 
--   [Global Crises](https://docs.google.com/document/d/1J5gp5s7xiDj6uLGch4E4n3Mqyi-voPmy/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+- [Global Crises](https://docs.google.com/document/d/1J5gp5s7xiDj6uLGch4E4n3Mqyi-voPmy/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
 
--   [Emotion Differentiation](https://docs.google.com/document/d/1XfVPxElTtVSmB3i3AVaPMeZmlJtJ8y4s/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+- [Emotion Differentiation](https://docs.google.com/document/d/1XfVPxElTtVSmB3i3AVaPMeZmlJtJ8y4s/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
 
--   [AWE](https://docs.google.com/document/d/1kjcZB23CSLv83juGdiXQnES6BvJloxlQ/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+- [AWE](https://docs.google.com/document/d/1kjcZB23CSLv83juGdiXQnES6BvJloxlQ/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
 
--   [Social Evaluation](https://docs.google.com/document/d/1LXkRYa8AkcMA-D396oWn3lvZdJUMoimf/edit?usp=drive_link&ouid=103542693559626876995&rtpof=true&sd=true)
+- [Social Evaluation](https://docs.google.com/document/d/1LXkRYa8AkcMA-D396oWn3lvZdJUMoimf/edit?usp=drive_link&ouid=103542693559626876995&rtpof=true&sd=true)
 
 Now the proposing authors have **six months** to complete their revisions and submit the study for final approval. They will then enter into a collaborative planning process with the directors to identifies the logistical, methodological, and recruitment needs of their study needs from our network before starting recruitment. This process is called the PSA Needs Assessment phase and ensures that each project is ready to succeed as a global collaboration by matching them with the right resources and support.
 
@@ -41,17 +42,17 @@ Help us build bridges and expand the reach of psychological science!
 
 The PSA directors are thrilled to announce the recipients of the **Gorilla x PSA Grant Initiative**! These five outstanding researchers impressed our panel with their innovative research ideas and dedication to advancing behavioral science.
 
-🎉 Congratulations to:
+Congratulations to:
 
--   Brendan Schuetze
+- Brendan Schuetze
 
--   Sophie Gerdel
+- Sophie Gerdel
 
--   Piotr
+- Piotr
 
--   Ilaria Colpizzi
+- Ilaria Colpizzi
 
--   Adrianne J. R. Galang
+- Adrianne J. R. Galang
 
 The PSA is incredibly proud to support their work and can’t wait to see the exciting studies they create using Gorilla’s powerful experiment builder.
 
@@ -115,4 +116,4 @@ Early data collection is going well, with over 3,600 participants across 15 coun
 
 ## *Get involved in the PSA*
 
-Join us on [*Slack*](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw), or drop by our Directors' Office Hours (Mondays at 2pm UTC, [*Zoom link*](https://ua-edu.zoom.us/my/slewis20).
+Join us on [*Slack*](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw), or drop by our Directors' Office Hours (Mondays at 2pm UTC, [*Zoom link*](https://ua-edu.zoom.us/my/slewis20)).
