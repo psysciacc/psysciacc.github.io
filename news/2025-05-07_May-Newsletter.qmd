@@ -32,9 +32,9 @@ In the coming weeks, the PSA Directors will review the top ten rated submissions
 
 ### *002 Object Orientation*
 
-⚠️ If you are an author on 002, please check your email. ⚠️
+If you are an author on 002, please check your email.
 
-In the recent revision sent to CUPS, the lead team added a student author who should have been included in the previous submission. CUPS has requested the lead team acquires a signed note from each author to approve this change. Authors can digitally sign this note by responding to the email Erin sent. If you didn't receive an email and think you should have, please reach out to [psycsciacc002003\@gmail.com](psycsciacc002003@gmail.com)
+In the recent revision sent to CUPS, the lead team added a student author who should have been included in the previous submission. CUPS has requested the lead team acquires a signed note from each author to approve this change. Authors can digitally sign this note by responding to the email Erin sent. If you didn't receive an email and think you should have, please reach out to [psycsciacc002003@gmail.com](psycsciacc002003@gmail.com)
 
 ### *003 Gendered Prejudice*
 
@@ -76,4 +76,4 @@ Early data collection is going well, with over 3,600 participants across 17 coun
 
 ## *Get involved in the PSA*
 
-Join us on [*Slack*](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw), or drop by our Directors' Office Hours (Mondays at 2pm UTC, [*Zoom link*](https://ua-edu.zoom.us/my/slewis20)*)*.
+Join us on [*Slack*](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw), or drop by our Directors' Office Hours (Mondays at 2pm UTC, [*Zoom link*](https://ua-edu.zoom.us/my/slewis20).
