@@ -69,6 +69,14 @@ website:
             icon: twitter
             aria-label: Twitter
             href: https://twitter.com/psysciacc
+      - text: Donate
+        menu: 
+          - text: Patreon 
+            href: https://patreon.com/psysciacc?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
+          - text: PayPal Charities
+            href: https://www.paypal.com/fundraiser/charity/5217974
+          - text: PayPal
+            href: https://www.paypal.com/donate/?hosted_button_id=78JFLBZR2VPT4
   page-footer:
     background: primary
     right:
