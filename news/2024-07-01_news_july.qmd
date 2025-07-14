@@ -1,0 +1,91 @@
+---
+title: "Newsletter July 2024"
+author: "Savannah Lewis"
+date: 2024-07-01
+categories:
+  - newsletter
+---
+
+## Quick Read
+
+- PSA members are invited to participate in a paid metascientific study! Please read below for more information on how to participate.
+- Submissions for the 2024 BTSCON are now open!! Read below for more information.
+- Reminder that co-directors Erin and Savannah are hosting weekly office hours!
+
+## PSA Announcements
+
+### Calling all PSA members for participation in a metascientific study!
+  
+- Psychological Science Accelerator (PSA) members are invited to participate in a study examining researcher predictions regarding the generalizability of psychological effects across cultural contexts.
+- The study should take about 15 minutes to complete, and participants may choose to receive a $10 Visa gift card for their participation.
+
+### Who can participate?
+
+- The only criteria for participation is being a PSA member.
+
+### What is involved?
+  
+- In the study, you will be asked to read a description of an upcoming research project being run by the PSA. Then, you will predict research outcomes from the project. You will also answer a few questions about your predictions and your beliefs about generalizability. Finally, you will answer some questions about yourself.
+
+### Interested in participating?
+  
+- Please indicate your interest in participation by submitting this [form](https://forms.gle/pZV4driQoDKoMMZw7) . Then, we will send you a study link. If you are a collaborator contributing to the PSA-JTF2: Dignity Honor Face project, please see the project email for instructions for participation.
+- If you have any questions, please email [psajtf2@gmail.com](mailto:psajtf2@gmail.com).
+- Thank you for your consideration!
+
+### PSA Office Hours
+
+- Erinnah (Erin and Savannah) are hosting weekly office hours on Mondays at 10 am CDT/ 3pm UTC. These are times when members can drop in and chat with the directors about anything. We hope to see you drop in soon! The zoom link and PSA calendar can be found [here](https://calendar.google.com/calendar/u/0?cid=c25sbjM1bDJpNm8xcG4zdXVicmd2M3FkMTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+
+## Member Highlights 
+
+- PSA member Patrick Forscher's meta-research team at Busara has now published its edited book on “developmental meta-research”, or a new subdiscipline comprising the intersection between global development and meta-research. The edited book contains 20 essays, including several on the promise and pitfalls of big team science in low and middle income countries. Many of the essays were, in fact, written by current or former members of the PSA, including Dana Basnight-Brown, Adeyemi Adetula, Miguel Silan, Max Primbs, and Flavio Azevedo.
+- The book is available now, either for free as an online PDF or as a hard copy on Amazon, and is accessible via the Busara [website](https://www.busara.global/our-works/a-better-how-notes-on-developmental-meta-research/) .
+
+## News in Big Team Science
+
+- Submissions for the 2024 BTSCON are OPEN NOW! Much more information is available on our [website](https://bigteamscienceconference.github.io/), and the deadline for submissions is July 31. Registration (as always, fee optional!) will open soon. Please help us spread the word to your networks and colleagues!
+- Many of us are reading this new team science [paper](https://www.science.org/doi/10.1126/science.ado7070) in Science: Team scientists should normalize disagreement!
+- A group of PSA members are starting a big team project and are looking for collaborators! [Here](https://sbarbosadelatorre.wixsite.com/2d3dpersonperception) is the projects website, and [here](https://psicologiauniandes.qualtrics.com/jfe/form/SV_0Bw8L6sMURX0yEu?Q_CHL=qr) is where you can express your interest in collaboration.
+- They plan to submit a Phase 1 Registered Report soon, and in the meantime they hope to start building the collaboration network for this project.
+
+## Project Updates
+
+- [Object Orientation Study (PSA-002)](https://psysciacc.org/projects/psa002.html)
+  - The manuscript is under review at Current Psychology.
+- [Gendered Prejudice Study (PSA-003)](https://psysciacc.org/projects/psa003.html)
+  - The lead team is finalizing the manuscript after the last round of feedback. They anticipate submission of the manuscript to PLOS-One within the next two weeks.
+- [Stereotype Threat (PSA-005)](https://psysciacc.org/projects/psa005.html)
+  - Data collection for the project has been completed! The lead team will be pulling together the data and the final paper over the next few months.
+- [Semantic Priming Study (PSA-007)](https://psysciacc.org/projects/psa007.html)
+  - PSA 007 has been finalized and authors are being added to the Nature Human Behavior system for submission!
+- [Minimal Groups Study (PSA-008)](https://psysciacc.org/projects/psa008.html)
+  - Data collection continues as more translations are finalized. For more information about the project, please see the [preprint](https://osf.io/preprints/psyarxiv/5gpr4) or email [psa-008@googlegroups.com](mailto:psa-008@googlegroups.com).
+- [PSA-JTF-001: Moral Experiences](https://psysciacc.org/projects/psajtf001.html)
+  - Data collection continues and has expanded to more sites and languages. For more information about the project, please see the [preprint](https://osf.io/preprints/psyarxiv/jktnv) or email the project [leads](mailto:psajtf1@gmail.com).
+- [PSA-JTF-002: Dignity Honor Face](https://psysciacc.org/projects/psajtf002.html)
+  - The lead team has integrated feedback from collaborators on the Stage 1 style manuscript, and ethics and translation will begin very soon. This project welcomes interested collaborators who can collect data. Interested in learning more and potentially joining? Fill out this [survey!](https://docs.google.com/forms/d/e/1FAIpQLSfifQfg-HQdZ-AIoSACu2yeI5bR_DA6nqexmjI0S8GdRaaVWA/viewform)
+- [PSA-JTF-003: Error Correction](https://psysciacc.org/projects/psajtf003.html)
+  - The lead team shared a Stage 1 RR-Style Manuscript with the full project team and received feedback that they are now integrating into an updated draft.
+  - Preparations for data collection launch will start soon, and the project still welcomes interested collaborators who can collect data. Interested in learning more and potentially joining the project? Fill out this [survey!](https://docs.google.com/forms/d/e/1FAIpQLSdEqUp0cOb-duJXvd3C1-DBX8dTZOksDyV-3fh4KFeKyCYrOg/viewform)
+- [PSA-AF-001: Partner Preferences](https://psysciacc.org/affiliated/af001.html)
+  - The Stage 2 Registered Report has been submitted to Journal of Personality and Social Psychology!
+
+## Big Team Science
+
+- Psychology should generalize from — not just to — Africa. [Nature Reviews Psychology](https://www.nature.com/articles/s44159-022-00070-y)
+- How to build up big team science: a practical guide for large-scale collaborations. [Royal Society Open Science.](https://royalsocietypublishing.org/doi/10.1098/rsos.230235)
+- ‘Big team’ science challenges us to reconsider authorship. [Nature Human Behaviour](https://www.nature.com/articles/s41562-023-01572-2)
+- The benefits, barriers, and risk of big team science. [Perspective on Psychological Science](https://psyarxiv.com/2mdxh)
+- Build up big team science. [Nature](https://www.nature.com/articles/d41586-022-00150-2)
+- The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. [AMPPS](https://journals.sagepub.com/doi/full/10.1177/2515245918797607)
+- Psychological Science Accelerator: A promising resource for clinical psychological science. Avoiding Questionable Research [Practices in Applied Psychology](https://link.springer.com/chapter/10.1007/978-3-031-04968-2_19)
+
+## Completed Studies
+
+- To which world regions does the valence–dominance model of social perception apply? [Nature Human Behaviour](https://www.nature.com/articles/s41562-020-01007-2)
+- Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. [Nature Human Behaviour](https://www.nature.com/articles/s41562-022-01319-5)
+- A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic.[ Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01173-x)
+- A global experiment on motivating social distancing during the COVID-19 pandemic. [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2111091119)
+- In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. [Affective Science](https://link.springer.com/article/10.1007/s42761-022-00128-3)
+- The Psychological Science Accelerator’s COVID-19 rapid-response dataset. [Nature Scientific Data](https://www.nature.com/articles/s41597-022-01811-7)

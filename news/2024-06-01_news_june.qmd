@@ -1,0 +1,73 @@
+---
+title: "Newsletter June 2024"
+author: "Savannah Lewis"
+date: 2024-06-04
+categories:
+  - newsletter
+---
+
+## Quick Read
+
+  - We've added a new section to the newsletter! Check out the member highlights to read more about PSA member achievements!
+- Multiple projects are looking for collaborators! For more information on the different projects and how you can contribute, read below!
+- Reminder that co-directors Erin and Savannah are hosting weekly office hours!
+- The Big Team Science Conference is now accepting submissions for the 2024 conference in October.
+
+## PSA Announcements
+
+- Erinnah (Erin and Savannah) are hosting weekly office hours on Mondays at 10 am CDT/ 3pm UTC. These are times when members can drop in and chat with the directors about anything. We hope to see you drop in soon! The zoom link and PSA calendar can be found [here](https://calendar.google.com/calendar/u/0?cid=c25sbjM1bDJpNm8xcG4zdXVicmd2M3FkMTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+- The first PSA measurement study has now been published! Click [here](https://econtent.hogrefe.com/doi/10.1027/2698-1866/a000061#_i40) to read the paper!
+
+## Member Highlights 
+
+- PSA member Biljana Gjoneska has recently become an Editorial Board member for the following journals: [Journal of Behavioural Addictions](https://akjournals.com/view/journals/2006/2006-overview.xml), [BMC Psychology](https://bmcpsychology.biomedcentral.com/about), [PloS ONE](https://journals.plos.org/plosone/), and [Discover Psychology](https://link.springer.com/journal/44202). Check out her full post [here](https://psysciacc.org/news/2024-06-03_journal-options.html).
+- PSA member Gerit Pfuhl presented the Keynote talk about "Pro's and Con's of Big Team Science" at the 3rd annual [Norwegian Reproducibility Network Conference](https://norrn.no/)!
+
+## News in Big Team Science
+
+- A group of PSA members are starting a big team project and are looking for collaborators! [Here](https://sbarbosadelatorre.wixsite.com/2d3dpersonperception) is the projects website, and [here](https://psicologiauniandes.qualtrics.com/jfe/form/SV_0Bw8L6sMURX0yEu?Q_CHL=qr) is where you can express your interest in collaboration.
+- They plan to submit a Phase 1 Registered Report soon, and in the meantime they hope to start building the collaboration network for this project.
+= PSA member Patrick Forscher's team at Busara is hosting this year's annual meeting for the Society for the Improvement of Psychological Science. You can still register for the conference [here](https://www.improvingpsych.org/SIPS2024/)!
+- In addition, they will be launching an edited book at the conference focused on a new subdiscipline we are calling "developmental meta-research", or the intersection of global development and meta-research. The book features 20 pieces focused on this topic. Stay tuned if you'd like to learn more!
+- The Big Team Science Conference is accepting submissions for the 2024 conference in October. We have already confirmed several exciting speakers for the [conference!](https://bigteamscienceconference.github.io/). [Please submit by July 31st](https://bigteamscienceconference.github.io/submissions/).
+
+## Project Updates
+
+- [Object Orientation Study (PSA-002)](https://psysciacc.org/projects/psa002.html)
+  - The manuscript is under review at Current Psychology.
+- [Gendered Prejudice Study (PSA-003)](https://psysciacc.org/projects/psa003.html)
+  - Thank you to all collaborators who provided comments on the most recent draft of the manuscript. The lead team is incorporating collaborator feedback into the manuscript. They plan to submit to PLOS-One once the draft has been finalized.
+- [Stereotype Threat (PSA-005)](https://psysciacc.org/projects/psa005.html)
+  - Data collection for the project has been completed! The lead team will be pulling together the data and the final paper over the next few months.
+- [Semantic Priming Study (PSA-007)](https://psysciacc.org/projects/psa007.html)
+  - The lead team is working on revising the Stage 2 manuscript based on collaborator feedback. The updated manuscript should be sent in a few weeks for final checks.
+- [Minimal Groups Study (PSA-008)](https://psysciacc.org/projects/psa008.html)
+  - Data collection continues to expand to more sites and translations have been completed and implemented in several languages.
+- [PSA-JTF-001: Moral Experiences](https://psysciacc.org/projects/psajtf001.html)
+  - Data collection continues in English and is about to start in other languages. Most of the translations are completed. For more information about the project please see the [preprint](https://osf.io/preprints/psyarxiv/jktnv) or email the project [leads](mailto:psajtf1@gmail.com).
+- [PSA-JTF-002: Dignity Honor Face](https://psysciacc.org/projects/psajtf002.html)
+  - The project has just received ethical approval at the lead institution! The lead team is currently integrating feedback from collaborators on the Stage 1 style manuscript. This project welcomes interested collaborators who can collect data. Interested in learning more and potentially joining? [Fill out this survey!](https://docs.google.com/forms/d/e/1FAIpQLSfifQfg-HQdZ-AIoSACu2yeI5bR_DA6nqexmjI0S8GdRaaVWA/viewform)
+- [PSA-JTF-003: Error Correction](https://psysciacc.org/projects/psajtf003.html)
+  - The lead team has finished pretesting and finalized materials. Over 160 collaborators have been onboarded to the project. Keep an eye on your inbox if you’ve joined, as we’ll be sharing a Stage 1 Manuscript for feedback today or tomorrow!
+  - This project still welcomes interested collaborators who can collect data. Interested in learning more and potentially joining the project? [Fill out this survey!](https://docs.google.com/forms/d/e/1FAIpQLSdEqUp0cOb-duJXvd3C1-DBX8dTZOksDyV-3fh4KFeKyCYrOg/viewform)
+- [PSA-AF-001: Partner Preferences](https://psysciacc.org/affiliated/af001.html)
+  - The Stage 2 Registered Report has been submitted to Journal of Personality and Social Psychology!
+
+## Big Team Science
+
+- Psychology should generalize from — not just to — Africa. [Nature Reviews Psychology](https://www.nature.com/articles/s44159-022-00070-y)
+- How to build up big team science: a practical guide for large-scale collaborations. [Royal Society Open Science.](https://royalsocietypublishing.org/doi/10.1098/rsos.230235)
+- ‘Big team’ science challenges us to reconsider authorship. [Nature Human Behaviour](https://www.nature.com/articles/s41562-023-01572-2)
+- The benefits, barriers, and risk of big team science. [Perspective on Psychological Science](https://psyarxiv.com/2mdxh)
+- Build up big team science. [Nature](https://www.nature.com/articles/d41586-022-00150-2)
+- The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. [AMPPS](https://journals.sagepub.com/doi/full/10.1177/2515245918797607)
+- Psychological Science Accelerator: A promising resource for clinical psychological science. Avoiding Questionable Research [Practices in Applied Psychology](https://link.springer.com/chapter/10.1007/978-3-031-04968-2_19)
+
+## Completed Studies
+
+- To which world regions does the valence–dominance model of social perception apply? [Nature Human Behaviour](https://www.nature.com/articles/s41562-020-01007-2)
+- Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. [Nature Human Behaviour](https://www.nature.com/articles/s41562-022-01319-5)
+- A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic.[ Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01173-x)
+- A global experiment on motivating social distancing during the COVID-19 pandemic. [PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2111091119)
+- In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. [Affective Science](https://link.springer.com/article/10.1007/s42761-022-00128-3)
+- The Psychological Science Accelerator’s COVID-19 rapid-response dataset. [Nature Scientific Data](https://www.nature.com/articles/s41597-022-01811-7)

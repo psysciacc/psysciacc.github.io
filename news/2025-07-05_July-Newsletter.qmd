@@ -1,0 +1,59 @@
+---
+title: "July News from the Accelerator"
+author: "Savannah Lewis"
+date: 2025-07-06
+categories:
+  - newsletter
+---
+
+Exciting announcements!
+
+## Quick read
+
+- PSA 003 (Gendered Prejudice) is finally published with [PLOS ONE!!](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323938) Congrats to all involved!
+- The JTF studies have made amazing progress. Dignity Honor Face is almost done with data collection, and in Error Correction, almost all translations have been finalized.
+
+## BTSCON 2025!
+
+The PSA is proud to announce we are doing another *BTSCON.* BTSCON2025 will be held virtually from *October 6–8, 2025*. This interdisciplinary event brings together researchers, funders, and stakeholders from around the world to discuss the opportunities, challenges, and future directions of big team science. As always, the conference will center inclusivity, transparency, and collaboration across fields.
+
+We hope you'll join us for another energizing year of connection and collective progress!
+🔗 Learn more and spread the word: [https://bigteamscienceconference.github.io/]( https://bigteamscienceconference.github.io/)
+
+## Committee Recruitment!
+
+The Psychological Science Accelerator (PSA) Ethics Committee is seeking new members to support ethical oversight in globally collaborative research. We invite researchers with a PhD in psychology and a passion for ethical practices—especially in cross-cultural contexts—to apply. Prior PSA experience and ethics training are a plus but not required. Members commit to a 2-year term, attend bi-monthly meetings, and contribute to reviewing, consulting on, and supporting ethical practices in PSA studies. To apply, send a 1-page cover letter and brief CV to [Maja Becker](mailto:mbecker@univ-tlse2.fr) and [Maria Montefinese](mailto:maria.montefinese@gmail.com) by *July 31 (any timezone)*. [Learn more here](https://drive.google.com/file/d/1slXmi3RMoOmWq9XvyXz0nb_bPKW-ih7m/view?usp=sharing).
+
+## WHAT'S NEW IN BIG TEAM SCIENCE
+
+*Call for Collaborators in Hong Kong: A Global Research Project on the "Dark Side" of Career Calling*
+
+What if being “called” to your work actually harms you? This project investigates the boundary
+conditions under which career calling becomes harmful rather than beneficial for individuals. This study will involve a culturally diverse sample of workers from 11 countries: Austria, Brazil, Germany, Hong Kong, Hungary, India, Italy, Japan, the Netherlands, South Korea, and Sweden. The research team is specifically seeking collaborators who can translate the survey from *English to Traditional Chinese* and collect data from adult workers in *Hong Kong*.
+Research teams or individuals interested in joining the global collaboration can read more details and complete a brief onboarding survey here: [https://forms.gle/KqYTZLEW7bvvFyLM6]( https://forms.gle/KqYTZLEW7bvvFyLM6 ) (*Deadline: July 18th*). You can contact the [project coordinator](ryunosuke.takagi@phd.unipd.it) for more information about the project.
+
+## PSA PROJECT UPDATES
+
+- 002 Object Orientation
+  - The lead team has resubmitted the manuscript to Current Psychology after making revisions.
+Read more in our [preprint](https://osf.io/preprints/osf/2qf6w_v1).
+- 003 Gendered Prejudice
+  - The manuscript has officially been published [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323938)
+Read more in our [preprint](https://osf.io/preprints/psyarxiv/nkbjc_v1).
+- 005 Stereotype Threat
+  - The PSA 005 lead team has finished final analyses and robustness checks. All authors should also now be listed on the preprint on PsyArXiv.
+  - Read more in our [preprint](https://osf.io/preprints/psyarxiv/6hju9_v1).
+- 007 Semantic Priming
+  - The manuscript has officially been accepted for print at Nature Human Behaviour. Collaborators should check their emails to see the final publication proof.
+  - Read more in our [preprint](https://osf.io/preprints/osf/q4fjy_v3).
+- 008 Minimal Groups
+  - Data collection continues! This collaboration has gathered data from over 17000 participants across 38 countries, 27 of which have met the within country sample size goal of 200.
+- 009 Gendered Leadership
+  - The project has been developing smoothly. Data have been collected in 20 countries (15 languages). At the moment, we collected data from over 30000 participants. The lead team is working towards 26 countries (31 languages).
+  - Read more in our [Registered Report]( https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true).
+- JTF1 Moral Experiences
+  - The lead team is wrapping up data coding and validation and will soon have a draft of the manuscript to share with collaborators.
+- JTF2 Dignity Honor Face
+  - Data collection is wrapping up for the project; the final deadline is the end of July. We have now collected data from over 31,000 participants from over 60 countries!
+- JTF3 Error Correction
+  - We have collected data from over 8,700 participants across 35 countries thus far! Almost all translations are complete (with only 2 languages remaining), so all teams can dive into data collection quite soon, if not already.

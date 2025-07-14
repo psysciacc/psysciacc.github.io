@@ -1,0 +1,58 @@
+---
+title: "February News from the Accelerator"
+author: "Savannah Lewis"
+date: 2023-02-06
+categories:
+  - newsletter
+---
+
+quick read
+
+- Reminder: the PSA has released a second special call for studies related to John Templeton Foundation strategic priorities.
+project updates
+Object Orientation Study (PSA-002)
+
+The 002 team continues to revise the manuscript. The lead team should have full drafts ready to share with the network soon. 
+Gendered Prejudice Study (PSA-003)
+
+The 003 team has nearly completed a draft of the manuscript that incorporates the network's feedback. The lead team should have full drafts ready to share with the network soon. 
+Justified True Belief Study (PSA-004)
+
+The manuscript has received an R&R, and the lead team is working on revisions.
+Stereotype Threat (PSA-005)
+
+PSA-005 has collected data from over 1,300 participants. Data collection has begun for Spring 2023.
+Semantic Priming Study (PSA-007)
+
+37 teams have met the minimum data collection requirements. Additional progress has been made in terms of translation and most languages should be available soon (Hindi, Thai, Slovakian, and Slovenian). We anticipate to have additional labs joining us next semester. If you are interested in becoming a collaborator, or want to learn more about 007, please e-mail the project leads.
+Minimal Groups Study (PSA-008)
+
+The revision of the Stage 1 Registered Report is under review at Nature Human Behaviour.
+COVID Studies (PSA-CR)
+
+The PSA-CR data paper proofs have been received and were sent out to all collaborators.
+Reminder: Special call for studies on John Templeton Foundation strategic priorities
+ 
+The PSA, supported by the John Templeton Foundation (JTF), welcomes study proposals to test the generalizability of phenomena related to JTF strategic priorities with large, global samples. Optional initial proposals are due by February 15 and required full proposals are due by May 15.
+ 
+Please see the official call announcement for details about proposal requirements, grant support, and the project selection process and timeline.
+big team science
+The benefits, barriers, and risk of big team science. Perspective on Psychological Science
+
+Build up team science. Nature
+
+The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS
+
+Psychological Science Accelerator: A promising resource for clinical psychological science. Avoiding Questionable Research Practices in Applied Psychology
+
+completed studies
+To which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour
+
+Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour
+
+A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour
+
+A global experiment on motivating social distancing during the COVID-19 pandemic. PNAS
+
+In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. Affective Science
+  

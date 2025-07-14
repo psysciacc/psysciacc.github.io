@@ -1,40 +1,8 @@
 [
   {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/psa001.html",
-      "/projects/psa002.html",
-      "/projects/psa003.html",
-      "/projects/psa004.html",
-      "/projects/psa005.html",
-      "/projects/psa006.html",
-      "/projects/psa007.html",
-      "/projects/psa008.html",
-      "/projects/psa009.html",
-      "/projects/psajtf001.html",
-      "/projects/psajtf002.html",
-      "/projects/psajtf003.html",
-      "/projects/cr001.html",
-      "/projects/cr002.html",
-      "/projects/cr003.html"
-    ]
-  },
-  {
-    "listing": "/papers.html",
-    "items": [
-      "/papers/PSA-intro_2018.html"
-    ]
-  },
-  {
-    "listing": "/affiliated.html",
-    "items": [
-      "/affiliated/af001.html",
-      "/affiliated/af002.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
+      "/news/2025-07-05_July-Newsletter.html",
       "/news/2025-06-06_June-Newsletter.html",
       "/news/2025-05-07_May-Newsletter.html",
       "/news/2025-04-06_April-Newsletter.html",
@@ -44,8 +12,12 @@
       "/news/2025-01-06_January-Newsletter.html",
       "/news/2024-12-04_December-Newsletter.html",
       "/news/2024-11-02_November-Newsletter.html",
+      "/news/2024-07-18_call_studies.html",
+      "/news/2024-07-01_news_july.html",
+      "/news/2024-06-01_news_june.html",
       "/news/2024-06-03_journal-possibilities.html",
       "/news/2023-07-01_tia-blackall-assistant-start.html",
+      "/news/2023-02-06_newsletter_feb.html",
       "/news/2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.html",
       "/news/2022-10-31_using-crowdfunding-to-finish-the-largest-stereotype-threat-project-with-black-american-participants-ever.html",
       "/news/2022-09-16_help-us-select-our-next-projects.html",
@@ -115,6 +87,39 @@
       "/news/2017-11-08_the-psychological-science-accelerators-first-study.html",
       "/news/2017-10-25_timeline-for-late-2017-and-early-2018.html",
       "/news/2017-10-24_check-here-for-updates-on-the-accelerator.html"
+    ]
+  },
+  {
+    "listing": "/affiliated.html",
+    "items": [
+      "/affiliated/af001.html",
+      "/affiliated/af002.html"
+    ]
+  },
+  {
+    "listing": "/papers.html",
+    "items": [
+      "/papers/PSA-intro_2018.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/psa001.html",
+      "/projects/psa002.html",
+      "/projects/psa003.html",
+      "/projects/psa004.html",
+      "/projects/psa005.html",
+      "/projects/psa006.html",
+      "/projects/psa007.html",
+      "/projects/psa008.html",
+      "/projects/psa009.html",
+      "/projects/psajtf001.html",
+      "/projects/psajtf002.html",
+      "/projects/psajtf003.html",
+      "/projects/cr001.html",
+      "/projects/cr002.html",
+      "/projects/cr003.html"
     ]
   }
 ]
