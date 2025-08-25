@@ -1,7 +1,7 @@
 ---
-title: "July News from the Accelerator"
+title: "August News from the Accelerator"
 author: "Savannah Lewis"
-date: 2025-07-06
+date: 2025-08-06
 categories:
   - newsletter
 ---
