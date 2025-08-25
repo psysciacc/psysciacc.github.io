@@ -1,0 +1,89 @@
+---
+title: "July News from the Accelerator"
+author: "Savannah Lewis"
+date: 2025-07-06
+categories:
+  - newsletter
+---
+
+## Quick read
+
+-   BTSCON2025 (hosted virtually from Oct 6-8) is has extended the deadline for session submissions to August 8th.
+-   PSA 009 lead team conducting the prize draw (and informing the relevant labs) this week for their project!
+-   PSA 002 has been accepted for publication in Current Psychology.
+
+## BTSCON Submission Extension!
+
+Do you have a big team science project or an idea on how to make team science collaborations more efficient? You should submit it a session for this year's BTSCON2025. BTSCON2025 has has extended the deadline for session submissions to August 8th.
+
+*BTSCON2025* will be held virtually from *October 6–8, 2025*. This interdisciplinary event brings together researchers, funders, and stakeholders from around the world to discuss the opportunities, challenges, and future directions of big team science. As always, the conference will center inclusivity, transparency, and collaboration across fields.
+
+🔗 Learn more and spread the word: <https://bigteamscienceconference.github.io/>
+
+## PSA NEWS
+
+As we transition into a new chapter, the Directors (Savannah & Erin) want to take a moment to express our heartfelt appreciation for Max, who has served as our Research Coordinator and Newsletter Lead over the past year.
+
+Max has been instrumental in keeping you (our network) up to date on all the exciting things happening across the PSA. From helping manage and move JTF projects forward, to adding members to Canvas, to fine-tuning the many newsletter processes we've experimented with, Max’s flexibility, thoughtfulness, and commitment have helped make our behind-the-scenes work much smoother and more connected.
+
+We're so grateful for everything Max brought to the team and network. Thank you, Max!
+
+## PSA PROJECT UPDATES
+
+### *002 Object Orientation*
+
+PSA 002 has been accepted for publication in *Current Psychology*. The lead team is satisfied to see this project come to fruition after so many twists and turns along the path. Thanks to all who contributed to this project and congrats!
+
+[Read more in our preprint.](https://osf.io/preprints/osf/2qf6w_v1)
+
+### *003 Gendered Prejudice*
+
+The manuscript has officially been published [PLOS ONE.](https://doi.org/10.1371/journal.pone.0323938)
+
+[Read more in our preprint.](https://osf.io/preprints/psyarxiv/nkbjc_v1)
+
+### *005 Stereotype Threat*
+
+The PSA 005 admin team is working on the PSA005 final paper write-up. The team has also received a revise and resubmit from Social and Personality Psychology Compass on the challenges and payoffs of in-person big team science.
+
+[Read more in our preprint.](https://osf.io/preprints/psyarxiv/6hju9_v1)
+
+### *007 Semantic Priming*
+
+The manuscript has officially been accepted for print at *Nature Human Behaviour*. The lead team has submitted approval for the final publication proof.
+
+[Read more in our preprint.](https://osf.io/preprints/osf/q4fjy_v3)
+
+### *008 Minimal Groups*
+
+Data collection continues until October. So far, this collaboration has gathered data from over 18000 participants across 38 countries.
+
+[Read more in our preprint.](https://osf.io/preprints/psyarxiv/5gpr4_v1)
+
+### *009 Gendered Leadership*
+
+The project has completed 35 countries (N\>20,000, after cleaning) and has 9 more countries underway. The lead team is working on finishing those 9 more countries by mid-September. Be on the lookout for the lead team conducting the prize draw (and informing the relevant labs) this week.
+
+[Read more in our preprint.](https://osf.io/preprints/psyarxiv/xjkcv_v1)
+
+### *JTF1 Moral Experiences*
+
+The lead team is wrapping up data coding and validation and will soon have a draft of the manuscript to share with collaborators.
+
+[Read more in our preprint.](https://doi.org/10.31234/osf.io/jktnv_v1)
+
+### *JTF2 Dignity Honor Face*
+
+Data collection is wrapping up for the project; the final deadline is the end of July. This project have now collected data from over 31,000 participants from over 60 countries!
+
+[Read more in our preprint.](http://doi.org/10.31234/osf.io/9hb8k)
+
+### *JTF3 Error Correction*
+
+The lead team have collected data from over 10,000 participants across 35 countries thus far! Almost all translations are complete (with only 2 languages remaining), so all teams can dive into data collection quite soon, if not already.
+
+[Read more in our preprint.](https://osf.io/preprints/psyarxiv/wegc5_v1)
+
+## *Get involved in the PSA*
+
+Join us on [*Slack*](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw), or drop by our Directors' Office Hours (Tuesdays at 2pm UTC, [*Zoom link*](https://ua-edu.zoom.us/my/slewis20)).
