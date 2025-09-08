@@ -80,7 +80,7 @@ Data collection is wrapping up for the project; the final deadline is the end of
 
 [Read more in our preprint.](http://doi.org/10.31234/osf.io/9hb8k)
 
-### *JTF3 Error Correction*
+### *JTF3 Error Correction*  
 
 The lead team have collected data from over 10,000 participants across 35 countries thus far! Almost all translations are complete (with only 2 languages remaining), so all teams can dive into data collection quite soon, if not already.
 
