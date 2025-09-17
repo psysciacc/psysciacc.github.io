@@ -1,0 +1,37 @@
+---
+page-layout: full
+---
+
+# Translation Process
+
+1.  **Translation**: Original document is translated from source to target language by A Translators resulting in document Version A.
+
+2.  **Back-translation**: Version A is translated back from target to source language by B Translators independently resulting in Version B.
+
+3.  **Discussion**: Version A and B are discussed among translators and the language coordinator, discrepancies in Version A and B are detected and solutions are discussed. Version C is created.
+
+4.  **Cultural Adjustments**: Data collection labs read materials and identify any needed adjustments for their local participant sample. Adjustments are discussed with the Language Coordinator, who makes any necessary changes, resulting in the final version for each site.
+
+### **Translation Personnel**
+
+#### **Language Coordinator**
+
+-   coordinates translation process
+
+-   discusses final version with translators
+
+#### **“A” Translators (1-2, Bilingual)**
+
+-   translate from source to target language
+
+-   discuss final version with coordinator and B Translators
+
+#### **“B” Translators (1-2, Bilingual)**
+
+-   translate from target back to source language
+
+-   discuss final version with coordinator and A translators
+
+#### **Data Collection Labs**
+
+-   provide final check and suggest any necessary cultural adjustments

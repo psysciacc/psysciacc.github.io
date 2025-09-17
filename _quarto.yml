@@ -54,6 +54,8 @@ website:
       - text: About Us
         menu: 
           - about.qmd
+          - map.qmd
+          - translation.qmd
           - media.qmd
           - contacts.qmd
           - news.qmd
