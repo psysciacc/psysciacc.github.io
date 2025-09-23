@@ -2293,6 +2293,577 @@
     "href": "translation.html",
     "title": "Translation Process",
     "section": "",
+<<<<<<< Updated upstream
     "text": "Translation Process\n\nTranslation: Original document is translated from source to target language by A Translators resulting in document Version A.\nBack-translation: Version A is translated back from target to source language by B Translators independently resulting in Version B.\nDiscussion: Version A and B are discussed among translators and the language coordinator, discrepancies in Version A and B are detected and solutions are discussed. Version C is created.\nCultural Adjustments: Data collection labs read materials and identify any needed adjustments for their local participant sample. Adjustments are discussed with the Language Coordinator, who makes any necessary changes, resulting in the final version for each site.\n\n\nTranslation Personnel\n\nLanguage Coordinator\n\ncoordinates translation process\ndiscusses final version with translators\n\n\n\n“A” Translators (1-2, Bilingual)\n\ntranslate from source to target language\ndiscuss final version with coordinator and B Translators\n\n\n\n“B” Translators (1-2, Bilingual)\n\ntranslate from target back to source language\ndiscuss final version with coordinator and A translators\n\n\n\nData Collection Labs\n\nprovide final check and suggest any necessary cultural adjustments"
+=======
+    "text": "Note: Proposals submitted by the original deadline (July 20) are already being reviewed, but any submissions received by the extended deadline (August 31) will be given full consideration."
+  },
+  {
+    "objectID": "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html#jtf-priority-topics",
+    "href": "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html#jtf-priority-topics",
+    "title": "Special Call for Studies – Studying Generalizability with Global Samples DEADLINE EXTENDED",
+    "section": "JTF Priority Topics",
+    "text": "JTF Priority Topics\nTo be eligible for this call, projects must investigate questions related to one or more of the strategic priorities of JTF. Below is a list of those priorities. Each is followed by some example research questions and topics. These are meant to just be examples; they are not an exhaustive list of the research questions that could be encompassed by each priority.\n\nThe dynamics of religious change. Why do religions flourish or lose adherents? What kinds of features of religious organizations drive or repel members? Why and how do people switch religious identities?\nIntellectual humility. Which factors enhance or inhibit intellectual humility? How can we better study the concept of intellectual humility?\nReligious cognition. What is the nature of religious belief and how can it be better measured? What causes religious or spiritual experiences and what are the effects of those experiences? How do individuals develop and revise their religious beliefs?\nThe science of character virtue. In particular, what helps individuals to develop curiosity and love? What are the consequences of those virtues? How do religions and perceptions of supernatural agents affect virtue and morality development?\nHealth, religion, and spirituality. Are there associations between religious/spiritual beliefs, experiences, practices, and identities, and physical and mental health? If so, are there underlying causal mechanisms?"
+  },
+  {
+    "objectID": "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html#introduction",
+    "href": "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html#introduction",
+    "title": "Special Call for Studies – Studying Generalizability with Global Samples DEADLINE EXTENDED",
+    "section": "Introduction",
+    "text": "Introduction\nA review of the relevant literature that motivates the research question and a full description of the study aims and hypotheses."
+  },
+  {
+    "objectID": "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html#method",
+    "href": "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html#method",
+    "title": "Special Call for Studies – Studying Generalizability with Global Samples DEADLINE EXTENDED",
+    "section": "Method",
+    "text": "Method\nA full description of proposed sample characteristics, including criteria for data inclusion and exclusion (e.g., outlier extraction). Procedures for objectively defining exclusion criteria caused by technical errors or for any other reasons must be specified, including details of how and under what conditions data would be replaced.\nA description of study procedures in sufficient detail to allow another researcher to repeat the methodology exactly, without requiring further information."
+  },
+  {
+    "objectID": "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html#analysis-plan",
+    "href": "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html#analysis-plan",
+    "title": "Special Call for Studies – Studying Generalizability with Global Samples DEADLINE EXTENDED",
+    "section": "Analysis Plan",
+    "text": "Analysis Plan\nProposed analysis pipeline, including all preprocessing steps, and a precise description of all planned analyses, including appropriate correction for multiple comparisons. Specify all covariates or regressors. Specify analysis decisions that are contingent on the outcome of prior analyses.\nStudies involving Neyman-Pearson inference must include a statistical power analysis. Estimated effect sizes should be justified with reference to the existing literature or theory. Because publication bias inflates published estimates of effect size, power analysis should be based on the lowest available or meaningful estimate of the effect size.\nIn the case of highly uncertain effect sizes, variable sample size and interim data analysis is permissible but with inspection points stated in advance, appropriate Type I error correction for ‘peeking’ employed, and a final stopping rule for data collection outlined.\nFor studies involving analyses with Bayes factors, the predictions of the theory must be specified so that a Bayes factor can be calculated. Authors should indicate what distribution will be used to represent the predictions of the theory and how its parameters will be specified.\nFull descriptions must be provided of any outcome-neutral criteria that must be met for successful testing of the stated hypotheses. Such quality checks might include the absence of floor or ceiling effects in data distributions, positive controls, or other quality checks that are orthogonal to the experimental hypotheses."
+  },
+  {
+    "objectID": "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html#supplemental-materials",
+    "href": "news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html#supplemental-materials",
+    "title": "Special Call for Studies – Studying Generalizability with Global Samples DEADLINE EXTENDED",
+    "section": "Supplemental Materials",
+    "text": "Supplemental Materials\nInclude full questionnaires, stimuli, and materials needed to conduct the study. Pilot data can be included to establish proof of concept, effect size estimations, or feasibility of proposed methods. Simulated data and analysis scripts are recommended to provide clarity about the exclusion criteria and analysis plan.\nThese guidelines were adapted from https://osf.io/pukzy."
+  },
+  {
+    "objectID": "news/2022-10-31_using-crowdfunding-to-finish-the-largest-stereotype-threat-project-with-black-american-participants-ever.html",
+    "href": "news/2022-10-31_using-crowdfunding-to-finish-the-largest-stereotype-threat-project-with-black-american-participants-ever.html",
+    "title": "Using crowdfunding to finish the largest stereotype threat project with Black American participants ever",
+    "section": "",
+    "text": "(Donate to the project here)\nIn 2018, the Psychological Science Accelerator selected an unusual study to conduct. Instead of using the PSA network to achieve an international sample, this study focused on a hard-to-reach study population: Black American college students. Compared to previous studies, the project was also unusually applied-facing, as it focused on a theory that was developed to understand, and hopefully address, performance gaps in settings like college where strong performance could affect a person’s life trajectory.\nThe proposed project aimed to address potential weaknesses in the evidence for the theory while simultaneously demonstrating how we can use big team science to achieve the sample sizes needed for informative quantitative tests of theories about hard-to-reach populations. The budding PSA network saw merit in this project, and at least one journal has agreed, as the project was accepted in principle as a Registered Report at Nature Human Behaviour.\nFour years later and data collection is going strong. As of October 31, 2022, we have recruited 1025 Black college students into our project. This is a stunning accomplishment, and already puts our project among the largest ever studies of stereotype threat among Black American college students. This accomplishment has only been possible due to financial contributions from the project leadership team, which we have redistributed to data collection labs to defray the costs of participant recruitment.\nHowever, 1025 is still short of our goal of a minimum of 2000 participants. We now believe we need crowdfunding to reach our data collection goal.\nYou can donate to this project here. Any donations we receive that exceed our financial need will be donated to the PSA at project’s end, as we have relied heavily on PSA resources to make this project happen.\nHelp us finish an amazing – and, for psychology, historic – project, further demonstrating the potential of big team science for solving some of behavioral science’s most pressing problems.\n\n- The PSA Stereotype Thread administrative team"
+  },
+  {
+    "objectID": "news/2023-02-06_newsletter_feb.html",
+    "href": "news/2023-02-06_newsletter_feb.html",
+    "title": "February News from the Accelerator",
+    "section": "",
+    "text": "quick read\n\nReminder: the PSA has released a second special call for studies related to John Templeton Foundation strategic priorities. project updates Object Orientation Study (PSA-002)\n\nThe 002 team continues to revise the manuscript. The lead team should have full drafts ready to share with the network soon. Gendered Prejudice Study (PSA-003)\nThe 003 team has nearly completed a draft of the manuscript that incorporates the network’s feedback. The lead team should have full drafts ready to share with the network soon. Justified True Belief Study (PSA-004)\nThe manuscript has received an R&R, and the lead team is working on revisions. Stereotype Threat (PSA-005)\nPSA-005 has collected data from over 1,300 participants. Data collection has begun for Spring 2023. Semantic Priming Study (PSA-007)\n37 teams have met the minimum data collection requirements. Additional progress has been made in terms of translation and most languages should be available soon (Hindi, Thai, Slovakian, and Slovenian). We anticipate to have additional labs joining us next semester. If you are interested in becoming a collaborator, or want to learn more about 007, please e-mail the project leads. Minimal Groups Study (PSA-008)\nThe revision of the Stage 1 Registered Report is under review at Nature Human Behaviour. COVID Studies (PSA-CR)\nThe PSA-CR data paper proofs have been received and were sent out to all collaborators. Reminder: Special call for studies on John Templeton Foundation strategic priorities\nThe PSA, supported by the John Templeton Foundation (JTF), welcomes study proposals to test the generalizability of phenomena related to JTF strategic priorities with large, global samples. Optional initial proposals are due by February 15 and required full proposals are due by May 15.\nPlease see the official call announcement for details about proposal requirements, grant support, and the project selection process and timeline. big team science The benefits, barriers, and risk of big team science. Perspective on Psychological Science\nBuild up team science. Nature\nThe Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS\nPsychological Science Accelerator: A promising resource for clinical psychological science. Avoiding Questionable Research Practices in Applied Psychology\ncompleted studies To which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour\nSituational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour\nA multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour\nA global experiment on motivating social distancing during the COVID-19 pandemic. PNAS\nIn COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. Affective Science"
+  },
+  {
+    "objectID": "news/2024-06-01_news_june.html",
+    "href": "news/2024-06-01_news_june.html",
+    "title": "Newsletter June 2024",
+    "section": "",
+    "text": "We’ve added a new section to the newsletter! Check out the member highlights to read more about PSA member achievements!\nMultiple projects are looking for collaborators! For more information on the different projects and how you can contribute, read below!\nReminder that co-directors Erin and Savannah are hosting weekly office hours!\nThe Big Team Science Conference is now accepting submissions for the 2024 conference in October."
+  },
+  {
+    "objectID": "news/2024-06-01_news_june.html#quick-read",
+    "href": "news/2024-06-01_news_june.html#quick-read",
+    "title": "Newsletter June 2024",
+    "section": "",
+    "text": "We’ve added a new section to the newsletter! Check out the member highlights to read more about PSA member achievements!\nMultiple projects are looking for collaborators! For more information on the different projects and how you can contribute, read below!\nReminder that co-directors Erin and Savannah are hosting weekly office hours!\nThe Big Team Science Conference is now accepting submissions for the 2024 conference in October."
+  },
+  {
+    "objectID": "news/2024-06-01_news_june.html#psa-announcements",
+    "href": "news/2024-06-01_news_june.html#psa-announcements",
+    "title": "Newsletter June 2024",
+    "section": "PSA Announcements",
+    "text": "PSA Announcements\n\nErinnah (Erin and Savannah) are hosting weekly office hours on Mondays at 10 am CDT/ 3pm UTC. These are times when members can drop in and chat with the directors about anything. We hope to see you drop in soon! The zoom link and PSA calendar can be found here.\nThe first PSA measurement study has now been published! Click here to read the paper!"
+  },
+  {
+    "objectID": "news/2024-06-01_news_june.html#member-highlights",
+    "href": "news/2024-06-01_news_june.html#member-highlights",
+    "title": "Newsletter June 2024",
+    "section": "Member Highlights",
+    "text": "Member Highlights\n\nPSA member Biljana Gjoneska has recently become an Editorial Board member for the following journals: Journal of Behavioural Addictions, BMC Psychology, PloS ONE, and Discover Psychology. Check out her full post here.\nPSA member Gerit Pfuhl presented the Keynote talk about “Pro’s and Con’s of Big Team Science” at the 3rd annual Norwegian Reproducibility Network Conference!"
+  },
+  {
+    "objectID": "news/2024-06-01_news_june.html#news-in-big-team-science",
+    "href": "news/2024-06-01_news_june.html#news-in-big-team-science",
+    "title": "Newsletter June 2024",
+    "section": "News in Big Team Science",
+    "text": "News in Big Team Science\n\nA group of PSA members are starting a big team project and are looking for collaborators! Here is the projects website, and here is where you can express your interest in collaboration.\nThey plan to submit a Phase 1 Registered Report soon, and in the meantime they hope to start building the collaboration network for this project. = PSA member Patrick Forscher’s team at Busara is hosting this year’s annual meeting for the Society for the Improvement of Psychological Science. You can still register for the conference here!\nIn addition, they will be launching an edited book at the conference focused on a new subdiscipline we are calling “developmental meta-research”, or the intersection of global development and meta-research. The book features 20 pieces focused on this topic. Stay tuned if you’d like to learn more!\nThe Big Team Science Conference is accepting submissions for the 2024 conference in October. We have already confirmed several exciting speakers for the conference!. Please submit by July 31st."
+  },
+  {
+    "objectID": "news/2024-06-01_news_june.html#project-updates",
+    "href": "news/2024-06-01_news_june.html#project-updates",
+    "title": "Newsletter June 2024",
+    "section": "Project Updates",
+    "text": "Project Updates\n\nObject Orientation Study (PSA-002)\n\nThe manuscript is under review at Current Psychology.\n\nGendered Prejudice Study (PSA-003)\n\nThank you to all collaborators who provided comments on the most recent draft of the manuscript. The lead team is incorporating collaborator feedback into the manuscript. They plan to submit to PLOS-One once the draft has been finalized.\n\nStereotype Threat (PSA-005)\n\nData collection for the project has been completed! The lead team will be pulling together the data and the final paper over the next few months.\n\nSemantic Priming Study (PSA-007)\n\nThe lead team is working on revising the Stage 2 manuscript based on collaborator feedback. The updated manuscript should be sent in a few weeks for final checks.\n\nMinimal Groups Study (PSA-008)\n\nData collection continues to expand to more sites and translations have been completed and implemented in several languages.\n\nPSA-JTF-001: Moral Experiences\n\nData collection continues in English and is about to start in other languages. Most of the translations are completed. For more information about the project please see the preprint or email the project leads.\n\nPSA-JTF-002: Dignity Honor Face\n\nThe project has just received ethical approval at the lead institution! The lead team is currently integrating feedback from collaborators on the Stage 1 style manuscript. This project welcomes interested collaborators who can collect data. Interested in learning more and potentially joining? Fill out this survey!\n\nPSA-JTF-003: Error Correction\n\nThe lead team has finished pretesting and finalized materials. Over 160 collaborators have been onboarded to the project. Keep an eye on your inbox if you’ve joined, as we’ll be sharing a Stage 1 Manuscript for feedback today or tomorrow!\nThis project still welcomes interested collaborators who can collect data. Interested in learning more and potentially joining the project? Fill out this survey!\n\nPSA-AF-001: Partner Preferences\n\nThe Stage 2 Registered Report has been submitted to Journal of Personality and Social Psychology!"
+  },
+  {
+    "objectID": "news/2024-06-01_news_june.html#big-team-science",
+    "href": "news/2024-06-01_news_june.html#big-team-science",
+    "title": "Newsletter June 2024",
+    "section": "Big Team Science",
+    "text": "Big Team Science\n\nPsychology should generalize from — not just to — Africa. Nature Reviews Psychology\nHow to build up big team science: a practical guide for large-scale collaborations. Royal Society Open Science.\n‘Big team’ science challenges us to reconsider authorship. Nature Human Behaviour\nThe benefits, barriers, and risk of big team science. Perspective on Psychological Science\nBuild up big team science. Nature\nThe Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS\nPsychological Science Accelerator: A promising resource for clinical psychological science. Avoiding Questionable Research Practices in Applied Psychology"
+  },
+  {
+    "objectID": "news/2024-06-01_news_june.html#completed-studies",
+    "href": "news/2024-06-01_news_june.html#completed-studies",
+    "title": "Newsletter June 2024",
+    "section": "Completed Studies",
+    "text": "Completed Studies\n\nTo which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour\nSituational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour\nA multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic.Nature Human Behaviour\nA global experiment on motivating social distancing during the COVID-19 pandemic. PNAS\nIn COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. Affective Science\nThe Psychological Science Accelerator’s COVID-19 rapid-response dataset. Nature Scientific Data"
+  },
+  {
+    "objectID": "news/2024-07-01_news_july.html",
+    "href": "news/2024-07-01_news_july.html",
+    "title": "Newsletter July 2024",
+    "section": "",
+    "text": "PSA members are invited to participate in a paid metascientific study! Please read below for more information on how to participate.\nSubmissions for the 2024 BTSCON are now open!! Read below for more information.\nReminder that co-directors Erin and Savannah are hosting weekly office hours!"
+  },
+  {
+    "objectID": "news/2024-07-01_news_july.html#quick-read",
+    "href": "news/2024-07-01_news_july.html#quick-read",
+    "title": "Newsletter July 2024",
+    "section": "",
+    "text": "PSA members are invited to participate in a paid metascientific study! Please read below for more information on how to participate.\nSubmissions for the 2024 BTSCON are now open!! Read below for more information.\nReminder that co-directors Erin and Savannah are hosting weekly office hours!"
+  },
+  {
+    "objectID": "news/2024-07-01_news_july.html#psa-announcements",
+    "href": "news/2024-07-01_news_july.html#psa-announcements",
+    "title": "Newsletter July 2024",
+    "section": "PSA Announcements",
+    "text": "PSA Announcements\n\nCalling all PSA members for participation in a metascientific study!\n\nPsychological Science Accelerator (PSA) members are invited to participate in a study examining researcher predictions regarding the generalizability of psychological effects across cultural contexts.\nThe study should take about 15 minutes to complete, and participants may choose to receive a $10 Visa gift card for their participation.\n\n\n\nWho can participate?\n\nThe only criteria for participation is being a PSA member.\n\n\n\nWhat is involved?\n\nIn the study, you will be asked to read a description of an upcoming research project being run by the PSA. Then, you will predict research outcomes from the project. You will also answer a few questions about your predictions and your beliefs about generalizability. Finally, you will answer some questions about yourself.\n\n\n\nInterested in participating?\n\nPlease indicate your interest in participation by submitting this form . Then, we will send you a study link. If you are a collaborator contributing to the PSA-JTF2: Dignity Honor Face project, please see the project email for instructions for participation.\nIf you have any questions, please email psajtf2@gmail.com.\nThank you for your consideration!\n\n\n\nPSA Office Hours\n\nErinnah (Erin and Savannah) are hosting weekly office hours on Mondays at 10 am CDT/ 3pm UTC. These are times when members can drop in and chat with the directors about anything. We hope to see you drop in soon! The zoom link and PSA calendar can be found here."
+  },
+  {
+    "objectID": "news/2024-07-01_news_july.html#member-highlights",
+    "href": "news/2024-07-01_news_july.html#member-highlights",
+    "title": "Newsletter July 2024",
+    "section": "Member Highlights",
+    "text": "Member Highlights\n\nPSA member Patrick Forscher’s meta-research team at Busara has now published its edited book on “developmental meta-research”, or a new subdiscipline comprising the intersection between global development and meta-research. The edited book contains 20 essays, including several on the promise and pitfalls of big team science in low and middle income countries. Many of the essays were, in fact, written by current or former members of the PSA, including Dana Basnight-Brown, Adeyemi Adetula, Miguel Silan, Max Primbs, and Flavio Azevedo.\nThe book is available now, either for free as an online PDF or as a hard copy on Amazon, and is accessible via the Busara website ."
+  },
+  {
+    "objectID": "news/2024-07-01_news_july.html#news-in-big-team-science",
+    "href": "news/2024-07-01_news_july.html#news-in-big-team-science",
+    "title": "Newsletter July 2024",
+    "section": "News in Big Team Science",
+    "text": "News in Big Team Science\n\nSubmissions for the 2024 BTSCON are OPEN NOW! Much more information is available on our website, and the deadline for submissions is July 31. Registration (as always, fee optional!) will open soon. Please help us spread the word to your networks and colleagues!\nMany of us are reading this new team science paper in Science: Team scientists should normalize disagreement!\nA group of PSA members are starting a big team project and are looking for collaborators! Here is the projects website, and here is where you can express your interest in collaboration.\nThey plan to submit a Phase 1 Registered Report soon, and in the meantime they hope to start building the collaboration network for this project."
+  },
+  {
+    "objectID": "news/2024-07-01_news_july.html#project-updates",
+    "href": "news/2024-07-01_news_july.html#project-updates",
+    "title": "Newsletter July 2024",
+    "section": "Project Updates",
+    "text": "Project Updates\n\nObject Orientation Study (PSA-002)\n\nThe manuscript is under review at Current Psychology.\n\nGendered Prejudice Study (PSA-003)\n\nThe lead team is finalizing the manuscript after the last round of feedback. They anticipate submission of the manuscript to PLOS-One within the next two weeks.\n\nStereotype Threat (PSA-005)\n\nData collection for the project has been completed! The lead team will be pulling together the data and the final paper over the next few months.\n\nSemantic Priming Study (PSA-007)\n\nPSA 007 has been finalized and authors are being added to the Nature Human Behavior system for submission!\n\nMinimal Groups Study (PSA-008)\n\nData collection continues as more translations are finalized. For more information about the project, please see the preprint or email psa-008@googlegroups.com.\n\nPSA-JTF-001: Moral Experiences\n\nData collection continues and has expanded to more sites and languages. For more information about the project, please see the preprint or email the project leads.\n\nPSA-JTF-002: Dignity Honor Face\n\nThe lead team has integrated feedback from collaborators on the Stage 1 style manuscript, and ethics and translation will begin very soon. This project welcomes interested collaborators who can collect data. Interested in learning more and potentially joining? Fill out this survey!\n\nPSA-JTF-003: Error Correction\n\nThe lead team shared a Stage 1 RR-Style Manuscript with the full project team and received feedback that they are now integrating into an updated draft.\nPreparations for data collection launch will start soon, and the project still welcomes interested collaborators who can collect data. Interested in learning more and potentially joining the project? Fill out this survey!\n\nPSA-AF-001: Partner Preferences\n\nThe Stage 2 Registered Report has been submitted to Journal of Personality and Social Psychology!"
+  },
+  {
+    "objectID": "news/2024-07-01_news_july.html#big-team-science",
+    "href": "news/2024-07-01_news_july.html#big-team-science",
+    "title": "Newsletter July 2024",
+    "section": "Big Team Science",
+    "text": "Big Team Science\n\nPsychology should generalize from — not just to — Africa. Nature Reviews Psychology\nHow to build up big team science: a practical guide for large-scale collaborations. Royal Society Open Science.\n‘Big team’ science challenges us to reconsider authorship. Nature Human Behaviour\nThe benefits, barriers, and risk of big team science. Perspective on Psychological Science\nBuild up big team science. Nature\nThe Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS\nPsychological Science Accelerator: A promising resource for clinical psychological science. Avoiding Questionable Research Practices in Applied Psychology"
+  },
+  {
+    "objectID": "news/2024-07-01_news_july.html#completed-studies",
+    "href": "news/2024-07-01_news_july.html#completed-studies",
+    "title": "Newsletter July 2024",
+    "section": "Completed Studies",
+    "text": "Completed Studies\n\nTo which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour\nSituational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour\nA multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic.Nature Human Behaviour\nA global experiment on motivating social distancing during the COVID-19 pandemic. PNAS\nIn COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. Affective Science\nThe Psychological Science Accelerator’s COVID-19 rapid-response dataset. Nature Scientific Data"
+  },
+  {
+    "objectID": "news/2024-11-02_November-Newsletter.html",
+    "href": "news/2024-11-02_November-Newsletter.html",
+    "title": "November News from the Accelerator",
+    "section": "",
+    "text": "November Newsletter from the PSA"
+  },
+  {
+    "objectID": "news/2024-11-02_November-Newsletter.html#quick-read",
+    "href": "news/2024-11-02_November-Newsletter.html#quick-read",
+    "title": "November News from the Accelerator",
+    "section": "Quick Read",
+    "text": "Quick Read\n\nPSA newly elected associate directors are on board!\nSeveral PSA studies are seeking collaborators globally to join and collect data: PSA-009 Gendered Leader, JTF-002 Dignity Honor Face, and JTF-003 Error Correction!"
+  },
+  {
+    "objectID": "news/2024-11-02_November-Newsletter.html#psa-news",
+    "href": "news/2024-11-02_November-Newsletter.html#psa-news",
+    "title": "November News from the Accelerator",
+    "section": "PSA News",
+    "text": "PSA News\nThe PSA Call for Studies 2024. Submit your proposal by December 5th for full consideration. Read our Call for Studies document, or watch the video-recordings of our workshops on Youtube. For inquiries, email psysciaccelerator@gmail.com with subject line “Call for Studies Questions”.\nOur newly elected associate directors, Ekaterina Pronizius and John Protzko have started their two-year terms on November 1st.\nWelcome to many new members who have joined the PSA from all over the world! Are you looking to get more actively involved? Complete your PSA Membership profile on Canvas so that we can proactively reach out for collaboration or reviewing opportunities that match your research interests and expertise. Drop in at our directors’ weekly office hour on Mondays, or email psysciaccelerator@gmail.com with questions. Find the Zoom link in the calendar here.\nNews from Big Team Science\nDid you know that researchers from the Global South are less likely to be first authors of behavioral science publications?\nNairobi, Kenya-headquartered Busara Center has launched the Missing Majority Dashboard, a tool that highlights disparities in behavioral science research. Drawing data from the OpenAlex database, the tool offers interactive, automatically updating charts and tables that expose significant disparities in the first authors of behavioral science papers. The Missing Majority Dashboard has been co-created by Patrick Forscher and Rémi Thériault.\nPSA member Sergio Barbosa de la Torre was a guest on the Ética Psiempre podcast, speaking about Big Team Science. Listen in Spanish on Spotify, visit the Ética Psiempre website. Subtitles in many languages can be found on Youtube."
+  },
+  {
+    "objectID": "news/2024-11-02_November-Newsletter.html#featured-event",
+    "href": "news/2024-11-02_November-Newsletter.html#featured-event",
+    "title": "November News from the Accelerator",
+    "section": "Featured Event",
+    "text": "Featured Event\nSIPS 2025 Pre-Conference Discussion: What went wrong? How can we do it better?\nIn 2025, the Society for the Improvement of Psychological Sciences (SIPS) will hold its 10th annual meeting!\nSeveral early reformers will discuss challenges and improvements in psychological science. Invited speakers include: SIPS co-founders Simine Vazire, Professor at the University of Melbourne, and Brian Nosek, Executive Director of the Center for Open Science; Dorothy Bishop, University of Oxford. Also featuring co-founders of Data Colada Joseph Simmons, Professor at the University of Pennsylvania, and Leif Nelson, Professor at UC Berkeley. The event is moderated by Balazs Aczel, ELTE, host of SIPS 2025 in Budapest, Hungary.\nFind out more about the event and register here."
+  },
+  {
+    "objectID": "news/2024-11-02_November-Newsletter.html#project-updates",
+    "href": "news/2024-11-02_November-Newsletter.html#project-updates",
+    "title": "November News from the Accelerator",
+    "section": "Project Updates",
+    "text": "Project Updates\n\nObject Orientation Study (PSA-002): The manuscript is under review at Current Psychology.\nGendered Prejudice Study (PSA-003): The manuscript is under review at PLOS ONE.\nJustified True Belief Study (PSA-004): The paper has been published in AMPPS.\nStereotype Threat Study (PSA-005): We are working on the final data analysis for the full manuscript.\nSemantic Priming Study (PSA-007): The manuscript is under review at Nature Human Behaviour.\nMinimal Groups Study (PSA-008): Data collection is ongoing in 14 countries, and the project has collected data from over 4000 participants. More sites and countries will soon begin their recruitment as translations become available.\nGendered Leader (PSA-009): In a second phase of collaborator recruitment, we invite labs to join us in collecting data in 25 countries. Specifically in these languages (locations): Armenian (Armenia), Danish (Denmark), Dutch (Netherlands), English (US, Australia, Nigeria, Kenya), Finnish (Finland), French (Morocco), Japanese (Japan), Korean (South Korea), Norwegian (Norway), Persian (Iran), Portuguese (Portugal, Brazil), Romanian (Romania), Serbian (Serbia), Slovak (Slovakia), Spanish (Argentina, Colombia, Mexico), Swedish (Sweden), Thai (Thailand), Urdu (Pakistan), and Vietnamese (Vietnam). Complete the interest survey by 10 November.\nMoral Experiences (PSA-JTF-001): Data collection continues! The project welcomes new collaborators who can collect data, especially community samples, in France, Japan, Malaysia, Morocco, Saudi Arabia, or the United Kingdom. Please email psajtf1@gmail.com if you’re interested, and see the preprint for more information.\nDignity Honor Face (PSA-JTF-002): Data collection in English and the translation process are both underway, and we have already met our target sample size for the USA. We are still actively seeking collaborators in a list of countries, please see our interest survey for the full list. Join us!\nError Correction (PSA-JTF-003): We are making preparations to start data collection! The project welcomes collaborators who can collect data. Interested? Fill out this interest survey."
+  },
+  {
+    "objectID": "news/2025-01-06_January-Newsletter.html",
+    "href": "news/2025-01-06_January-Newsletter.html",
+    "title": "January News from the Accelerator",
+    "section": "",
+    "text": "January Newsletter from the PSA"
+  },
+  {
+    "objectID": "news/2025-01-06_January-Newsletter.html#quick-read",
+    "href": "news/2025-01-06_January-Newsletter.html#quick-read",
+    "title": "January News from the Accelerator",
+    "section": "Quick Read",
+    "text": "Quick Read\nDirectors review 2024 success, plus career news, project updates"
+  },
+  {
+    "objectID": "news/2025-01-06_January-Newsletter.html#an-exciting-year-to-come",
+    "href": "news/2025-01-06_January-Newsletter.html#an-exciting-year-to-come",
+    "title": "January News from the Accelerator",
+    "section": "2025: AN EXCITING YEAR TO COME!",
+    "text": "2025: AN EXCITING YEAR TO COME!\nAs we close out the year, we are thrilled to reflect on the many accomplishments and milestones achieved by the PSA. This year has been one of tremendous growth, collaboration, and progress, and we could not have done it without the hard work and dedication of our incredible research network. Here are some of the highlights:"
+  },
+  {
+    "objectID": "news/2025-01-06_January-Newsletter.html#key-accomplishments",
+    "href": "news/2025-01-06_January-Newsletter.html#key-accomplishments",
+    "title": "January News from the Accelerator",
+    "section": "Key Accomplishments",
+    "text": "Key Accomplishments\n\nSuccessful BTS Conference: The 2024 conference was a resounding success, bringing together researchers, collaborators, and enthusiasts to discuss and advance critical topics in the field. The event was a testament to the power of collaboration and shared purpose.\nExpanded Leadership Team: We welcomed two new directors, two associate directors, and four assistant directors to our leadership team. Their expertise and enthusiasm have already begun to make a significant impact on the PSA’s work and direction.\nMembership Growth: We were delighted to see 862 new members join our Canvas platform, further expanding our community of researchers and collaborators.\nPublications and Submissions:\n\nTwo studies (PSA 004 & PSA DM) were successfully published this year, showcasing the impactful research conducted by PSA.\nTwo additional studies (PSA 003 & 007) were submitted for publication, and PSA003 recently received a revise and resubmit decision at PLoS One —an exciting step forward for our collaborators. PSA002 is still under review at Current Psychology.\n\nOfficial Non-Profit Status: A major milestone this year was becoming an official non-profit organization. This achievement has provided us with our own bank account and financial freedoms, allowing us to manage our resources more effectively and expand our initiatives.\nBTS Proposals Workshop: We hosted an 8-week workshop on BTS (Big Team Science) proposals, fostering skill development and providing valuable guidance to participants. The workshop was met with enthusiastic participation and positive feedback.\n\nLooking Ahead The coming year promises to be just as exciting, with plans already underway for:\n\nNew Projects: With a growing network and increased capacity, we look forward to offering more opportunities for researchers to participate in impactful projects. We aim to launch six new projects, broadening the scope of our research and the opportunities for involvement.\nPolicy Development: Anticipate new policies that will enhance our operations and support our mission.\nIncreased Engagement Opportunities: We are committed to creating more ways for members to engage with the consortium, collaborate with peers, and contribute to meaningful research.\n\nAs we celebrate this year’s accomplishments, we remain deeply grateful for our vibrant network. Together, we are making significant strides in advancing research and creating meaningful change. Here’s to another year of growth and success!\nErin and Savannah"
+  },
+  {
+    "objectID": "news/2025-01-06_January-Newsletter.html#congratulations-sav",
+    "href": "news/2025-01-06_January-Newsletter.html#congratulations-sav",
+    "title": "January News from the Accelerator",
+    "section": "Congratulations, Sav!",
+    "text": "Congratulations, Sav!\nPSA director Savannah C. Lewis recently completed her master’s degree and walked across the stage."
+  },
+  {
+    "objectID": "news/2025-01-06_January-Newsletter.html#career-opportunity",
+    "href": "news/2025-01-06_January-Newsletter.html#career-opportunity",
+    "title": "January News from the Accelerator",
+    "section": "CAREER OPPORTUNITY",
+    "text": "CAREER OPPORTUNITY\nPostdoc position at University of York: Apply by Jan 13\nPSA member and JTF2 project lead Lusine Grigoryan is recruiting a full-time Postdoctoral Research Associate to work on a project funded by the European Research Council (ERC) Starting Grant: “The many faces of prejudice: the ‘what’, the ‘why’, and the ‘how’ of inferences we make from membership in social groups”. See the recruitment ad here and apply now!"
+  },
+  {
+    "objectID": "news/2025-01-06_January-Newsletter.html#news-in-big-team-science",
+    "href": "news/2025-01-06_January-Newsletter.html#news-in-big-team-science",
+    "title": "January News from the Accelerator",
+    "section": "NEWS IN BIG TEAM SCIENCE",
+    "text": "NEWS IN BIG TEAM SCIENCE\nPSA in the press: APA Monitor on Psychology\nSeveral PSA members are quoted in the article Psychology takes a global view, in the January 2025 issue of Monitor on Psychology , published by the American Psychological Association (APA)."
+  },
+  {
+    "objectID": "news/2025-01-06_January-Newsletter.html#project-update---manuscript-revision",
+    "href": "news/2025-01-06_January-Newsletter.html#project-update---manuscript-revision",
+    "title": "January News from the Accelerator",
+    "section": "PROJECT UPDATE - MANUSCRIPT REVISION",
+    "text": "PROJECT UPDATE - MANUSCRIPT REVISION\n003 Gendered Prejudice\nWe received a revise-and-resubmit from PLOS One. The reviews are available on the Slack channel. We have a very short turnaround time for the review; revisions are requested by the end of January.\nIf you have thoughts on how to address the reviews, please share them on Slack or email psycsciacc002003@gmail.com."
+  },
+  {
+    "objectID": "news/2025-01-06_January-Newsletter.html#project-updates",
+    "href": "news/2025-01-06_January-Newsletter.html#project-updates",
+    "title": "January News from the Accelerator",
+    "section": "PROJECT UPDATES",
+    "text": "PROJECT UPDATES\n002 Object Orientation\nOur manuscript is currently under review at Current Psychology.\n005 Stereotype Threat\nWe are working on the final analyses and robustness checks.\n007 Semantic Priming\nWe are still waiting for feedback from Nature Human Behaviour.\n008 Minimal Groups\nData collection continues! We now have data from 25 countries across all populated continents and nearly 10,000 participants.\n009 Gendered Leadership\nWe completed our second phase of collaborator recruitment.\nJTF1 Moral Experience\nOf the 20 countries in our sample, data collection is complete in 3 countries and almost done in 5 others. So far, we have collected data from over 4000 participants.\nRead more in our preprint\nJTF2 Dignity Honor Face\nWe have now collected data from over 3500 participants (including both student and community samples) in 9 countries! We are now testing in 4 languages with many more on the way.\nRead more in our preprint\nJTF3 Error Correction\nWe are preparing to start data collection and translation. Interested in joining us?\nRead more in the interest survey"
+  },
+  {
+    "objectID": "news/2025-03-06_March-Newsletter.html",
+    "href": "news/2025-03-06_March-Newsletter.html",
+    "title": "March News from the Accelerator",
+    "section": "",
+    "text": "PSA newsletter March 2025"
+  },
+  {
+    "objectID": "news/2025-03-06_March-Newsletter.html#quick-read",
+    "href": "news/2025-03-06_March-Newsletter.html#quick-read",
+    "title": "March News from the Accelerator",
+    "section": "Quick read",
+    "text": "Quick read\n\nThe PSA-JTF1 Moral Experiences project is seeking collaborators in data coding and validation (secondary data collection) in 19 countries.\nPSA 009 is seeking new collaborators for select languages: Armenian, Filipino, Romanian, Spanish (Argentina, Colombia, Mexico), Vietnamese, and Urdu.\nA busy month for PSA members at the SPSP conference, and beyond!\n\n\nSPSP Roundup\nGreat to see several of our fantastic PSA members presenting at the annual Society for Personality and Social Psychology (SPSP) convention in Denver, Colorado! The conference featured outstanding contributions from many Accelerators, including Sergio Barbosa, Barnabas Szaszi, Jing Lin, Shuxian Jin, Nicholas Coles, and Karen Akin, who shared their important research through engaging talks and posters. It was truly inspiring to see PSA members making such a powerful impact and showcasing the incredible work being done within the PSA community!\nBuilding on this momentum, PSA director Savannah Lewis and Assistant Director Nadia Corral Frias led a thought-provoking roundtable on improving representation, access, and justice in psychological science.\nA big shoutout to Valerie Jones Taylor PSA 005 - Stereotype Threat project for representing the PSA 005 team and sharing our findings to a packed audience! Your presentation was a standout and a great reflection of the hard work put into the project."
+  },
+  {
+    "objectID": "news/2025-03-06_March-Newsletter.html#psa-member-update",
+    "href": "news/2025-03-06_March-Newsletter.html#psa-member-update",
+    "title": "March News from the Accelerator",
+    "section": "PSA Member Update",
+    "text": "PSA Member Update\nA round of congratulations to our members around the world. In Italy, Maria Montefinese was elected as a member of the steering committee for the Italian Reproducibility Network for the 2025-2026 term. 🌍\nCongrats to Peter Adu , originally from Ghana, who has started a postdoctoral position at McGill University, in the Department of Social and Cultural Psychiatry under the supervision of Cécile Rousseau. Peter was most recently at Victoria University of Wellington, New Zealand, and just relocated to Montreal. ✈️\nAnd a round of applause to Ayse Uskul for winning the SPSP Outstanding Contribution to Cultural Psychology Award ! 🏆"
+  },
+  {
+    "objectID": "news/2025-03-06_March-Newsletter.html#whats-new-in-big-team-science",
+    "href": "news/2025-03-06_March-Newsletter.html#whats-new-in-big-team-science",
+    "title": "March News from the Accelerator",
+    "section": "WHAT’S NEW IN BIG TEAM SCIENCE",
+    "text": "WHAT’S NEW IN BIG TEAM SCIENCE\nManyManys, the Big Team Science network, is dedicated to investigating cognition and behavior across species. They are hosting a series of open webinars exploring how reversal learning can be implemented with different taxa. Register in this Google Form or email themanymanys1@gmail.com."
+  },
+  {
+    "objectID": "news/2025-03-06_March-Newsletter.html#psa-projects-collaboration-opportunities",
+    "href": "news/2025-03-06_March-Newsletter.html#psa-projects-collaboration-opportunities",
+    "title": "March News from the Accelerator",
+    "section": "PSA PROJECTS COLLABORATION OPPORTUNITIES",
+    "text": "PSA PROJECTS COLLABORATION OPPORTUNITIES\n\nPSA-JTF1 Moral Experiences\nWe are seeking new collaborators in Australia, Argentina, Brazil, China, Colombia, France, Greece, India, Indonesia, Japan, Kenya, Malaysia, Morocco, Nigeria, Pakistan, Poland, Saudi Arabia, Turkey, the United States (validation only), and the United Kingdom to help with next steps of the project: data coding and validation (secondary data collection). Learn more and express your interest HERE!\n\n\nPSA 009 Gendered Leader\nPSA 009 Gendered Leader is seeking collaborators only for the following countries/languages:\n\nArmenian (Armenia)\nFilipino (the Philippines)\nRomanian (Romania)\nSpanish (Argentina, Colombia, Mexico)\nVietnamese (Vietnam)\nUrdu (Pakistan)\n\nPlease note that we have closed submissions for all other languages, and only researchers from the countries listed above should apply. If you are interested and meet the criteria, please reach out at psa.project.009@gmail.com."
+  },
+  {
+    "objectID": "news/2025-03-06_March-Newsletter.html#psa-project-updates",
+    "href": "news/2025-03-06_March-Newsletter.html#psa-project-updates",
+    "title": "March News from the Accelerator",
+    "section": "PSA PROJECT UPDATES",
+    "text": "PSA PROJECT UPDATES\n\n002 Object Orientation\n002 has received reviews from Current Psychology. You can check out the reviews here. The lead team is working on a revision that addresses the reviewers’ comments. If you have comments or questions about how to address these reviews, you can send them to psycsciacc002003@gmail.com. Look for an email from the PM asking for any final adjustments to the author list and affiliation information.\n\n\n003 Gendered Prejudice\nThe revised manuscript has been resubmitted to PLOS One.\n\n\n005 Stereotype Threat\nWe have finished final analyses and robustness checks! Valerie (Co-Project Leader) gave a great talk at SPSP which showcased our findings.\n\n\n007 Semantic Priming\nWe are working on addressing feedback from NHB reviewers on our Stage 2 Registered Report.\n\n\n008 Minimal Groups\nWe have collected over 12,000 participants across more than 30 countries, over half of which have met the within-country sample size goal of 200. If you can collect data in a country that is not represented or has yet not met the target see tracker, please reach out: psa-008@googlegroups.com.\n\n\n009 Gendered Leadership\nMost languages are now launched! The project team will send survey links to remaining labs as soon as they upload evidence of ethics. We are using this opportunity to remind all team members to complete the ethics quiz on Canvas.\n\n\nJTF2 Dignity Honor Face\nData collection has been going very well. We have now collected data from over 11000 participants (including both student and community samples) in 29 countries! You can track our data collection here. The majority of translation is completed, with translations wrapping up in a handful of languages.\nRead more in our preprint\n\n\nJTF3 Error Correction\nEarly data collection is going quite well, with over 1,500 total participants across 10 countries thus far! We are working on translating materials into as many requested languages as possible to roll out data collection in a wider set of locations and labs very soon.\nRead more in our preprint"
+  },
+  {
+    "objectID": "news/2025-03-06_March-Newsletter.html#get-involved-in-the-psa",
+    "href": "news/2025-03-06_March-Newsletter.html#get-involved-in-the-psa",
+    "title": "March News from the Accelerator",
+    "section": "Get involved in the PSA",
+    "text": "Get involved in the PSA\nJoin us on Slack, or drop by our Directors’ Office Hours (Mondays at 2pm UTC, Zoom link."
+  },
+  {
+    "objectID": "news/2025-04-06_April-Newsletter.html",
+    "href": "news/2025-04-06_April-Newsletter.html",
+    "title": "April News from the Accelerator",
+    "section": "",
+    "text": "PSA newsletter April 2025"
+  },
+  {
+    "objectID": "news/2025-04-06_April-Newsletter.html#quick-read",
+    "href": "news/2025-04-06_April-Newsletter.html#quick-read",
+    "title": "April News from the Accelerator",
+    "section": "Quick read",
+    "text": "Quick read\n\nStudies are ready for network evaluation by April 20th!\nGrant initiative from the PSA and Gorilla Experiment Builder. Deadline to apply is April 20th!\nJTF1 Moral Experiences is still seeking new collaborators to help with coding and validation.\n\n\nNetwork Evaluations\nPSA members are invited to evaluate PSA study proposals\nAs part of the current PSA call for studies, we invite all PSA members to help evaluate submitted proposals. Your feedback is essential! You will help us identifying projects that are feasible, collaborative, and exciting for the network!\nThere are 8 proposals available for your evaluation. Feel free to respond to as many or as few proposals as you’d like. For each, we’ll ask about your potential to collect data, interest in contributing beyond data collection, and your overall impression of the project’s potential. Network evaluations are open through April 20. Thank you for helping shape the future of PSA research!\nReminder you must login to canvas before navigating to this link to review submissions! https://canvas.psysciacc.org/courses/1/quizzes/316\n\n\nUnlock your success with the Gorilla & PSA Grant Initiative:\nExclusive opportunity for PSA members!\nGorilla Experiment Builder empowers students and professionals to design and manage online psychology and behavioral studies effortlessly—without requiring a single line of code. This grant initiative will help passionate researchers bring their ideas to life, equipping them with the tools needed to design and execute high-quality, innovative studies."
+  },
+  {
+    "objectID": "news/2025-04-06_April-Newsletter.html#how-to-apply",
+    "href": "news/2025-04-06_April-Newsletter.html#how-to-apply",
+    "title": "April News from the Accelerator",
+    "section": "How to Apply",
+    "text": "How to Apply\nApplications will be anonymized and reviewed by a panel of experts. Each submission will be evaluated within 2-3 weeks after the deadline based on the following criteria:\n\nMotivation – Is the study well-supported by literature?\nFeasibility – Can the study be effectively implemented in Gorilla?\nContent Interest – Will the study generate engaging content for social media and webinars?\n\nThe top five proposals will be selected as winners, with the top 15% of applicants recognized as runners-up. The 15-20 runners-up will also receive exclusive discounts!\nThis is a fantastic opportunity to gain access to cutting-edge research tools, funding, and greater visibility for your work. Feel free to Email the directors if you have any questions!\nThis exclusive opportunity is available to current PSA members (defined as member before announcement on March 21, 2025).\nApply now: https://gorilla.sc/grants/\nDeadline : April 20, 2025 🏆🏆🏆\n5 winners will receive a Gorilla standard subscription, $250 cash, study mapping session, and dedicated support for account setup"
+  },
+  {
+    "objectID": "news/2025-04-06_April-Newsletter.html#psa-member-update",
+    "href": "news/2025-04-06_April-Newsletter.html#psa-member-update",
+    "title": "April News from the Accelerator",
+    "section": "PSA Member Update",
+    "text": "PSA Member Update\nA🌍 PSA member Hu Chuan-Peng led a collaborative paper titled ” Open Science in the Developing World: A Collection of Practical Guides for Researchers in Developing Countries “, where the co-authors summarized the barriers they face in developing countries and provided a four-step guide for researchers in a resource-constrained context. Read more in the preprint\n🔎 PSA members Max Korbmacher, Thomas Rhys Evans, Flavio Azevedo and Charlotte Pennington published ” International initiatives to enhance awareness and uptake of open research in psychology: a systematic mapping review ” in Royal Society Open Science. The review identified a total of 187 initiatives in open research in psychology: 30 were procedural (e.g., toolkits, resources, software), 70 structural (e.g., policies, strategies, frameworks) and 87 community-based (e.g. working groups, networks). Read more"
+  },
+  {
+    "objectID": "news/2025-04-06_April-Newsletter.html#psa-project-updates",
+    "href": "news/2025-04-06_April-Newsletter.html#psa-project-updates",
+    "title": "April News from the Accelerator",
+    "section": "PSA PROJECT UPDATES",
+    "text": "PSA PROJECT UPDATES\n\n002 Object Orientation\n002 has responded to the reviews from Current Psychology.\n\n\n003 Gendered Prejudice\nThe revised manuscript has been resubmitted to PLOS One.\n\n\n005 Stereotype Threat\nWe have finished final analyses and robustness checks.\n\n\n007 Semantic Priming\nThe lead team has resubmitted our final manuscript to Nature Human Behavior.\n\n\n008 Minimal Groups\nWe have now collected data from over 14,000 participants across more than 30 countries, over half of which have met the within country sample size goal of 200. If you can collect data in a country that is not represented or has yet not met the target see tracker, please reach out: psa-008@googlegroups.com.\n\n\n009 Gendered Leadership\nWe’ve reached over 6,000 participants, after exclusions (14 countries and 11 languages)! We are expecting most other languages to kick off very soon!\n\n\nJTF1 Moral Experiences\nPrimary data collection is complete in 19 out of 20 countries! Next steps in data coding and validation: We are still seeking new collaborators in Australia, Argentina, Brazil, China, Colombia, France, Greece, India, Indonesia, Japan, Kenya, Malaysia, Morocco, Nigeria, Pakistan, Poland, Saudi Arabia, and the United Kingdom to help with data coding and validation (secondary data collection). Learn more and express your interest HERE ! You can also email with questions.\n\n\nJTF2 Dignity Honor Face\nWe have now collected data from over 18000 participants in 42 countries! You can track our data collection here.\n\n\nJTF3 Error Correction\nEarly data collection is going well, with over 3,000 participants across 14 countries thus far! We are working on translating materials into as many requested languages as possible to roll out data collection in a wider set of locations and labs very soon.\nRead more in our preprint"
+  },
+  {
+    "objectID": "news/2025-04-06_April-Newsletter.html#get-involved-in-the-psa",
+    "href": "news/2025-04-06_April-Newsletter.html#get-involved-in-the-psa",
+    "title": "April News from the Accelerator",
+    "section": "Get involved in the PSA",
+    "text": "Get involved in the PSA\nJoin us on Slack, or drop by our Directors’ Office Hours (Mondays at 2pm UTC, Zoom link."
+  },
+  {
+    "objectID": "news/2025-06-06_June-Newsletter.html",
+    "href": "news/2025-06-06_June-Newsletter.html",
+    "title": "June News from the Accelerator",
+    "section": "",
+    "text": "June Newsletter from the PSA"
+  },
+  {
+    "objectID": "news/2025-06-06_June-Newsletter.html#quick-read",
+    "href": "news/2025-06-06_June-Newsletter.html#quick-read",
+    "title": "June News from the Accelerator",
+    "section": "Quick Read",
+    "text": "Quick Read\n\nFour new projects to enter the next phase in the PSA study pipeline!\nThe Directors announce the winners of the Gorilla & PSA Grant Initiative!\nTwo PSA projects have been officially accepted for publication! Great work to all collaborators of the Semantic Priming (PSA 007) and Gendered Prejudice (PSA 003) projects!"
+  },
+  {
+    "objectID": "news/2025-06-06_June-Newsletter.html#new-psa-studies-in-progress",
+    "href": "news/2025-06-06_June-Newsletter.html#new-psa-studies-in-progress",
+    "title": "June News from the Accelerator",
+    "section": "New PSA Studies in Progress!",
+    "text": "New PSA Studies in Progress!\nWe’re excited to announce that the following studies are now entering the next phase in the PSA’s study pipeline:\n\nGlobal Crises\nEmotion Differentiation\nAWE\nSocial Evaluation\n\nNow the proposing authors have six months to complete their revisions and submit the study for final approval. They will then enter into a collaborative planning process with the directors to identifies the logistical, methodological, and recruitment needs of their study needs from our network before starting recruitment. This process is called the PSA Needs Assessment phase and ensures that each project is ready to succeed as a global collaboration by matching them with the right resources and support.\nStay tuned for updates on these exciting new studies! 🚀\n\nJoin the PSA’s Community Building & Network Expansion Committee!\nAre you interested in helping grow a global, collaborative scientific community? The Psychological Science Accelerator (PSA) is looking for new members to join our Community Building and Network Expansion Committee!\nThis committee focuses on strengthening connections within the PSA and expanding our network around the world. Whether you’re excited about outreach, welcoming new members, organizing events, or building partnerships, this is a great opportunity to get involved. No prior committee experience required, just enthusiasm and a willingness to help. To express interest, simply email Nadia Sarai Corral Frías (Assistant Director).\nHelp us build bridges and expand the reach of psychological science!\n\n\nAnnouncing the Winners of the Gorilla & PSA Grant Initiative\nThe PSA directors are thrilled to announce the recipients of the Gorilla x PSA Grant Initiative! These five outstanding researchers impressed our panel with their innovative research ideas and dedication to advancing behavioral science.\nCongratulations to:\n\nBrendan Schuetze\nSophie Gerdel\nPiotr\nIlaria Colpizzi\nAdrianne J. R. Galang\n\nThe PSA is incredibly proud to support their work and can’t wait to see the exciting studies they create using Gorilla’s powerful experiment builder.\nThank you to everyone who applied, Erin and Savannah really enjoyed reading the cool work happening in our network, and look forward to supporting even more researchers in the future."
+  },
+  {
+    "objectID": "news/2025-06-06_June-Newsletter.html#psa-project-updates",
+    "href": "news/2025-06-06_June-Newsletter.html#psa-project-updates",
+    "title": "June News from the Accelerator",
+    "section": "PSA PROJECT UPDATES",
+    "text": "PSA PROJECT UPDATES\n\n002 Object Orientation\nThe lead team has resubmitted the manuscript after making some revisions to Current Psychology.\nRead more in our preprint\n\n\n003 Gendered Prejudice\nThe manuscript has officially been accepted for print at PLOS ONE! Congratulations to all for your continued patience and perseverance in the past 7 years! Be on the lookout for the final version soon.\nRead more in our preprint\n\n\n005 Stereotype Threat\nThe PSA 005 lead team has finished final analyses and robustness checks. All authors should also now be listed on the preprint on PsyArXiv.\nRead more in our preprint\n\n\n007 Semantic Priming\nThe manuscript has officially been accepted for print at Nature Human Behaviour! Congratulations to all and thank you for the putting in the time and effort to get this project across the finish line! Be on the lookout for the final version soon.\nRead more in our preprint\n\n\n008 Minimal Groups\nData collection continues! We have gathered data from over 16500 participants across 37 countries, 25 of which have met the within country sample size goal of 200.\nRead more in our preprint\n\n\n009 Gendered Leadership\nThe project has been developing smoothly. Data have been collected in 20 countries (15 languages). At the moment, we collected data from over 30000 participants. We are working towards 26 countries (31 languages).\nRead more in our preprint\n\n\nJTF1 Moral Experiences\nPrimary data collection is complete! Data coding is nearly done, secondary data collection is progressing quickly, and the manuscript update is coming along nicely.\nRead more in our preprint\n\n\nJTF2 Dignity Honor Face\nJTF2 has now collected data from over 22000 participants! Thanks to everyone for their collaboration thus far.\nRead more in our preprint\n\n\nJTF3 Error Correction\nEarly data collection is going well, with over 3,600 participants across 15 countries thus far! Great effort to those who have collaborated so far.\nRead more in our preprint"
+  },
+  {
+    "objectID": "news/2025-06-06_June-Newsletter.html#get-involved-in-the-psa",
+    "href": "news/2025-06-06_June-Newsletter.html#get-involved-in-the-psa",
+    "title": "June News from the Accelerator",
+    "section": "Get involved in the PSA",
+    "text": "Get involved in the PSA\nJoin us on Slack, or drop by our Directors’ Office Hours (Mondays at 2pm UTC, Zoom link)."
+  },
+  {
+    "objectID": "news/2025-08-06_August-Newsletter.html",
+    "href": "news/2025-08-06_August-Newsletter.html",
+    "title": "August News from the Accelerator",
+    "section": "",
+    "text": "BTSCON2025 (hosted virtually from Oct 6-8) is has extended the deadline for session submissions to August 8th.\nPSA 009 lead team conducting the prize draw (and informing the relevant labs) this week for their project!\nPSA 002 has been accepted for publication in Current Psychology.\n\n\n\n\nDo you have a big team science project or an idea on how to make team science collaborations more efficient? You should submit it a session for this year’s BTSCON2025. BTSCON2025 has has extended the deadline for session submissions to August 8th.\nBTSCON2025 will be held virtually from October 6–8, 2025. This interdisciplinary event brings together researchers, funders, and stakeholders from around the world to discuss the opportunities, challenges, and future directions of big team science. As always, the conference will center inclusivity, transparency, and collaboration across fields.\n🔗 Learn more and spread the word: https://bigteamscienceconference.github.io/\n\n\n\nAs we transition into a new chapter, the Directors (Savannah & Erin) want to take a moment to express our heartfelt appreciation for Max, who has served as our Research Coordinator and Newsletter Lead over the past year.\nMax has been instrumental in keeping you (our network) up to date on all the exciting things happening across the PSA. From helping manage and move JTF projects forward, to adding members to Canvas, to fine-tuning the many newsletter processes we’ve experimented with, Max’s flexibility, thoughtfulness, and commitment have helped make our behind-the-scenes work much smoother and more connected.\nWe’re so grateful for everything Max brought to the team and network. Thank you, Max!\n\n\n\n\n\nPSA 002 has been accepted for publication in Current Psychology. The lead team is satisfied to see this project come to fruition after so many twists and turns along the path. Thanks to all who contributed to this project and congrats!\nRead more in our preprint.\n\n\n\nThe manuscript has officially been published PLOS ONE.\nRead more in our preprint.\n\n\n\nThe PSA 005 admin team is working on the PSA005 final paper write-up. The team has also received a revise and resubmit from Social and Personality Psychology Compass on the challenges and payoffs of in-person big team science.\nRead more in our preprint.\n\n\n\nThe manuscript has officially been accepted for print at Nature Human Behaviour. The lead team has submitted approval for the final publication proof.\nRead more in our preprint.\n\n\n\nData collection continues until October. So far, this collaboration has gathered data from over 18000 participants across 38 countries.\nRead more in our preprint.\n\n\n\nThe project has completed 35 countries (N&gt;20,000, after cleaning) and has 9 more countries underway. The lead team is working on finishing those 9 more countries by mid-September. Be on the lookout for the lead team conducting the prize draw (and informing the relevant labs) this week.\nRead more in our preprint.\n\n\n\nThe lead team is wrapping up data coding and validation and will soon have a draft of the manuscript to share with collaborators.\nRead more in our preprint.\n\n\n\nData collection is wrapping up for the project; the final deadline is the end of July. This project have now collected data from over 31,000 participants from over 60 countries!\nRead more in our preprint.\n\n\n\nThe lead team have collected data from over 10,000 participants across 35 countries thus far! Almost all translations are complete (with only 2 languages remaining), so all teams can dive into data collection quite soon, if not already.\nRead more in our preprint.\n\n\n\n\nJoin us on Slack, or drop by our Directors’ Office Hours (Tuesdays at 1pm UTC, Zoom link)."
+  },
+  {
+    "objectID": "news/2025-08-06_August-Newsletter.html#quick-read",
+    "href": "news/2025-08-06_August-Newsletter.html#quick-read",
+    "title": "August News from the Accelerator",
+    "section": "",
+    "text": "BTSCON2025 (hosted virtually from Oct 6-8) is has extended the deadline for session submissions to August 8th.\nPSA 009 lead team conducting the prize draw (and informing the relevant labs) this week for their project!\nPSA 002 has been accepted for publication in Current Psychology."
+  },
+  {
+    "objectID": "news/2025-08-06_August-Newsletter.html#btscon-submission-extension",
+    "href": "news/2025-08-06_August-Newsletter.html#btscon-submission-extension",
+    "title": "August News from the Accelerator",
+    "section": "",
+    "text": "Do you have a big team science project or an idea on how to make team science collaborations more efficient? You should submit it a session for this year’s BTSCON2025. BTSCON2025 has has extended the deadline for session submissions to August 8th.\nBTSCON2025 will be held virtually from October 6–8, 2025. This interdisciplinary event brings together researchers, funders, and stakeholders from around the world to discuss the opportunities, challenges, and future directions of big team science. As always, the conference will center inclusivity, transparency, and collaboration across fields.\n🔗 Learn more and spread the word: https://bigteamscienceconference.github.io/"
+  },
+  {
+    "objectID": "news/2025-08-06_August-Newsletter.html#psa-news",
+    "href": "news/2025-08-06_August-Newsletter.html#psa-news",
+    "title": "August News from the Accelerator",
+    "section": "",
+    "text": "As we transition into a new chapter, the Directors (Savannah & Erin) want to take a moment to express our heartfelt appreciation for Max, who has served as our Research Coordinator and Newsletter Lead over the past year.\nMax has been instrumental in keeping you (our network) up to date on all the exciting things happening across the PSA. From helping manage and move JTF projects forward, to adding members to Canvas, to fine-tuning the many newsletter processes we’ve experimented with, Max’s flexibility, thoughtfulness, and commitment have helped make our behind-the-scenes work much smoother and more connected.\nWe’re so grateful for everything Max brought to the team and network. Thank you, Max!"
+  },
+  {
+    "objectID": "news/2025-08-06_August-Newsletter.html#psa-project-updates",
+    "href": "news/2025-08-06_August-Newsletter.html#psa-project-updates",
+    "title": "August News from the Accelerator",
+    "section": "",
+    "text": "PSA 002 has been accepted for publication in Current Psychology. The lead team is satisfied to see this project come to fruition after so many twists and turns along the path. Thanks to all who contributed to this project and congrats!\nRead more in our preprint.\n\n\n\nThe manuscript has officially been published PLOS ONE.\nRead more in our preprint.\n\n\n\nThe PSA 005 admin team is working on the PSA005 final paper write-up. The team has also received a revise and resubmit from Social and Personality Psychology Compass on the challenges and payoffs of in-person big team science.\nRead more in our preprint.\n\n\n\nThe manuscript has officially been accepted for print at Nature Human Behaviour. The lead team has submitted approval for the final publication proof.\nRead more in our preprint.\n\n\n\nData collection continues until October. So far, this collaboration has gathered data from over 18000 participants across 38 countries.\nRead more in our preprint.\n\n\n\nThe project has completed 35 countries (N&gt;20,000, after cleaning) and has 9 more countries underway. The lead team is working on finishing those 9 more countries by mid-September. Be on the lookout for the lead team conducting the prize draw (and informing the relevant labs) this week.\nRead more in our preprint.\n\n\n\nThe lead team is wrapping up data coding and validation and will soon have a draft of the manuscript to share with collaborators.\nRead more in our preprint.\n\n\n\nData collection is wrapping up for the project; the final deadline is the end of July. This project have now collected data from over 31,000 participants from over 60 countries!\nRead more in our preprint.\n\n\n\nThe lead team have collected data from over 10,000 participants across 35 countries thus far! Almost all translations are complete (with only 2 languages remaining), so all teams can dive into data collection quite soon, if not already.\nRead more in our preprint."
+  },
+  {
+    "objectID": "news/2025-08-06_August-Newsletter.html#get-involved-in-the-psa",
+    "href": "news/2025-08-06_August-Newsletter.html#get-involved-in-the-psa",
+    "title": "August News from the Accelerator",
+    "section": "",
+    "text": "Join us on Slack, or drop by our Directors’ Office Hours (Tuesdays at 1pm UTC, Zoom link)."
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies",
+    "section": "",
+    "text": "Membership"
+  },
+  {
+    "objectID": "policies.html#list",
+    "href": "policies.html#list",
+    "title": "Policies",
+    "section": "",
+    "text": "Membership"
+  },
+  {
+    "objectID": "projects/psa001.html",
+    "href": "projects/psa001.html",
+    "title": "PSA001: Face Perception",
+    "section": "",
+    "text": "Jones, B.C., DeBruine, L.M., Flake, J.K. et al. To which world regions does the valence–dominance model of social perception apply?. Nat Hum Behav 5, 159–169 (2021). https://doi.org/10.1038/s41562-020-01007-2\n\nNews\n\nScience: A new ‘accelerator’ aims to bring big science to psychology (2017-11-08)\nBuzzfeed: Hundreds Of Researchers Are Trying To Replicate High-Profile Psychology Studies (2018-04-03)\nIdeastream: Putting a New Face on Psychological Research (2020-01-13)"
+  },
+  {
+    "objectID": "projects/psa003.html",
+    "href": "projects/psa003.html",
+    "title": "PSA003: Gendered Prejudice",
+    "section": "",
+    "text": "For more information about this project, please contact Curtis Phills at [curtis.phills@gmail.com] (mailto:curtis.phills@gmail.com) or Jeremy Miller at [millerj@willamette.edu] (mailto:millerj@willamette.edu) ."
+  },
+  {
+    "objectID": "projects/psa003.html#contact",
+    "href": "projects/psa003.html#contact",
+    "title": "PSA003: Gendered Prejudice",
+    "section": "",
+    "text": "For more information about this project, please contact Curtis Phills at [curtis.phills@gmail.com] (mailto:curtis.phills@gmail.com) or Jeremy Miller at [millerj@willamette.edu] (mailto:millerj@willamette.edu) ."
+  },
+  {
+    "objectID": "projects/psa005.html",
+    "href": "projects/psa005.html",
+    "title": "PSA005: Stereotype Threat",
+    "section": "",
+    "text": "For more information about this project, please contact Patrick Forscher at psa005stero@gmail.com."
+  },
+  {
+    "objectID": "projects/psa005.html#contact",
+    "href": "projects/psa005.html#contact",
+    "title": "PSA005: Stereotype Threat",
+    "section": "",
+    "text": "For more information about this project, please contact Patrick Forscher at psa005stero@gmail.com."
+  },
+  {
+    "objectID": "projects/psa007.html",
+    "href": "projects/psa007.html",
+    "title": "PSA007: SPAM-L",
+    "section": "",
+    "text": "For more information about this project, please contact Erin Buchanan at 007spaml@gmail.com."
+  },
+  {
+    "objectID": "projects/psa007.html#contact",
+    "href": "projects/psa007.html#contact",
+    "title": "PSA007: SPAM-L",
+    "section": "",
+    "text": "For more information about this project, please contact Erin Buchanan at 007spaml@gmail.com."
+  },
+  {
+    "objectID": "projects/psa009.html",
+    "href": "projects/psa009.html",
+    "title": "PSA009: Gendered Leader",
+    "section": "",
+    "text": "For more information about this project, please contact the project lead team at psa.project.009@gmail.com."
+  },
+  {
+    "objectID": "projects/psa009.html#contact",
+    "href": "projects/psa009.html#contact",
+    "title": "PSA009: Gendered Leader",
+    "section": "",
+    "text": "For more information about this project, please contact the project lead team at psa.project.009@gmail.com."
+  },
+  {
+    "objectID": "projects/psajtf002.html",
+    "href": "projects/psajtf002.html",
+    "title": "PSA-JTF2: Dignity Honor Face",
+    "section": "",
+    "text": "For more information about this project, please contact the project lead team at psajtf2@gmail.com."
+  },
+  {
+    "objectID": "projects/psajtf002.html#contact",
+    "href": "projects/psajtf002.html#contact",
+    "title": "PSA-JTF2: Dignity Honor Face",
+    "section": "",
+    "text": "For more information about this project, please contact the project lead team at psajtf2@gmail.com."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "If you are interested in joining a project, please use the accepting collaborators category to view those projects. Other projects are either ongoing but not accepting collaborators, working publishing the final manuscript, or published. Other category labels are used to help you discover projects related to a specific topic.\n\n\n\n\n\n\n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n  \n    \n      PSA001: Face Perception\n      \n      \n      \n        \n        prereg\n        \n        resources\n        \n        preprint\n        \n        paper\n        \n      \n      \n      \n      Over the past 10 years, Oosterhof and Todorov’s valence–dominance model has emerged as the most prominent account of how people evaluate faces on social dimensions. In this model, two dimensions (valence and dominance) underpin social judgements of faces. Because this model has primarily been developed and tested in Western regions, it is unclear whether these findings apply to other regions. We addressed this question by replicating Oosterhof and Todorov’s methodology across 11 world regions, 41 countries and 11,570 participants. When we used Oosterhof and Todorov’s original analysis strategy, the valence–dominance model generalized across regions. When we used an alternative methodology to allow for correlated dimensions, we observed much less generalization. Collectively, these results suggest that, while the valence–dominance model generalizes very well across regions when dimensions are forced to be orthogonal, regional differences are revealed when we use different extraction methods and correlate and rotate the dimension reduction solution.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n  \n    \n      PSA002: Object Orientation\n      \n      \n      \n        \n        prereg\n        \n        resources\n        \n        preprint\n        \n      \n      \n      \n      Mental simulation theories of language comprehension propose that people automatically create mental representations of real objects. Evidence from sentence-picture verification tasks has shown that people mentally represent various visual properties such as shape, color, and size. However, the evidence for mental simulations of object orientation is limited. We report a study that investigates the match advantage of object orientation across speakers of different languages. This multi-laboratory project aims to achieve two objectives. First, we examine the replicability of the match advantage of object orientation across multiple languages and laboratories. Second, we will use a mental rotation task to measure participants’ mental imagery after the sentence-picture verification task. The relationship between the participants’ performance of the two tasks will provide a cross-linguistic examination of perceptual simulation processes. With the (broad) evaluation of individual mental imagery ability and potential linguistic moderators, we expect a robust estimation of match advantage of object orientation.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n  \n    \n      PSA003: Gendered Prejudice\n      \n      \n      \n      When asked to imagine a person, people tend to think of a man (Hamilton, 1991). The same is true for some social groups as well–when asked to imagine a Black or White person, people tend to imagine a Black or White man (Schug, Alt, & Klauer, 2015). One reason for this is androcentrism: the belief that men are the default and women are the exception or “other” (Bailey, LaFrance, & Dovidio, 2018; Bem, 1993; Smith & Zarate, 1992).The present research will describe the gendered nature of prejudice for seven social categories (i.e., Black people, East Asian people, White people, police, politicians, and criminals). We hypothesized that, if prejudice occurs for the group, it is more strongly related to prejudice toward the men of that social category than toward the women of that category. This study was conducted across several laboratories and languages and was paired with PSA 002 for data collection.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n  \n    \n      PSA004: True Belief\n      \n      \n      \n        \n        preprint\n        \n      \n      \n      \n      According to the Justified True Belief account of knowledge (JTB), a person can only truly know something if they have a belief that is both justified and true (i.e., knowledge is justified true belief). This account was challenged by Gettier (1963), who argued that JTB does not explain knowledge attributions in certain situations, later called Gettier-type cases, wherein a protagonist is justified in believing something to be true but their belief was only correct due to luck. Lay people may not attribute knowledge to protagonists with justified but only luckily true beliefs. While some research has found evidence for these so-called Gettier intuitions (e.g., Machery et al., 2017a), Turri et al. (2015) found that participants attributed knowledge in Gettier-type cases at rates similar to cases of justified true belief. In a large-scale, cross-cultural conceptual replication of Turri and colleagues’ (2015) Experiment 1 (N = 4724), we failed to replicate this null result using a within-subjects design and three vignettes across 19 geopolitical regions. Instead, participants demonstrated Gettier intuitions; they were 1.86 times more likely to attribute knowledge to protagonists in standard cases of justified true belief than to protagonists in Gettier-type cases. These results suggest that Gettier intuitions may be common across different scenarios and cultural contexts. When assessing the knowledge of others, lay people may rely on a shared set of epistemic intuitions (i.e., a core folk epistemology) that requires more than simply justification, belief, and truth. However, the size of the Gettier intuition effect did vary by vignette, and the Turri et al. (2015) vignette produced the smallest effect. Thus, epistemic intuitions may also depend on contextual factors unrelated to the criteria of knowledge, such as the characteristics of the protagonist being evaluated.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n  \n    \n      PSA005: Stereotype Threat\n      \n      \n      \n        \n        preprint\n        \n      \n      \n      \n      According to stereotype threat theory, the possibility of confirming a negative group stereotype evokes feelings of threat, leading people to underperform in domains where they are stereotyped as lacking ability. This theory has immense theoretical and practical implications. However, many studies supporting it include small samples and varying operational definitions of “stereotype threat”. We address the first challenge by leveraging a network of psychology labs to recruit a large Black student sample (*N~anticipated~* = 2700) from multiple US sites (*N~anticipated~* = 27). We address the second challenge by identifying three threat-increasing and three threat-decreasing procedures that could plausibly affect performance and use an adaptive Bayesian design to determine which operationalization yields the strongest evidence for underperformance. This project should advance our knowledge of a scientifically and socially important topic: the conditions under which stereotype threat affects performance among current Black students in the United States.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n  \n    \n      PSA006: Trolley Problem\n      \n      \n      \n        \n        paper\n        \n        preprint\n        \n        RR stage 1\n        \n        resources\n        \n        OSF\n        \n      \n      \n      \n      The study of moral judgements often centres on moral dilemmas in which options consistent with deontological perspectives (that is, emphasizing rules, individual rights and duties) are in conflict with options consistent with utilitarian judgements (that is, following the greater good based on consequences). Greene et al. (2009) showed that psychological and situational factors (for example, the intent of the agent or the presence of physical contact between the agent and the victim) can play an important role in moral dilemma judgements (for example, the trolley problem). Our knowledge is limited concerning both the universality of these effects outside the United States and the impact of culture on the situational and psychological factors affecting moral judgements. Thus, we empirically tested the universality of the effects of intent and personal force on moral dilemma judgements by replicating the experiments of Greene et al. in 45 countries from all inhabited continents. We found that personal force and its interaction with intention exert influence on moral judgements in the US and Western cultural clusters, replicating and expanding the original findings. Moreover, the personal force effect was present in all cultural clusters, suggesting it is culturally universal. The evidence for the cultural universality of the interaction effect was inconclusive in the Eastern and Southern cultural clusters (depending on exclusion criteria). We found no strong association between collectivism/individualism and moral dilemma judgements.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n  \n    \n      PSA007: SPAM-L\n      \n      \n      \n        \n        preprint\n        \n      \n      \n      \n      Semantic priming has been studied for nearly 50 years across various experimental manipulations and theoretical frameworks. These studies provide insight into the cognitive underpinnings of semantic representations in both healthy and clinical populations; however, they have suffered from several issues including generally low sample sizes and a lack of diversity in linguistic implementations. Here, we will test the size and the variability of the semantic priming effect across ten languages by creating a large database of semantic priming values, based on an adaptive sampling procedure. Differences in response latencies between related word-pair conditions and unrelated word-pair conditions (i.e., difference score confidence interval is greater than zero) will allow quantifying evidence for semantic priming, whereas improvements in model fit with the addition of a random intercept for language will provide support for variability in semantic priming across languages.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n  \n    \n      PSA008: Minimal Groups\n      \n      \n      \n        \n        preprint\n        \n      \n      \n      \n      Biases in favor of culturally prevalent social ingroups are ubiquitous, but random assignment to arbitrary experimentally created social groups is also sufficient to create ingroup biases (i.e., the minimal group effect; MGE). The extent to which ingroup bias arises from specific social contexts versus more general psychological tendencies remains unclear. This registered report focuses on three questions. First, how culturally prevalent is the MGE? Second, how do critical cultural and individual factors moderate its strength? Third, does the MGE meaningfully relate to culturally salient real-world ingroup biases? We compare the MGE to bias in favor of a family member (first cousin) and a national ingroup member. We propose to recruit a sample of more than 200 participants in each of more than 50 nations to examine these questions and advance our understanding of the psychological foundations and cultural prevalence of ingroup bias.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n  \n    \n      PSA009: Gendered Leader\n      \n      \n      \n      Women are greatly underrepresented in positions of political leadership around the world. In seeking to explain this underrepresentation, some researchers have pointed to people’s tendencies to stereotype leaders as more similar to men than women as these tendencies can support the belief that women are unsuited to leadership. This project aims to test whether a subtle linguistic intervention is able to ameliorate this gender bias in political leadership stereotypes across different languages and national contexts (minimum anticipated N country = 15, N sample = 3,600). Specifically, this project will examine whether gender fair language (e.g., the use of paired pronouns ‘he or she’) can reduce the tendency for people to stereotype political leaders as more similar to men than women. To increase the rigor with which these stereotypes are measured, this project will complement the dominant ‘cheap talk’ measure of stereotype content with a novel incentivised measure of this content. This project will support an understanding of the capacity for gender fair language interventions to shift gender bias in the political leadership domain in different regions of the world.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n  \n    \n      PSA-JTF1: Moral Experiences\n      \n      \n      \n        \n        preprint\n        \n      \n      \n      \n      Do people in different societies experience morality differently in everyday life? Using experience sampling methods, we investigate everyday moral experiences in a sample from 20 countries across 6 continents, thereby replicating and extending a large-scale study originally conducted in the United States and Canada. We aim to replicate key findings about the kinds of moral experiences people have, the relationship between such experiences and religious or political affiliation, how such experiences affect momentary feelings, and how such experiences influence moral behavior. An international sample enables us to assess the generalizability of these findings across different socio-cultural contexts.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n  \n    \n      PSA-JTF2: Dignity Honor Face\n      \n      \n      \n        \n        preprint\n        \n      \n      \n      \n      Cultural logic is a set of cultural scripts and patterns organized around a central theme. The cultural logics of dignity, honor, and face describe different ways of evaluating a person’s worth and maintaining cooperation. These cultural logics vary in prevalence across cultures. In this study, we collaboratively develop and validate a measure capturing these cultural logics, which will allow us to map world cultures based on the prevalence of these logics. We will further explore the interrelations of dignity, honor, and face with prosocial behavior, values, moral beliefs, and religiosity as well as examine the generalizability of these relationships across cultures. Finally, we will explore historical antecedents (e.g., resource scarcity) and current correlates (e.g., inequality) of the country-level prevalence of these cultural logics. This study will generate a new dataset of country scores for dignity, honor, and face that will be available for future comparative research. It will also provide theoretical insights for researchers and practitioners interested in cooperation and social behavior within and between cultures.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n  \n    \n      PSA-JTF3: Error Correction\n      \n      \n      \n        \n        preprint\n        \n      \n      \n      \n      Intuition often guides our thinking effectively, but it can also lead to consequential reasoning errors, underpinning poor decisions and biased judgments. Little is known about how people globally self-correct such intuitive reasoning errors and what enhances their correction. Defying prevailing models of reasoning, recent research suggests that people spontaneously correct only a few errors during deliberation; however, enhancing error monitoring and motivating further effort should increase error correction. Here, we study whether these mechanisms apply to reasoning across individualistic and collectivistic cultures (expected N = 33,000 participants from 67 regions). Participants will solve problems that elicit incorrect intuitions twice: first intuitively and then reflectively, allowing them to correct initial errors, in a 2 (feedback: absent vs present) × 2 (answer justification: absent vs present) between-participants design. The study will shed more light on the nature, generalisability, and promotion of corrective behaviour, crucial for understanding and improving reasoning worldwide.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n  \n    \n      PSA-CR 001: Loss Gain\n      \n      \n      \n        \n        paper\n        \n        preprint\n        \n      \n      \n      \n      The COVID-19 pandemic presents a critical need to identify best practices for communicating health information to the global public. It also provides an opportunity to test theories about risk communication. As part of a larger Psychological Science Accelerator COVID-19 Rapid Project, a global consortium of researchers will experimentally test competing hypotheses regarding the effects of framing messages in terms of losses versus gains. We will examine effects on three primary outcomes: intentions to adhere to policies designed to prevent the spread of COVID-19, opinions about such policies, and the likelihood that participants seek additional policy information. Whereas research on negativity bias and loss aversion predicts that loss-framing will have greater impact, research on encouraging the adoption of protective health behaviour suggests the opposite (i.e., gain-framing will be more persuasive). We will also assess effects on experienced anxiety. Given the potentially low cost and the scalable nature of framing interventions, results could be valuable to health organizations, policymakers, and news sources globally.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n  \n    \n      PSA-CR 002: Cognitive Reappraisal\n      \n      \n      \n        \n        paper\n        \n      \n      \n      \n      The COVID-19 pandemic has increased negative emotions and decreased positive emotions globally. Left unchecked, these emotional changes might have a wide array of adverse impacts. To reduce negative emotions and increase positive emotions, we tested the effectiveness of reappraisal, an emotion-regulation strategy that modifies how one thinks about a situation. Participants from 87 countries and regions (*n* = 21,644) were randomly assigned to one of two brief reappraisal interventions (reconstrual or repurposing) or one of two control conditions (active or passive). Results revealed that both reappraisal interventions (vesus both control conditions) consistently reduced negative emotions and increased positive emotions across different measures. Reconstrual and repurposing interventions had similar effects. Importantly, planned exploratory analyses indicated that reappraisal interventions did not reduce intentions to practice preventive health behaviours. The findings demonstrate the viability of creating scalable, low-cost interventions for use around the world.\n\n    \n  \n\n  \n    \n      \n      \n      \n      \n      \n      \n      \n    \n    \n    \n    \n    \n  \n    \n      PSA-CR 003: Self Determination\n      \n      \n      \n        \n        paper\n        \n        preprint\n        \n        resources\n        \n      \n      \n      \n      In order to slow the transmission of COVID-19, governments around the world are asking their citizens to participate in social distancing, that is, to stay at home as much as possible. In most countries, individuals have some choice over whether or not they follow recommendations for social distancing. Thus, understanding how to best motivate social distancing has become a critical public health priority. This study tests, in a confirmatory manner, whether self-determination theory-guided message framing impacts people’s motivation to participate in social distancing. Specifically, we expect autonomy-supportive messages that help people understand the value of behavior change to a) increase ‘buy in’, or autonomous motivation, for social distancing, b) lower feelings of defiance to follow recommendations around social distancing, and c) increase feelings of self-efficacy to participate in social distancing, relative to neutral and controlling messages. Further, we expect controlling messages that pressure people to change using shame, guilt, and threats, may backfire and a) decrease ‘buy in’ for social distancing and b) increase defiance, relative to the control condition. Exploratory tests will examine whether the effects of message framing on motivation and defiance extend to behavioral intentions and long-term commitment. This work has direct relevance for how public officials, health professionals, journalists, and others can communicate about solving this and future public health crises in ways that motivate people more effectively.\n\n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "2025-09-06_september-newsletter.html",
+    "href": "2025-09-06_september-newsletter.html",
+    "title": "September News from the Accelerator",
+    "section": "",
+    "text": "SIPS Award: received by a team of psa members for their paper “A manifesto for globally diverse, equitable, and inclusive open science” in Communications Psychology.\nFestival Follow-Up (Oct 13, 2025, 10:00 CET / 08:00 UTC): Open to researchers, students, and support staff. Session 1 covers Open Science without burnout; Session 2 offers community discussions on collaborative research culture. Free.\nExternal Collaboration Call: Funded multi-site study Building Resilience Across Socioeconomic Contexts seeks sites to recruit 40–60 English-fluent participants. Sites handle ethics approval; central team manages logistics. Co-authorship and IRB support provided.\n\n\n\n\nSeveral fellow PSA members received a SIPS award for their paper “A manifesto for globally diverse, equitable, and inclusive open science” in Communications Psychology. Check out the paper here or read the list of awards on the SIPS website.\nOur fellow PSA member Patrick Forscher is giving a talk on “Tracking Epistemic Inequality: The Missing Majority Dashboard for Global Authorship in Behavioral Science” at the NYU Meta-Research Symposium 2025, Oct 20. Tickets and details available on Eventbrite.\nWe also have several PSA members who are presenting at the MIT Workshop on Polarization, Social Norms & Trust, Dec 5–6, Boston. For details and to sign up, click here. If you see a fellow Accelerator, be sure to say hello!\n\n\n\nFestival Follow-Up (Oct 13, 2025, 10:00 CET / 08:00 UTC) Join several PSA members online for our Festival Follow-Up for reflection, practical skills, and community conversation. This session is for everyone: researchers, students, and support staff alike!\nSession 1. Open Science Without Burnout: Building Healthier Research Culture. Join burnout coach and data steward, Özgün Ünver, to explore how to engage with openness and transparency without overextending yourself. We’ll discuss setting boundaries, fostering sustainable practices, and building a healthier research culture for everyone. You’ll leave with practical insights and a reminder that Open Science can be both impactful and sustainable. Session 2. Community Conversations: Exchanging fresh perspectives and engaging in open discussion on how we can build a more connected, collaborative research culture—together.\nParticipation is free, registration is required, and all are welcome! BTS Study Seeking Collaborators\nAlessandro Sparacio is seeking international collaborators for a funded, multi-site study on the effectiveness of self-administered mindfulness meditation for stress reduction that you might be interested in joining.\nWhat’s involved? Site requirements: local ethics approval, recruit 40–60 English-fluent participants; preference for predominantly English-speaking countries. Benefits: co-authorship, IRB support, central logistics, no site costs.\nIf you’re passionate about contributing to high-impact, equitable science, they would love to hear from you. Find all the details and the collaborator interest form here.\n\n\n\n\n\nPSA 002 has been accepted for publication in Current Psychology. The lead team is satisfied to see this project come to fruition after so many twists and turns along the path. Thanks to all who contributed to this project and congratulations!\nRead more in our preprint.\n\n\n\nThe manuscript has officially been published PLOS ONE.\nRead more in our preprint.\n\n\n\nThe PSA 005 admin team is working on the final paper write-up. The team has also received a revise and resubmit from Social and Personality Psychology Compass on the challenges and payoffs of in-person big team science.\nRead more in our preprint.\n\n\n\nThe manuscript has officially been accepted for print at Nature Human Behaviour. The lead team has submitted approval for the final publication proof.\nRead more in our preprint.\n\n\n\nData collection continues until October. So far, this collaboration has gathered data from over 18000 participants across 38 countries.\nRead more in our preprint.\n\n\n\nThe project has completed 38 countries (N&gt;20,000, after cleaning) and is chasing the final 6 countries for the end of September. They are aiming to have the draft paper written by the end of October for circulating around the group.\nRead more in our preprint.\n\n\n\nThe lead team is wrapping up data coding and validation and will soon have a draft of the manuscript to share with collaborators.\nRead more in our preprint.\n\n\n\nData collection is wrapping up for the project; the final deadline is the end of July. This project have now collected data from over 31,000 participants from over 60 countries!\nRead more in our preprint.\n\n\n\nThe lead team have collected data from over 10,000 participants across 35 countries thus far! Almost all translations are complete (with only 2 languages remaining), so all teams can dive into data collection quite soon, if not already.\nRead more in our preprint."
+  },
+  {
+    "objectID": "2025-09-06_september-newsletter.html#quick-read",
+    "href": "2025-09-06_september-newsletter.html#quick-read",
+    "title": "September News from the Accelerator",
+    "section": "",
+    "text": "SIPS Award: received by a team of psa members for their paper “A manifesto for globally diverse, equitable, and inclusive open science” in Communications Psychology.\nFestival Follow-Up (Oct 13, 2025, 10:00 CET / 08:00 UTC): Open to researchers, students, and support staff. Session 1 covers Open Science without burnout; Session 2 offers community discussions on collaborative research culture. Free.\nExternal Collaboration Call: Funded multi-site study Building Resilience Across Socioeconomic Contexts seeks sites to recruit 40–60 English-fluent participants. Sites handle ethics approval; central team manages logistics. Co-authorship and IRB support provided."
+  },
+  {
+    "objectID": "2025-09-06_september-newsletter.html#psa-member-highlights",
+    "href": "2025-09-06_september-newsletter.html#psa-member-highlights",
+    "title": "September News from the Accelerator",
+    "section": "",
+    "text": "Several fellow PSA members received a SIPS award for their paper “A manifesto for globally diverse, equitable, and inclusive open science” in Communications Psychology. Check out the paper here or read the list of awards on the SIPS website.\nOur fellow PSA member Patrick Forscher is giving a talk on “Tracking Epistemic Inequality: The Missing Majority Dashboard for Global Authorship in Behavioral Science” at the NYU Meta-Research Symposium 2025, Oct 20. Tickets and details available on Eventbrite.\nWe also have several PSA members who are presenting at the MIT Workshop on Polarization, Social Norms & Trust, Dec 5–6, Boston. For details and to sign up, click here. If you see a fellow Accelerator, be sure to say hello!"
+  },
+  {
+    "objectID": "2025-09-06_september-newsletter.html#psa-highlighted-opportunities",
+    "href": "2025-09-06_september-newsletter.html#psa-highlighted-opportunities",
+    "title": "September News from the Accelerator",
+    "section": "",
+    "text": "Festival Follow-Up (Oct 13, 2025, 10:00 CET / 08:00 UTC) Join several PSA members online for our Festival Follow-Up for reflection, practical skills, and community conversation. This session is for everyone: researchers, students, and support staff alike!\nSession 1. Open Science Without Burnout: Building Healthier Research Culture. Join burnout coach and data steward, Özgün Ünver, to explore how to engage with openness and transparency without overextending yourself. We’ll discuss setting boundaries, fostering sustainable practices, and building a healthier research culture for everyone. You’ll leave with practical insights and a reminder that Open Science can be both impactful and sustainable. Session 2. Community Conversations: Exchanging fresh perspectives and engaging in open discussion on how we can build a more connected, collaborative research culture—together.\nParticipation is free, registration is required, and all are welcome! BTS Study Seeking Collaborators\nAlessandro Sparacio is seeking international collaborators for a funded, multi-site study on the effectiveness of self-administered mindfulness meditation for stress reduction that you might be interested in joining.\nWhat’s involved? Site requirements: local ethics approval, recruit 40–60 English-fluent participants; preference for predominantly English-speaking countries. Benefits: co-authorship, IRB support, central logistics, no site costs.\nIf you’re passionate about contributing to high-impact, equitable science, they would love to hear from you. Find all the details and the collaborator interest form here."
+  },
+  {
+    "objectID": "2025-09-06_september-newsletter.html#psa-project-updates",
+    "href": "2025-09-06_september-newsletter.html#psa-project-updates",
+    "title": "September News from the Accelerator",
+    "section": "",
+    "text": "PSA 002 has been accepted for publication in Current Psychology. The lead team is satisfied to see this project come to fruition after so many twists and turns along the path. Thanks to all who contributed to this project and congratulations!\nRead more in our preprint.\n\n\n\nThe manuscript has officially been published PLOS ONE.\nRead more in our preprint.\n\n\n\nThe PSA 005 admin team is working on the final paper write-up. The team has also received a revise and resubmit from Social and Personality Psychology Compass on the challenges and payoffs of in-person big team science.\nRead more in our preprint.\n\n\n\nThe manuscript has officially been accepted for print at Nature Human Behaviour. The lead team has submitted approval for the final publication proof.\nRead more in our preprint.\n\n\n\nData collection continues until October. So far, this collaboration has gathered data from over 18000 participants across 38 countries.\nRead more in our preprint.\n\n\n\nThe project has completed 38 countries (N&gt;20,000, after cleaning) and is chasing the final 6 countries for the end of September. They are aiming to have the draft paper written by the end of October for circulating around the group.\nRead more in our preprint.\n\n\n\nThe lead team is wrapping up data coding and validation and will soon have a draft of the manuscript to share with collaborators.\nRead more in our preprint.\n\n\n\nData collection is wrapping up for the project; the final deadline is the end of July. This project have now collected data from over 31,000 participants from over 60 countries!\nRead more in our preprint.\n\n\n\nThe lead team have collected data from over 10,000 participants across 35 countries thus far! Almost all translations are complete (with only 2 languages remaining), so all teams can dive into data collection quite soon, if not already.\nRead more in our preprint."
+  },
+  {
+    "objectID": "2025-09-06_september-newsletter.html#get-involved-in-the-psa",
+    "href": "2025-09-06_september-newsletter.html#get-involved-in-the-psa",
+    "title": "September News from the Accelerator",
+    "section": "",
+    "text": "Join us on Slack, or drop by our Directors’ Office Hours (Tuesdays at 1pm UTC, Zoom link)."
+>>>>>>> Stashed changes
   }
 ]
