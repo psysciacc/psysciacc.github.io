@@ -366,11 +366,16 @@
     "2025-08-06_August-Newsletter.html": "91333214"
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "map.qmd": {
     "map.html": "e84af9d7"
   },
   "translation.qmd": {
     "translation.html": "abb5138c"
+=======
+  "2025-09-06_september-newsletter.qmd": {
+    "2025-09-06_september-newsletter.html": "516c8766"
+>>>>>>> Stashed changes
 =======
   "2025-09-06_september-newsletter.qmd": {
     "2025-09-06_september-newsletter.html": "516c8766"
