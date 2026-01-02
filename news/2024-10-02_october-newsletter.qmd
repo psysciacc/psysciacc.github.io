@@ -1,0 +1,129 @@
+---
+title: "October Newsletter"
+author: "Savannah Lewis"
+date: 2024-10-02
+categories:
+  - newsletter
+---
+
+quick read
+- The PSA Associate Directors election is now live. Cast your vote before Oct 15!
+
+- Register your interest to be a content or statistical reviewer for the PSA Call for Studies!
+
+- Participate in a 15-minute metascientific study and get a US$10 virtual gift card.
+
+PSA Associate Director elections
+
+
+Voting has begun! Three candidates, Ekaterina Pronizius, John Protzko, and David Vaidis, are running for Associate Director positions. If you are a PSA member, bring your questions and open a dialogue with the candidates on our Slack. Voting will close on Oct 15. Cast your vote now! 
+
+
+Call for Collaborators: Join an NSF Grant Submission on Diversity Science
+A team from Ashland University (Christopher Chartier, Kathleen Schmidt, and Priya Silverstein) invites applications for collaborators to join the team in developing a grant proposal for the National Science Foundation’s (NSF) Social Psychology Program. Specifically, researchers can propose and help lead brief studies designed to answer important research questions within the field of diversity science. If funded, this PSA affiliated project will leverage our global network of researchers and experts in big team science to advance research in diversity science. Read more and contact Priya or Kathleen with questions. 
+
+
+We look forward to reviewing proposals for the PSA Call for Studies! The Study Selection Committee will be reaching out to the PSA network for their input in the proposal review process. If you would like to serve as a content or statistical reviewer, please register your interest here. We will also reach out to individual PSA members for their expertise, so please make sure your PSA membership profile on Canvas contains relevant details. (Please email psa.mem...@gmail.com for Canvas technical support.)
+
+If you are developing your study proposals: To join the optional incubation process, submit your short proposal by October 4th. The next deadline for full consideration is December 5th. See our Call for Studies document for more information, or watch the video-recordings of our workshops on Youtube. For inquiries, email psysciac...@gmail.com with the subject "Call for Studies Questions".
+
+
+PSA members are invited to participate in the final round of our study examining researcher predictions regarding the generalizability of psychological effects across cultural contexts. The study takes 15 minutes to complete, and participants may choose to receive a US$10 gift card upon completion. Please indicate your interest by submitting this form, and we will send you a study link within 12 hours. (If you are a collaborator contributing to the JTF3 Error Correction project, please see your project email for a different link for collaborators.)
+
+
+
+Drop in to the directors’ weekly office hours on Mondays 1pm UTC. Come and chat about anything! Find the Zoom link and PSA calendar here.
+ 
+ 
+news from big team science
+
+See you at the 2024 Big Team Science Conference, taking place virtually on Oct 8-10. See the amazing program and register now! To promote inclusivity, registration fees are optional. 
+
+
+
+Newly published in Nature Human Behavior: a 27-country big team science study led by Bojana Većkalov and Sandra Geiger. The study found that communicating the scientific consensus on climate change substantially reduces misperceptions and slightly increases climate change beliefs and worry, but does not support public action directly. The project was a collaboration between the Junior Researcher Programme and Columbia University, with the involvement of several PSA members. Read the article here. 
+
+
+member highlights 
+
+Congratulations to Jaroslaw R. Lelonkiewicz, a member of the PSA's Data and Methods Committee, who has been awarded the Ramon y Cajal Fellowship! One of Spain's most prestigious talent attraction programs, the fellowship offers a five-year senior researcher position at the chosen Spanish research center, followed by an Assistant Professor position. Congratulations! 
+
+
+
+project updates
+Object Orientation Study (PSA-002)
+
+The manuscript is under review at Current Psychology.
+
+Gendered Prejudice Study (PSA-003)
+
+The lead team is working on uploading author information into PLOS ONE.
+
+Justified True Belief Study (PSA-004)
+
+Collaborators are doing a final check of the proofs from AMPPS.
+
+Stereotype Threat Study (PSA-005)
+
+Data collection is complete and we are analyzing the data for the final submission. We are also working on a resubmission of a commentary on the challenges and payoffs of big team science.
+
+
+Semantic Priming Study (PSA-007)
+The manuscript is under review at Nature Human Behaviour!
+
+Minimal Groups Study (PSA-008)
+Data collection continues to expand to more sites as translations are completed. Please see the preprint or email psa...@googlegroups.com for more information.
+
+
+
+
+
+PSA-JTF-001: Moral Experiences
+
+Data collection continues! The project welcomes new collaborators who can collect data, especially community samples, in Argentina, France, India, Indonesia, Japan, Kenya, Malaysia, Morocco, Pakistan, Saudi Arabia, or the United Kingdom. Please email psa...@gmail.com if you're interested, and see the preprint for more information.
+
+
+
+
+PSA-JTF-002: Dignity Honor Face
+
+Data collection starts this week! We are actively seeking collaborators interested in data collection and translation in several countries, including Bangladesh, Bulgaria, Kenya, Nigeria, the Philippines, South Korea, Thailand, Uzbekistan, and Vietnam. To see the full list of countries and register your interest in collaborating, please see our interest survey.
+
+
+
+
+PSA-JTF-003: Error Correction
+
+We are making preparations to start data collection! The project welcomes collaborators who can collect data. Interested? Fill out this interest survey
+
+
+
+
+PSA-009: Leader Gender
+
+
+The first wave of lab recruitment went well. For inquiries, please complete our interest survey.
+
+new big team science articles
+
+A 27-country test of communicating the scientific consensus on climate change. Nature Human Behavior
+
+The benefits, barriers, and risk of big team science. PsyArXiv
+
+Build up team science. Nature
+
+The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS
+completed PSA studies
+Structural Validity Evidence for the Oxford Utilitarianism Scale Across 15 Languages. Psychological Test Adaptation and Development
+
+To which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour
+
+Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour
+
+A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour
+
+A global experiment on motivating social distancing during the COVID-19 pandemic. PNAS
+
+In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. Affective Science
+
+The Psychological Science Accelerator’s COVID-19 rapid-response dataset. Nature Scientific Data

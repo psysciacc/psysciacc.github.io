@@ -1,0 +1,87 @@
+---
+title: "December News from the Accelerator"
+author: "Savannah Lewis"
+date: 2025-12-06
+categories:
+  - newsletter
+---
+
+----------
+Quick read
+----------
+
+* New PSA leadership! : We are welcoming four new Assistant Directors and one new Associate Directors.
+* *Project Update:* PSA010 (Social Evaluation) received positive comments and minor revisions to their Stage 1 Registered Report at Psychological Science.
+* *Project Update:* ** PSA009 (Gendered Leadership) sent their manuscript draft
+
+*PSA Election Results*
+
+Thank you to all the candidates who applied for their thoughtful contributions and dedication.
+
+A warm welcome to our new *Associate Director* , David Vaidis ( https://psy-sci-accelerator.slack.com/team/U0257DJ7M0X ) , who began his term on December 1.
+
+Congratulations to our new *Assistant Directors* !
+
+* *Project Monitoring* : Mei Melinna Xiaolin ( https://psy-sci-accelerator.slack.com/team/U03AMKA736Y ).
+* *Translation and Cultural Diversity* : Michèle Habbaki ( https://psy-sci-accelerator.slack.com/team/U0A18HZUCM7 ).
+* *Community Building and Network Expansion* : Ambre Naija ( https://psy-sci-accelerator.slack.com/team/U011KNH2PKQ ) and Anthony Ojukwu ( https://psy-sci-accelerator.slack.com/team/U0889A0V25S ).
+
+See full details of the current PSA leadership and role descriptions ( https://docs.google.com/document/d/1aXjXwouFc6wvcyy7IFmEKGL0j2yxzYukyI_YFf6sZtM/edit?tab=t.0 ).
+
+*PSA Member Highlights*
+
+A massive congratulations to our PSA member Katja Pronizius ( https://psy-sci-accelerator.slack.com/team/U01091VG5QV ) and colleagues on their successful election to the Executive Committee (EC) of the Society for the Improvement of Psychological Science (SIPS).
+
+*Publishing Opportunity*
+
+A special Issue in Telematics and Informatics (IF: 8.3) is seeking submissions on topics related to Romance and the Internet. The deadline is October 13, 2026.
+See full details ( https://www.sciencedirect.com/special-issue/327947/romance-and-the-internet ).
+
+*Research Participation*
+
+Researchers are invited to participate in a brief 3–5 minute survey ( https://elteppk.eu.qualtrics.com/jfe/form/SV_0p26anGrwnTSdAG ) exploring how emotions affect the research process, as part of a meta-science project conducted by the Psychology of Science Collaboration.
+
+*Seeking Translation Reviewers*
+
+*Native Czech and Indonesian speakers* *are needed* to review existing survey translations and mark any unclear or unnatural phrases. The survey translations are part of a large cross-cultural research project on interdependence and cooperation led by Prof Daniel Balliet (Vrije Universiteit Amsterdam) and Assoc Prof Joanna Schug (William & Mary). ** *Apply by contacting Jing Lin* via email ( jinglin1@stanford.edu?subject=&body= ) or Slack ( https://psy-sci-accelerator.slack.com/team/U03SVR8C69E ).
+
+* Expected task duration is 30 to 60 minutes.
+* Psychology or social science background preferred.
+* Reviewers will be acknowledged in the published paper by name and can access country-level data for their own research or collaborations once the project is complete.
+
+*PSA Project Updates*
+
+*005 Stereotype Threat*
+
+The lead team is continuing to work through manuscript writing and editing.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/6hju9_v1 )
+
+*008 Minimal Groups*
+
+Data collection wraps up this month! This project has collected over 20,000 participants across over thirty countries.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/5gpr4_v1 )
+
+*009 Gendered Leadership*
+
+A draft of the results has been shared with co-authors and the deadline for approving this draft is *December 18th.* Co-authors can also leave comments and suggestions as a part of Canvas quiz (optional).
+Read more in our registered report >> ( https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true )
+
+010 Social Evaluation
+
+The lead team has received positive comments from Psychological Science on their Stage 1 Registered Report and are working on the revisions for resubmission.
+Read more in our proposal >> ( https://docs.google.com/document/d/1zo_MwwsDVIKh4m6UlaI0XgPN4hS07Abf )
+
+JTF1 Moral Experiences
+
+The lead team is continuing to work through manuscript writing and editing.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/jktnv_v2 )
+
+JTF2 Dignity Honor Face
+
+The lead team is continuing to work through manuscript writing and editing.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/9hb8k_v1 )
+
+JTF3 Error Correction
+
+The lead team is wrapping up data collection and will be working on the manuscript at the start of the year.
+Read more in our preprint >> (https://osf.io/wn4vx/)

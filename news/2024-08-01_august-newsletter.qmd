@@ -1,0 +1,83 @@
+---
+title: "August Newsletter"
+author: "Savannah Lewis"
+date: 2024-08-01
+categories:
+  - newsletter
+---
+
+quick read
+
+- We are welcoming proposals for new PSA studies and hosting a FREE workshop to help with submission! 
+
+- Mark your calendars for attending the Big Team Science conference virtually on Oct 8-10!
+
+- Several of our JTF projects are looking for collaborators! 
+psa announcements
+Workshops for Call for Studies, every Thursday 3pm UTC from Aug 1 to Sep 19
+
+We invite proposals for new PSA studies with submissions due in September and December. Check the official call announcement for details on requirements and the selection process.
+
+To support submissions, we're offering a free 8-week workshop covering Big Team Science project components and providing feedback. The workshops are every Thursday at 11am EDT, from August 1 to September 19, on zoom!. Recordings will be available on the PSA YouTube channel. For questions, email psysciac...@gmail.com with the subject "Call for Studies Questions."
+Final call for a paid metascientific study on generalizability related to PSA-JTF2! We need 9 more PSA members to participate. The study takes about 15 minutes, and you can receive a $10 Visa gift card for your participation. Fill out this form to get the participation link!
+
+(Please note that all reserved spots for JTF2 collaborators have been filled.)
+Don't forget the Erinnah (Directors Erin and Savannah) weekly office hours on Mondays at 10am CDT/ 3pm UTC. These are times when members can drop in and chat with the directors about anything. We hope to see you drop in soon! The zoom link and PSA calendar can be found here.
+member highlights
+
+We want to publicly thank Tia Blackall for their amazing year of service as Research Coordinator with the PSA! They are embarking upon an exciting new career chapter. Tia will join Simon Fraser University's Psychology Graduate program in the Experimental Law and Forensic Psychology stream. They plan to conduct research on subjectivity within the criminal justice system, such as cognitive bias effects in forensic practitioners. Thank you and good luck, Tia!
+news in big team science
+Submissions for the 2024 BTSCON are EXTENDED! The deadline for submissions is now August 9th. BTSCON registration is also open! Make sure to register and spread the word to your networks and colleagues! Register to attend and see our exciting keynote speakers here.
+
+A new international team science project on cognition in intellectual disability is seeking collaborators! The project will create a global database to enable a comprehensive study of intellectual disability. The core advisory group will set the main research protocol, but participating groups can propose additional exploratory questions for separate publications. We're currently preparing the protocol and recruiting research teams.
+
+Fill out the expression of interest form if you might be interested in participating.
+project updates
+Object Orientation Study (PSA-002)
+
+The manuscript is under review at Current Psychology.
+Gendered Prejudice Study (PSA-003)
+
+The lead team is working on finalizing the manuscript for submission to PLOS-One.
+Stereotype Threat (PSA-005)
+
+Data collection for the project has been completed! The lead team continues working on analysis and writing for final submission..
+Semantic Priming Study (PSA-007)
+
+The lead team has officially submitted the Stage 2 Registered Report at Nature Human Behavior!
+Minimal Groups Study (PSA-008)
+
+Data collection continues to expand to more sites as translations become available. For more information about the project, please see the preprint or email psa...@googlegroups.com.
+PSA-JTF-001: Moral Experiences
+
+Data collection has continued, and most of the translations have been implemented and tested. For more information about the project, please see the preprint or email psa...@gmail.com.
+PSA-JTF-002: Dignity Honor Face
+
+Collaborators have now begun applying for ethics, and we will be ready to preregister and begin translation and data collection in English shortly. Interested in learning more and potentially joining? Fill out this survey!
+PSA-JTF-003: Error Correction
+
+Over 180 collaborators in more than 60 countries have been on-boarded! The lead team will soon submit the Stage 1 Registered Report. Interested in learning more and potentially joining the project? Fill out this survey!
+PSA-AF-001: Partner Preferences
+
+The lead team has submitted the Stage 2 Registered Report to Journal of Personality and Social Psychology!
+New big team science articles
+Team scientists should normalize disagreement. Science
+
+A better how: notes on developmental meta-research. Bursara Center for Behavioral Economics
+
+Psychology should generalize from — not just to — Africa. Nature Reviews Psychology
+
+completed PSA studies
+Structural Validity Evidence for the Oxford Utilitarianism Scale Across 15 Languages Psychological Test Adaption and Development
+
+To which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour
+
+Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour
+
+A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour
+
+A global experiment on motivating social distancing during the COVID-19 pandemic. PNAS
+
+In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. Affective Science
+
+The Psychological Science Accelerator’s COVID-19 rapid-response dataset. Nature Scientific Data

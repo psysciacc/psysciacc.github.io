@@ -1,0 +1,79 @@
+---
+title: "November News from the Accelerator"
+author: "Savannah Lewis"
+date: 2025-11-06
+categories:
+  - newsletter
+---
+
+----------
+Quick read
+----------
+
+* PSA Election Updates : View David Vaidis' statement ( https://drive.google.com/file/d/1xpKRBMLrcLIfvZyg35mL8aGuRQdtaGwc/view ) as a candidate for the Associate Director role; vote of confidence ( https://canvas.psysciacc.org/courses/1/quizzes/358/take ) is open until *Nov 17*.
+* PSA Proposals Deadline : The three provisionally accepted project proposals must be resubmitted for final review by *Nov 27.*
+* PSA Member Highlights : APA Division 52 webinar ( *Nov 13, 2025, 14:00 ET / 18:00 CET* ). PSA Co-Director Dr Buchanan presents the PSA at How Open Science Bridges Cultures and Promotes Best Practices. Register ( https://div52.net/webinars/ ).
+* PSA Project Updates : PSA 002 has officially been published in Current Psychology ( https://doi.org/10.1007/s12144-025-08304-x ) ! Congratulations on this final milestone! The Registered Report for PSA 005 has been submitted to Nature Human Behaviour.
+
+*PSA Election Updates*
+
+David Vaidis has submitted his candidacy for the Associate Director position. You can review David's statement ( https://drive.google.com/file/d/1xpKRBMLrcLIfvZyg35mL8aGuRQdtaGwc/view ) and submit questions to him via Slack or the Canvas discussion board. A vote of confidence ( https://canvas.psysciacc.org/courses/1/quizzes/358/take ) ** will be held from now until *November 17*.
+
+*PSA Proposals Deadline*
+
+Earlier this year, the Executive Board *provisionally accepted three new PSA projects* (in addition to the newly added PSA 010) from the proposals submitted in our most recent call. Proposing authors were given six months to incorporate feedback from the Network and Study Selection Committees. That six-month period is now coming to a close, and we have received confirmation that all three teams intend to resubmit. *Final resubmissions are due by November 27* , after which these projects will undergo their final review.
+
+Stay tuned as *new PSA projects are coming soon!*
+
+*PSA Member Highlights*
+
+Our fellow PSA member and Co-Director, Dr Buchanan, will present the PSA at a webinar by APA Division 52: How Open Science Bridges Cultures and Promotes Best Practices , on *November 13 at 14:00 ET / 18:00 CET*. Register ( https://div52.net/webinars/ ).
+
+*PSA Project Updates*
+
+*002 Object Orientation*
+
+PSA 002 has officially been published in Current Psychology ( https://doi.org/10.1007/s12144-025-08304-x ) ! Congratulations to all the contributors on reaching this final milestone.
+Read more in our final version preprint >> ( https://osf.io/preprints/osf/2qf6w_v1 )
+
+*005 Stereotype Threat*
+
+The Registered Report for PSA 005 has been submitted to Nature Human Behaviour , and the team has been writing the manuscript.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/6hju9_v1 )
+
+*007 Semantic Priming*
+
+PSA 007 has officially been published in Nature Human Behaviour! ( https://www.nature.com/articles/s41562-025-02254-x ) Congratulations to the contributors of this project and stay tuned for what comes next.
+Read more in our final version preprint >> ( https://osf.io/preprints/osf/q4fjy_v3 )
+
+*008 Minimal Groups*
+
+Data collection continues until December. According to the most recent status update, data had been collected from over 19,000 participants in three countries.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/5gpr4_v1 )
+
+*009 Gendered Leadership*
+
+Data collection is still ongoing. In the last update shared, the project reported data from 38 countries (N > 20,000 after cleaning) and planned to circulate a draft paper around the group by the end of October.
+Read more in our registered report >> ( https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true )
+
+010 Social Evaluation (NEW PROJECT!)
+
+PSA 010 will investigate whether social evaluations are best explained by a bi-dimensional model of Warmth/Communion and Competence/Agency or by a tri-dimensional model that includes a distinct third dimension of Morality. This pre-registered, multi-site study will use confirmatory factor analyses to directly test these competing hypotheses across different social targets (self, another agent, an in-group, and an out-group).
+
+The group is currently building an administrative team and completing the stage 1 registered report ( currently under review at Psychological Science ) before onboarding new members.
+Read more in our proposal >> ( https://docs.google.com/document/d/1zo_MwwsDVIKh4m6UlaI0XgPN4hS07Abf )
+
+JTF1 Moral Experiences
+
+The lead team is writing the manuscript.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/jktnv_v2 )
+
+JTF2 Dignity Honor Face
+
+The lead team is writing the manuscript.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/9hb8k_v1 )
+
+JTF3 Error Correction
+
+Data collection is ongoing. The last update indicated that over 10,000 participants from 35 countries had been collected, and the team was awaiting the completion of two language translations to continue collecting data.
+Read more in our preprint >> ( https://osf.io/wn4vx/ )

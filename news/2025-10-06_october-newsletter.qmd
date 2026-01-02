@@ -1,0 +1,94 @@
+---
+title: "October News from the Accelerator"
+author: "Savannah Lewis"
+date: 2025-10-06
+categories:
+  - newsletter
+---
+
+----------
+Quick read
+----------
+
+* *BTSCon 2025* : Virtual, October 6–8. Still time to register. Exciting talks and collaboration opportunities. Schedule ( https://bigteamscienceconference.github.io/program/ ). Register ( https://bigteamscienceconference.github.io/registration/ ).
+* *PSA Election Call 2025* : Open positions for 4 Assistant Directors and 1 Associate Director. Nominations open until 15 October; Associate Directors' statements due 20 October, voting closes 31 October. See full details ( https://docs.google.com/document/d/1zClWY3Q-dAgXW6-Ks1s_4hPHCGslxpXsJUCJY6D0RXA/edit?tab=t.0 ).
+* *PSA Member Highlights* : PSA 007 collaborators published two secondary papers: the Power to Stimuli ( https://osf.io/preprints/osf/e3afx_v2 ) paper (accepted in Behavior Research Methods ), and the Multiverse ( https://osf.io/fjhv5 ) paper (published in Psychological Methods ).
+* PSA Project Updates : PSA 007 has officially been published in Nature Human Behaviour ( https://www-nature-com.ezproxy1.lib.gla.ac.uk/articles/s41562-025-02254-x ) ! Many congratulations! Additionally, the new PSA 010 has been launched ( https://docs.google.com/document/d/1zo_MwwsDVIKh4m6UlaI0XgPN4hS07Abf ) !
+
+*Big Team Science Conference 2025*
+
+There is still time to register for *BTSCon 2025* , held virtually from *October* 6–8. Join researchers and stakeholders exploring large-scale collaborative science. We are stoked about the talks and collaboration opportunities in this year’s schedule ( https://bigteamscienceconference.github.io/program/ ). Register ( https://bigteamscienceconference.github.io/registration/ ).
+
+*PSA Election Call 2025*
+
+See full details ( https://docs.google.com/document/d/1zClWY3Q-dAgXW6-Ks1s_4hPHCGslxpXsJUCJY6D0RXA/edit?tab=t.0 ).
+Nomination submissions are open for the following positions until *15 October* :
+
+* *Assistant Directors*
+
+* Project Monitoring ( 1 position )
+* Community Building and Network Expansion Committee ( 2 positions )
+* Translation and Cultural Diversity ( 1 position )
+
+* *Associate Directors* ( 1 position )
+
+Next steps:
+
+* The Co-Directors and Associate Directors will review and select a candidate for each Assistant Director position once submissions end.
+* Associate Director nominees are to submit a 1,000-word statement by *20 October* , with voting closing *31 October 2024*.
+
+*PSA Member Highlights*
+
+A subset of PSA 007 collaborators have been working on these two secondary papers that have now been published! Congratulations to the PSA members for their efforts on these recent publications:
+
+* Accuracy in Parameter Estimation and Simulation Approaches for Sample Size Planning Accounting for Item Effects ( https://osf.io/preprints/osf/e3afx_v2 ) has been accepted in Behavior Research Methods.
+* Crowdsourcing Multiverse Analyses to Explore the Impact of Different Data-processing and Analysis Decisions: A Tutorial ( https://osf.io/fjhv5 ) has been officially published in Psychological Methods.
+
+*PSA Project Updates*
+
+*002 Object Orientation*
+
+PSA 002 has been accepted for publication in Current Psychology. The lead team is satisfied to see this project come to fruition after so many twists and turns along the path. Thanks to all who contributed to this project and congratulations!
+Read more in our preprint >> ( https://osf.io/preprints/osf/2qf6w_v1 )
+
+*005 Stereotype Threat*
+
+The PSA 005 admin team has been working on the final paper write-up. The team has also received a revise and resubmit from Social and Personality Psychology Compass on the challenges and payoffs of in-person big team science.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/6hju9_v1 )
+
+*007 Semantic Priming*
+
+PSA 007 has officially been published in Nature Human Behaviour! ( https://www.nature.com/articles/s41562-025-02254-x ) Congratulations to the contributors of this project and stay tuned for what comes next.
+Read more in our preprint >> ( https://osf.io/preprints/osf/q4fjy_v3 )
+
+*008 Minimal Groups*
+
+Data collection continues until December. Collaborators need to submit their data collection link request by the end of October. So far, this collaboration has gathered data from over 19,000 participants across 31 countries.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/5gpr4_v1 )
+
+*009 Gendered Leadership*
+
+The project has completed 38 countries (N>20,000, after cleaning) and was chasing the final 6 countries for the end of September. They are aiming to have the draft paper written by the end of October for circulating around the group.
+Read more in our Registered Report >> ( https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true )
+
+010 Social Evaluation (NEW PROJECT!)
+
+PSA 010 will investigate whether social evaluations are best explained by a bi-dimensional model of Warmth/Communion and Competence/Agency or by a tri-dimensional model that includes a distinct third dimension of Morality. This pre-registered, multi-site study will use confirmatory factor analyses to directly test these competing hypotheses across different social targets (self, another agent, an in-group, and an out-group).
+
+The group is currently building an administrative team and completing the Stage 1 Registered Report ( currently under review at Psychological Science ) before onboarding new members.
+Read more in our proposal >> ( https://docs.google.com/document/d/1zo_MwwsDVIKh4m6UlaI0XgPN4hS07Abf )
+
+JTF1 Moral Experiences
+
+The lead team has been wrapping up data coding and validation and has been preparing a draft of the manuscript to share with collaborators.
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/jktnv_v2 )
+
+JTF2 Dignity Honor Face
+
+This project has collected data from over 31,000 participants from over 60 countries!
+Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/9hb8k_v1 )
+
+JTF3 Error Correction
+
+The lead team have collected data from over 10,000 participants across 35 countries thus far! Almost all translations are complete (with only 2 languages remaining), so all teams can dive into data collection quite soon, if not already.
+Read more in our preprint >> ( https://osf.io/wn4vx/ )
