@@ -1,0 +1,21 @@
+---
+title: "PSA July 2020 Newsletter"
+author: "Chris Chartier"
+date: 2020-07-24
+categories:
+  - mailchimp backup
+---
+
+Accelerators,
+
+July has been extremely active in the PSA, and this newsletter (https://psysciacc.org/news/2020-07-24_news-from-the-accelerator-july-2020.html) contains updates on many projects, but we’d like to highlight two things: our Associate Director election and continued data collection for our PSACR studies.
+
+First, the PSA has taken a very big and important step as an organization this month by initiating our first truly democratic election for an open Associate Director position! You can read the candidates’ statements at the links in the newsletter (https://psysciacc.org/news/2020-07-24_news-from-the-accelerator-july-2020.html) .
+
+Second, the PSACR bundle is still collecting data. We now have over 19,000 participants (i.e., people who have completed the general questions about the pandemic and participated in one or more of the study surveys). The survey is offered in 38 (!!) languages and dialects. We are still planning to collect data as long as we can afford to, which we expect to be through August. We are also welcoming new labs to join data collection if they use one of the languages we've translated already. you can see a list of implemented and soon-to-be implemented languages here:
+
+http://formr.psysciacc.org/shiny/shiny_app/ (http://formr.psysciacc.org/shiny/shiny_app/?fbclid=IwAR0N00g1oP_P1uNy3Tm5Pc7lO-krxNpm83HTZZbFXGWrIgInOc6Y64PiRdk) .
+
+Please email psacovid@gmail.com if you are interested in joining or have questions about joining!
+
+https://psysciacc.org/news/2020-07-24_news-from-the-accelerator-july-2020.html

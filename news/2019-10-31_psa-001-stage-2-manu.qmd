@@ -1,0 +1,23 @@
+---
+title: "PSA 001 Stage 2 Manuscript (with results) Submitted to NHB and Preprint Updated"
+author: "Chris Chartier"
+date: 2019-10-31
+categories:
+  - mailchimp backup
+---
+
+Accelerators,
+
+This morning we submitted the stage 2 registered report manuscript for PSA 001 to Nature Human Behaviour. Just now, we also publicly released an updated preprint with the results of the study included, and shared an exploratory dataset for others to use in generating preregistered secondary analyses. Although we still await peer review of this stage 2 manuscript, this is a major accomplishment for the PSA, as it represents the completion of our first empirical project!
+
+Here is the preprint: https://psyarxiv.com/n26dy
+
+Here is a link to the exploratory data set: https://osf.io/yrveh/
+
+I’ve also tweeted a summary of the project and results a moment ago. Here’s the link: https://twitter.com/PsySciAcc/status/1190010616053977088
+
+Check it out, and please share as widely as possible!
+
+Thank you so much to everyone who has worked so hard to make the PSA and this first study a success. Here’s to many more studies and many more years of accelerating psychological science as a team!
+
+Ok, I’m off to trick-or-treat with my kids :)

@@ -1,0 +1,102 @@
+---
+title: "News from the Accelerator- September 2022"
+author: "The Psychological Science Accelerator"
+date: 2022-09-01
+categories:
+  - mailchimp backup
+---
+
+quick read
+- The PSA is electing two new Associate Directors.
+
+- The conference program for the 2022 Big Team Science Conference (https://bigteamscienceconference.github.io)  is now available, and registration is open.
+
+- The special call (https://psysciacc.org/news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html) for studies on John Templeton Foundation funding themes is now closed.
+
+
+elections
+Miguel Silan and Kathleen Schmidt are running to serve as Associate Directors of the PSA. Links to a their candidacy statements and the voting survey are available on the PSA Canvas page (https://canvas.psysciacc.org/). The deadline to vote is September 16.
+
+
+project updates
+https://manybabies.github.io/MB2/
+
+
+Object Orientation Study (PSA-002) (https://psysciacc.org/002-object-orientation/)
+
+The lead team is continuing to work through the feedback from the journal. The lead team has generated new analyses and has posted the code in the project Slack channel for review.
+
+https://manybabies.github.io/MB3/
+
+
+Gendered Prejudice Study (PSA-003) (https://psysciacc.org/003-gendered-prejudice/)
+
+The lead team has completed a manuscript draft. The manuscript will be distributed for feedback to all collaborators soon with the goal of submitting to Psychological Science.
+https://manybabies.github.io/MB3/
+
+
+Justified True Belief Study (PSA-004) (https://psysciacc.org/004-true-belief/)
+
+The Stage 2 manuscript was submitted to AMPPS on July 16th. Collaborators will be notified when the reviews are returned.
+
+https://manybabies.github.io/MB3/
+
+
+Stereotype Threat (PSA-005) (https://psysciacc.org/005-stereotype-threat/)
+
+PSA-005 is still recruiting collaborators! If you are interested in working on this project, or would like more information, you can fill out this form (https://forms.gle/siifAutYT2oKsf3s8) .
+https://manybabies.github.io/MB3/
+
+
+Semantic Priming Study (PSA-007) (https://psysciacc.org/psa-007-spam-l/)
+
+Several labs will be beginning data collection soon. If you are interested in becoming a collaborator, or want to learn more about the project, please e-mail the project leads (http://007spaml@gmail.com) .
+
+https://manybabies.github.io/MB3/
+
+
+Minimal Groups Study (PSA-008) (https://psysciacc.org/psa-008-project-information/)
+
+The Stage 1 Registered Report has received a "Revise and Resubmit" decision from Nature Human Behaviour. Collaborators should review and accept the Collaboration Agreement on the Canvas page as soon as possible.
+
+If you are still interested in joining the project and have not been added to the Canvas page, please contact Kathleen Schmidt (http://kathleenschmidt1@gmail.com) .
+https://manybabies.github.io/MB3/
+
+
+COVID Studies (PSA-CR) (https://psysciacc.org/studies/psacr-1-2-3/)
+
+The PSACR-001 lead team has reviewed the proofs and is in the process of making authorship information corrections.
+
+The PSA-CR data paper (https://osf.io/byqha) has received a “Revise and Resubmit” from Nature Scientific Data. More information will be sent soon.
+
+https://manybabies.github.io/MB3/
+
+
+JTF Studies (https://psysciacc.org/news/2022-07-28_special-call-for-studies-studying-generalizability-with-global-samples-deadline-extended.html)
+
+JTF submissions are now closed and projects are moving into feasibility and quality review. Thank you to everyone who submitted a proposal!
+https://manybabies.github.io/MB2/
+
+
+2022 Big Team Science Conference (https://bigteamscienceconference.github.io/index)
+
+The BTS-CON (co-hosted by the PSA) program (1ngJm6sTARkmuiSGthAhAPjWTj3um7FO5KlDXSWCarm8) is now available. Registration (https://opencollective.com/psysciacc/events/test-event-23392c94/contribute/registration-2022-big-team-science-conference-40278) is also open. To maximize inclusivity, conference registration fees are optional.
+
+
+big team science
+The benefits, barriers, and risk of big team science. PsyArXiv (https://psyarxiv.com/2mdxh)
+
+Build up team science. Nature (https://www.nature.com/articles/d41586-022-00150-2)
+
+The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS (https://journals.sagepub.com/doi/full/10.1177/2515245918797607)
+
+
+
+completed studies
+To which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour (https://www.nature.com/articles/s41562-020-01007-2)
+
+Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour (https://www.nature.com/articles/s41562-022-01319-5)
+
+A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour (https://www.nature.com/articles/s41562-021-01173-x)
+
+A global experiment on motivating social distancing during the COVID-19 pandemic. PNAS (https://www.pnas.org/doi/full/10.1073/pnas.2111091119)

@@ -1,0 +1,53 @@
+---
+title: "News from the Accelerator- April 2022"
+author: "The Psychological Science Accelerator"
+date: 2022-05-04
+categories:
+  - mailchimp backup
+---
+
+Accelerators,
+
+
+
+Quick Read
+* PSA 006- You can now access the full published manuscript (https://www.nature.com/articles/s41562-022-01319-5) with Nature Human Behaviour. Congratulations to all collaborators
+* We have a Special Call for Studies – Studying Generalizability with Global Samples (https://osf.us18.list-manage.com/track/click?u=f8bacf294e5a46e350b638374&id=cfa6f8e159&e=2a82fb47c9) !
+
+
+Study updates
+* PSA-002 (Object Orientation): The lead team is working on implementing the extensive feedback from Psychonomic Bulletin and Review into the Stage 2 Registered Report.
+* PSA-003 (Gendered Prejudice): The lead team has written a response letter to the PBR feedback and is in the process of finalizing a new draft of the manuscript.
+* PSA-004 (Accelerated CREP): The lead team is working on the authorship order and authorship credit tracking. All collaborators were sent the revised manuscript to review by May 8th and an invitation to canvas to fill out the authorship form. If you have not received this invitation, please email Savannah Lewis (mailto:slewis16@ashland.edu) .
+* PSA-005 (Stereotype Threat): Data collection continues through the summer and fall. As of May 2nd, the team has collected 797 participants across 32 sites!
+* PSA-006 (Trolley Problem): The manuscript has final acceptance at Nature Human Behaviour. You can now access the full printed manuscript! (https://www.nature.com/articles/s41562-022-01319-5)
+* PSA-007 (SPAM-L): The admin team is continually working on coding the experiment in lab.js, piloting the experiment, and setting up the system for material translations. The admin team is also pursuing funding opportunities that will allow for the recruitment of additional languages. The project team will be sending out updates in the near future regarding ways to collect data for this project. If you are interested in becoming a collaborator or want to learn more about 007, please email the lead team (mailto:007spaml@gmail.com) .
+* PSA-008 (Minimal Groups): The lead team is continuing to finalize their registered report manuscript for submission to Nature Human Behaviour. Onboarding information for those who have filled out the interest survey will be sent out soon; potential collaborators can still express interest in the project (here (https://docs.google.com/forms/d/e/1FAIpQLSdF2vlRHo_Z6mfNG3eAzstQhgB_hwSvkuRYa0hc39fXVwDNvQ/viewform) )
+* PSA-COVID Rapid Bundle (001/003)-
++ The PSACR-001 lead team has now resubmitted the manuscript to Affective Science.
++ PSACR-003 has been accepted at PNAS. The lead team is currently waiting on paper proofs. PNAS confirmed they will write a letter confirming everyone in the group's name is a full author. To receive this letter, please email Emma Shumeyko (mailto:eshumeyko@nas.edu) .
+
+
+
+
+Special Call for Studies – Studying Generalizability with Global Samples (https://osf.us18.list-manage.com/track/click?u=f8bacf294e5a46e350b638374&id=cfa6f8e159&e=2a82fb47c9)
+
+The Psychological Science Accelerator (PSA), supported by the John Templeton Foundation (JTF), welcomes study proposals to test the generalizability of phenomena related to JTF strategic priorities with large, global samples.
+
+To be eligible for this call, projects must investigate questions related to one or more of the strategic priorities of JTF: the dynamics of religious change, intellectual humility, religious cognition, the science of character virtue, and health, religion, and spirituality.
+
+Projects selected through this special call will be advertised to members of the PSA network in collaboration with the proposing authors. Each study will be supported by $40,000 of direct funding for data collection. The proposing author teams will also be collectively supported by 3 full-time scientific staff members (a Research Coordinator, a Postdoctoral Researcher, and a Research Scientist), an additional ⅓ time senior staff member (Dr. Christopher R. Chartier), a ½ time staff member equivalent team of undergraduate research assistants, several members of PSA committees (at their discretion), and members of the network at large (at their discretion).
+
+
+Selection Process and Timeline
+* Submission deadline:  July 20, 2022.
+* Initial feasibility and quality review: July 20- July 27, 2022.
+* Reviewer selection: July 27- August 3, 2022.
+* Network rating solicitation: August 3, 2022.
+* Review submission deadline: August 17, 2022.
+* Network rating deadline: August 17, 2022
+* Study selection decision deadline: August 31, 2022.
+
+Please use this form to submit your proposal. (https://osf.us18.list-manage.com/track/click?u=f8bacf294e5a46e350b638374&id=0c6d14ea73&e=2a82fb47c9)
+
+For pre-submission inquiries, please email Chris Chartier at cchartie@ashland.edu. He is happy to meet with proposing authors and/or answer questions about what is likely to make for a strong submission. To learn more information about submission details and formatting, please visit the official call. (https://psysciacc.org/news/2022-04-20_special-call-for-studies-studying-generalizability-with-global-samples.html)

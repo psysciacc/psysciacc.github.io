@@ -1,0 +1,12 @@
+---
+title: "Correction to the current newsletter"
+author: "Savannah Lewis"
+date: 2021-12-02
+categories:
+  - mailchimp backup
+---
+
+Accelerators,
+I apologize for the double emails today! It has come to my attention that there was an error in the newsletter sent out this afternoon. The newsletter read that "PSACR- 003 received another favorable R&R from Nature Human Behavior." When it should have read "
+PSACR- 003 received another favorable R&R from PNAS." You will see this reflected on our website version (https://psysciacc.org/news/2021-11-30_3230.html) of the newsletter. Thank you!
+

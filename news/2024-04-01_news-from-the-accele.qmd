@@ -1,0 +1,131 @@
+---
+title: "News from the Accelerator- April 2024"
+author: "The Psychological Science Accelerator"
+date: 2024-04-01
+categories:
+  - mailchimp backup
+---
+
+quick read
+
+- The PSA has elected its next co-directors! Congratulations, Erin Buchanan and Savannah Lewis!
+
+- PSA members are invited to participate in a paid metascientific study! Please read below for more information on how to participate.
+
+- A new PSA project, JTF-003: Error Correction, is looking for collaborators! More information below.
+
+- The PSA is hiring for the Research Coordinator position as part of its JTF funded project. Read below for more information.
+
+
+announcements
+The election for the next director of the PSA closed on March 22nd, and we are pleased to announce that Erin Buchanan and Savannah Lewis are the next co-directors of the PSA!
+
+You can read outgoing Director Nicholas Coles exit statement on Twitter (https://x.com/coles_nicholas_/status/1774813801675894884?s=20) or Bluesky. (https://bsky.app/profile/nicholascoles.bsky.social/post/3kp3dhfhexg25)
+Calling all PSA members for participation in a metascientific study!
+
+PSA members are invited to participate in a study examining researcher predictions regarding the generalizability of psychological effects across cultural contexts.
+
+The study should take about 15 minutes to complete, and participants may choose to receive a $10 Visa gift card for their participation.
+
+Who can participate?
+The only criteria for participation is being a PSA member.
+
+What is involved?
+In the study, you will be asked to read a description of an upcoming research project being run by the PSA. Then, you will predict research outcomes from the project. You will also answer a few questions about your predictions and your beliefs about generalizability. Finally, you will answer some questions about yourself.
+
+Interested in participating?
+Please indicate your interest in participation by submitting this form (https://docs.google.com/forms/d/e/1FAIpQLSca-iU9qsff0kb2accuGTn0vKVptYYiFRVlksjRBvnyGgrVjw/viewform). Then, we will send you a study link. If you are a collaborator contributing to the PSA-JTF1: Moral Experiences project, please see the project email for instructions for participation.
+
+If you have any questions, please email psajtf1@gmail.com (mailto:psajtf1@gmail.com) .
+
+Thank you for your consideration!
+The PSA is hiring for the Research Coordinator position as part of our JTF funded projects! The position will be on a 1 year contract beginning in July. The deadline to apply for full consideration is April 22nd. Click here (https://jobs.ashland.edu/postings/5671) to view the official job ad.
+
+Please contact Chris Chartier (cchartie@ashland.edu (mailto:cchartie@ashland.edu) ) for any and all inquiries about the position or application process.
+
+
+project updates
+
+
+PSA-JTF-003: Error Correction (https://psysciacc.org/projects/psajtf003.html)
+
+This project will investigate error correction behaviours in a large and culturally diverse sample. Participants will solve problems that elicit appealing yet incorrect intuitions twice: first, intuitively, then, reflectively, allowing them to correct initial errors. We plan to manipulate both the presence of feedback and answer justification. We will also examine the role of cross-cultural and individual differences, including metacognitive aspects of error recognition, in corrective behaviour.
+
+This project is progressing nicely, and still welcomes interested collaborators who can collect data. Interested in learning more and potentially joining the project? Fill out this survey! (https://docs.google.com/forms/d/e/1FAIpQLSdEqUp0cOb-duJXvd3C1-DBX8dTZOksDyV-3fh4KFeKyCYrOg/viewform)
+
+
+Object Orientation Study (PSA-002) (https://psysciacc.org/projects/psa002.html)
+
+The lead team has completed the process of revising the paper for submission to a new journal. In response to feedback from the network we are exploring journal options and anticipate a new submission of the manuscript in the coming weeks.
+
+
+Gendered Prejudice Study (PSA-003) (https://psysciacc.org/projects/psa003.html)
+
+The lead team is reformatting the paper with the goal of submitting to PLOS-One.
+
+
+Justified True Belief Study (PSA-004) (https://psysciacc.org/projects/psa004.html)
+
+The manuscript was accepted for publication at Advances in Methods and Practices in Psychological Science!
+
+
+Stereotype Threat (PSA-005) (https://psysciacc.org/projects/psa005.html)
+
+Data collection will continue through the rest of the semester so that the thresholds of evidence described in the pre-registration can be reached.
+
+
+Semantic Priming Study (PSA-007) (https://psysciacc.org/projects/psa007.html)
+
+The PSA-007 lead team has finished working on data cleaning and analysis. They are now writing a draft of the results and discussion to send to collaborators. Co-authors should be on the lookout for the final paper and authorship survey soon.
+
+
+Minimal Groups Study (PSA-008) (https://psysciacc.org/projects/psa008.html)
+
+The Stage 1 Registered Report has been accepted in principle at Nature Human Behaviour! The lead team is working on final preparations for data collection.
+
+
+PSA-JTF-001: Moral Experiences (https://psysciacc.org/news/2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.html)
+
+Data collection continues to roll out to more sites, and several translations are near completion. For more information about the project please see the preprint (https://osf.io/preprints/psyarxiv/jktnv) or email the project leads (mailto:psajtf1@gmail.com) .
+
+
+PSA-JTF-002: Dignity Honor Face (https://psysciacc.org/projects/psajtf002.html)
+
+This study explores global cultural logics of dignity, honor, and face (DHF). The lead team is preparing to solicit feedback from collaborators on the Stage 1 style manuscript (the introduction and methods to the eventual paper). This project welcomes interested collaborators who can collect data. Interested in learning more and potentially joining? Fill out this survey! (https://docs.google.com/forms/d/e/1FAIpQLSfifQfg-HQdZ-AIoSACu2yeI5bR_DA6nqexmjI0S8GdRaaVWA/viewform)
+
+
+PSA-AF-001: Partner Preferences (https://psysciacc.org/affiliated/af001.html)
+
+The Stage 2 Registered Report has been submitted to Journal of Personality and Social Psychology!
+
+
+big team science
+Psychology should generalize from — not just to — Africa. Nature Reviews Psychology (https://www.nature.com/articles/s44159-022-00070-y)
+
+How to build up big team science: a practical guide for large-scale collaborations. Royal Society Open Science. (https://royalsocietypublishing.org/doi/10.1098/rsos.230235)
+
+‘Big team’ science challenges us to reconsider authorship. Nature Human Behaviour (https://www.nature.com/articles/s41562-023-01572-2)
+
+The benefits, barriers, and risk of big team science. Perspective on Psychological Science (https://psyarxiv.com/2mdxh)
+
+Build up big team science. Nature (https://www.nature.com/articles/d41586-022-00150-2)
+.
+
+The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS (https://journals.sagepub.com/doi/full/10.1177/2515245918797607)
+
+Psychological Science Accelerator: A promising resource for clinical psychological science. Avoiding Questionable Research Practices in Applied Psychology (https://link.springer.com/chapter/10.1007/978-3-031-04968-2_19)
+
+
+
+completed studies
+To which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour (https://www.nature.com/articles/s41562-020-01007-2)
+
+Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour (https://www.nature.com/articles/s41562-022-01319-5)
+
+A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour (https://www.nature.com/articles/s41562-021-01173-x)
+
+A global experiment on motivating social distancing during the COVID-19 pandemic. PNAS (https://www.pnas.org/doi/full/10.1073/pnas.2111091119)
+
+In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. Affective Science (https://link.springer.com/article/10.1007/s42761-022-00128-3)
+
+The Psychological Science Accelerator’s COVID-19 rapid-response dataset. Nature Scientific Data (https://www.nature.com/articles/s41597-022-01811-7)

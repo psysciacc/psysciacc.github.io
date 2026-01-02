@@ -1,0 +1,40 @@
+---
+title: "News from the Accelerator- August 2021"
+author: "Savannah Lewis"
+date: 2021-09-01
+categories:
+  - mailchimp backup
+---
+
+Accelerators,
+
+We decided to try a new format for our monthly newsletter. If you pressed for time, you can find all of the main updates in the quick read section. As part of our changes in format, you are will now receive the newsletter in its entirety instead of having you click over to the website. (Although you can still access the newsletter on the website.)
+
+Quick read:
+* The PSACR-002 Cognitive Reappraisal project is nowpublished (https://www.nature.com/articles/s41562-021-01173-x) in Nature Human Behaviour.
+* The PSA virtual (https://psysciacc.org/psacon2021/) conference is still accepting presentation submissions and registration is still open!
+* The PSA membership website is moving to Canvas. Each member will get an email soon with instructions regarding the next steps.
+
+Study updates:
+* PSA-002 (Object Orientation) (https://psysciacc.org/002-object-orientation/) : PSA-002 got a lot of great feedback on the Stage 2 manuscript from collaborators. The lead team is working through the feedback and plans to send collaborators an updated manuscript for additional feedback very soon.
+* PSA-003 (Gendered Prejudice) (https://psysciacc.org/003-gendered-prejudice/) : The lead team is currently in the process of translating the open-ended participant responses. Several languages have completed the translation process, and the lead team is soliciting volunteers for the remaining languages (Portuguese, Norwegian, Polish and Chinese).
+* PSA-004 (Accelerated CREP) (https://psysciacc.org/004-true-belief/) : The lead team is currently working on data processing, data analysis, and authorship credit tracking.
+* PSA-005 (Stereotype Threat) (https://psysciacc.org/005-stereotype-threat/) : The lead team anticipates starting in-person data collection on Monday, October 11, 2021. The team will also be recruiting new collaborators until Friday, September 3, 2021. If you are interested in becoming a collaborator or want to learn more about 005 please email psa005stero@gmail.com (mailto:psa005stero@gmail.com) .
+* PSA-006 (Trolley Problem) (https://psysciacc.org/006-trolley-problem/) : The lead team has submitted the Stage II submission to Nature Human Behaviour and is waiting for feedback.
+* PSA-007 (SPAM-L) (https://psysciacc.org/psa-007-spam-l/) : SPAM-L is still recruiting collaborators for the Words2Many (https://docs.google.com/document/d/1VKR-7csBlL-lGOTbRTnlmaYkqi8bj2FhYtvbzEN25Wk/edit?usp=sharing) and Subs2Strudel (https://docs.google.com/document/d/1xslViVFZrapUG75mwsF2eijFoQqm5GABoOf9ekIweH4/edit?usp=sharing) pre-projects. SPAM-L admin team is also working on putting together IRB documents (if necessary), and the lead team is working on drafting a  Registered Report. If you are interested in becoming a collaborator or want to learn more about PSA-007, please email 007spaml@gmail.com (mailto:007spaml@gmail.com)
+* PSA-COVID Rapid Bundle-  (https://psysciacc.org/studies/psacr-1-2-3/)
++ PSACR-001 (Loss Gain) has been submitted to Affective Science.
++ PSACR-002 (Cognitive Reappraisal) is published in Nature Human Behavior (https://doi.org/10.1038/s41562-021-01173-x) .
++ PSACR-003 (Self-Determination) is incorporating coauthor feedback in preparation for resubmission to PNAS.
+
+Canvas
+The PSA is slowly integrating our new membership website to Canvas. Canvas is designed for teach ing, so many of the terms online are focused on teaching - but we plan to explore Canvas as a project management tool. We have officially added every PSA member to the system. You should get an email in the next couple of weeks saying you have been added to our PSA membership course. You should also receive an email containing a guide for how to navigate this new membership website
+
+PSA Virtual Conference (PSACON)
+
+This year’s conference will take place on Oct 28th, 29th, and 30th from 7:00 to 19:00 UTC.
+You can now see our drafted schedule (https://docs.google.com/spreadsheets/d/1keUaa8u4cpTuYi9ue7BmndgzC0CFWOxIXGTFSLhjV0c/edit?usp=sharing) and booklet (https://docs.google.com/document/d/1_xpV3uwqSP5zf3HMI_rowJ0V5TXeuWBmGMz9DBgIXMc/edit?usp=sharing) to see some of our exciting presentations. If you have not already, you can register (https://psysciacc.org/the-2021-meeting-of-the-psychological-science-accelerator/) and submit a presentation (https://psysciacc.org/psa-conference-2021-call-for-presenters/) for the second annual virtual PSA CON (https://psysciacc.org/psacon2021/) ! This year's conference looks like it will be very exciting, and we have thus far been able to accommodate all members who have requested free access to the conference. We look forward to seeing you there!
+
+Open Science SEA
+
+The PSA is partnering with the Advancing Science in Southeast Asia Web Conference 2021! The conference will be held virtually on October 29, 2021, and you can still register at http://sciencesea2021.com (https://t.co/ts9a7GzDw0?amp=1) .

@@ -1,0 +1,37 @@
+---
+title: "Give your Feedback on our Current Study Submissions!"
+author: "Chris Chartier"
+date: 2018-08-24
+categories:
+  - mailchimp backup
+---
+
+Accelerators,
+
+We now welcome all members of the network to provide their feedback on the 4 study submissions we currently have under review (you will notice no submission #002 as this submission was deemed infeasible for now, but will likely be resubmitted for a later call for studies). All submissions are also being peer-reviewed by a team of experts, and the Study Selection Committee will base their final decisions off of both peer-reviewer feedback and the responses of the full network. You are under no obligation to read and respond to all (or any) of the submissions, but we welcome and appreciate your feedback on any or all of the submissions, if you choose to provide it! The abstracts for each submission are below, along with a google drive link to the full submission. If you would like to provide feedback on any submission, please request access. I will do my best to quickly grant access to any member of the network that makes a request.
+
+Please use this form (https://docs.google.com/forms/d/e/1FAIpQLSf1W6LskGTv3S_vQaA1SW6sL393LCzx27cWyKXrRg5mfTioow/viewform) to provide your feedback.
+
+Thank you
+
+Submission #001
+Link (https://drive.google.com/drive/u/0/folders/1rK16IcFslUHgBYuIqnDRf5I6FfS2GS1G)
+Abstract:
+Research on moral reasoning is centered around moral dilemmas in which deontological perspectives (following norms) are in conflict with consequentialist reasoning (also referred to as utilitarian; following the greater good). A central finding of this field is that people in certain situations are more likely do go with deontological considerations, while in other cases they are more likely to decide based on consequentialist reasons. In their seminal article, Greene et al. (2009) tried to investigate the effect of situational and psychological factors (e.g., intent of the agent, or physical contact between the agent and victim) on people’s moral decisions, but their work could not explore the effect of a potentially important component: culture. Therefore, the goal of the present research proposal is to empirically test the universality of utilitarian and deontological responding by directly replicating Greene et al.’s experiments on non-WEIRD samples as well as to explore the influence
+of culture and economic status on moral reasoning.
+
+Submission #003
+Link (https://drive.google.com/drive/u/0/folders/1FtaRAYJy9Fjmt1UH1jLAPwNdVuCvgPbU)
+Abstract:
+According to stereotype threat theory, the possibility of confirming a negative stereotype provokes feelings of threat, leading people to underperform on the very tasks on which they are stereotyped. This theory has immense theoretical and practical implications, but many studies supporting it suffer from small samples and varying operational definitions of stereotype threat. For the first problem, we propose to leverage the Psychological Science Accelerator’s vast network of US-based labs to recruit a large sample of African American students to participate in a test of stereotype threat theory. For the second problem, we propose to use an adaptive design to find, among four procedures each to increase and reduce stereotype threat, the comparison that provides the best evidence for an effect. By assessing the robustness of a socially and scientifically important theory with a rare population, this proposal will advance both psychological science and the Accelerator’s core mission.
+
+Submission #004
+Link (https://drive.google.com/drive/u/0/folders/1Z7_CIaVEfflzV13Ns6y20ky1xXpd4vPP)
+Abstract:
+This project’s goal is to develop the “Social Thermoregulation, Risk Avoidance, and Eating Questionnaire” (STRAEQ-2). In it, we develop a tool that asks whether people’s personalities are formed by basic needs such as hunger, temperature changes, and physical threats first and the ability to cope with these by outsourcing them to other people second. An initial scale will be developed with an international team of experts, expanding on an earlier questionnaire (STRAQ-1). To refine the measure, we leverage PSA members’ knowledge to refine our scale and factor analyze the items using a pre-registered exploratory/confirmatory split-half data approach (assessing cross-cultural performance through invariance testing). To validate the measure, we assess many better-known psychological constructs. To assess its relation to the environment, we develop an algorithm to harvest freely available online data. While developing this questionnaire, we aim to contribute to structural improvements to the PSA
+format.
+
+Submission #005
+Link (https://drive.google.com/drive/u/0/folders/1G308eRDW4H2e7VVNogD9Y8akza-RVDMu)
+Abstract:
+The ability to make rapid, accurate judgments of individuals from brief video recordings, termed thin slicing, is thought to rely on inferences from nonverbal behavior. The interpretation of nonverbal behavior varies across cultures. This suggests that inferences made from thin slices will also vary across cultures. This project will estimate thin slicing accuracy across cultures in individuals observing one minute silent video recording of U.S. undergraduate students. Participants will judge how much one social target likes the other and likelihood of cooperating in a prisoner’s dilemma game. Judgments made by participants will be compared to ratings made by the social target and real decisions on the prisoner’s dilemma. Additionally, smiling has been hand coded in these videos. This study will therefore also be able to estimate the degree to which a specific, widely used nonverbal cue—smiling—is used to infer liking and cooperative intent across cultures.

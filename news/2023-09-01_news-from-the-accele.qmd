@@ -1,0 +1,94 @@
+---
+title: "News from the Accelerator- September 2023"
+author: "The Psychological Science Accelerator"
+date: 2023-09-01
+categories:
+  - mailchimp backup
+---
+
+quick read
+- The PSA is now on BlueSky (https://bsky.app/profile/psysciacc.bsky.social) !
+
+- The PSA 007 Semantic Priming study is looking for collaborators who can collect data in Chinese and Portuguese!
+
+- The PSA Moral Experiences study (PSA-JTF1) seeks collaborators in select countries!
+
+
+Conference Announcements
+https://bigteamscienceconference.github.io/
+The PSA is a proud to co-host of the second annual Big Team Science Conference (https://bigteamscienceconference.github.io/) ! Registration (https://bigteamscienceconference.github.io/registration/) is open, and registration fees will once again be optional!
+The Love Consortium will be hosting the 2023 Global Gratitude Summit (https://www.theloveconsortium.org/engage) on Wednesday, September 13th from 8:00 to 14:15 Eastern Daylight Time. This free, virtual event will feature talks and discussion with researchers around the world. Topics including gratitude interventions, gratitude across cultures, and gratitude beyond interpersonal relationships.
+
+
+project updates
+
+
+Object Orientation Study (PSA-002) (https://psysciacc.org/002-object-orientation/)
+
+The manuscript has been resubmitted to Psychonomic Bulletin and Review and is under review.
+
+
+Gendered Prejudice Study (PSA-003) (https://psysciacc.org/003-gendered-prejudice/)
+
+The lead team is continuing to revise the manuscript based on network feedback. Specifically, the lead team is running new analyses after learning of inadvertent participant exclusions. The lead team plans to circulate a new version of the manuscript with a revised results and discussion section to the network in the coming weeks.
+
+
+Justified True Belief Study (PSA-004) (https://psysciacc.org/004-true-belief/)
+
+The paper was resubmitted to Advances in Methods and Practices in Psychological Science on May 31 and is still under review.
+
+
+Stereotype Threat (PSA-005) (https://psysciacc.org/005-stereotype-threat/)
+
+Less than 300 participants are needed to complete data collection, which the lead team hopes to complete this semester. The lead team has sent out a checklist to labs to get a status update for the upcoming semester. They are also working on a commentaries about challenges in many labs projects, which they hope to resubmit soon.
+
+
+Semantic Priming Study (PSA-007) (https://psysciacc.org/psa-007-spam-l/)
+
+The project leads are actively seeking collaborators to collect data in Chinese (traditional and simplified) and Portuguese (including Brazillian Portuguese). Formal data collection for the main paper in Nature Human Behaviour is expected to be complete this upcoming semester (please see collaboration agreement for information on future papers).  Currently, there are data from over 22,000 participants in 30 languages! If you are interested in becoming a collaborator, or want to learn more about 007, please e-mail the project leads (mailto:buchananlab@gmail.com?subject=Interest%20in%20PSA-007) .
+
+
+Minimal Groups Study (PSA-008) (https://psysciacc.org/psa-008-project-information/)
+
+Preparations for data collection continue as the team waits to hear back about the latest minor revision of the Stage 1 manuscript.
+
+
+PSA-JTF-001: Moral Experiences (https://psysciacc.org/news/2022-04-20_special-call-for-studies-studying-generalizability-with-global-samples.html)
+
+The lead team is working on finalizing the manuscript and materials for preregistration. They are still seeking additional collaborators who can collect data (especially local community samples) in select countries including: the United Kingdom (just added), Argentina, Brazil, Colombia, France, Greece, Indonesia, Japan, Malaysia, Morocco, Pakistan, and Saudi Arabia. Please fill out the interest (https://docs.google.com/forms/d/e/1FAIpQLSdR0v-_kRxi0ipLb1YqbVlvhhQ_gOiwMhim_X0r-AVbrjur3w/viewform) survey (https://docs.google.com/forms/d/e/1FAIpQLSdR0v-_kRxi0ipLb1YqbVlvhhQ_gOiwMhim_X0r-AVbrjur3w/viewform) or email psajtf1@gmail.com (mailto:psajtf1@gmail.com) for more information about joining the project.
+
+
+PSA-AF-001: Partner Preferences (https://psysciacc.org/psa-af-001-partner-preferences/)
+
+The project is accepted in-principle at the Journal of Personality and Social Psychology, and data collection is progressing smoothly. Thus far, data from 11,000+ participants from 50+ sites have been colected, and the final few sites are nearly ready to launch. The project leads expect to have data collection completed at some point in the Fall.
+
+
+big team science
+Psychology should generalize from — not just to — Africa. Nature Reviews Psychology (https://www.nature.com/articles/s44159-022-00070-y)
+
+How to build up big team science: a practical guide for large-scale collaborations. Royal Society Open Science. (https://royalsocietypublishing.org/doi/10.1098/rsos.230235)
+
+‘Big team’ science challenges us to reconsider authorship. Nature Human Behaviour (https://www.nature.com/articles/s41562-023-01572-2)
+
+The benefits, barriers, and risk of big team science. Perspective on Psychological Science (https://psyarxiv.com/2mdxh)
+
+Build up big team science. Nature (https://www.nature.com/articles/d41586-022-00150-2)
+
+The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS (https://journals.sagepub.com/doi/full/10.1177/2515245918797607)
+
+Psychological Science Accelerator: A promising resource for clinical psychological science. Avoiding Questionable Research Practices in Applied Psychology (https://link.springer.com/chapter/10.1007/978-3-031-04968-2_19)
+
+
+
+completed studies
+To which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour (https://www.nature.com/articles/s41562-020-01007-2)
+
+Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour (https://www.nature.com/articles/s41562-022-01319-5)
+
+A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour (https://www.nature.com/articles/s41562-021-01173-x)
+
+A global experiment on motivating social distancing during the COVID-19 pandemic. PNAS (https://www.pnas.org/doi/full/10.1073/pnas.2111091119)
+
+In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. Affective Science (https://link.springer.com/article/10.1007/s42761-022-00128-3)
+
+The Psychological Science Accelerator’s COVID-19 rapid-response dataset. Nature Scientific Data (https://www.nature.com/articles/s41597-022-01811-7)

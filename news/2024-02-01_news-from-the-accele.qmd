@@ -1,0 +1,118 @@
+---
+title: "News from the Accelerator- February 2024"
+author: "The Psychological Science Accelerator"
+date: 2024-02-01
+categories:
+  - mailchimp backup
+---
+
+quick read
+
+- The PSA will soon have an election for a major leadership position: Director!
+
+- A new PSA project, JTF-002: Dignity Honor Face, is looking for collaborators! Read below for more information.
+
+- The PSA Ethics committee is looking for new members!
+
+
+announcements
+The Psychological Science Accelerator (https://psysciacc.org/) (PSA) will soon have an election for a major leadership position: Director!
+
+The Director works with the Associate Directors as a steering body for the PSA. Together they make decisions as well as function as liaisons between the various committees. As described in Moshontz et al. (2018), the Director additionally “oversees day-to-day operations and evaluates the functioning and policies of the PSA with respect to the core principles” of diversity and inclusion, decentralized authority, transparency, rigor, and openness to criticism (p. 505).
+
+Any member of the PSA is eligible to run for this position, which is elected by the PSA community to serve a 3-5 year term. If you’d like to nominate yourself or someone else, please fill out this form (https://forms.gle/D55151yyxzoDsr2XA) on or before Monday, February 15, 2024.
+
+Although Director has historically been a volunteer role, candidates can optionally propose in their candidacy statement to use PSA funds (https://opencollective.com/psysciacc) to support the role. This could be in the form of course buyout, summer funding, postgraduate supplemental stipend etc. and would be subject to approval from the Associate Directors. If you have any questions about the position, feel free to email Miguel Silan (mailto:miguelsilan@gmail.com) (Associate Director overseeing the election) and/or Nicholas Coles (mailto:ncoles@stanford.edu) (outgoing Director).
+
+Stay tuned for an end-of-term reflection from outgoing Director, Nicholas Coles, who says:
+
+“Directing the PSA has been the most interesting, important, and exciting role I’ve taken on in my career thus far. I am extremely proud of what the PSA has achieved, and I’m beyond excited to see what the network accomplishes over the next few years. My term as Director may be coming to an end, but I will be continuing to dedicate a substantial portion of my energies to building up big team science!"
+The PSA Ethics Committee is putting out a call for new members! Click here for more information (https://drive.google.com/file/d/149QK6wGC0mPTtzT-iosKFNx6Y4FbQm4m/view). The deadline to submit an application is February 28, 2024.
+
+
+project updates
+
+
+PSA-JTF-002: Dignity Honor Face (https://psysciacc.org/news/2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.html)
+
+This study explores global cultural logics of dignity, honor, and face (DHF), examining their conceptualization and measurement across cultures. It maps the prevalence of DHF logics worldwide, identifying country-level and individual-level correlates and behavioral manifestations. The lead team is preparing to launch an item rating survey for the collaborators to take part in. This project welcomes interested collaborators who can collect data.
+
+Interested in learning more and potentially joining the project? Fill out this survey! (https://docs.google.com/forms/d/e/1FAIpQLSfifQfg-HQdZ-AIoSACu2yeI5bR_DA6nqexmjI0S8GdRaaVWA/viewform)
+
+
+Object Orientation Study (PSA-002) (https://psysciacc.org/projects/psa002.html)
+
+The lead team continues to re-work the paper for submission to a new journal. The lead team is targeting Memory & Cognition for the new submission.
+
+
+Gendered Prejudice Study (PSA-003) (https://psysciacc.org/projects/psa003.html)
+
+The paper was rejected from Psychological Science. The lead team is reformatting the paper with the goal of submitting to PLOS-One.
+
+
+Justified True Belief Study (PSA-004) (https://psysciacc.org/projects/psa004.html)
+
+The manuscript will be resubmitted to Advances in Methods and Practices in Psychological Science within the next few weeks.
+
+
+Stereotype Threat (PSA-005) (https://psysciacc.org/projects/psa005.html)
+
+Data collection will continue for another semester so that the thresholds of evidence described in the pre-registration can be reached.
+
+
+Semantic Priming Study (PSA-007) (https://psysciacc.org/projects/psa007.html)
+
+The lead team is excited to say that data collection in 16 languages has been completed. They expect Serbian and Romanian will be complete this week. In total, PSA 007 has collected over 30,000 participants in 30 languages! This month, they will begin the final stages of the project: data analysis and writing.
+
+
+Minimal Groups Study (PSA-008) (https://psysciacc.org/projects/psa008.html)
+
+The lead team is close to resubmitting the Stage 1 manuscript following the latest reviews from Nature Human Behaviour. They are hoping that they will receive an in principle acceptance soon thereafter. Translation of the study materials continues as the lead team prepares for the start of data collection.
+
+
+PSA-JTF-001: Moral Experiences (https://psysciacc.org/news/2022-12-06_second-special-call-for-studies-studying-generalizability-with-global-samples.html)
+
+The project protocol has been preregistered (https://osf.io/bkufn) and preprinted (https://osf.io/preprints/psyarxiv/jktnv). The ethics and translation processes are ongoing and data collection will soon begin at some sites. For more information about the project please email the project leads (mailto:psajtf1@gmail.com) .
+
+
+PSA-AF-001: Partner Preferences (https://psysciacc.org/affiliated/af001.html)
+
+The lead team has worked through most of the analyses and is now working on the first draft of the Stage 2 report at the Journal of Personality and Social Psychology!
+
+
+other big team science news
+On Twitter/X, there is a call for collaborators (https://x.com/MaxPrimbs/status/1748272982810669530?s=20) for a many-analyst investigation of a recent many-labs project on gender-inclusive language.
+Savannah Lewis will be speaking virtually at The South Asian Journal Club on the 16th of February at 7:30 PM IST on “Applying Open Science for Undergraduate Research”. You can register online using this link. (https://forms.gle/1e2RXcuoo3Q3Fcuh8)
+
+
+big team science
+Psychology should generalize from — not just to — Africa. Nature Reviews Psychology (https://www.nature.com/articles/s44159-022-00070-y)
+
+How to build up big team science: a practical guide for large-scale collaborations. Royal Society Open Science. (https://royalsocietypublishing.org/doi/10.1098/rsos.230235)
+
+‘Big team’ science challenges us to reconsider authorship. Nature Human Behaviour (https://www.nature.com/articles/s41562-023-01572-2)
+
+The benefits, barriers, and risk of big team science. Perspective on Psychological Science (https://psyarxiv.com/2mdxh)
+
+Build up big team science. Nature (https://www.nature.com/articles/d41586-022-00150-2)
+
+High replicability of newly discovered social-behavioural findings is achievable. Nature (https://www.nature.com/articles/s41562-023-01749-9)
+
+The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS (https://journals.sagepub.com/doi/full/10.1177/2515245918797607)
+
+Psychological Science Accelerator: A promising resource for clinical psychological science. Avoiding Questionable Research Practices in Applied Psychology (https://link.springer.com/chapter/10.1007/978-3-031-04968-2_19)
+
+
+
+completed studies
+To which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour (https://www.nature.com/articles/s41562-020-01007-2)
+
+Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour (https://www.nature.com/articles/s41562-022-01319-5)
+
+A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour (https://www.nature.com/articles/s41562-021-01173-x)
+
+A global experiment on motivating social distancing during the COVID-19 pandemic. PNAS (https://www.pnas.org/doi/full/10.1073/pnas.2111091119)
+
+In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. Affective Science (https://link.springer.com/article/10.1007/s42761-022-00128-3)
+
+The Psychological Science Accelerator’s COVID-19 rapid-response dataset. Nature Scientific Data (https://www.nature.com/articles/s41597-022-01811-7)

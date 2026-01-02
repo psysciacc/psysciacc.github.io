@@ -1,0 +1,100 @@
+---
+title: "News from the Accelerator- August 2023"
+author: "The Psychological Science Accelerator"
+date: 2023-08-01
+categories:
+  - mailchimp backup
+---
+
+quick read
+- The abstract submission deadline for the 2023 Big Team Science Conference (https://bigteamscienceconference.github.io/) has been extended to August 14th!
+
+- The PSA Moral Experiences study (PSA-JTF1) seeks potential collaborators!
+
+
+project updates
+https://manybabies.github.io/MB2/
+
+
+Object Orientation Study (PSA-002) (https://psysciacc.org/002-object-orientation/)
+
+The manuscript has been resubmitted to Psychonomic Bulletin and Review and is under review.
+
+https://manybabies.github.io/MB3/
+
+
+Gendered Prejudice Study (PSA-003) (https://psysciacc.org/003-gendered-prejudice/)
+
+As a result of a thorough review by the network, we identified an error in how some of the responses were being translated. This resulted in a significant number of participants being removed from the analysis inappropriately. The lead team is recoding these responses and updating the analyses. Thanks for your excellent and careful feedback, and for your patience as we work through this issue!
+https://manybabies.github.io/MB3/
+
+
+Justified True Belief Study (PSA-004) (https://psysciacc.org/004-true-belief/)
+
+The paper was resubmitted to Advances in Methods and Practices in Psychological Science on May 31 and is still under review.
+
+https://manybabies.github.io/MB3/
+
+
+Stereotype Threat (PSA-005) (https://psysciacc.org/005-stereotype-threat/)
+
+The team has collected data from over 1,500 participants thus far, and they plan to continue collecting data in Fall 2023.
+https://manybabies.github.io/MB3/
+
+
+Semantic Priming Study (PSA-007) (https://psysciacc.org/psa-007-spam-l/)
+
+The project is currently on it way with over 19,000 participants and 28 languages. Spanish has officially met data collection requirements! Slovenian and Thai links should be ready soon for collaborators. Data collection will continue into the Fall. We anticipate to have additional labs joining us next semester. If you are interested in becoming a collaborator, or want to learn more about 007, please e-mail the project leads (mailto:buchananlab@gmail.com?subject=Interest%20in%20PSA-007) .
+
+https://manybabies.github.io/MB3/
+
+
+Minimal Groups Study (PSA-008) (https://psysciacc.org/psa-008-project-information/)
+
+The lead team plans to submit the requested minor revisions to the Stage 1 manuscript this week. The ethics approval and translation processes will begin soon after.
+https://manybabies.github.io/MB3/
+
+
+PSA-JTF-001: Moral Experiences (https://psysciacc.org/news/2022-04-20_special-call-for-studies-studying-generalizability-with-global-samples.html)
+
+The lead team has identified nearly all of the 20 countries they are targeting for data collection and continues to onboard collaborators. A draft of the manuscript has been shared for feedback. They are still seeking additional collaborators who can collect data (especially community samples) in select countries, such as Argentina, Brazil, Colombia, France, Greece, Indonesia, Japan, Malaysia, Morocco, Pakistan, and Saudi Arabia. Please fill out the interest (https://docs.google.com/forms/d/e/1FAIpQLSdR0v-_kRxi0ipLb1YqbVlvhhQ_gOiwMhim_X0r-AVbrjur3w/viewform) survey (https://docs.google.com/forms/d/e/1FAIpQLSdR0v-_kRxi0ipLb1YqbVlvhhQ_gOiwMhim_X0r-AVbrjur3w/viewform) or email psajtf1@gmail.com (mailto:psajtf1@gmail.com) for more information about joining the project.
+
+https://manybabies.github.io/MB3/
+
+
+PSA-AF-001: Partner Preferences (https://psysciacc.org/psa-af-001-partner-preferences/)
+
+The project is accepted in-principle at the Journal of Personality and Social Psychology, and data collection is progressing smoothly. Thus far, we have collected over 10,000 participants from nearly 60 sites, and the final sites are nearly ready to launch. We expect to have data collection completed at some point in the Fall.
+https://bigteamscienceconference.github.io/
+The PSA is a proud to co-host of the second annual Big Team Science Conference (https://bigteamscienceconference.github.io/) ! Submissions (https://bigteamscienceconference.github.io/submissions/)  and registration (https://bigteamscienceconference.github.io/registration/)  are open, and registration fees will once again be optional!
+
+
+big team science
+Psychology should generalize from — not just to — Africa. Nature Reviews Psychology (https://www.nature.com/articles/s44159-022-00070-y)
+
+How to build up big team science: a practical guide for large-scale collaborations. Royal Society Open Science. (https://royalsocietypublishing.org/doi/10.1098/rsos.230235)
+
+‘Big team’ science challenges us to reconsider authorship. Nature Human Behaviour (https://www.nature.com/articles/s41562-023-01572-2)
+
+The benefits, barriers, and risk of big team science. Perspective on Psychological Science (https://psyarxiv.com/2mdxh)
+
+Build up big team science. Nature (https://www.nature.com/articles/d41586-022-00150-2)
+
+The Psychological Science Accelerator: Advancing psychology through a distributed collaborative network. AMPPS (https://journals.sagepub.com/doi/full/10.1177/2515245918797607)
+
+Psychological Science Accelerator: A promising resource for clinical psychological science. Avoiding Questionable Research Practices in Applied Psychology (https://link.springer.com/chapter/10.1007/978-3-031-04968-2_19)
+
+
+
+completed studies
+To which world regions does the valence–dominance model of social perception apply? Nature Human Behaviour (https://www.nature.com/articles/s41562-020-01007-2)
+
+Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nature Human Behaviour (https://www.nature.com/articles/s41562-022-01319-5)
+
+A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. Nature Human Behaviour (https://www.nature.com/articles/s41562-021-01173-x)
+
+A global experiment on motivating social distancing during the COVID-19 pandemic. PNAS (https://www.pnas.org/doi/full/10.1073/pnas.2111091119)
+
+In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. Affective Science (https://link.springer.com/article/10.1007/s42761-022-00128-3)
+
+The Psychological Science Accelerator’s COVID-19 rapid-response dataset. Nature Scientific Data (https://www.nature.com/articles/s41597-022-01811-7)

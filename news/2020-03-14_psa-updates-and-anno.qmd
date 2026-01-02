@@ -1,0 +1,30 @@
+---
+title: "PSA Updates and Announcements Related to COVID-19"
+author: "Chris Chartier"
+date: 2020-03-14
+categories:
+  - mailchimp backup
+---
+
+Accelerators,
+
+I am writing with a handful of important updates and announcements. COVID-19 is impacting the operations of the PSA, just as it is impacting many global activities and events, and we wanted to share several new developments and plans with you.
+
+1. The Associate Directors and I have approved an atypical call for studies focused on COVID-19. All activities related to this call (selection, preparation, IRB approvals, data collection, analysis, dissemination) will need to occur much more quickly than for our normal projects. Participation of individual PSA members will, as always, be completely up to you, but we imagine many in the PSA will be keen to contribute to this important round of short-term projects. The announcement and call can be read here: The PSA Calls for Rapid and Impactful Study Proposals on COVID-19 (https://psysciacc.org/news/2020-03-13_the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19.html)
+
+2. Study selection decision letters from our previous, standard call for studies will be going out to proposing authors this week. We are putting the finishing touches on those letters as we speak! We will first share news of provisionally accepted studies within the network and then begin needs assessment and project planning. Public announcements will come after the needs assessment process. We anticipate that roll-out of these studies will not be impacted by the pandemic, given that they are still many months away from initiating data collection.
+
+3. We are considering hosting a remote, pilot, and relatively informal conference in April. Many of us face full travel bans, quarantines, institutional funding cuts, or other obstacles that will prevent our typical conference attendance and generally disrupt our scholarly work for weeks or months to come. We are sharing a google form that is intended to briefly describe the idea and gauge community interest before we undertake the considerable work of organizing and hosting the conference on a tight timeline! You can read and reply to the interest form here:  Should the Psychological Science Accelerator Host a Remote Conference in April? (https://docs.google.com/forms/d/e/1FAIpQLSfDMdmlQd0Y-ZfC8VeZXY4_b0HRRsNSByo5ZvjYjWXWjA9ldQ/viewform)
+
+4. Data collection for 4 of our studies will be impacted by COVID-19 and require at least minor adjustments to our plans.
+* PSA 002 and 003 are nearing the end of data collection. We have a flexible timeline from Psychonomic Bulletin and Review and may push back completion of the study. The lead team is meeting Monday to discuss the situation and will update all contributors on the projects soon.
+* PSA 004 had a target data collection deadline in June. Jordan Wagge reached out to our editor at Advances in Methods and Practices in Psychological Science to ask for an extension and they have granted us one. We will wait to see how the COVID-19 situation develops before setting a new target for the end of data collection.
+* PSA 006 is on the verge of link testing and rolling out data collection. The lead team is currently working with labs to alter data collection plans and timelines as needed. Some labs that were originally planning in-person data collection will likely now move to online collection via their local participant pools, at least until COVID-19 related restrictions on face-to-face meetings on their campuses end.
+
+5. Finally, two of our studies have not been directly impacted by recent events and are making steady progress.
+* PSA 001 is still finalizing the Stage 2 manuscript revisions. Ben Jones sends along this status report: “We’re still wrestling with a few analysis issues that have come up during the review process and that have come up as we’ve been working (short version of these is that the congruency coefficients are not straightforward to interpret when you have different numbers of factors extracted in the original study and the world regions). These issues are taking longer to unpack and address than we’d anticipated, so we’ve pushed the deadline for submitting the stage two manuscript back to the end of April. The editor totally understands why this is necessary and is genuinely sympathetic."
+* PSA005 has been working out kinks related to its data collection platform in response to its latest set of reviews. The project team will also be conducting a “feasibility pilot” to ensure that the platform is stable. We believe this pilot can be conducted remotely, so this process is unlikely to be affected by COVID-19.
+
+I hope you all are healthy and handling this frightening situation as well as you can. Be good to yourselves and each other! We know that many members likely do not have the capacity to work on PSA-related activities at the moment, and we fully support you stepping away as needed given all that is happening around us. The Slack workspace (https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-6xdadc02-JKn5bEPNMN8vliJlAJBU5w) has been a great place for me personally to still feel connected to my colleagues during this ordeal, and I have received tons of social support there. Feel free to join us there for discussions of both our work and how we’re handling the COVD-19 situation in our personal lives.
+
+Thank you for all that you do.

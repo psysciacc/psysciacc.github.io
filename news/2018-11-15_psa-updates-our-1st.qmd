@@ -1,0 +1,28 @@
+---
+title: "PSA Updates: Our 1st RR Stage 1 Acceptance, Vote Needed on our Code of Conduct, Help Set Dataset Standards"
+author: "Chris Chartier"
+date: 2018-11-15
+categories:
+  - mailchimp backup
+---
+
+Accelerators,
+Thanks to the excellent work of Ben Jones, Lisa DeBruine, Jess Flake, and all our co-authors, we have received the PSA’s first in principle acceptance for a registered report manuscript. This means that the face rating study (https://psyarxiv.com/n26dy) will be published in Nature Human Behaviour upon completion of data collection and analyses! We have begun data collection for the main study in one lab (mine :)) and will begin rolling out data collection in all labs in the coming days. Some contributors are putting the finishing touches on translated materials (remember that translators will be added as co-authors for the stage 2 submission), Lisa is hard at work generating lab specific data collection links for the study, and we will be in contact with all contributing labs to begin data collection very soon! Thank you to everyone for your hard work on this project, and your continued patience as we get up and running. I think this marks a significant milestone for the PSA. We are now
+more than just an idea. We have an empirical report accepted in a high-quality journal and are underway with data collection!
+
+We have incorporated suggested edits to our Code of Conduct and now call for a vote. This Code of Conduct (https://docs.google.com/document/d/1cVao6M2J_Il2K7vpYNQqUU4iX_UwlezvAZrQabdwc_A/edit#heading=h.bcf6vwg2u1v2) will be ratified if it receives a majority “yes” vote from both of two groups: Members (everyone receiving this email) and Directors (Director, Associate Directors, and Assistant Directors). Please vote by replying to this email with either “Yes, I vote in support of this code of conduct” or “No, I vote in opposition of this code of conduct.” If you vote “no” please share your concerns and/or criticisms. Voting will continue until 11:59pm (anywhere on earth (https://en.wikipedia.org/wiki/Anywhere_on_Earth) ) on November 29^th (two weeks).
+
+Lastly, several PSA members have been working on a “Psych-DS” project focused on creating standards for psychology datasets. Check out their description below, which includes contact info and links for those interested.
+
+As always, please do not hesitate to reach out via email or slack if you have any questions about the PSA or our projects.
+
+
+Thank you!
+
+
+
+Psych-DS is a project started this summer with the aim of coming up with a basic, standard format for encoding datasets, that's designed to provide a common baseline and reduce the kinds of small differences that slow us down when we're doing our analyses. Very concretely, we are defining a specification document that consists of a naming scheme and encoding for data files ("call them something_data.tsv, where 'tsv' stands for 'tab separated values'"), a 'sidecar' text file that contains metadata describing that data file, and a basic file structure that specifies where we can expect to find those files.
+
+We would love help from anyone in the PSA network who would like to get involved - in particular, anyone with software/coding experience who can help with modifying/creating the validator app, but also researchers (including graduate students) who work with datasets of many kinds: these tools will be exactly as good (or bad) as the size of the community that they can help, and we would love collaborators to help us make these tools super usable and applicable to your situations!
+
+You can sign up to hear more at this link (https://docs.google.com/forms/d/1fiRGMP1gS1pynhpkVx3kTR8yiYbiv3kXaZekmKPP7Jw/edit) , or email Melissa Kline (mekline@mit.edu (mailto:mekline@mit.edu) ) for more information.
