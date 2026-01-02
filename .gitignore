@@ -5,3 +5,7 @@
 .DS_Store
 
 /.quarto/
+
+**/*.quarto_ipynb
+
+_mailchimp_raw

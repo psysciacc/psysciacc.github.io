@@ -1,38 +1,5 @@
 [
   {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/psa001.html",
-      "/projects/psa002.html",
-      "/projects/psa003.html",
-      "/projects/psa004.html",
-      "/projects/psa005.html",
-      "/projects/psa006.html",
-      "/projects/psa007.html",
-      "/projects/psa008.html",
-      "/projects/psa009.html",
-      "/projects/psajtf001.html",
-      "/projects/psajtf002.html",
-      "/projects/psajtf003.html",
-      "/projects/cr001.html",
-      "/projects/cr002.html",
-      "/projects/cr003.html"
-    ]
-  },
-  {
-    "listing": "/papers.html",
-    "items": [
-      "/papers/PSA-intro_2018.html"
-    ]
-  },
-  {
-    "listing": "/affiliated.html",
-    "items": [
-      "/affiliated/af001.html",
-      "/affiliated/af002.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
       "/news/2025-08-06_August-Newsletter.html",
@@ -114,6 +81,8 @@
       "/news/2018-10-15_update-on-the-accelerated-crep-registered-replication-report-submission-coming-soon-more-labs-welcome-to-join.html",
       "/news/2018-10-09_psa-face-rating-study-last-call-for-labs-in-africa-central-america-mexico-the-middle-east-and-scandinavia.html",
       "/news/2018-08-26_the-psychological-science-accelerators-first-year.html",
+      "/news/2018-07-08_seeking-collab.html",
+      "/news/2018-05-21_psa_updates.html",
       "/news/2018-04-30_the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th.html",
       "/news/2018-04-08_the-accelerated-crep.html",
       "/news/2018-01-24_new-study-accepted-the-object-orientation-effect.html",
@@ -121,6 +90,39 @@
       "/news/2017-11-08_the-psychological-science-accelerators-first-study.html",
       "/news/2017-10-25_timeline-for-late-2017-and-early-2018.html",
       "/news/2017-10-24_check-here-for-updates-on-the-accelerator.html"
+    ]
+  },
+  {
+    "listing": "/papers.html",
+    "items": [
+      "/papers/PSA-intro_2018.html"
+    ]
+  },
+  {
+    "listing": "/affiliated.html",
+    "items": [
+      "/affiliated/af001.html",
+      "/affiliated/af002.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/psa001.html",
+      "/projects/psa002.html",
+      "/projects/psa003.html",
+      "/projects/psa004.html",
+      "/projects/psa005.html",
+      "/projects/psa006.html",
+      "/projects/psa007.html",
+      "/projects/psa008.html",
+      "/projects/psa009.html",
+      "/projects/psajtf001.html",
+      "/projects/psajtf002.html",
+      "/projects/psajtf003.html",
+      "/projects/cr001.html",
+      "/projects/cr002.html",
+      "/projects/cr003.html"
     ]
   }
 ]

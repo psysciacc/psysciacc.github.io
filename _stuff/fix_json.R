@@ -1,10 +1,25 @@
-# Read the JSON file as a single string
-file_path <- ".quarto/idx/submit.qmd.json"
-json_text <- readChar(file_path, file.info(file_path)$size)
+# Scan all Quarto-generated JSON index files for parse errors and show context
 
-# Find the character at position 14740
-if (nchar(json_text) >= 14740) {
-  cat(substr(json_text, 14735, 14745))  # Display a few characters around the position
-} else {
-  cat("Position exceeds file length.")
+json_files <- list.files(".quarto/idx", pattern = "\\.json$", full.names = TRUE, recursive = TRUE)
+
+for (f in json_files) {
+  #cat("\n--- Checking:", f, "---\n")
+  txt <- tryCatch(readChar(f, file.info(f)$size), error = function(e) NA)
+  if (is.na(txt)) {
+    cat("Could not read file\n")
+    next
+  }
+  ok <- tryCatch({ jsonlite::fromJSON(txt); TRUE }, error = function(e) FALSE)
+  if (!ok) {
+    cat("\n--- Checking:", f, "---\n")
+    cat("JSON PARSE ERROR\n")
+    pos <- regexpr("position ([0-9]+)", capture.output(try(jsonlite::fromJSON(txt), silent=TRUE))[1])
+    # fallback: show around known bad position 15426
+    p <- 15426
+    start <- max(1, p-200)
+    end <- min(nchar(txt), p+200)
+    cat(substr(txt, start, end), "\n")
+  } else {
+    #cat("OK\n")
+  }
 }

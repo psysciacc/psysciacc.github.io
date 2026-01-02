@@ -1,4 +1,5 @@
 import * as tabsets from "./tabsets/tabsets.js";
+import * as axe from "./axe/axe-check.js";
 
 const sectionChanged = new CustomEvent("quarto-sectionChanged", {
   detail: {},
@@ -249,7 +250,10 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
   }
 
   async function findAndActivateCategories() {
-    const currentPagePath = offsetAbsoluteUrl(window.location.href);
+    // Categories search with listing only use path without query
+    const currentPagePath = offsetAbsoluteUrl(
+      window.location.origin + window.location.pathname
+    );
     const response = await fetch(offsetRelativeUrl("listings.json"));
     if (response.status == 200) {
       return response.json().then(function (listingPaths) {
@@ -823,6 +827,7 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
 });
 
 tabsets.init();
+axe.init();
 
 function throttle(func, wait) {
   let waiting = false;

@@ -1,0 +1,96 @@
+---
+title: "Accelerators Update"
+author: "Chris Chartier"
+date: 2018-05-21
+categories:
+  - psa updates
+  - membership
+  - slack
+  - call for studies
+  - psa001
+  - psa004
+---
+
+# Accelerators,
+
+**Today I have five general updates to share with everyone, and specific information about three projects you could potentially contribute to.**
+
+# Updates
+
+### 1. Mailing list now on MailChimp
+As you can see from this message, we are now using MailChimp to manage our email list. You can always unsubscribe at the bottom if you no longer want to receive PSA updates.
+
+Please share this link with others who might want to join our mailing list:  
+👉 <http://eepurl.com/dvt8rr>
+
+### 2. Membership growth
+We now have **321 unique labs** in our member roster and **511 total researchers** who have signed up to receive more information about the PSA!
+
+Thank you to everyone for believing in this project and supporting it with your involvement.  
+If you have not yet added your information to the membership sheet, you can do so here:  
+👉 <https://docs.google.com/spreadsheets/d/1z6nIPLtDs26GnrdKz_WwJnuN5aw8Vi3CGLra0L-HUGk/edit#gid=0>
+
+Alternatively, you may email your information and we will update the sheet for you.
+
+### 3. PSA Slack channel
+The PSA Slack channel has become quite active and is one of the best ways to stay **in the loop**.
+
+Join the conversation here:  
+👉 <https://join.slack.com/t/psych-sci-accelerator/shared_invite/enQtMzY3NDg1OTQxODkwLWZlMDAxYzUzMWRjNGIxZjJjZjE2NDMyODc4MWYyMzBkN2EyMWI1OTA0MGE2ZTYzYTJhNDM4NzA1ODBlMGEwOWI>
+
+### 4. Associate Director position (applications open)
+We continue to welcome nominations and applications for the **4th Associate Director position**, representing:
+
+- Africa  
+- Asia  
+- Central America  
+- South America  
+- Oceania  
+
+Applications are open until **June 1st**.  
+Apply here:  
+👉 <https://docs.google.com/forms/d/e/1FAIpQLSfBKHx91TO5tYtYYXpZOXDG2qCLshibwvespLFSFF3ocKpLRA/viewform>
+
+### 5. Call for studies – submissions open
+Submissions in response to our **2nd Call for Studies** will be accepted until **June 20th**.
+
+Call details:  
+👉 <https://psysciacc.org/2018/04/30/the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th/>
+
+Please feel free to reach out with pre-submission questions. I am very excited to see your submissions!
+
+# Projects
+
+### 6. Recruiting labs – Studies 2 & 3 bundle
+We are now recruiting labs for the **main data collection phase** for our Studies 2 & 3 bundle. These studies will be collected in a single session (≤ 30 minutes total), pending successful completion of the pilot phase.
+
+- Object Orientation Effect  
+  👉 <https://psysciacc.org/2018/01/24/new-study-accepted-the-object-orientation-effect/>
+
+- Gendered Social Category Representations  
+  👉 <https://psysciacc.org/2017/12/05/accepted-for-2018-gendered-social-category-representations/>
+
+Sign up to participate:  
+👉 <https://goo.gl/forms/mTSKJ4UxKt2uWpcF2>
+
+### 7. Stage 1 Registered Report submitted
+The Stage 1 Registered Report for our first study (Jones, DeBruine, & Flake) has been submitted to *Nature Human Behavior*.
+
+Preprint:  
+👉 <https://psyarxiv.com/n26dy>
+
+Additional labs may join here:  
+👉 <https://docs.google.com/forms/d/1lmxBoJvhjoVe8K8yaynxmhD0j5MCvBFuDT6KTqmCHvY/edit>
+
+### 8. Accelerated CREP – recruiting labs
+The Accelerated CREP (training undergraduates while collecting replication data) is recruiting labs for its first project.
+
+Learn more:  
+👉 <https://psysciacc.org/2018/04/08/the-accelerated-crep/>
+
+Sign up:  
+👉 <https://docs.google.com/forms/d/e/1FAIpQLSd0YkPnjKqJEHAU-g2Yq-DhlWvf2H6NhFwRlgKOPbxHm11zrQ/viewform>
+
+**Thank you for all of your work and continued support of the Psychological Science Accelerator.**
+
+— Chris
