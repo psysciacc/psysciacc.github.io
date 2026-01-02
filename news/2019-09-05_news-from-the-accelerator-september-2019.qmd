@@ -76,21 +76,21 @@ posts on exciting new developments and future plans for the PSA. We:
 ]{style="color:var(--color-text);"}
 
 -   [Celebrated our 2-year
-    anniversary](https://psysciacc.org/2019/08/26/highlights-of-the-psas-first-two-years/){target="_blank"}
+    anniversary](https://psysciacc.org/news/2019-08-26_highlights-of-the-psas-first-two-years.html){target="_blank"}
 -   [Described improvements to our Patreon page and described 2 specific
     projects we hope to
-    fund.](https://psysciacc.org/2019/08/27/the-psas-patreon-sustainability-drive/){target="_blank"}
+    fund.](https://psysciacc.org/news/2019-08-27_the-psas-patreon-sustainability-drive.html){target="_blank"}
 -   [Announced new member lab grants that you can apply
-    for.](https://psysciacc.org/2019/08/28/announcing-psa-member-lab-grants-for-2019-2020/){target="_blank"}
+    for.](https://psysciacc.org/news/2019-08-28_announcing-psa-member-lab-grants-for-2019-2020.html){target="_blank"}
 -   [Highlighted the amazing work of under-recognized contributors to
     the PSA and our
-    studies.](https://psysciacc.org/2019/08/29/recognizing-invisible-labor-in-the-psa/){target="_blank"}
+    studies.](https://psysciacc.org/news/2019-08-29_recognizing-invisible-labor-in-the-psa.html){target="_blank"}
 -   [Shared our vision statement and announced the next steps in our
     strategic planning
-    process.](https://psysciacc.org/2019/08/30/the-psas-draft-vision-document-is-open-for-feedback/){target="_blank"}
+    process.](https://psysciacc.org/news/2019-08-30_the-psas-draft-vision-document-is-open-for-feedback.html){target="_blank"}
 -   [Released phase 1 data (simulated data) for PSA 001 and announced an
     incentivized \"challenge\" for preregistered secondary
-    analyses.](https://psysciacc.org/2019/09/01/introducing-the-psa001-secondary-analysis-challenge/){target="_blank"}
+    analyses.](https://psysciacc.org/news/2019-09-01_introducing-the-psa001-secondary-analysis-challenge.html){target="_blank"}
 
 ## Seeking Additional Assistant Director of the Project Monitoring Committee
 

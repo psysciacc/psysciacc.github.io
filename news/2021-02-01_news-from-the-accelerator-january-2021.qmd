@@ -118,13 +118,13 @@ Director, Charlie Ebersole, at <cebersole@virginia.edu>.
 
 Funding lead Patrick Forscher and Associate Director Hans IJzerman
 published [a
-blog](https://psysciacc.org/2021/01/11/how-should-we-fund-the-psa/)
+blog](https://psysciacc.org/news/2021-01-11_how-should-we-fund-the-psa.html)
 reflecting on how to fund the PSA. This blog follows up on two previous
 blogs, one that reflects on the [PSA's resources for running
-studies](https://psysciacc.org/2020/12/04/how-many-resources-does-the-psa-possess/),
+studies](https://psysciacc.org/news/2020-12-04_how-many-resources-does-the-psa-possess.html),
 and a second that reflects on the [financial cost of the PSA's vision
 for
-itself](https://psysciacc.org/2020/12/11/the-financial-cost-of-the-psas-vision/).
+itself](https://psysciacc.org/news/2020-12-11_the-financial-cost-of-the-psas-vision.html).
 
 The new blog lays out the makings of a funding strategy for the PSA. It
 lays out four possible sources of future funding: grant writing,

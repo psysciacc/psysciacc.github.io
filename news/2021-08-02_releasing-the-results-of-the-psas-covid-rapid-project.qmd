@@ -13,7 +13,7 @@ Nicholas Coles, Maximilian Primbs, Erin Buchanan, Patrick S. Forscher
 :::
 
 On March 13, 2020, the PSA put out a
-[call](https://psysciacc.org/2020/03/13/the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19/)
+[call](https://psysciacc.org/news/2020-03-13_the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19.html)
 for rapid and impactful studies on the psychological aspects of the
 COVID-19 pandemic. The goal of the call was to initiate the PSA's
 COVID-Rapid Project, or PSACR, which would test whether our "big team
@@ -63,7 +63,7 @@ especially some of our many stellar contributors who are early in their
 careers. Although we do not have space to profile all 467 of our
 contributors, we hope this does something to make visible some of the
 many [invisible
-contributions](https://psysciacc.org/2019/08/29/recognizing-invisible-labor-in-the-psa/)
+contributions](https://psysciacc.org/news/2019-08-29_recognizing-invisible-labor-in-the-psa.html)
 to the PSACR project.
 
 ## **PSACR Project Links** {#psacr-project-links .has-text-align-center}

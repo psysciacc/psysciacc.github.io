@@ -15,7 +15,7 @@ great things PSA members are up to.
 
 We welcome new study submissions now through September 15th. A detailed
 description can be found in the [blogpost announcing the
-call](https://psysciacc.org/2019/06/15/the-psychological-science-accelerator-calls-for-study-submissions/).
+call](https://psysciacc.org/news/2019-06-15_the-psychological-science-accelerator-calls-for-study-submissions.html).
 Please do not hesitate to respond to this email with any questions you
 have about the submission, review, and selection process.
 
@@ -47,7 +47,7 @@ collection, after receiving an in principle acceptance at *Advances in
 Methods and Practices in Psychological Science*. You can read more about
 the project, and detailed instructions for how to get involved, in this
 highly informative [blog
-post](https://psysciacc.org/2019/06/29/update-on-the-accelerated-crep-a-collaborative-crep-replication-project-powered-by-the-psa/){target="_blank"}
+post](https://psysciacc.org/news/2019-06-29_update-on-the-accelerated-crep-a-collaborative-crep-replication-project-powered-by-the-psa.html){target="_blank"}
 from project leader Braeden Hall.
 
 ## Planning for PSA Activities at SIPS

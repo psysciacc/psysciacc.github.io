@@ -69,7 +69,7 @@ passed and will go into effect. 
 **How many resources does the PSA possess?**
 
 [This
-blog](https://psysciacc.org/2020/12/04/how-many-resources-does-the-psa-possess/)
+blog](https://psysciacc.org/news/2020-12-04_how-many-resources-does-the-psa-possess.html)
 discusses the PSA's first study capacity report, which contains a ton of
 interesting findings of our network. It also addresses the resources
 that the PSA currently has and will need in the future. Make sure you
@@ -78,7 +78,7 @@ take a look at this important resource for the PSA. 
 **The financial cost of the PSA's vision.**
 
 We recently released [this
-blog](https://psysciacc.org/2020/12/11/the-financial-cost-of-the-psas-vision/)
+blog](https://psysciacc.org/news/2020-12-11_the-financial-cost-of-the-psas-vision.html)
 on describing the need for funding to continue our vision. Patrick
 Forscher and Hans Ijzerman argue that in order to fulfill a maximalist
 vision we need to secure funding.

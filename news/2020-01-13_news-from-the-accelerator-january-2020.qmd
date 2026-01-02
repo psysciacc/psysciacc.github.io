@@ -47,7 +47,7 @@ studies. Each project made big strides.
     world regions, and 41 countries. Currently, the Stage 2 Registered
     Report is under review at *Nature Human Behaviour*. For this
     project, we also launched the [Secondary Analysis
-    Challenge](https://psysciacc.org/2019/09/01/introducing-the-psa001-secondary-analysis-challenge/){target="_blank"},
+    Challenge](https://psysciacc.org/news/2019-09-01_introducing-the-psa001-secondary-analysis-challenge.html){target="_blank"},
     which grants 10 awards of \$200 to research teams that create and
     execute a pre-registered re-analysis of the project data. Currently,
     this secondary challenge has 8 submissions and all have been checked
@@ -78,7 +78,7 @@ studies. Each project made big strides.
     recruited 27 collaborating labs to join the project, all of whom
     have secured IRB approval. If you wish to join too, you can read
     more about the project, and sign up as a collaborator,
-    [here](https://psysciacc.org/2018/10/19/a-large-scale-multi-site-examination-of-stereotype-threat-across-varying-operationalizations-a-newly-selected-accelerator-study/).
+    [here](https://psysciacc.org/news/2018-10-19_a-large-scale-multi-site-examination-of-stereotype-threat-across-varying-operationalizations-a-newly-selected-accelerator-study.html).
 -   006 Moral Thinking: In 2019, [this
     project\'s](https://psysciacc.org/006-trolley-problem/){target="_blank"}
     team also drafted their initial submission of a Stage 1 Registered

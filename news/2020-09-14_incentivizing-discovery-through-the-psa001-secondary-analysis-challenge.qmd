@@ -22,7 +22,7 @@ through the PSA001 Secondary Analysis Challenge.
 On September 1, 2019, we announced a new initiative to promote the
 re-use of a large dataset we collected for the [PSA's first
 study](https://psyarxiv.com/n26dy). Called the [Secondary Analysis
-Challenge](https://psysciacc.org/2019/09/01/introducing-the-psa001-secondary-analysis-challenge/),
+Challenge](https://psysciacc.org/news/2019-09-01_introducing-the-psa001-secondary-analysis-challenge.html),
 this initiative started from the premise that much of the potential
 richness in psychological datasets is currently untapped.
 

@@ -67,7 +67,7 @@ slots that add on special requirements or evaluation criteria. These
 studies submitted for consideration to that slot involve EEG equipment.
 Alternatively, the slots might require that the submitted studies
 involve investigating the [psychological aspects of the Covid-19
-pandemic](https://psysciacc.org/2020/03/13/the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19/).
+pandemic](https://psysciacc.org/news/2020-03-13_the-psa-calls-for-rapid-and-impactful-study-proposals-on-covid-19.html).
 We will go into more detail about how we think about these special
 submission slots in a later post. For the time being, we simply note
 that assessing our resource capacity will allow us to understand the

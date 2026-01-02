@@ -34,7 +34,7 @@ The more the merrier!
 [PSA 001](https://psysciacc.org/001-face-perception/){target="_blank"}
 is nearing completion and we will submit the stage 2 manuscript to
 Nature Human Behaviour, [release exploratory
-data](https://psysciacc.org/2019/09/01/introducing-the-psa001-secondary-analysis-challenge/){target="_blank"},
+data](https://psysciacc.org/news/2019-09-01_introducing-the-psa001-secondary-analysis-challenge.html){target="_blank"},
 and update our [preprint](https://psyarxiv.com/n26dy){target="_blank"}
 all on October 31. [PSA
 002](https://psyarxiv.com/t2pjv){target="_blank"}/[003](https://psysciacc.org/003-gendered-prejudice/){target="_blank"}

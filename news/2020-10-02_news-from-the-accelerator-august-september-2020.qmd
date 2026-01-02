@@ -151,7 +151,7 @@ seems to have been a success as we had 8 submissions, and we learned new
 information from each of them. Each submission script was checked for
 computational reproducibility by two members of our team (Abigail Noyce
 and Patrick Forscher). To read more, please visit the
-[blogpost](https://psysciacc.org/2020/09/14/incentivizing-discovery-through-the-psa001-secondary-analysis-challenge/)!
+[blogpost](https://psysciacc.org/news/2020-09-14_incentivizing-discovery-through-the-psa001-secondary-analysis-challenge.html)!
 
 ## IT'S THE MAP!!!
 

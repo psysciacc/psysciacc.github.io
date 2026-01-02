@@ -22,7 +22,7 @@ here.*
 \-\--
 
 In our [previous
-post](https://psysciacc.org/2020/12/11/the-financial-cost-of-the-psas-vision/),
+post](https://psysciacc.org/news/2020-12-11_the-financial-cost-of-the-psas-vision.html),
 we argued that the PSA has a grand vision and a budget that cannot
 easily support it. If the PSA is to fulfill its aspirations, the PSA
 must increase its funding so that it can support an administrative
@@ -239,13 +239,13 @@ somewhat better planning long-term than does grant-writing.  
     At the time of writing, this Patreon collects €200 per month. We
     have used this money to help fund special projects, such as the
     [PSA001 Secondary Analysis
-    Challenge](https://psysciacc.org/2020/09/14/incentivizing-discovery-through-the-psa001-secondary-analysis-challenge/),
+    Challenge](https://psysciacc.org/news/2020-09-14_incentivizing-discovery-through-the-psa001-secondary-analysis-challenge.html),
     data collection for PSA001, PSA006, and PSACR, and other
     miscellaneous expenses.
 -   ***Funding drives****.* We have conducted at least four funding
     drives in the past three years. These are usually structured around
     funding a specific project or activity, such as
-    [PSACR](https://psysciacc.org/2020/03/18/support-the-psa-covid-19-rapid-and-impactful-studies-with-a-donation/),
+    [PSACR](https://psysciacc.org/news/2020-03-18_support-the-psa-covid-19-rapid-and-impactful-studies-with-a-donation.html),
     and are often announced via the PSA blog. However, we also conducted
     a funding drive during the first PSA conference,
     [PSACON2020](https://psysciacc.org/psa-2020-conference/). It is
@@ -366,7 +366,7 @@ underexplored and could usefully complement the PSA's other efforts.
     \$3,720. This money went towards supporting the salary of the PSA's
     junior administrator (and the main organizer of the conference),
     [Savannah
-    Lewis](https://psysciacc.org/2020/06/29/news-from-the-accelerator-june-2020/).
+    Lewis](https://psysciacc.org/news/2020-06-29_news-from-the-accelerator-june-2020.html).
 
 **What else can we do?**
 

@@ -51,23 +51,23 @@ fully-fledged team science model for the field.
     Ebersole, Hans IJzerman, Steve Janssen, Melissa Kline, Darko
     Lončarić, and Heather Urry.
 -   November 8th, 2017: we selected our [first
-    study](https://psysciacc.org/2017/11/08/the-psychological-science-accelerators-first-study/),
+    study](https://psysciacc.org/news/2017-11-08_the-psychological-science-accelerators-first-study.html),
     proposed by Ben Jones, Lisa DeBruine, and Jess Flake.
 -   November 8th, 2017: the PSA was covered in [Science
     Magazine](http://www.sciencemag.org/news/2017/11/new-accelerator-aims-bring-big-science-psychology).
 -   December 5th, 2017: we selected our [second
-    study](https://psysciacc.org/2017/12/05/accepted-for-2018-gendered-social-category-representations/),
+    study](https://psysciacc.org/news/2017-12-05_accepted-for-2018-gendered-social-category-representations.html),
     proposed by Curtis Phills.
 -   December 13th, 2017: the PSA was covered in
     [FiveThirtyEight](https://fivethirtyeight.com/features/can-teamwork-solve-one-of-psychologys-biggest-problems/).
 -   January 18th, 2018: the PSA reached 200 member labs.
 -   January 24th, 2018: we selected our [third
-    study](https://psysciacc.org/2018/01/24/new-study-accepted-the-object-orientation-effect/),
+    study](https://psysciacc.org/news/2018-01-24_new-study-accepted-the-object-orientation-effect.html),
     proposed by Sau-Chin Chen.
 -   April 3rd, 2018: the PSA was covered in
     [BuzzFeed](https://www.buzzfeednews.com/article/stephaniemlee/psychology-science-accelerator-replication#.up37Yy0xj).
 -   April 8th, 2018: we announced the [Accelerated
-    CREP](https://psysciacc.org/2018/04/08/the-accelerated-crep/) study
+    CREP](https://psysciacc.org/news/2018-04-08_the-accelerated-crep.html) study
     (our fourth), a collaboration with the [Collaborative Replication
     and Education Project](https://osf.io/wfc6u/), focusing on training
     students through the conduct of replication studies.
@@ -76,7 +76,7 @@ fully-fledged team science model for the field.
     part of a pilot test for bundling studies 2 and 3 in a single data
     collection session.
 -   April 30th, 2018: we issued our second [call for
-    studies](https://psysciacc.org/2018/04/30/the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th/).
+    studies](https://psysciacc.org/news/2018-04-30_the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th.html).
 -   July 11th, 2018: the [Stage 1 Registered Report
     manuscript](https://psyarxiv.com/n26dy/) for study 1 received a
     "revise and resubmit" decision from *Nature Human Behaviour*.

@@ -7,7 +7,7 @@ date: 2019-09-01
 **Patrick Forscher, Lisa DeBruine, Ben Jones, Jess Flake, Nick Coles,
 Chris Chartier**
 
-###### *Please cite this blog post as:* Forscher, P. S., DeBruine, L. M., Jones, B. C., Flake, J. K., Coles, N. A., & Chartier, C. R. (2019, September 1). Introducing the PSA001 Secondary Analysis Challenge. [https://psysciacc.org/2019/09/01/introducing-the-psa001-secondary-analysis-challenge/](https://www.google.com/url?q=https://psysciacc.org/2019/09/01/introducing-the-psa001-secondary-analysis-challenge/&sa=D&ust=1590158890036000&usg=AFQjCNEEvUxsA8HKtyLsvYi0j6ew7xRxyQ){target="_blank"}
+###### *Please cite this blog post as:* Forscher, P. S., DeBruine, L. M., Jones, B. C., Flake, J. K., Coles, N. A., & Chartier, C. R. (2019, September 1). Introducing the PSA001 Secondary Analysis Challenge. [https://psysciacc.org/news/2019-09-01_introducing-the-psa001-secondary-analysis-challenge.html](https://www.google.com/url?q=https://psysciacc.org/news/2019-09-01_introducing-the-psa001-secondary-analysis-challenge.html&sa=D&ust=1590158890036000&usg=AFQjCNEEvUxsA8HKtyLsvYi0j6ew7xRxyQ){target="_blank"}
 
 We are offering up to 10 awards of \$200 to research teams that use data
 from our first study
