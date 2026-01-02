@@ -39,6 +39,9 @@ website:
           - text: "Elections"
             aria-label: Elections
             href: https://docs.google.com/document/d/1aXjXwouFc6wvcyy7IFmEKGL0j2yxzYukyI_YFf6sZtM/edit?tab=t.0#heading=h.p1xd7vlghenh
+          - text: "Scientific Criticism"
+            aria-label: Scientific Criticism
+            href: https://docs.google.com/document/d/1xyEchyyXDXGKpZsxQz82cJumYHEuqbodkrkr6CMZC7s/edit?tab=t.0#heading=h.ig1jhinfwhm
       - text: Studies
         menu: 
           - projects.qmd
