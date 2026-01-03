@@ -9,7 +9,7 @@
           <% if (item.links) { %>
           <div class="buttonrow">
             <% Object.keys(item.links).forEach(function (key) { %>
-            <a class="meta-pill" href="<%= item.links[key] %>"><%= key %></a>
+            <a href="<%= item.links[key] %>"><%= key %></a>
             <% }) %>
           </div>
           <% } %>

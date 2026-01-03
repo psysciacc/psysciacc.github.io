@@ -1,32 +1,5 @@
 [
   {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/psa001.html",
-      "/projects/psa002.html",
-      "/projects/psa003.html",
-      "/projects/psa004.html",
-      "/projects/psa005.html",
-      "/projects/psa006.html",
-      "/projects/psa007.html",
-      "/projects/psa008.html",
-      "/projects/psa009.html",
-      "/projects/psajtf001.html",
-      "/projects/psajtf002.html",
-      "/projects/psajtf003.html",
-      "/projects/cr001.html",
-      "/projects/cr002.html",
-      "/projects/cr003.html"
-    ]
-  },
-  {
-    "listing": "/affiliated.html",
-    "items": [
-      "/affiliated/af001.html",
-      "/affiliated/af002.html"
-    ]
-  },
-  {
     "listing": "/news.html",
     "items": [
       "/news/2025-12-06_december-newsletter.html",
@@ -221,6 +194,33 @@
       "/news/2017-11-08_the-psychological-science-accelerators-first-study.html",
       "/news/2017-10-25_timeline-for-late-2017-and-early-2018.html",
       "/news/2017-10-24_check-here-for-updates-on-the-accelerator.html"
+    ]
+  },
+  {
+    "listing": "/affiliated.html",
+    "items": [
+      "/affiliated/af001.html",
+      "/affiliated/af002.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/psa001.html",
+      "/projects/psa002.html",
+      "/projects/psa003.html",
+      "/projects/psa004.html",
+      "/projects/psa005.html",
+      "/projects/psa006.html",
+      "/projects/psa007.html",
+      "/projects/psa008.html",
+      "/projects/psa009.html",
+      "/projects/psajtf001.html",
+      "/projects/psajtf002.html",
+      "/projects/psajtf003.html",
+      "/projects/cr001.html",
+      "/projects/cr002.html",
+      "/projects/cr003.html"
     ]
   }
 ]

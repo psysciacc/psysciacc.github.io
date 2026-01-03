@@ -230,3 +230,20 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 .proj-title-row h3 a.anchorjs-link {
   display: none !important;
 }
+
+/* Project status chip */
+.status-chip {
+  display: inline-block;
+  margin-left: 0.75rem;
+  padding: 0.25em 0.65em;
+  border: 2px solid var(--theme);
+  border-radius: 0.35rem;
+  /* squarer than pills */
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--theme);
+  background-color: rgba(0, 160, 0, 0.08);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+}
