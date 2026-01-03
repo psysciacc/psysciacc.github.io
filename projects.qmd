@@ -6,11 +6,11 @@ listing:
   sort: "order"
   image-placeholder: "images/logo.png"
   type: default
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
 title-block-banner: false
 ---
 
-If you are interested in joining a project, please use the [accepting collaborators](https://psysciacc.org/projects.html#category=accepting-collaborators) category to view those projects. Other projects are either [ongoing but not accepting collaborators](https://psysciacc.org/projects.html#category=in-progress), [working publishing the final manuscript](https://psysciacc.org/projects.html#category=publication-process), or [published](https://psysciacc.org/projects.html#category=published). Other category labels are used to help you discover projects related to a specific topic.  
+This page lists active and completed Psychological Science Accelerator (PSA) projects.  Each project includes a brief description, links to project materials (e.g., preregistrations, protocols, preprints, and publications), and summary impact information when available. Projects are shown in approximate chronological order of initiation. Select a project title to view additional details, materials, and collaboration information.

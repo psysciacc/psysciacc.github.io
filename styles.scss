@@ -28,6 +28,12 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: var(--theme);
 }
 
+.proj-cell.proj-main h3 {
+  font-size: 1.1rem;
+  line-height: 1.3;
+  margin-bottom: 0.4rem;
+}
+
 /* project lists */
 
 .projlist, .paperlist  {
@@ -38,23 +44,6 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   clear: both;
 }
 
-.projlist li > div:first-child {
-  width: 20%;
-  max-width: 150px;
-  min-width: 50px;
-  vertical-align: top;
-  float: left;
-}
-
-.projlist li > div:first-child img {
-    display: block;
-    width: 100%;
-}
-
-.projlist li .projinfo {
-  margin-left: 22.5%;
-}
-
 .personnel { 
   list-style-type: none; 
   font-size: 60%;
@@ -62,37 +51,54 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   padding: 0;
 }
 
-.projlist .abstract {
-  overflow: auto;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-}
-
 /* lists of link buttons */
 
 .buttonlist {
   padding-left: 0;
 }
+.proj-meta ul.buttonlist {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin: 0.5rem 0 0.75rem 0 !important;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.proj-meta ul.buttonlist li {
+  list-style: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+.proj-meta ul.buttonlist li::marker {
+  content: "" !important;
+}
 .buttonlist li {
   list-style: none;
-  display: inline;
+  display: block;
+  margin-bottom: 0.35rem;
+  /* text-align: center; */
 }
 
-.buttonlist li a {
+.buttonlist li a,
+.proj-meta a {
+  display: inline-block;
   border: 1px solid var(--theme);
-  background-color: var(--background);
+  background-color: rgba(0,160,0,0.08);
   color: var(--theme);
-  border-radius: .5em;
-  padding: .25em .5em;
+  border-radius: 999px;
+  padding: .35em .9em;
+  font-size: 0.9rem;
   text-decoration: none;
+  line-height: 1.4;
 }
 
-.buttonlist li a:hover {
-  border-color: var(--highlight);
+.buttonlist li a:hover,
+.proj-meta a:hover {
   background-color: var(--theme);
   color: var(--highlight);
+  border-color: var(--highlight);
 }
 
 .altmetric-embed {
@@ -106,13 +112,121 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     border-radius: 100%;
 }
 
-.projlist .altmetric-embed {
-    float: right;
-    clear: none;
-    margin: 0 0 0 1em;
-}
-
 #quarto-document-content {
   max-width: 100% !important;   /* Expand content across the page */
   padding: 0 20px;              /* Add padding for readability */
+}
+
+.proj-cell.proj-abstract,
+.proj-cell.proj-abstract .abstract {
+  width: 100%;
+  max-width: none;
+  white-space: normal;
+}
+
+/* Override Quarto abstract line-clamping */
+.projlist .abstract {
+  overflow: visible !important;
+  text-overflow: unset !important;
+  display: block !important;
+  -webkit-line-clamp: unset !important;
+  -webkit-box-orient: unset !important;
+}
+
+/* Project table layout */
+
+.proj-table {
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto 2rem auto;
+  border-collapse: collapse;
+}
+
+.proj-table, 
+.proj-table th, 
+.proj-table td {
+  border: none !important;
+}
+
+
+.proj-title-row th {
+  text-align: left;
+  padding: 0.75rem 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.proj-title-row th h3,
+.proj-title-row th h3 a {
+  font-size: 1.25rem !important;
+  font-weight: 800 !important;
+}
+
+.proj-body-row td {
+  vertical-align: top;
+  padding: 0.75rem 0.5rem;
+}
+
+.proj-body-row td.proj-meta {
+  width: 220px;
+  text-align: center;
+}
+
+.proj-body-row td.proj-meta img {
+  width: 100%;
+  max-width: 140px;
+  height: auto;
+  display: block;
+  margin: 0 auto 0.75rem auto;
+}
+
+/* Mobile stacking */
+@media (max-width: 900px) {
+  .proj-table,
+  .proj-table tbody,
+  .proj-table tr,
+  .proj-table td,
+  .proj-table th {
+    display: block;
+    width: 100%;
+  }
+
+  .proj-title-row th {
+    border-bottom: none;
+    padding-bottom: 0.25rem;
+  }
+
+  .proj-body-row td {
+    padding: 0.25rem 0;
+  }
+
+  .proj-body-row td.proj-altmetric {
+    text-align: left;
+  }
+}
+
+.proj-meta .altmetric-embed {
+  float: none;
+  clear: none;
+  margin: 0.25rem auto 0 auto;
+  transform: scale(0.85);
+  transform-origin: top center;
+}
+
+.proj-table .proj-meta ul,
+.proj-table .proj-meta ul li {
+  list-style: none !important;
+  list-style-type: none !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+.proj-table .proj-meta ul li::marker {
+  content: "" !important;
+  display: none !important;
+}
+.proj-title-row h3 .anchorjs-link,
+.proj-title-row h3 .anchor-link,
+.proj-title-row h3 a.anchorjs-link {
+  display: none !important;
 }
