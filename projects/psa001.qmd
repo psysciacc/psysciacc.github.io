@@ -4,35 +4,50 @@ title: "PSA001: Face Perception"
 status: Published
 doi: 10.1038/s41562-020-01007-2
 image: /images/icons/001icon.png
-categories:
-  - faces
-  - multi-language
-  - published
-personnel:
-  Proposers: [Benedict C. Jones, Lisa M. DeBruine]
-  PM: Nicholas A. Coles
-  Methodology: Jessica K. Flake
-  Data: Patrick Forscher
-  Translation: Janis Zickfeld
-  Ethics: [Marietta Papadatou-Pastou, Anna van ‘t Veer]
-summary: "This project examined whether Oosterhof and Todorov’s valence-dominance model of face-perception generalized cross-culturally."
 links:
   prereg: https://doi.org/10.6084/m9.figshare.7611443.v1
   resources: https://osf.io/f7v3n/
   preprint: https://doi.org/10.31234/osf.io/n26dy
   paper: https://doi.org/10.1038/s41562-020-01007-2
-  
 abstract: |
   Over the past 10 years, Oosterhof and Todorov’s valence–dominance model has emerged as the most prominent account of how people evaluate faces on social dimensions. In this model, two dimensions (valence and dominance) underpin social judgements of faces. Because this model has primarily been developed and tested in Western regions, it is unclear whether these findings apply to other regions. We addressed this question by replicating Oosterhof and Todorov’s methodology across 11 world regions, 41 countries and 11,570 participants. When we used Oosterhof and Todorov’s original analysis strategy, the valence–dominance model generalized across regions. When we used an alternative methodology to allow for correlated dimensions, we observed much less generalization. Collectively, these results suggest that, while the valence–dominance model generalizes very well across regions when dimensions are forced to be orthogonal, regional differences are revealed when we use different extraction methods and correlate and rotate the dimension reduction solution.
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-![](/images/ashland-psa.webp){alt-text="Grid of 9 faces, all wearing PSA t-shirts"}
+## {{<meta title>}} - {{<meta status>}}
 
-Jones, B.C., DeBruine, L.M., Flake, J.K. et al. To which world regions does the valence–dominance model of social perception apply?. Nat Hum Behav 5, 159–169 (2021). <https://doi.org/10.1038/s41562-020-01007-2>
+<div class="buttonrow">
+
+{{ < meta links >}}
+
+            <% Object.keys(item.links).forEach(function (key) { %>
+            <a class="meta-pill" href="<%= item.links[key] %>"><%= key %></a>
+            <% }) %>
+</div>
+
+## Abstract
+
+{{ < meta abstract >}}
+
+![](/images/ashland-psa.webp){alt-text="Grid of 9 faces, all wearing PSA t-shirts"}
 
 ### News
 
 - [Science: A new ‘accelerator' aims to bring big science to psychology](http://www.sciencemag.org/news/2017/11/new-accelerator-aims-bring-big-science-psychology) (2017-11-08)
 - [Buzzfeed: Hundreds Of Researchers Are Trying To Replicate High-Profile Psychology Studies](https://www.buzzfeednews.com/article/stephaniemlee/psychology-science-accelerator-replication#.up37Yy0xj) (2018-04-03)
 - [Ideastream: Putting a New Face on Psychological Research](https://www.ideastream.org/news/health-science/2020-01-13/exploradio-putting-a-new-face-on-psychological-research) (2020-01-13)
-
