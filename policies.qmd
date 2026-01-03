@@ -1,8 +1,0 @@
----
-title: "Policies"
-page-layout: full
----
-
-## List
-
-[Membership](join.html)
