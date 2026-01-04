@@ -1,22 +1,111 @@
 ---
 order: 1008
 title: "PSA008: Minimal Groups"
-status: Ongoing - pre data collection
-image: /images/icons/008icon.png
-categories:
-  - groups
-  - multi-language
-  - accepting-collaborators
-personnel:
-  Proposers: [Xin (Kate) Yang, Jonathan Schultz, Yarrow Dunham]
-  PMs: [Kathleen Schmidt, with help from Savannah Lewis and Anna Exner]
-summary: "This project is investigating the cultural prevalence of the minimal group effect and comparing it to two forms of real-group bias."
-links:
-  preprint: https://osf.io/preprints/psyarxiv/5gpr4_v1
+params:
+  status: Not Accepting Collaborators
+  doi: 10.31234/osf.io/5gpr4
+  image: /images/icons/008icon.png
+  prereg: https://osf.io/xnvy7/
+  resources: https://osf.io/6e38x 
+  preprint: https://doi.org/10.31234/osf.io/5gpr4_v1
 abstract: |
   Biases in favor of culturally prevalent social ingroups are ubiquitous, but random assignment to arbitrary experimentally created social groups is also sufficient to create ingroup biases (i.e., the minimal group effect; MGE). The extent to which ingroup bias arises from specific social contexts versus more general psychological tendencies remains unclear. This registered report focuses on three questions. First, how culturally prevalent is the MGE? Second, how do critical cultural and individual factors moderate its strength? Third, does the MGE meaningfully relate to culturally salient real-world ingroup biases? We compare the MGE to bias in favor of a family member (first cousin) and a national ingroup member. We propose to recruit a sample of more than 200 participants in each of more than 50 nations to examine these questions and advance our understanding of the psychological foundations and cultural prevalence of ingroup bias. 
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-## Contact
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
 
-For more information about this project, please contact the project lead team at [psa-008@googlegroups.com](psa-008@googlegroups.com).
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
+
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

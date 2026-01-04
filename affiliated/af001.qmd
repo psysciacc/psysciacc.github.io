@@ -1,16 +1,9 @@
 ---
 order: 3001
 title: "AF001: Preference Matching"
-status: Ongoing - pre data collection
-doi: 10.31234/osf.io/fe56h
-contact: 
-  name: Paul Eastwick
-  email: eastwick@ucdavis.edu
-categories:
-  - affiliated
-  - relationships
-  - ongoing
-summary: "This PSA-affiliated project is testing the prevalence of the ideal partner preference-matching effect, wherein individuals more positively evaluate partners who match their ideals than those who do not."
+params:
+  status: Ongoing - pre data collection
+  doi: 10.31234/osf.io/fe56h
 abstract: |
   Ideal partner preferences (i.e., ratings of the desirability of attributes like attractiveness or intelligence) are the source of numerous foundational findings in the interdisciplinary literature on human mating. Recently, research on the predictive validity of ideal partner preference-matching (i.e., do people positively evaluate partners who match versus mismatch their ideals?) has become mired in several problems. For one, articles exhibit discrepant analytic and reporting practices. Furthermore, different findings emerge across laboratories worldwide, perhaps because they sample different relationship contexts and/or populations. The current project—partnered with the Psychological Science Accelerator—can bring clarity to this literature. This registered report uses a highly powered design across multiple world regions to calculate preference-matching effect sizes and variability estimates for all relevant analytic tests. It also examines effects in different relationship contexts and subsamples (e.g., attraction, established relationships, recently formed relationships).
 ---

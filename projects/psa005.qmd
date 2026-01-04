@@ -1,22 +1,111 @@
 ---
 order: 1005
 title: "PSA005: Stereotype Threat"
-status: Ongoing - data collection
-doi: 10.31234/osf.io/6hju9
-image: /images/icons/005icon.png
-categories:
-  - stereotypes
-  - in-progress
-personnel:
-  Proposers: [Patrick Forscher, Valerie Jones Taylor, Neil A. Lewis, Jr., Daniel Cavagnaro]
-  PM: Bharathy Premachandra
-summary: "This project is investigating the conditions under which stereotype threat affects performance among Black students in the United States."
-links:
+params:
+  status: Not Accepting Collaborators
+  doi: 10.31234/osf.io/6hju9
+  image: /images/icons/005icon.png
+  prereg: https://osf.io/preprints/psyarxiv/6hju9_v1
+  resources: https://osf.io/7tgav/overview
   preprint: https://osf.io/preprints/psyarxiv/6hju9_v1
 abstract: |
   According to stereotype threat theory, the possibility of confirming a negative group stereotype evokes feelings of threat, leading people to underperform in domains where they are stereotyped as lacking ability. This theory has immense theoretical and practical implications. However, many studies supporting it include small samples and varying operational definitions of “stereotype threat”. We address the first challenge by leveraging a network of psychology labs to recruit a large Black student sample (*N~anticipated~* = 2700) from multiple US sites (*N~anticipated~* = 27). We address the second challenge by identifying three threat-increasing and three threat-decreasing procedures that could plausibly affect performance and use an adaptive Bayesian design to determine which operationalization yields the strongest evidence for underperformance. This project should advance our knowledge of a scientifically and socially important topic: the conditions under which stereotype threat affects performance among current Black students in the United States.
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-## Contact
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
 
-For more information about this project, please contact Patrick Forscher at [psa005stero@gmail.com](mailto:psa005stero@gmail.com).
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
+
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

@@ -1,12 +1,10 @@
 ---
 order: 1001
 title: "PSA001: Face Perception"
-status: Published
 params:
   doi: 10.1038/s41562-020-01007-2
-doi: 10.1038/s41562-020-01007-2
-image: /images/icons/001icon.png
-links:
+  image: /images/icons/001icon.png
+  status: Published
   prereg: https://doi.org/10.6084/m9.figshare.7611443.v1
   resources: https://osf.io/f7v3n/
   preprint: https://doi.org/10.31234/osf.io/n26dy
@@ -32,14 +30,31 @@ include-in-header:
       </style>
 ---
 
-<h2> {{<meta title>}} <span class = "status-chip">{{<meta status>}}</span> </h2>
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
 
-<div class="buttonrow proj-meta">
-  <a href="{{ < meta links.prereg >}}">prereg</a>
-  <a href="{{ < meta links.resources >}}">resources</a>
-  <a href="{{ < meta links.preprint >}}">preprint</a>
-  <a href="{{ < meta links.paper >}}">paper</a>
-</div>
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
+
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
 
 ### Abstract
 
@@ -76,13 +91,22 @@ authors <- paste(
 author_str <- paste(authors, collapse = ", ")
 
 # ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
 year <- work$issued$`date-parts`[[1]][1]
 title <- work$title[[1]]
-journal <- work$`container-title`[[1]]
-volume <- work$volume
-pages <- work$page
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
 
-citation <- glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
 ```
 
 `r citation`

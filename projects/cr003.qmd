@@ -1,28 +1,112 @@
 ---
 order: 2003
 title: "PSA-CR 003: Self Determination"
-status: Published
-doi: 10.1073/pnas.2111091119
-altmetrics: 128957256
-image: /images/icons/PSACRicon.png
-categories:
-  - COVID
-  - multi-language
-  - published
-personnel:
-  Proposers: [Nicole Legate, Thuy-vy Nguyen, Arlen Moller, Netta Weinstein]
-  PM: Charlie Ebersole
-  Other Personnel: see [https://psyarxiv.com/x976j/](https://psyarxiv.com/x976j/)
-summary: "This project tested whether self-determination theory-guided message framing impacted motivation to participate in social distancing."
-links:
-  paper: https://doi.org/10.1073/pnas.2111091119
-  preprint: https://doi.org/10.31234/osf.io/n3dyf
+params:
+  status: Published
+  doi: 10.1073/pnas.2111091119
+  image: /images/icons/PSACRicon.png
+  prereg: https://osf.io/fc9y7/files/2u6xs
   resources: https://osf.io/fc9y7/
+  preprint: https://doi.org/10.31234/osf.io/n3dyf
+  paper: https://doi.org/10.1073/pnas.2111091119
 abstract: |
-  In order to slow the transmission of COVID-19, governments around the world are asking their citizens to participate in social distancing, that is, to stay at home as much as possible. In most countries, individuals have some choice over whether or not they follow recommendations for social distancing. Thus, understanding how to best motivate social distancing has become a critical public health priority. This study tests, in a confirmatory manner, whether self-determination theory-guided message framing impacts people’s motivation to participate in social distancing. Specifically, we expect autonomy-supportive messages that help people understand the value of behavior change to a) increase ‘buy in’, or autonomous motivation, for social distancing, b) lower feelings of defiance to follow recommendations around social distancing, and c) increase feelings of self-efficacy to participate in social distancing, relative to neutral and controlling messages. Further, we expect controlling messages that pressure people to change using shame, guilt, and threats, may backfire and a) decrease ‘buy in’ for social distancing and b) increase defiance, relative to the control condition. Exploratory tests will examine whether the effects of message framing on motivation and defiance extend to behavioral intentions and long-term commitment. This work has direct relevance for how public officials, health professionals, journalists, and others can communicate about solving this and future public health crises in ways that motivate people more effectively.
+  Finding communication strategies that effectively motivate social distancing continues to be a global public health priority during the COVID-19 pandemic. This cross-country, preregistered experiment (n = 25,718 from 89 countries) tested hypotheses concerning generalizable positive and negative outcomes of social distancing messages that promoted personal agency and reflective choices (i.e., an autonomy-supportive message) or were restrictive and shaming (i.e., a controlling message) compared with no message at all. Results partially supported experimental hypotheses in that the controlling message increased controlled motivation (a poorly internalized form of motivation relying on shame, guilt, and fear of social consequences) relative to no message. On the other hand, the autonomy-supportive message lowered feelings of defiance compared with the controlling message, but the controlling message did not differ from receiving no message at all. Unexpectedly, messages did not influence autonomous motivation (a highly internalized form of motivation relying on one’s core values) or behavioral intentions. Results supported hypothesized associations between people’s existing autonomous and controlled motivations and self-reported behavioral intentions to engage in social distancing. Controlled motivation was associated with more defiance and less long-term behavioral intention to engage in social distancing, whereas autonomous motivation was associated with less defiance and more short- and long-term intentions to social distance. Overall, this work highlights the potential harm of using shaming and pressuring language in public health communication, with implications for the current and future global health challenges.
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1073/pnas.2111091119" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
 
-Legate, N., Nguyen, T. T., Weinstein, N., Moller, A. C., Legault, L., Adamkovic, M., … Primbs, M. (2021, May 30). A Global Experiment on Motivating Social Distancing during the COVID-19 Pandemic. <https://doi.org/10.1073/pnas.2111091119>
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
 
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

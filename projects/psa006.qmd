@@ -1,29 +1,112 @@
 ---
 order: 1006
 title: "PSA006: Trolley Problem"
-status: Published
-doi: 10.1038/s41562-022-01319-5
-image: /images/icons/006icon.png
-categories:
-  - moral reasoning
-  - multi-language
-  - published
-personnel:
-  Proposers: [Bence Bagó, Balazs Aczel]
-  PM: John Protzko
-  Methodology: [Zoltán Kekecs, Rink Hoekstra]
-  Data: [Márton Kovács, Tamas Nagy]
-  Translation: Chuan-Peng Hu
-  Ethics: Gerit Pfuhl
-summary: "This project tested the universality of the effects of intent and personal force on moral dilemma judgements by replicating the experiments of Greene et al. (2009)."
-links:
-  paper: https://doi.org/10.1038/s41562-022-01319-5
-  preprint: https://doi.org/10.31234/osf.io/9uaqm
-  RR stage 1: https://springernature.figshare.com/articles/journal_contribution/Moral_thinking_across_the_world_Exploring_the_influence_of_personal_force_and_intention_in_moral_dilemma_judgements_Registered_Report_Stage_1_Protocol_/11871324/1
+params:
+  status: Published
+  doi: 10.1038/s41562-022-01319-5
+  image: /images/icons/006icon.png
+  prereg: https://doi.org/10.6084/m9.figshare.11871324.v1
   resources: https://github.com/marton-balazs-kovacs/trolleyMultilabReplication
-  OSF: https://osf.io/efy2w/
+  preprint: https://osf.io/preprints/psyarxiv/9uaqm_v1
+  paper: https://doi.org/10.1038/s41562-022-01319-5
 abstract: |
   The study of moral judgements often centres on moral dilemmas in which options consistent with deontological perspectives (that is, emphasizing rules, individual rights and duties) are in conflict with options consistent with utilitarian judgements (that is, following the greater good based on consequences). Greene et al. (2009) showed that psychological and situational factors (for example, the intent of the agent or the presence of physical contact between the agent and the victim) can play an important role in moral dilemma judgements (for example, the trolley problem). Our knowledge is limited concerning both the universality of these effects outside the United States and the impact of culture on the situational and psychological factors affecting moral judgements. Thus, we empirically tested the universality of the effects of intent and personal force on moral dilemma judgements by replicating the experiments of Greene et al. in 45 countries from all inhabited continents. We found that personal force and its interaction with intention exert influence on moral judgements in the US and Western cultural clusters, replicating and expanding the original findings. Moreover, the personal force effect was present in all cultural clusters, suggesting it is culturally universal. The evidence for the cultural universality of the interaction effect was inconclusive in the Eastern and Southern cultural clusters (depending on exclusion criteria). We found no strong association between collectivism/individualism and moral dilemma judgements.
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-Bago, B., Kovacs, M., Protzko, J. et al. Situational factors shape moral judgements in the trolley dilemma in Eastern, Southern and Western countries in a culturally diverse sample. Nat Hum Behav 6, 880–895 (2022). <https://doi.org/10.1038/s41562-022-01319-5>
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
+
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
+
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

@@ -1,22 +1,111 @@
 ---
 order: 1009
 title: "PSA009: Gendered Leader"
-status: Ongoing - pre data collection
-image: /images/icons/009icon.png
-categories:
-  - multi-language
-  - leadership
-  - gender perceptions
-  - language
-  - accepting-collaborators
-personnel:
-  Proposers: [Kim Peters]
-  PMs: [Alma Jeftic]
-summary: "This project is a multi-country test of a gender fair language intervention for stereotype bias"
+params:
+  status: Not Accepting Collaborators
+  doi: 10.31234/osf.io/xjkcv_v1
+  image: /images/icons/009icon.png
+  prereg: https://osf.io/gjv2f/files/7ahzx
+  resources: https://osf.io/gjv2f/overview
+  preprint: https://osf.io/preprints/psyarxiv/xjkcv_v1
 abstract: |
   Women are greatly underrepresented in positions of political leadership around the world. In seeking to explain this underrepresentation, some researchers have pointed to people’s tendencies to stereotype leaders as more similar to men than women as these tendencies can support the belief that women are unsuited to leadership. This project aims to test whether a subtle linguistic intervention is able to ameliorate this gender bias in political leadership stereotypes across different languages and national contexts (minimum anticipated N country = 15, N sample = 3,600). Specifically, this project will examine whether gender fair language (e.g., the use of paired pronouns ‘he or she’) can reduce the tendency for people to stereotype political leaders as more similar to men than women. To increase the rigor with which these stereotypes are measured, this project will complement the dominant ‘cheap talk’ measure of stereotype content with a novel incentivised measure of this content. This project will support an understanding of the capacity for gender fair language interventions to shift gender bias in the political leadership domain in different regions of the world.
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-## Contact
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
 
-For more information about this project, please contact the project lead team at [psa.project.009@gmail.com](mailto:psa.project.009@gmail.com).
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
+
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

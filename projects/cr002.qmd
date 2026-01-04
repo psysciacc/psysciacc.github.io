@@ -1,20 +1,112 @@
 ---
 order: 2002
 title: "PSA-CR 002: Cognitive Reappraisal"
-status: Published
-doi: 10.1038/s41562-021-01173-x
-image: /images/icons/PSACRicon.png
-categories:
-  - COVID
-  - multi-language
-  - published
-personnel:
-  Proposers: [Ke Wang, Amit Goldenberg, Charles A. Dorison, Andero Uusberg, Jennifer S. Lerner, James J. Gross]
-  PM: Jeremy Miller
-  Other Personnel: see [https://psyarxiv.com/x976j/](https://psyarxiv.com/x976j/)
-summary: "The project tested the effectiveness of cognitive reappraisal in decreasing negative emotions and increasing positive emotions related to COVID-19."
-links:
+params:
+  status: Published
+  doi: 10.1038/s41562-021-01173-x
+  image: /images/icons/PSACRicon.png
+  prereg: https://osf.io/4yf9d/files/fz5ek
+  resources: https://osf.io/4yf9d/
+  preprint: https://osf.io/preprints/psyarxiv/m4gpq_v1
   paper: https://doi.org/10.1038/s41562-021-01173-x
 abstract: |
-  The COVID-19 pandemic has increased negative emotions and decreased positive emotions globally. Left unchecked, these emotional changes might have a wide array of adverse impacts. To reduce negative emotions and increase positive emotions, we tested the effectiveness of reappraisal, an emotion-regulation strategy that modifies how one thinks about a situation. Participants from 87 countries and regions (*n* = 21,644) were randomly assigned to one of two brief reappraisal interventions (reconstrual or repurposing) or one of two control conditions (active or passive). Results revealed that both reappraisal interventions (vesus both control conditions) consistently reduced negative emotions and increased positive emotions across different measures. Reconstrual and repurposing interventions had similar effects. Importantly, planned exploratory analyses indicated that reappraisal interventions did not reduce intentions to practice preventive health behaviours. The findings demonstrate the viability of creating scalable, low-cost interventions for use around the world.
+  The COVID-19 pandemic has increased negative emotions and decreased positive emotions globally. Left unchecked, these emotional changes might have a wide array of adverse impacts. To reduce negative emotions and increase positive emotions, we tested the effectiveness of reappraisal, an emotion regulation strategy which modifies how one thinks about a situation. Participants from 87 countries/regions (n = 21,644) were randomly assigned to one of two brief reappraisal interventions (reconstrual or repurposing) or one of two control conditions (active or passive). Results revealed that both reappraisal interventions (vs. both control conditions)  consistently reduced negative emotions and increased positive emotions across different measures. Reconstrual and repurposing had similar effects. Importantly, planned exploratory  analyses indicated that reappraisal interventions did not reduce intentions to practice preventive health behaviours. The findings demonstrate the viability of creating scalable, low-cost interventions for use around the world to build resilience during the pandemic and beyond.
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
+
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
+
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
+
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

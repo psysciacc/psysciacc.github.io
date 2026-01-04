@@ -1,23 +1,111 @@
 ---
-order: 1012
+order: 3003
 title: "PSA-JTF3: Error Correction"
-status: Ongoing - pre-data collection
-image: /images/icons/PSAJTF001icon.png
-categories:
-  - error correction
-  - accepting-collaborators
-  - multi-language
-  - intellectual humility
-personnel:
-  Proposers: [Miroslav Sirota, Jakub Srol, Matteo Lisi, Marie Juanich, Kavya Guglani]
-  PMs: [Christopher Chartier, Kathleen Schmidt]
-links:
+params:
+  status: Not Accepting Collaborators
+  doi: 10.31234/osf.io/wegc5
+  image: /images/icons/PSAJTF001icon.png
+  prereg: https://osf.io/mquvn/overview
+  resources: https://osf.io/wn4vx/overview
   preprint: https://osf.io/preprints/psyarxiv/wegc5_v1
-summary: "Mapping and Increasing Error Correction Behaviour in a Culturally Diverse Sample"
 abstract: |
   Intuition often guides our thinking effectively, but it can also lead to consequential reasoning errors, underpinning poor decisions and biased judgments. Little is known about how people globally self-correct such intuitive reasoning errors and what enhances their correction. Defying prevailing models of reasoning, recent research suggests that people spontaneously correct only a few errors during deliberation; however, enhancing error monitoring and motivating further effort should increase error correction. Here, we study whether these mechanisms apply to reasoning across individualistic and collectivistic cultures (expected N = 33,000 participants from 67 regions). Participants will solve problems that elicit incorrect intuitions twice: first intuitively and then reflectively, allowing them to correct initial errors, in a 2 (feedback: absent vs present) × 2 (answer justification: absent vs present) between-participants design. The study will shed more light on the nature, generalisability, and promotion of corrective behaviour, crucial for understanding and improving reasoning worldwide.
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-## Contact
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
 
-For more information about this project, please contact the project lead team at [psajtf3@gmail.com](mailto:psajtf3@gmail.com).
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
+
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

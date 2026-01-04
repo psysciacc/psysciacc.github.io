@@ -1,24 +1,110 @@
 ---
-order: 1010
+order: 3001
 title: "PSA-JTF1: Moral Experiences"
-status: Ongoing - data collection
-image: /images/icons/PSAJTF001icon.png
-categories:
-  - morality
-  - experience sampling
-  - multi-language
-  - in-progress
-personnel:
-  Proposers: [Samuel Murray, William Jiménez-Leal, Santiago Amaya]
-  PMs: [Kathleen Schmidt]
-links:
-  preprint: https://osf.io/preprints/psyarxiv/jktnv
-summary: "This project is investigating global everyday moral experiences."
+params:
+  status: Not Accepting Collaborators
+  doi: 10.31234/osf.io/jktnv
+  image: /images/icons/PSAJTF001icon.png
+  prereg: https://osf.io/bkufn/overview
+  preprint: https://osf.io/preprints/psyarxiv/jktnv_v2
 abstract: |
   Do people in different societies experience morality differently in everyday life? Using experience sampling methods, we investigate everyday moral experiences in a sample from 20 countries across 6 continents, thereby replicating and extending a large-scale study originally conducted in the United States and Canada. We aim to replicate key findings about the kinds of moral experiences people have, the relationship between such experiences and religious or political affiliation, how such experiences affect momentary feelings, and how such experiences influence moral behavior. An international sample enables us to assess the generalizability of these findings across different socio-cultural contexts.
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-## Contact
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
 
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
 
-For more information about this project, please contact the project lead team at [psajtf1@gmail.com](mailto:psajtf1@gmail.com).
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

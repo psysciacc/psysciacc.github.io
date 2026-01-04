@@ -1,23 +1,111 @@
 ---
-order: 1011
+order: 3002
 title: "PSA-JTF2: Dignity Honor Face"
-status: Ongoing - pre data collection
-image: /images/icons/PSAJTF001icon.png
-categories:
-  - accepting-collaborators
-  - prosociality
-  - cultural logic
-  - multi-language
-personnel:
-  Proposers: [Lusine Grigoryan, Ani Grigoryan, Shuxian Jin, Narine Kachatryan, Ayse K. Uskul, Peter Smith]
-  PMs: [Priya Silverstein]
-summary: "This project is investigating dignity, honor, and face cultural logics globally."
-links:
+params:
+  status: Not Accepting Collaborators
+  doi: 10.31234/osf.io/9hb8k
+  image: /images/icons/PSAJTF001icon.png
+  prereg: https://osf.io/2eygt/overview
+  resources: https://osf.io/ygv2h/overview
   preprint: https://osf.io/preprints/psyarxiv/9hb8k_v1
 abstract: |
   Cultural logic is a set of cultural scripts and patterns organized around a central theme. The cultural logics of dignity, honor, and face describe different ways of evaluating a person’s worth and maintaining cooperation. These cultural logics vary in prevalence across cultures. In this study, we collaboratively develop and validate a measure capturing these cultural logics, which will allow us to map world cultures based on the prevalence of these logics. We will further explore the interrelations of dignity, honor, and face with prosocial behavior, values, moral beliefs, and religiosity as well as examine the generalizability of these relationships across cultures. Finally, we will explore historical antecedents (e.g., resource scarcity) and current correlates (e.g., inequality) of the country-level prevalence of these cultural logics. This study will generate a new dataset of country scores for dignity, honor, and face that will be available for future comparative research. It will also provide theoretical insights for researchers and practitioners interested in cooperation and social behavior within and between cultures.
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-## Contact
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
 
-For more information about this project, please contact the project lead team at [psajtf2@gmail.com](mailto:psajtf2@gmail.com).
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
+
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

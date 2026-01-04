@@ -1,0 +1,17 @@
+{
+  "hash": "b998036209ef3338d42dd83d03040dd6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\norder: 1005\ntitle: \"PSA005: Stereotype Threat\"\nparams:\n  status: Not Accepting Collaborators\n  doi: 10.31234/osf.io/6hju9\n  image: /images/icons/005icon.png\n  prereg: https://osf.io/preprints/psyarxiv/6hju9_v1\n  resources: https://osf.io/7tgav/overview\n  preprint: https://osf.io/preprints/psyarxiv/6hju9_v1\nabstract: |\n  According to stereotype threat theory, the possibility of confirming a negative group stereotype evokes feelings of threat, leading people to underperform in domains where they are stereotyped as lacking ability. This theory has immense theoretical and practical implications. However, many studies supporting it include small samples and varying operational definitions of “stereotype threat”. We address the first challenge by leveraging a network of psychology labs to recruit a large Black student sample (*N~anticipated~* = 2700) from multiple US sites (*N~anticipated~* = 27). We address the second challenge by identifying three threat-increasing and three threat-decreasing procedures that could plausibly affect performance and use an adaptive Bayesian design to determine which operationalization yields the strongest evidence for underperformance. This project should advance our knowledge of a scientifically and socially important topic: the conditions under which stereotype threat affects performance among current Black students in the United States.\npage-layout: full\ninclude-in-header:\n  - text: |\n      <style>\n      .quarto-title {\n        display: none;\n      }\n      .quarto-title-meta-contents {\n        display: none;\n      }\n      .quarto-title-meta-heading {\n        display: none;\n      }\n      .abstract {\n      display: none;\n      }\n      </style>\n---\n\n<h2> {{<meta title>}} <span class = \"status-chip\">{{<meta params.status>}}</span> </h2>\n\n\n::: {.cell}\n\n:::\n\n\n<div class=\"buttonrow proj-meta\"> <a href=\"https://osf.io/preprints/psyarxiv/6hju9_v1\">prereg</a> <a href=\"https://osf.io/7tgav/overview\">resources</a> <a href=\"https://osf.io/preprints/psyarxiv/6hju9_v1\">preprint</a> </div>\n\n### Abstract\n\n{{<meta abstract>}}\n\n### Citation\n\n\n::: {.cell}\n\n:::\n\n\nForscher P. S., Taylor V. J., Cavagnaro D., Lewis N. A., Buchanan E. M., Moshontz H., Mark A. Y., Appleby S., Batres C., Bennett-Day B., Chopik W. J., Damian R. I., Ellis C. E., Faas C., Gaither S., Green D. J., Hall B. F., Hinojosa B. M., Howell J. L., Johnson D. C., Kung F. Y. H., Laird A., Levitan C., Li M., Maddox K. B., Murphy M. C., Musser E. D., Pankey B., Parker L. R., Perry S., Remedios J. D., Schmidt K., Serrano Holden S., Steltenpohl C. N., Storage D., Straka B. C., Urry H. L., Wasmuth S., Westgate E. C., Wilson J. P., Wynn S., Zimmerman D. M., Peters K. O., Chartier C. R. (2019). Stereotype Threat in Black College Students Across Many Operationalizations. Preprint. https://doi.org/10.31234/osf.io/6hju9",
+    "supporting": [
+      "psa005_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

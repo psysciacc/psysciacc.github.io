@@ -6,26 +6,35 @@
       <tr class="proj-title-row">
         <th colspan="4" class="proj-cell proj-meta">
           <h3><a href="<%= item.path %>"><%= item.title %></a></h3>
-          <% if (item.links) { %>
+          <% if (item.params) { %>
           <div class="buttonrow">
-            <% Object.keys(item.links).forEach(function (key) { %>
-            <a href="<%= item.links[key] %>"><%= key %></a>
-            <% }) %>
+            <% if (item.params.prereg) { %><a href="<%= item.params.prereg %>"
+              >prereg</a
+            ><% } %> <% if (item.params.resources) { %><a
+              href="<%= item.params.resources %>"
+              >resources</a
+            ><% } %> <% if (item.params.preprint) { %><a
+              href="<%= item.params.preprint %>"
+              >preprint</a
+            ><% } %> <% if (item.params.paper) { %><a
+              href="<%= item.params.paper %>"
+              >paper</a
+            ><% } %>
           </div>
           <% } %>
         </th>
       </tr>
       <tr class="proj-body-row">
         <td class="proj-cell proj-meta">
-          <% if (item.image) { %>
-          <img src="<%- item.image %>" />
+          <% if (item.params.image) { %>
+          <img src="<%- item.params.image %>" />
           <% } else { %>
           <img src="../../images/logo.png" />
-          <% } %> <% if (item.doi) { %>
+          <% } %> <% if (item.params.doi) { %>
           <div
             data-badge-popover="right"
             data-badge-type="donut"
-            data-doi="<%= item.doi %>"
+            data-doi="<%= item.params.doi %>"
             data-hide-no-mentions="true"
             class="altmetric-embed"
           ></div>

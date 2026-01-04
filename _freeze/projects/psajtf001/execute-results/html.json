@@ -1,0 +1,17 @@
+{
+  "hash": "069b8fbc3c5da8d122c966f20f9f6ed6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\norder: 3001\ntitle: \"PSA-JTF1: Moral Experiences\"\nparams:\n  status: Not Accepting Collaborators\n  doi: 10.31234/osf.io/jktnv\n  image: /images/icons/PSAJTF001icon.png\n  prereg: https://osf.io/bkufn/overview\n  preprint: https://osf.io/preprints/psyarxiv/jktnv_v2\nabstract: |\n  Do people in different societies experience morality differently in everyday life? Using experience sampling methods, we investigate everyday moral experiences in a sample from 20 countries across 6 continents, thereby replicating and extending a large-scale study originally conducted in the United States and Canada. We aim to replicate key findings about the kinds of moral experiences people have, the relationship between such experiences and religious or political affiliation, how such experiences affect momentary feelings, and how such experiences influence moral behavior. An international sample enables us to assess the generalizability of these findings across different socio-cultural contexts.\npage-layout: full\ninclude-in-header:\n  - text: |\n      <style>\n      .quarto-title {\n        display: none;\n      }\n      .quarto-title-meta-contents {\n        display: none;\n      }\n      .quarto-title-meta-heading {\n        display: none;\n      }\n      .abstract {\n      display: none;\n      }\n      </style>\n---\n\n<h2> {{<meta title>}} <span class = \"status-chip\">{{<meta params.status>}}</span> </h2>\n\n\n::: {.cell}\n\n:::\n\n\n<div class=\"buttonrow proj-meta\"> <a href=\"https://osf.io/bkufn/overview\">prereg</a> <a href=\"https://osf.io/preprints/psyarxiv/jktnv_v2\">preprint</a> </div>\n\n### Abstract\n\n{{<meta abstract>}}\n\n### Citation\n\n\n::: {.cell}\n\n:::\n\n\nMurray S., Jimenez-Leal W., Amaya S., Silverstein P., Kekecs Z., Chartier C. R., Wan M. F., Blackall T., Salvador C., Pfuhl G., Montefinese M., Kocalar H. E., Tome N. L., Polemikou A., Davis W. E., Paruzel-Czachura M., Almohizea M. I., Şahin S. M., Wendt G., Trémolière B., Zheng W., Couto C., Özdoğru A. A., Becker M., Kunisato Y., Vaidis D. C., Galindo-Caballero O. J., Ross R. M., Xia Z., Zhang M., Sullivan G. B., Evans T. R., Barzykowski K., Al-Hoorie A. H., Nettle D., Godbersen H., Jiang X., Yamada Y., Walker B., Cervera-Torres S., Rokosz M., Akkas H., Manley H., Liu H., Elsherif M. M., Du H., Puthillam A., Hahn L., Stanley S., Batres C., Sorokowska A., Wagstaff D. L., Janssen S. M. J., Jantus C. I., Khaoudi A., Lu J. G., Wu Y., Kowal M., Camargo A., Grigoryan L., Navajas J., Vezirian K., Roussos P., Misiak M., Studzinska A., Ruiz-Fernandez S., Vatakis A., Oleszkiewicz A., Park J., Gichanga R. W., Buchanan E. M., sumara NA., Kękuś M., Giannouli V., Mouhssine L., Pieniak M., Anne M., SAHLI F. Z., GRATON A., Otieno B., Kurz T., Sasaki K., Ferreira P. R., Roberts S. C., Gituma B. N., Asekun W. A., Dixson B., Willis M., Oluyinka O., Maganti M., Butt M. M., Hryniszak W., Gourdon-Kanhukamwe A., KARABABA A., Iqbal Z., Mubeen A., wu l., Arvanitis A., Delfino G., Millahibrahim R., ASATSA S., Jaan R., Kaffilardi A., Kleka P., Farmer H., Guan X., Gao Y., Ojukwu A., Sepehri A., Ondiek E. O., Schmidt K. (2024). A Cross-Cultural Study of Everyday Moral Experiences. Preprint. https://doi.org/10.31234/osf.io/jktnv",
+    "supporting": [
+      "psajtf001_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,23 +1,112 @@
 ---
 order: 1004
 title: "PSA004: True Belief"
-status: Ongoing - post data collection
-doi: 10.31234/osf.io/zeux9
-image: /images/icons/004icon.png
-categories:
-  - knowledge
-  - multi-language
-  - published
-personnel:
-  Proposers: [Braeden Hall, Jordan Wagge]
-  PM: Jordan Wagge
-summary: "Part of the Collaboration Replications and Education Project, this replication of Turri et al. (2015) is examining the prevalence of the Gettier intuition effect, wherein knowledge attribution decreases when in cases where beliefs are correct only due to luck."
-links:
-  preprint: 10.31234/osf.io/zeux9
+params:
+  status: Published
+  doi: 10.1177/25152459241267902
+  image: /images/icons/004icon.png
+  prereg: https://osf.io/4bfs7/overview
+  resources: https://osf.io/erm92/overview
+  preprint: https://osf.io/preprints/psyarxiv/zeux9_v1
+  paper: https://doi.org/10.1177/25152459241267902
 abstract: |
- According to the Justified True Belief account of knowledge (JTB), a person can only truly know something if they have a belief that is both justified and true (i.e., knowledge is justified true belief). This account was challenged by Gettier (1963), who argued that JTB does not explain knowledge attributions in certain situations, later called Gettier-type cases, wherein a protagonist is justified in believing something to be true but their belief was only correct due to luck. Lay people may not attribute knowledge to protagonists with justified but only luckily true beliefs. While some research has found evidence for these so-called Gettier intuitions (e.g., Machery et al., 2017a), Turri et al. (2015) found that participants attributed knowledge in Gettier-type cases at rates similar to cases of justified true belief. In a large-scale, cross-cultural conceptual replication of Turri and colleagues’ (2015) Experiment 1 (N = 4724), we failed to replicate this null result using a within-subjects design and three vignettes across 19 geopolitical regions. Instead, participants demonstrated Gettier intuitions; they were 1.86 times more likely to attribute knowledge to protagonists in standard cases of justified true belief than to protagonists in Gettier-type cases. These results suggest that Gettier intuitions may be common across different scenarios and cultural contexts. When assessing the knowledge of others, lay people may rely on a shared set of epistemic intuitions (i.e., a core folk epistemology) that requires more than simply justification, belief, and truth. However, the size of the Gettier intuition effect did vary by vignette, and the Turri et al. (2015) vignette produced the smallest effect. Thus, epistemic intuitions may also depend on contextual factors unrelated to the criteria of knowledge, such as the characteristics of the protagonist being evaluated.
+ According to the justified true belief (JTB) account of knowledge, people can truly know something only if they have a belief that is both justified and true (i.e., knowledge is JTB). This account was challenged by Gettier, who argued that JTB does not explain knowledge attributions in certain situations, later called “Gettier-type cases,” wherein protagonists are justified in believing something to be true, but their belief was correct only because of luck. Laypeople may not attribute knowledge to protagonists with justified but only luckily true beliefs. Although some research has found evidence for these so-called Gettier intuitions, Turri et al. found no evidence that participants attributed knowledge in a counterfeit-object Gettier-type case differently than in a matched case of JTB. In a large-scale, cross-cultural conceptual replication of Turri and colleagues’ Experiment 1 (N = 4,724) using a within-participants design and three vignettes across 19 geopolitical regions, we did find evidence for Gettier intuitions; participants were 1.86 times more likely to attribute knowledge to protagonists in standard cases of JTB than to protagonists in Gettier-type cases. These results suggest that Gettier intuitions may be detectable across different scenarios and cultural contexts. However, the size of the Gettier intuition effect did vary by vignette, and the Turri et al. vignette produced the smallest effect, which was similar in size to that observed in the original study. Differences across vignettes suggest that epistemic intuitions may also depend on contextual factors unrelated to the criteria of knowledge, such as the characteristics of the protagonist being evaluated.
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-## Contact
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
 
-For more information about this project, please contact Jordan Wagge at [jwagge@gmail.com](mailto:jwagge@gmail.com).
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
+
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

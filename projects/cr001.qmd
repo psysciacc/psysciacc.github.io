@@ -1,24 +1,112 @@
 ---
 order: 2001
 title: "PSA-CR 001: Loss Gain"
-status: Published
-doi: 10.1007/s42761-022-00128-3 
-image: /images/icons/PSACRicon.png
-categories:
-  - COVID
-  - multi-language
-  - published
-personnel:
-  Proposers: [Charles A. Dorison, Jennifer S. Lerner, Blake H. Heller, Alexander J. Rothman, Ichiro I. Kawachi, Ke Wang, Vaughan W. Rees, Brian P. Gill, Nancy Gibbs]
-  PM: Nicholas Coles
-  Other Personnel: see [https://psyarxiv.com/x976j/](https://psyarxiv.com/x976j/)
-summary: "This project tested the effects of loss versus gain message framing on COVID-19-related judgments, intentions, and feelings."
-links: 
-  paper: https://doi.org/10.1007/s42761-022-00128-3 
+params:
+  status: Published
+  doi: 10.1007/s42761-022-00128-3 
+  image: /images/icons/PSACRicon.png
+  prereg: https://doi.org/10.31234/osf.io/m4gpq
+  resources: https://osf.io/m6q8f/overview
   preprint: https://doi.org/10.31234/osf.io/m4gpq
+  paper: https://doi.org/10.1007/s42761-022-00128-3 
 abstract: |
-  The COVID-19 pandemic presents a critical need to identify best practices for communicating health information to the global public. It also provides an opportunity to test theories about risk communication. As part of a larger Psychological Science Accelerator COVID-19 Rapid Project, a global consortium of researchers will experimentally test competing hypotheses regarding the effects of framing messages in terms of losses versus gains. We will examine effects on three primary outcomes: intentions to adhere to policies designed to prevent the spread of COVID-19, opinions about such policies, and the likelihood that participants seek additional policy information. Whereas research on negativity bias and loss aversion predicts that loss-framing will have greater impact, research on encouraging the adoption of protective health behaviour suggests the opposite (i.e., gain-framing will be more persuasive). We will also assess effects on experienced anxiety. Given the potentially low cost and the scalable nature of framing interventions, results could be valuable to health organizations, policymakers, and news sources globally.
+  The COVID-19 pandemic (and its aftermath) highlights a critical need to communicate health information effectively to the global public. Given that subtle differences in information framing can have meaningful effects on behavior, behavioral science research highlights a pressing question: Is it more effective to frame COVID-19 health messages in terms of potential losses (e.g., “If you do not practice these steps, you can endanger yourself and others”) or potential gains (e.g., “If you practice these steps, you can protect yourself and others”)? Collecting data in 48 languages from 15,929 participants in 84 countries, we experimentally tested the effects of message framing on COVID-19-related judgments, intentions, and feelings. Loss- (vs. gain-) framed messages increased self-reported anxiety among participants cross-nationally with little-to-no impact on policy attitudes, behavioral intentions, or information seeking relevant to pandemic risks. These results were consistent across 84 countries, three variations of the message framing wording, and 560 data processing and analytic choices. Thus, results provide an empirical answer to a global communication question and highlight the emotional toll of loss-framed messages. Critically, this work demonstrates the importance of considering unintended affective consequences when evaluating nudge-style interventions.
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title {
+        display: none;
+      }
+      .quarto-title-meta-contents {
+        display: none;
+      }
+      .quarto-title-meta-heading {
+        display: none;
+      }
+      .abstract {
+      display: none;
+      }
+      </style>
 ---
 
-Dorison, C.A., Lerner, J.S., Heller, B.H. et al. (2022) In COVID-19 Health Messaging, Loss Framing Increases Anxiety with Little-to-No Concomitant Benefits: Experimental Evidence from 84 Countries. <i>Affective Science</i> 3, 577–602. <https://doi.org/10.1007/s42761-022-00128-3>
+<h2> {{<meta title>}} <span class = "status-chip">{{<meta params.status>}}</span> </h2>
 
+```{r echo = FALSE}
+output <- "<div class=\"buttonrow proj-meta\">"
+
+if (!is.null(params$prereg)){
+  output <- paste0(output, " ", "<a href=\"", params$prereg, "\">prereg</a>")
+}
+
+if (!is.null(params$resources)){
+  output <- paste0(output, " ", "<a href=\"", params$resources, "\">resources</a>")
+}
+
+if (!is.null(params$preprint)){
+  output <- paste0(output, " ", "<a href=\"", params$preprint, "\">preprint</a>")
+}
+
+if (!is.null(params$paper)){
+  output <- paste0(output, " ", "<a href=\"", params$paper, "\">paper</a>")
+}
+
+output <- paste0(output, " </div>")
+```
+
+`r output`
+
+### Abstract
+
+{{<meta abstract>}}
+
+### Citation
+
+```{r echo = FALSE}
+library(httr)
+library(jsonlite)
+library(glue)
+
+doi <- params$doi
+stopifnot(!is.null(doi))
+
+url <- glue("https://api.crossref.org/works/{URLencode(doi)}")
+r <- GET(url)
+stop_for_status(r)
+
+work <- fromJSON(content(r, "text", encoding = "UTF-8"))$message
+
+# ---- Authors ----
+authors <- paste(work$author$family, work$author$given)
+abbr <- function(x) {
+  parts <- strsplit(x, "\\s+")[[1]]
+  paste(paste0(substr(parts, 1, 1), "."), collapse = " ")
+}
+
+authors <- paste(
+  work$author$family,
+  vapply(work$author$given, abbr, character(1))
+)
+
+author_str <- paste(authors, collapse = ", ")
+
+# ---- Fields ----
+safe_first <- function(x) {
+  if (is.null(x) || length(x) == 0) return(NULL)
+  x[[1]]
+}
+
+year <- work$issued$`date-parts`[[1]][1]
+title <- work$title[[1]]
+journal <- safe_first(work$`container-title`) %||% "Preprint"
+volume <- work$volume %||% ""
+pages <- work$page %||% ""
+
+citation <- if (journal == "Preprint") {
+  glue("{author_str} ({year}). {title}. {journal}. https://doi.org/{doi}")
+} else {
+  glue("{author_str} ({year}). {title}. {journal}, {volume}, {pages}. https://doi.org/{doi}")
+}
+```
+
+`r citation`

@@ -1,0 +1,17 @@
+{
+  "hash": "8bc6e579142c1ddb4d5de3176438f6bd",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\norder: 1009\ntitle: \"PSA009: Gendered Leader\"\nparams:\n  status: Not Accepting Collaborators\n  doi: 10.31234/osf.io/xjkcv_v1\n  image: /images/icons/009icon.png\n  prereg: https://osf.io/gjv2f/files/7ahzx\n  resources: https://osf.io/gjv2f/overview\n  preprint: https://osf.io/preprints/psyarxiv/xjkcv_v1\nabstract: |\n  Women are greatly underrepresented in positions of political leadership around the world. In seeking to explain this underrepresentation, some researchers have pointed to people’s tendencies to stereotype leaders as more similar to men than women as these tendencies can support the belief that women are unsuited to leadership. This project aims to test whether a subtle linguistic intervention is able to ameliorate this gender bias in political leadership stereotypes across different languages and national contexts (minimum anticipated N country = 15, N sample = 3,600). Specifically, this project will examine whether gender fair language (e.g., the use of paired pronouns ‘he or she’) can reduce the tendency for people to stereotype political leaders as more similar to men than women. To increase the rigor with which these stereotypes are measured, this project will complement the dominant ‘cheap talk’ measure of stereotype content with a novel incentivised measure of this content. This project will support an understanding of the capacity for gender fair language interventions to shift gender bias in the political leadership domain in different regions of the world.\npage-layout: full\ninclude-in-header:\n  - text: |\n      <style>\n      .quarto-title {\n        display: none;\n      }\n      .quarto-title-meta-contents {\n        display: none;\n      }\n      .quarto-title-meta-heading {\n        display: none;\n      }\n      .abstract {\n      display: none;\n      }\n      </style>\n---\n\n<h2> {{<meta title>}} <span class = \"status-chip\">{{<meta params.status>}}</span> </h2>\n\n\n::: {.cell}\n\n:::\n\n\n<div class=\"buttonrow proj-meta\"> <a href=\"https://osf.io/gjv2f/files/7ahzx\">prereg</a> <a href=\"https://osf.io/gjv2f/overview\">resources</a> <a href=\"https://osf.io/preprints/psyarxiv/xjkcv_v1\">preprint</a> </div>\n\n### Abstract\n\n{{<meta abstract>}}\n\n### Citation\n\n\n::: {.cell}\n\n:::\n\n\nPeters K. O., Jeftic A., Lewis S. C., Buchanan E. M. (2025). Think Political Leader – Think He or She? A Multi-Country Test of a Gender Fair Language Intervention for Stereotype Bias. Preprint. https://doi.org/10.31234/osf.io/xjkcv_v1",
+    "supporting": [
+      "psa009_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
