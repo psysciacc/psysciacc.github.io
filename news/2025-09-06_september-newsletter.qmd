@@ -1,6 +1,6 @@
 ---
 title: "September News from the Accelerator"
-author: "Savannah Lewis"
+author: "Sara Eftekhari"
 date: 2025-09-06
 categories:
   - newsletter
