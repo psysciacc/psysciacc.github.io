@@ -1,0 +1,139 @@
+---
+title: "2026-March: News from the Accelerator"
+author: "Sara Eftekhari"
+date: 2026-03-06
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
+categories:
+  - Newsletter
+  - PSA005 Stereotype Threat
+  - PSA008 Minimal Groups
+  - PSA009 Gendered Leader
+  - PSA010 Social Evaluation
+  - PSA011 Emotion Differentiation
+  - PSA012 Aesthetic Well-being Evaluation
+  - PSA013 Global Crises
+  - PSA-JTF1 Moral Experiences
+  - PSA-JTF2 Dignity Honor Face
+  - PSA-JTF3 Error Correction
+---
+
+## Quick read
+
+- **PSA [011](https://docs.google.com/document/d/1YybzqaASMx5wQVcf9Y7Ewi7Hjw4cIJmz/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true), [012](https://docs.google.com/document/d/1KNtN1sl0FuDsdHZI8t2rRcfq2yeORSit/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true) and [013](https://docs.google.com/document/d/1t63IiQpDhDEMnz3VOaxT6-i-rMuzSNGg/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true) launched!** The teams are drafting registered reports and **are not ready for collaboration inquiries yet, but stay tuned!**
+
+- **More languages coming soon.** Newsletter and website translations are expanding into new languages; contact ([julijaakos\@gmail.com](mailto:julijaakos@gmail.com)) the Translation & Cultural Diversity Committee to join as a translator.
+
+- **Opportunities:** [Post-Doc](https://psy-sci-accelerator.slack.com/archives/C7D9CRWCC/p1772471635997539) in computational meta‑science (University of Florida, USA); [Associate in Research](https://academicjobsonline.org/ajo/jobs/31749) (Duke University, USA); present at [DaNa 2026 Workshop](https://psy-sci-accelerator.slack.com/archives/C7D9CRWCC/p1772525315780729) (Germany).
+
+## PSA Translators Needed!
+
+Help make PSA communications more globally accessible by joining the Translation & Cultural Diversity Committee (TCDC).
+
+- **Requirements:** Fluency in English and native-level proficiency in Mandarin Chinese, Hindi, Spanish, Arabic (Modern Standard Arabic), French, Portuguese, Russian, or Swahili.
+  **Other languages welcome as well**.
+
+- **Commitments:** One meeting and a few hours of work a month.
+
+- To apply, contact: [julijaakos\@gmail.com](mailto:julijaakos@gmail.com)
+
+## Opportunities for PSA Members
+
+### Vacancy: Post-Doc
+
+A postdoctoral position in computational meta‑science is available at University of Florida for \$55–60k (1–3 years).
+Apply by 10 March by emailing [jtakayanagi\@ufl.edu](mailto:jtakayanagi@ufl.edu) a one-page cover letter and your CV.
+[See full details](https://psy-sci-accelerator.slack.com/archives/C7D9CRWCC/p1772471635997539) for requirements.
+
+### Vacancy: Associate in Research
+
+Similar to a lab manager, this in-person role at Duke University is primarily research focused and will involve projects examining the cultural psychology of Latin American populations.
+International and US-based candidates are both welcome.
+
+The deadline is 30 June, but [apply quickly](https://academicjobsonline.org/ajo/jobs/31749) as applications are already being reviewed on a rolling basis until the position is filled.
+
+### Workshop: DaNa 2026
+
+Submit a 500-word abstract by 31 March for the interdisciplinary ***DaNa 2026: Towards a Shared Language – Data Narratives in Science, Business, and the Humanities*** workshop happening on 8–9 July in Leipzig, Germany (co-located with LEISYS 2026).
+
+The workshop explores how data storytelling shapes research, policy, and practice across disciplines.
+Early career researchers are especially welcome and may be eligible for institutional financial support.
+[See full details](https://psy-sci-accelerator.slack.com/archives/C7D9CRWCC/p1772525315780729).
+
+## PSA Project Updates
+
+### 005 Stereotype Threat
+
+The team is working on the final draft of the manuscript to send to collaborators soon.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/6hju9_v1)
+
+### 008 Minimal Groups
+
+The lead team has started data analysis.
+A new round of data collection has commenced.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/5gpr4_v1)
+
+### 009 Gendered Leadership
+
+The Stage 2 Registered Report is under review at *The Leadership Quarterly*.
+
+[Read more in our registered report \>\>](https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true)
+
+### 010 Social Evaluation
+
+The lead team has received positive comments from *Psychological Science* on their Stage 1 Registered Report and are awaiting reviews.
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1zo_MwwsDVIKh4m6UlaI0XgPN4hS07Abf)
+
+### 011 Emotion Differentiation (NEW PROJECT!)
+
+PSA 011 addresses the lack of cross‑cultural research by recruiting participants from over 20 countries using the PSA network to examine associations between emotion differentiation, emotion regulation, and internalising symptoms (depression and anxiety), to test whether these associations differ across countries using a multimethod approach, and to offer insights for developing mental health interventions that are sensitive to regional differences.
+
+PSA 011 has received its acceptance letter.
+The team are drafting registered reports.
+PSA 011 is **not ready for collaboration inquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1YybzqaASMx5wQVcf9Y7Ewi7Hjw4cIJmz/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### 012 Aesthetic Well-being Evaluation (NEW PROJECT!)
+
+PSA 012 tests whether greater art involvement is associated with higher well‑being, whether this relationship is moderated by cultural context, and whether different modes of engagement (creating vs. observing; in‑person vs. digital) differentially impact well‑being, using a large‑scale study assessing diverse forms of art engagement and PERMA well‑being outcomes to clarify how art contributes to well‑being.
+
+PSA 012 has received its acceptance letter.
+The team are drafting registered reports.
+PSA 012 is **not ready for collaboration inquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1KNtN1sl0FuDsdHZI8t2rRcfq2yeORSit/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### 013 Global Crises (NEW PROJECT!)
+
+PSA 013 investigates how people perceive global crises (e.g. climate change, pandemics, war and violence) and how these perceptions relate to motivation to act across cultural contexts, by examining perceived importance (Want) and efficacy beliefs (Expectancy) within Motivational Readiness Theory by recruiting participants from over 60 countries, with the goal of mapping perception–reality gaps, testing cross‑cultural differences, and informing culturally tailored policy strategies to enhance public engagement.
+
+PSA 013 has received its acceptance letter.
+The team are drafting registered reports.
+PSA 013 is **not ready for collaboration inquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1t63IiQpDhDEMnz3VOaxT6-i-rMuzSNGg/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### JTF1 Moral Experiences
+
+The lead team is wrapping up data coding and validation; a draft of the manuscript will soon be available to share with collaborators.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/jktnv_v2)
+
+### JTF2 Dignity Honor Face
+
+The team has been working hard on data cleaning and analysis, and will soon move onto refining the writing.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/9hb8k_v1)
+
+### JTF3 Error Correction
+
+Data collection continues until approximately April.
+
+[Read more in our preprint \>\>](https://osf.io/wn4vx/)

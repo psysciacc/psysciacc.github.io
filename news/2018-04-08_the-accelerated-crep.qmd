@@ -16,6 +16,8 @@ categories:
 Edited: 01 June 2026 by Sara Eftekhari
 :::
 
+## PSA & CREP Collaboration
+
 The Collaborative Replication and Education Project (CREP) and the Psychological Science Accelerator are partnering on a project for the 2018-2019 replication season.
 
 The mission of the Accelerator is to **accelerate the accumulation of reliable and generalizeable evidence in psychological science**.
@@ -23,7 +25,7 @@ The mission of the CREP is to **improve undergraduate training through crowdsour
 
 We think these two missions can be pursued in tandem.
 
-![crepacc](images/crepacc.png){.wp-image-272 .alignleft width="460" height="253"}
+![crepacc](images/crepacc.png)
 
 The CREP ([http://osf.io/wfc6u](http://osf.io/wfc6u){target="_blank"}) is a crowdsourced replication project designed for undergraduate researchers.
 
@@ -83,7 +85,7 @@ Here we give an overview of the full process for the first "Accelerated CREP" st
 
 [Sign Up Here!](https://docs.google.com/forms/d/e/1FAIpQLSd0YkPnjKqJEHAU-g2Yq-DhlWvf2H6NhFwRlgKOPbxHm11zrQ/viewform?usp=sf_link)
 
-Additional pronunciation guidance and derivation from Jon Grahe:
+## Additional pronunciation guidance and derivation from Jon Grahe
 
 "Why CREP rhymes with Grapes"
 

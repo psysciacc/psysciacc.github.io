@@ -1,5 +1,5 @@
 ---
-title: "September News from the Accelerator"
+title: "2025-September: News from the Accelerator"
 author: "Sara Eftekhari"
 date: 2025-09-06
 format:
@@ -8,7 +8,16 @@ format:
     toc-depth: 4
     toc-location: right
 categories:
-  - newsletter
+  - Newsletter
+  - PSA002 Object Orientation
+  - PSA003 Gendered Prejudice
+  - PSA005 Stereotype Threat
+  - PSA007 SPAM-L
+  - PSA008 Minimal Groups
+  - PSA009 Gendered Leader
+  - PSA-JTF1 Moral Experiences
+  - PSA-JTF2 Dignity Honor Face
+  - PSA-JTF3 Error Correction
 ---
 
 ## Quick read

@@ -1,0 +1,108 @@
+---
+title: "2026-February: News from the Accelerator"
+author: "Sara Eftekhari"
+date: 2026-02-07
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
+categories:
+  - Newsletter
+  - PSA005 Stereotype Threat
+  - PSA008 Minimal Groups
+  - PSA009 Gendered Leader
+  - PSA010 Social Evaluation
+  - PSA-JTF1 Moral Experiences
+  - PSA-JTF2 Dignity Honor Face
+  - PSA-JTF3 Error Correction
+---
+
+## Quick read
+
+- We report several new collaboration and career opportunities shared by our fellow Accelerators.
+- Most PSA projects are now in the writing stage, with data analysis underway or wrapping up.
+
+## Call for Conference Abstracts
+
+**APA Division 34 Virtual Conference**
+
+- **Abstract deadline:** 1 March 2026
+- **Theme:** Advancing the United Nations Sustainable Development Goals through Psychological Research
+- **Dates:** 5–6 June (World Environment Day)
+- **Contact:** ssyropou\@asu.edu
+
+[Submit abstract](https://asu.co1.qualtrics.com/jfe/form/SV_08IelFmeet8Rh2u).
+
+## India–France Collaboration Invite
+
+Looking to co‑develop an **India–France research proposal**?
+[Apply for grant](https://www.cefipra.org/PgmAA.aspx?p=CS).
+[Dr Santhosh](https://christuniversity.in/Psychology/faculty-details/MjI3MA==/) (Christ University) seeks collaborators.
+
+- **CEFIPRA grant deadline:** 28 February 2026
+- **Focus:** Health Sciences; Marine Sciences. [See full details](https://psy-sci-accelerator.slack.com/archives/C7D9CRWCC/p1769601024138119).
+
+## Research Supervisors Sought
+
+The [**Junior Researcher Programme**](https://jrp.pscholars.org/supervisor-applications-for-jschool-2026-now-open/) is seeking **six PhD students or postdoctoral researchers** to supervise international psychology student projects for jSchool 2026.
+[Apply here](https://cambridge.eu.qualtrics.com/jfe/form/SV_cuOzYBbciMQdnVk).
+
+- **Focus:** Psychological Science in the Digital Age (social media, misinformation, AI)
+- **Application deadline:** 23:59 CET 10 February 2026
+- **Programme duration:** July 2026 to August 2027
+- **Location:** Siena (Italy)
+
+## Publication Opportunity (SAGE Journals)
+
+Enhancing Transparency and Replicability in Entrepreneurship Research with Preregistrations, Registered Reports, and Registered Revisions: A Call for Papers
+
+- **Registered Reports deadline:** 22 December 2026. However, **early submissions are encouraged** and may be submitted *immediately*.
+
+[Read editorial](https://journals.sagepub.com/doi/10.1177/10422587251401175).
+[See full details](https://journals.sagepub.com/pb-assets/PDF/2025-11-27%20ETP%20Special%20Issue%20CALL-1769503414487.pdf).
+
+## PSA Project Updates
+
+### 005 Stereotype Threat
+
+The team is working on the final draft of the manuscript to send to collaborators.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/6hju9_v1)
+
+### 008 Minimal Groups
+
+The lead team has started data analysis.
+A new round of data collection has commenced.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/5gpr4_v1)
+
+### 009 Gendered Leadership
+
+The Stage 2 Registered Report is under review at *The Leadership Quarterly*.
+
+[Read more in our registered report \>\>](https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true)
+
+### 010 Social Evaluation
+
+The lead team has received positive comments from *Psychological Science* on their Stage 1 Registered Report and are awaiting reviews.
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1zo_MwwsDVIKh4m6UlaI0XgPN4hS07Abf)
+
+### JTF1 Moral Experiences
+
+The lead team is wrapping up data coding and validation; a draft of the manuscript will soon be available to share with collaborators.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/jktnv_v2)
+
+### JTF2 Dignity Honor Face
+
+The team has been working hard on data cleaning and analysis, and will soon move onto refining the writing.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/9hb8k_v1)
+
+### JTF3 Error Correction
+
+Data collection continues until approximately April.
+
+[Read more in our preprint \>\>](https://osf.io/wn4vx/)

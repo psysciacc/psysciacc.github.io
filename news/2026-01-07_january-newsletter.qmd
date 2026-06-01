@@ -1,111 +1,124 @@
 ---
-title: "News from the Accelerator: January 2026"
+title: "2026-January: News from the Accelerator"
 author: "Sara Eftekhari"
-date: 2025-1-06
+date: 2026-01-07
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
 categories:
-  - newsletter
+  - Newsletter
+  - PSA005 Stereotype Threat
+  - PSA008 Minimal Groups
+  - PSA009 Gendered Leader
+  - PSA010 Social Evaluation
+  - PSA-JTF1 Moral Experiences
+  - PSA-JTF2 Dignity Honor Face
+  - PSA-JTF3 Error Correction
 ---
 
-PSA newsletter 2025 ( https://psysciacc.org/ )
+## Quick read
 
-----------
-Quick read
-----------
+- **New PSA Projects:** Three new projects are to be launched this year!
+- **PSA 005 Secondary Paper:** Accepted for publication in *Social and Personality Psychology Compass*. Congratulations to the team!
+- **Project Update:** PSA009 (Gendered Leadership) submitted their Stage 2 Registered Report to *The Leadership Quarterly*.
 
-* New PSA Projects : Three new projects are to be launched this year!
-* *PSA 005 Secondary Paper* : A ccepted for publication in Social and Personality Psychology Compass. Congratulations to the team !
-* *Project Update:* ** PSA009 (Gendered Leadership) submitted their Stage 2 Registered Report to The Leadership Quarterly.
+## PSA Project Highlights & News
 
-*PSA Project Highlights & News*
+### New PSA Projects
 
-*New PSA Projects*
-
-We are excited to share that our most recent study call has resulted in four new Psychological Science Accelerator projects. PSA 010 has already been announced and is currently developing its Registered Report. We are also pleased to announce that three additional projects have now completed the PSA study selection process and are preparing their studies for Registered Reports prior to onboarding collaborators.
+We are excited to share that our most recent study call has resulted in four new Psychological Science Accelerator projects.
+PSA 010 has already been announced and is currently developing its Registered Report.
+We are also pleased to announce that three additional projects have now completed the PSA study selection process and are preparing their studies for Registered Reports prior to onboarding collaborators.
 
 Below, you can explore the final accepted proposals for all four new PSA projects.
 
-* PSA 010: S ocial Evaluation ( https://drive.google.com/file/d/1CKQKAKQ9IzA6J0iwa6MAS5gvBHLaUKkU/view?usp=drive_link )
-* PSA 011: Emotion Differentiation ( https://docs.google.com/document/d/1YybzqaASMx5wQVcf9Y7Ewi7Hjw4cIJmz/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true )
-* PSA 012: Aesthetic Well-being E ( https://docs.google.com/document/d/1KNtN1sl0FuDsdHZI8t2rRcfq2yeORSit/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true ) valuation
-* PSA 013: Global Crises ( https://docs.google.com/document/d/1bbXLETuGF1MNeJf9F-Hlk4rGOLsh6jLc/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true )
+- [PSA 010: Social Evaluation](https://drive.google.com/file/d/1CKQKAKQ9IzA6J0iwa6MAS5gvBHLaUKkU/view?usp=drive_link)
+
+- [PSA 011: Emotion Differentiation](https://docs.google.com/document/d/1YybzqaASMx5wQVcf9Y7Ewi7Hjw4cIJmz/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+- [PSA 012: Aesthetic Well-being Evaluation](https://docs.google.com/document/d/1KNtN1sl0FuDsdHZI8t2rRcfq2yeORSit/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+- [PSA 013: Global Crises](https://docs.google.com/document/d/1bbXLETuGF1MNeJf9F-Hlk4rGOLsh6jLc/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
 
 Stay tuned in the coming months as we officially launch these three new projects.
 
-*PSA 005 Secondary Paper*
+### PSA 005 Secondary Paper
 
-Several members of the Psychological Science Accelerator gained valuable insights through their leadership of the PSA 005 project and documented these experiences in a paper titled The Challenges and Payoffs of In-Person Big-Team Science. The paper has been accepted for publication in Social and Personality Psychology Compass. See preprint ( https://osf.io/preprints/osf/8gn9w_v2 ).
+Several members of the Psychological Science Accelerator gained valuable insights through their leadership of the PSA 005 project and documented these experiences in a paper titled *The Challenges and Payoffs of In-Person Big-Team Science*.
+The paper has been accepted for publication in *Social and Personality Psychology Compass*.
+[See preprint](https://osf.io/preprints/osf/8gn9w_v2).
 
-*PSA Member Highlights & News*
+## PSA Member Highlights & News
 
-*Publishing Opportunity*
+### Publishing Opportunity
 
-Our fellow member, Steven Verheyen ( https://psy-sci-accelerator.slack.com/team/U01Q35W4P9R ) , is seeking testimonials from PSA members who have used their Big Team Science (BTS) experience (especially in community management or technical roles) to move into industry or government positions. These testimonials will be included in a paper examining the career benefits of BTS participation, and contributors are offered *co‑authorship*.
+Our fellow member, [Steven Verheyen](https://psy-sci-accelerator.slack.com/team/U01Q35W4P9R), is seeking testimonials from PSA members who have used their Big Team Science (BTS) experience (especially in community management or technical roles) to move into industry or government positions.
+These testimonials will be included in a paper examining the career benefits of BTS participation, and contributors are offered **co‑authorship**.
 
-*Research Grant Opportunity*
+### Research Grant Opportunity
 
-Research grants are available from APA Division 34 (Society for Environmental, Population and Conservation Psychology) for students and early‑career researchers. See full details ( https://www.sepcp.org/research-grant ).
+Research grants are available from APA Division 34 (Society for Environmental, Population and Conservation Psychology) for students and early‑career researchers.
+[See full details](https://www.sepcp.org/research-grant).
 
-*APA Division 34 Conference*
+### APA Division 34 Conference
 
-APA Division 34 (Society for Environmental Population and Conservation Psychology) will host its 4th virtual conference on June 5–6, focusing on the role of environmental psychology in advancing the Sustainable Development Goals. See full details ( https://forms.gle/UGgML2dFcvYEMTg79 ).
+APA Division 34 (Society for Environmental Population and Conservation Psychology) will host its 4th virtual conference on June 5–6, focusing on the role of environmental psychology in advancing the Sustainable Development Goals.
+[See full details](https://forms.gle/UGgML2dFcvYEMTg79).
 
-*Research Participation*
+### Research Participation
 
-Within the Psychology of Science Hub, we are conducting a short 5–10 minute survey ( https://erasmusuniversity.eu.qualtrics.com/responses/#/surveys/SV_2c5MCHQLkgFlvQa ) on what people perceive to be conflicts of interest and how they feel these should be disclosed. See project details ( https://link.springer.com/article/10.1007/s11186-025-09641-3 ).
+Within the Psychology of Science Hub, we are conducting a short 5–10 minute [survey](https://erasmusuniversity.eu.qualtrics.com/responses/#/surveys/SV_2c5MCHQLkgFlvQa) on what people perceive to be conflicts of interest and how they feel these should be disclosed.
+[See project details](https://link.springer.com/article/10.1007/s11186-025-09641-3).
 
-*Methods Workshops & Talks*
+### Methods Workshops & Talks
 
-Love Methods Week 2026 will run online from 19–23 January 2026 and offers workshops and talks focused on improving the robustness, transparency, and reproducibility of research methods. Follow updates via *#LoveMethods26* , and see full details ( https://excelscior.uc.pt/love-methods-week-2026/ ).
+Love Methods Week 2026 will run online from 19–23 January 2026 and offers workshops and talks focused on improving the robustness, transparency, and reproducibility of research methods.
+Follow updates via [**#LoveMethods26**](#LoveMethods26), and [see full details](https://excelscior.uc.pt/love-methods-week-2026/).
 
-*PSA Project Updates*
+## PSA Project Updates
 
-*005 Stereotype Threat*
+### 005 Stereotype Threat
 
 The lead team is continuing to work on the final draft of the main manuscript.
-Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/6hju9_v1 )
 
-*008 Minimal Groups*
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/6hju9_v1)
 
-Data collection wrapped up last month, reaching over 20,000 participants across more than 30 countries. The lead team has now commenced data analysis.
-Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/5gpr4_v1 )
+### 008 Minimal Groups
 
-*009 Gendered Leadership*
+Data collection wrapped up last month, reaching over 20,000 participants across more than 30 countries.
+The lead team has now commenced data analysis.
 
-The Stage 2 Registered Report manuscript has been successfully submitted to The Leadership Quarterly.
-Read more in our registered report >> ( https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true )
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/5gpr4_v1)
 
-010 Social Evaluation
+### 009 Gendered Leadership
 
-The lead team has received positive comments from Psychological Science on their Stage 1 Registered Report and are awaiting reviews.
-Read more in our proposal >> ( https://docs.google.com/document/d/1zo_MwwsDVIKh4m6UlaI0XgPN4hS07Abf )
+The Stage 2 Registered Report manuscript has been successfully submitted to *The Leadership Quarterly*.
 
-JTF1 Moral Experiences
+[Read more in our registered report \>\>](https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true)
+
+### 010 Social Evaluation
+
+The lead team has received positive comments from *Psychological Science* on their Stage 1 Registered Report and are awaiting reviews.
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1zo_MwwsDVIKh4m6UlaI0XgPN4hS07Abf)
+
+### JTF1 Moral Experiences
 
 The lead team is wrapping up data coding and validation; a draft of the manuscript will soon be available to share with collaborators.
-Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/jktnv_v2 )
 
-JTF2 Dignity Honor Face
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/jktnv_v2)
+
+### JTF2 Dignity Honor Face
 
 The lead team is continuing to work through manuscript writing and editing.
-Read more in our preprint >> ( https://osf.io/preprints/psyarxiv/9hb8k_v1 )
 
-JTF3 Error Correction
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/9hb8k_v1)
 
-Data collection continues until approximately April. The team has begun writing the manuscript.
-Read more in our preprint >> ( https://osf.io/wn4vx/ )
+### JTF3 Error Correction
 
-*Get involved*
-*in the PSA!*
+Data collection continues until approximately April.
+The team has begun writing the manuscript.
 
-Join us on *Slack* ( https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw ) , or drop by our Directors' Office Hours (Friday at 2pm UTC, *Zoom link* ( https://ua-edu.zoom.us/my/slewis20 ) ).
-
-Blusky ( https://bsky.app/profile/psysciacc.bsky.social ) X ( https://x.com/PsySciAcc/ ) Patreon ( https://www.patreon.com/PsychologicalScienceAccelerator ) Linkedin ( https://www.linkedin.com/company/psychological-science-accelerator ) Slack ( https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw )
-
-PSA logo ( https://psysciacc.org/ )
-
-Psychological Science Accelerator
-www.psysciacc.org ( https://psysciacc.org/ )
-
-The PSA is a 501(c)(3) nonprofit organization. Donations to the PSA are tax-deductible for U.S. taxpayers. For inquiries, please feel free to email us. ( psysciaccelerator@gmail.com?subject=Collaboration inquiry&body= )
-
-Unsubscribe (  )
+[Read more in our preprint \>\>](https://osf.io/wn4vx/)

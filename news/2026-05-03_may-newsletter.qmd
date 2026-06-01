@@ -1,0 +1,125 @@
+---
+title: "2026-May: News from the Accelerator"
+author: "Sara Eftekhari"
+date: 2026-05-03
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
+categories:
+  - Newsletter
+  - PSA005 Stereotype Threat
+  - PSA008 Minimal Groups
+  - PSA009 Gendered Leader
+  - PSA010 Social Evaluation
+  - PSA011 Emotion Differentiation
+  - PSA012 Aesthetic Well-being Evaluation
+  - PSA013 Global Crises
+  - PSA-JTF1 Moral Experiences
+  - PSA-JTF2 Dignity Honor Face
+  - PSA-JTF3 Error Correction
+---
+
+## Quick read
+
+- **PSA Newsletter Translations** are launched, and will be available to [read here](https://docs.google.com/document/d/1InZdbZY7W8c1UUWWp22xRyQfKcwfRtd5afMVqr7zqlU/edit?tab=t.0) in a few days.
+- **Congratulations to our PSA members** on publishing [Vaidis et al. (2026)](https://doi.org/10.1525/collabra.160129) in *Collabra: Psychology* which offers practical, experience‑based guidance for Big Team Science collaborations.
+- **CONNECT Partnership Surveys:** PSA members are invited to complete the [Tools and Infrastructure (5 mins)](https://ubc.ca1.qualtrics.com/jfe/form/SV_a47vgXcvlJODs4C) and [Big Team Science Experience (20 mins)](https://concordia.yul1.qualtrics.com/jfe/form/SV_cvbYzm94hCslJCm) surveys by **May 18**.
+
+## PSA Newsletter Translations
+
+We are excited to announce the launch of the newsletter translations!
+While it may appear empty for now, in a few days you will be able to view the **Arabic, French, Portuguese, Russian, Spanish, and Urdu** versions of the newsletter [here](https://docs.google.com/document/d/1InZdbZY7W8c1UUWWp22xRyQfKcwfRtd5afMVqr7zqlU/edit?tab=t.0).
+
+But stay tuned, as the team is working on publishing the translations on the website in the near future for easier access.
+
+## PSA Highlights
+
+### Publication: Big Team Science
+
+**Congratulations** to our PSA members for publishing [Vaidis et al. (2026)](https://doi.org/10.1525/collabra.160129) in *Collabra: Psychology*.
+This work complements existing BTS guides by offering experientially-grounded, discipline-specific strategies and addressing underexplored logistical, ethical, and epistemological challenges in large-scale collaborations.
+
+## Opportunities for PSA Members
+
+### CONNECT Partnership Surveys
+
+Working groups from the [CONNECT partnership](https://connect-btss.github.io/about/), a collaboration of seven Big Team Science (BTS) networks, invite PSA members to complete two surveys by **May 18**.
+
+- [Tools and Infrastructure survey (5 minutes)](https://ubc.ca1.qualtrics.com/jfe/form/SV_a47vgXcvlJODs4C): Focuses on project‑management tools used in BTS, to help prioritise the development of new tools and infrastructure in the coming years.
+- [Big Team Science Experience survey (20 minutes)](https://concordia.yul1.qualtrics.com/jfe/form/SV_cvbYzm94hCslJCm): Evaluates experiences with BTS to generate data that will support funding efforts by demonstrating the value of BTS collaboration to prospective members and other stakeholders.
+
+## PSA Project Updates
+
+### 005 Stereotype Threat
+
+The team is finishing up the final draft of the manuscript to circulate to collaborators soon.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/6hju9_v1)
+
+### 008 Minimal Groups
+
+Data analysis is ongoing.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/5gpr4_v1)
+
+### 009 Gendered Leadership
+
+The Stage 2 Registered Report is under review at *The Leadership Quarterly*.
+
+[Read more in our registered report \>\>](https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true)
+
+### 010 Social Evaluation
+
+The lead team has received positive feedback in the reviews from *Psychological Science* on their Stage 1 Registered Report, and are working on updating the manuscript.
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1zo_MwwsDVIKh4m6UlaI0XgPN4hS07Abf)
+
+### 011 Emotion Differentiation (NEW PROJECT!)
+
+PSA 011 addresses the lack of cross‑cultural research by recruiting participants from over 20 countries using the PSA network to examine associations between emotion differentiation, emotion regulation, and internalising symptoms (depression and anxiety), to test whether these associations differ across countries using a multimethod approach, and to offer insights for developing mental health interventions that are sensitive to regional differences.
+
+PSA 011 has received its acceptance letter.
+The team are drafting registered reports.
+PSA 011 is **not ready for collaboration inquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1YybzqaASMx5wQVcf9Y7Ewi7Hjw4cIJmz/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### 012 Aesthetic Well-being Evaluation (NEW PROJECT!)
+
+PSA 012 tests whether greater art involvement is associated with higher well‑being, whether this relationship is moderated by cultural context, and whether different modes of engagement (creating vs. observing; in‑person vs. digital) differentially impact well‑being, using a large‑scale study assessing diverse forms of art engagement and PERMA well‑being outcomes to clarify how art contributes to well‑being.
+
+PSA 012 has received its acceptance letter.
+The team are drafting registered reports.
+PSA 012 is **not ready for collaboration inquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1KNtN1sl0FuDsdHZI8t2rRcfq2yeORSit/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### 013 Global Crises (NEW PROJECT!)
+
+PSA 013 investigates how people perceive global crises (e.g. climate change, pandemics, war and violence) and how these perceptions relate to motivation to act across cultural contexts, by examining perceived importance (Want) and efficacy beliefs (Expectancy) within Motivational Readiness Theory by recruiting participants from over 60 countries, with the goal of mapping perception–reality gaps, testing cross‑cultural differences, and informing culturally tailored policy strategies to enhance public engagement.
+
+PSA 013 has received its acceptance letter.
+The team are drafting registered reports.
+PSA 013 is **not ready for collaboration inquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1t63IiQpDhDEMnz3VOaxT6-i-rMuzSNGg/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### JTF1 Moral Experiences
+
+Collaborators are urged to fill out the final authorship survey on canvas.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/jktnv_v2)
+
+### JTF2 Dignity Honor Face
+
+The team has finished data analysis and have a draft of the results dashboard ready.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/9hb8k_v1)
+
+### JTF3 Error Correction
+
+The team have finished collecting data from collaborators.
+
+[Read more in our preprint \>\>](https://osf.io/wn4vx/)
