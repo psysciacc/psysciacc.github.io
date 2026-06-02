@@ -2,206 +2,114 @@
 title: "The Psychological Science Accelerator's First Year"
 author: "Chris Chartier"
 date: 2018-08-26
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
+categories:
+  - Accelerators Update
 ---
 
-Today marks the 1 year anniversary of the [blog
-post](https://christopherchartier.com/2017/08/26/building-a-cern-for-psychological-science/)
-that started what would eventually evolve into the [Psychological
-Science Accelerator](https://psysciacc.org/). In the brief post, I
-introduced the idea of a distributed laboratory network in psychological
-science, which I first called a "CERN for Psychological Science":
+::: callout-note
+Edited: 02 June 2026 by Sara Eftekhari
+:::
 
-> What would a CERN for Psych look like? It certainly would not be a
-> massive, centralized facility housing multi-billion dollar equipment.
-> It would instead be comprised of a distributed network of hundreds,
-> perhaps thousands, of individual data collection laboratories around
-> the world working collaboratively on shared projects. These projects
-> would not just be replications efforts, but also tests of the most
-> exciting and promising hypotheses in the field.
+Today marks the **1 year anniversary** of the [blog post](https://christopherchartier.com/2017/08/26/building-a-cern-for-psychological-science/) that started what would eventually evolve into the [Psychological Science Accelerator](https://psysciacc.org/).
+In the brief post, I introduced the idea of a distributed laboratory network in psychological science, which I first called a "CERN for Psychological Science":
 
-They say timing is everything, and based on the immediate and
-enthusiastic response (mostly via twitter), this was clearly an idea
-whose time had come. Today, the PSA is one-year old, and is building the
-necessary capacity to fulfill the potential that so many of you saw in
-it back on August 26th, 2017. Here, I highlight a select list of
-noteworthy events, moments, and accomplishments from our first year, and
-welcome all psychological scientists to join in us in pursuing a
-fully-fledged team science model for the field.
-![6290956707_2958917001_o](images/6290956707_2958917001_o.jpg){.alignnone
-.wp-image-305 width="635" height="423"}
+> What would a CERN for Psych look like?
+> It certainly would not be a massive, centralized facility housing multi-billion dollar equipment.
+> It would instead be comprised of a distributed network of hundreds, perhaps thousands, of individual data collection laboratories around the world working collaboratively on shared projects.
+> These projects would not just be replications efforts, but also tests of the most exciting and promising hypotheses in the field.
 
-# Year 1 Highlights
+They say timing is everything, and based on the immediate and enthusiastic response (mostly via twitter), this was clearly an idea whose time had come.
+Today, the PSA is one-year old, and is building the necessary capacity to fulfill the potential that so many of you saw in it back on August 26th, 2017.
+Here, I highlight a select list of noteworthy events, moments, and accomplishments from our first year, and welcome all psychological scientists to join in us in pursuing a fully-fledged team science model for the field.
+![6290956707_2958917001_o](images/6290956707_2958917001_o.jpg)
 
--   September 3rd, 2017: the network reached 50 member labs.
--   September 5th, 2017: we issued our first [call for study
-    submissions](https://christopherchartier.com/2017/09/05/update-building-a-cern-for-psychological-science/).
--   September 19th, 2017: the still nameless network reached 100 member
-    labs.
--   September 21st, 2017: we decided, by vote of the network, to call
-    our project "[The Psychological Science
-    Accelerator](https://christopherchartier.com/2017/09/21/the-psychological-science-accelerator-a-distributed-laboratory-network/),"
-    maintaining an allusion to massively collaborative projects in
-    Physics.
--   October 3rd, 2017: The Interim Leadership Team [was
-    announced](https://christopherchartier.com/2017/10/03/the-psychological-science-accelerator-rapid-progress-more-help-needed/).
-    This team shepherded the PSA from a general idea into a functioning
-    collaborative project. These individuals deserve immense credit for
-    getting us off the ground and ensuring that our early momentum
-    turned into real action: Sau-Chin Chen,, Lisa DeBruine, Charlie
-    Ebersole, Hans IJzerman, Steve Janssen, Melissa Kline, Darko
-    Lončarić, and Heather Urry.
--   November 8th, 2017: we selected our [first
-    study](https://psysciacc.org/news/2017-11-08_the-psychological-science-accelerators-first-study.html),
-    proposed by Ben Jones, Lisa DeBruine, and Jess Flake.
--   November 8th, 2017: the PSA was covered in [Science
-    Magazine](http://www.sciencemag.org/news/2017/11/new-accelerator-aims-bring-big-science-psychology).
--   December 5th, 2017: we selected our [second
-    study](https://psysciacc.org/news/2017-12-05_accepted-for-2018-gendered-social-category-representations.html),
-    proposed by Curtis Phills.
--   December 13th, 2017: the PSA was covered in
-    [FiveThirtyEight](https://fivethirtyeight.com/features/can-teamwork-solve-one-of-psychologys-biggest-problems/).
--   January 18th, 2018: the PSA reached 200 member labs.
--   January 24th, 2018: we selected our [third
-    study](https://psysciacc.org/news/2018-01-24_new-study-accepted-the-object-orientation-effect.html),
-    proposed by Sau-Chin Chen.
--   April 3rd, 2018: the PSA was covered in
-    [BuzzFeed](https://www.buzzfeednews.com/article/stephaniemlee/psychology-science-accelerator-replication#.up37Yy0xj).
--   April 8th, 2018: we announced the [Accelerated
-    CREP](https://psysciacc.org/news/2018-04-08_the-accelerated-crep.html) study
-    (our fourth), a collaboration with the [Collaborative Replication
-    and Education Project](https://osf.io/wfc6u/), focusing on training
-    students through the conduct of replication studies.
--   April 18th, 2018: we collected [our first
-    data](https://twitter.com/PsySciAcc/status/986669596030709767), as
-    part of a pilot test for bundling studies 2 and 3 in a single data
-    collection session.
--   April 30th, 2018: we issued our second [call for
-    studies](https://psysciacc.org/news/2018-04-30_the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th.html).
--   July 11th, 2018: the [Stage 1 Registered Report
-    manuscript](https://psyarxiv.com/n26dy/) for study 1 received a
-    "revise and resubmit" decision from *Nature Human Behaviour*.
--   July 20th, 2018: our [intro paper](https://psyarxiv.com/785qu/),
-    laying out the policies and procedures of the PSA, was accepted for
-    publication at *Advances in Methods and Practices in Psychological
-    Science*.
--   August 23rd, 2018: the PSA was mentioned in [the
-    Guardian](https://psych-sci-accelerator.slack.com/messages/C7D9CRWCC/convo/CATCU5EC8-1534396568.000100/)
-    as a positive example of change in the field.
--   The near future: our 4 empirical projects will likely begin primary
-    data collection in the coming months. All are at various stages of
-    preparation or review as Registered Reports, so the timelines are
-    still a bit uncertain, but our best current estimates see study 1
-    commencing in \~October 2018, studies 2 and 3 commencing in
-    \~December 2018, and the Accelerated CREP commencing in
-    \~January 2019. Interested researchers can still sign up for any of
-    these studies. Feel free to email us (<psysciaccelerator@gmail.com>)
-    for more information.
+## Year 1 Highlights
 
-This has been an amazing, awe inspiring, humbling, and motivating first
-year for the Psychological Science Accelerator. We have established many
-of the policies, practices, procedures, and institutional norms to make
-this project a success in the years to come. Here's hoping our next year
-is one of capitalizing on our potential and beginning to make a real and
-lasting impact on psychological science! Allow me to close with a direct
-quote from our introductory paper, co-authored with over 100 members of
-the PSA:
+- September 3rd, 2017: the network reached 50 member labs.
+- September 5th, 2017: we issued our first [call for study submissions](https://christopherchartier.com/2017/09/05/update-building-a-cern-for-psychological-science/).
+- September 19th, 2017: the still nameless network reached 100 member labs.
+- September 21st, 2017: we decided, by vote of the network, to call our project "[The Psychological Science Accelerator](https://christopherchartier.com/2017/09/21/the-psychological-science-accelerator-a-distributed-laboratory-network/)," maintaining an allusion to massively collaborative projects in Physics.
+- October 3rd, 2017: The Interim Leadership Team [was announced](https://christopherchartier.com/2017/10/03/the-psychological-science-accelerator-rapid-progress-more-help-needed/). This team shepherded the PSA from a general idea into a functioning collaborative project. These individuals deserve immense credit for getting us off the ground and ensuring that our early momentum turned into real action: Sau-Chin Chen,, Lisa DeBruine, Charlie Ebersole, Hans IJzerman, Steve Janssen, Melissa Kline, Darko Lončarić, and Heather Urry.
+- November 8th, 2017: we selected our [first study](https://psysciacc.org/news/2017-11-08_the-psychological-science-accelerators-first-study.html), proposed by Ben Jones, Lisa DeBruine, and Jess Flake.
+- November 8th, 2017: the PSA was covered in [Science Magazine](http://www.sciencemag.org/news/2017/11/new-accelerator-aims-bring-big-science-psychology).
+- December 5th, 2017: we selected our [second study](https://psysciacc.org/news/2017-12-05_accepted-for-2018-gendered-social-category-representations.html), proposed by Curtis Phills.
+- December 13th, 2017: the PSA was covered in [FiveThirtyEight](https://fivethirtyeight.com/features/can-teamwork-solve-one-of-psychologys-biggest-problems/).
+- January 18th, 2018: the PSA reached 200 member labs.
+- January 24th, 2018: we selected our [third study](https://psysciacc.org/news/2018-01-24_new-study-accepted-the-object-orientation-effect.html), proposed by Sau-Chin Chen.
+- April 3rd, 2018: the PSA was covered in [BuzzFeed](https://www.buzzfeednews.com/article/stephaniemlee/psychology-science-accelerator-replication#.up37Yy0xj).
+- April 8th, 2018: we announced the [Accelerated CREP](https://psysciacc.org/news/2018-04-08_the-accelerated-crep.html) study (our fourth), a collaboration with the [Collaborative Replication and Education Project](https://osf.io/wfc6u/), focusing on training students through the conduct of replication studies.
+- April 18th, 2018: we collected [our first data](https://twitter.com/PsySciAcc/status/986669596030709767), as part of a pilot test for bundling studies 2 and 3 in a single data collection session.
+- April 30th, 2018: we issued our second [call for studies](https://psysciacc.org/news/2018-04-30_the-psychological-science-accelerator-call-for-study-submissions-deadline-june-20th.html).
+- July 11th, 2018: the [Stage 1 Registered Report manuscript](https://psyarxiv.com/n26dy/) for study 1 received a "revise and resubmit" decision from *Nature Human Behaviour*.
+- July 20th, 2018: our [intro paper](https://psyarxiv.com/785qu/), laying out the policies and procedures of the PSA, was accepted for publication at *Advances in Methods and Practices in Psychological Science*.
+- August 23rd, 2018: the PSA was mentioned in [the Guardian](https://psych-sci-accelerator.slack.com/messages/C7D9CRWCC/convo/CATCU5EC8-1534396568.000100/) as a positive example of change in the field.
+- The near future: our 4 empirical projects will likely begin primary data collection in the coming months. All are at various stages of preparation or review as Registered Reports, so the timelines are still a bit uncertain, but our best current estimates see study 1 commencing in \~October 2018, studies 2 and 3 commencing in \~December 2018, and the Accelerated CREP commencing in \~January 2019. Interested researchers can still sign up for any of these studies. Feel free to email us ([psysciaccelerator\@gmail.com](mailto:psysciaccelerator@gmail.com){.email}) for more information.
 
-> Success in this endeavor is far from certain. However, striving
-> towards collaborative, multi-lab, and culturally diverse research
-> initiatives like the PSA can allow the field to not only advance
-> understanding of specific phenomena and potentially resolve past
-> disputes in the empirical literature, but they can also advance
-> methodology and psychological theorizing. We thus call on all
-> researchers with an interest in psychological science, regardless of
-> discipline or area, representing all world regions, having large or
-> small resources, being early or late in career, to join us and
-> transform the PSA into a powerful tool for gathering reliable and
-> generalizable evidence about human behavior and mental processes. If
-> you are interested in joining the project, or getting regular updates
-> about our work, please complete this brief form: [Sign-up
-> Form](https://docs.google.com/forms/d/e/1FAIpQLSc_x9UNOjUkaKFJZjOXdaQ9OsTUtUliwZFZRmoNSr9zh78Ldg/viewform?usp=sf_link).
+This has been an amazing, awe inspiring, humbling, and motivating first year for the Psychological Science Accelerator.
+We have established many of the policies, practices, procedures, and institutional norms to make this project a success in the years to come.
+Here's hoping our next year is one of capitalizing on our potential and beginning to make a real and lasting impact on psychological science!
+Allow me to close with a direct quote from our introductory paper, co-authored with over 100 members of the PSA:
+
+> Success in this endeavor is far from certain.
+> However, striving towards collaborative, multi-lab, and culturally diverse research initiatives like the PSA can allow the field to not only advance understanding of specific phenomena and potentially resolve past disputes in the empirical literature, but they can also advance methodology and psychological theorizing.
+> We thus call on all researchers with an interest in psychological science, regardless of discipline or area, representing all world regions, having large or small resources, being early or late in career, to join us and transform the PSA into a powerful tool for gathering reliable and generalizable evidence about human behavior and mental processes.
+> If you are interested in joining the project, or getting regular updates about our work, please complete this brief form: [Sign-up Form](https://docs.google.com/forms/d/e/1FAIpQLSc_x9UNOjUkaKFJZjOXdaQ9OsTUtUliwZFZRmoNSr9zh78Ldg/viewform?usp=sf_link).
 > Please join us; you are welcome in this collective endeavor.
 
-# 364 Labs in 365 Days
+## 364 Labs in 365 Days
 
-At the moment of posting this, we are now up to exactly 364 member
-laboratories, just 1 lab short of our goal of growing the network to 365
-labs in our first 365 days! Help us reach our arbitrary-but-fun goal of
-recruiting 1 new member of the PSA every day of our first year by
-signing up and joining this amazing team of researchers! A few of our
-current members passed along their reflections on joining the project.
-Read below if you need a smile or another good reason or two to join
-this community.
+At the moment of posting this, we are now up to exactly 364 member laboratories, just 1 lab short of our goal of growing the network to 365 labs in our first 365 days!
+Help us reach our arbitrary-but-fun goal of recruiting 1 new member of the PSA every day of our first year by signing up and joining this amazing team of researchers!
+A few of our current members passed along their reflections on joining the project.
+Read below if you need a smile or another good reason or two to join this community.
 
-## Chris
+\- Chris
 
- 
+### Ben Jones:
 
-> I've learnt a phenomenal amount about study design, translations,
-> registered reports, organisation, and quantitative methods through my
-> involvement with the PSA. In particular, I've learnt a lot from
-> faculty like Chris Chartier, Jessica Flake, and Hans IJzerman, as well
-> as postdocs and grad students like Bastian Jaeger and Nick Michalak.
+> I've learnt a phenomenal amount about study design, translations, registered reports, organisation, and quantitative methods through my involvement with the PSA.
+> In particular, I've learnt a lot from faculty like Chris Chartier, Jessica Flake, and Hans IJzerman, as well as postdocs and grad students like Bastian Jaeger and Nick Michalak.
 > It's really reinvigorated my interest in research too.
 
--Ben Jones
+### Jess Flake:
 
-> When I saw one of the early maps of labs my reaction was, "oooh there
-> are going to be a lot of interesting measurement and modeling
-> challenges" --I sent Chris a message and asked if we could talk. I
-> wanted to know, could there be a methodological research and support
-> arm of the PSA? He said !YES! And I reached out to some other people I
-> had met at SIPS to talk more about forming a methods committee for the
-> PSA. We are still figuring it all out, but every other week a group of
-> us, across at least 3 time zones, get together to discuss the data and
-> methods aspects of the PSA. What started as an interest in stats has
-> morphed into a group of people working to make the PSA an enduring
-> presence in psychology. I feel lucky to have found this family early
-> in my career. It is scary for it to be up to us to make it happen, but
-> also energizing!
+> When I saw one of the early maps of labs my reaction was, "oooh there are going to be a lot of interesting measurement and modeling challenges" --I sent Chris a message and asked if we could talk.
+> I wanted to know, could there be a methodological research and support arm of the PSA?
+> He said !Y
+> ES!
+> And I reached out to some other people I had met at SIPS to talk more about forming a methods committee for the PSA.
+> We are still figuring it all out, but every other week a group of us, across at least 3 time zones, get together to discuss the data and methods aspects of the PSA.
+> What started as an interest in stats has morphed into a group of people working to make the PSA an enduring presence in psychology.
+> I feel lucky to have found this family early in my career.
+> It is scary for it to be up to us to make it happen, but also energizing!
 
--Jess Flake
+### Marco Tullio Liuzza:
 
-> I still remember that I felt so proud when I could show to my students
-> that Catanzaro - a town located in one of the most impoverished areas
-> in Southern Italy - was on the PSA map. I felt like that for many
-> reasons. One of them is that the bachelor programme in Psychology at
-> the University Magna Graecia of Catanzaro started just two years ago.
-> We are only a few teachers, the most of us at the very beginning of
-> our careers, passionate about our job and willing to provide our
-> students with the most advanced and updated knowledge about what is
-> going on in our field. I dedicated more than one lecture in my Methods
-> class on the importance of reproducibility/replicability and on how
-> Psychology is moving forward, thanks to the spreading of Open Access
-> practices, pre-registration, and the PSA. I hope that my students will
-> feel proud to know that they are not at the margins of this
-> revolution, but rather embrace it and take part in this exciting
-> adventure, which is growing and becoming more and more ambitious every
-> month. Thank you for building it.
+> I still remember that I felt so proud when I could show to my students that Catanzaro - a town located in one of the most impoverished areas in Southern Italy - was on the PSA map.
+> I felt like that for many reasons.
+> One of them is that the bachelor programme in Psychology at the University Magna Graecia of Catanzaro started just two years ago.
+> We are only a few teachers, the most of us at the very beginning of our careers, passionate about our job and willing to provide our students with the most advanced and updated knowledge about what is going on in our field.
+> I dedicated more than one lecture in my Methods class on the importance of reproducibility/replicability and on how Psychology is moving forward, thanks to the spreading of Open Access practices, pre-registration, and the PSA.
+> I hope that my students will feel proud to know that they are not at the margins of this revolution, but rather embrace it and take part in this exciting adventure, which is growing and becoming more and more ambitious every month.
+> Thank you for building it.
 
--Marco Tullio Liuzza
+### Lisa de Bruine:
 
-> The PSA is the most exciting thing I've ever been involved with in
-> science. The way so many people (especially so many talented ECRs)
-> came together to pool their expertise and create something much bigger
-> than the sum of its parts has been awe-inspiring. Through my
-> involvement in the first study, I've seen first-hand just how much
-> work is put into essential aspects of this project that are often
-> overlooked, like the translations. I really hope the PSA can be a
-> model for transforming how we do psychology to make it a more
-> team-based and rigorous science.
+> The PSA is the most exciting thing I've ever been involved with in science.
+> The way so many people (especially so many talented ECRs) came together to pool their expertise and create something much bigger than the sum of its parts has been awe-inspiring.
+> Through my involvement in the first study, I've seen first-hand just how much work is put into essential aspects of this project that are often overlooked, like the translations.
+> I really hope the PSA can be a model for transforming how we do psychology to make it a more team-based and rigorous science.
 
--Lisa de Bruine
+### Monica Koehn:
 
-> As a HDR Graduate student in psychology, my involvement in the PSA has
-> tremendously increased my knowledge of experimental methods. I have
-> had no previous experience with open science, replication, and
-> registered reports. I believe that open science is the future of
-> research. My involvement has allowed me to learn about open science
-> and registered reports. It has been an exceptional opportunity to be
-> involved with high-quality research and to increase my global research
-> contacts and networks. I would encourage everyone to be involved in
-> this exciting network of researchers.
-
--Monica Koehn
-
+> As a HDR Graduate student in psychology, my involvement in the PSA has tremendously increased my knowledge of experimental methods.
+> I have had no previous experience with open science, replication, and registered reports.
+> I believe that open science is the future of research.
+> My involvement has allowed me to learn about open science and registered reports.
+> It has been an exceptional opportunity to be involved with high-quality research and to increase my global research contacts and networks.
+> I would encourage everyone to be involved in this exciting network of researchers.

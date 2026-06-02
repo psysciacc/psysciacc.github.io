@@ -2,16 +2,26 @@
 title: "Seeking labs who would be interested in joining the study 2/3 bundle if we could secure some participant recruitment funding"
 author: "Chris Chartier"
 date: 2018-07-08
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
 categories:
-  - psa002
-  - psa003
+  - Accelerators Update
+  - PSA002 Object Orientation
+  - PSA003 Gendered Prejudice
 ---
+
+::: callout-note
+Edited: 02 June 2026 by Sara Eftekhari
+:::
 
 # Hello,
 
 For the Studies 2/3 bundle, we are considering applying for funding to support **participant recruitment in labs where monetary incentives are essential for recruitment**.
 
-Funding available through this mechanism is limited (approximately **$5,000 USD total**) and is restricted to labs located in countries that are officially designated as *facing economic hardship*.
+Funding available through this mechanism is limited (approximately **\$5,000 USD total**) and is restricted to labs located in countries that are officially designated as *facing economic hardship*.
 
 Before preparing the grant application, we would like to assess current needs within the PSA network.
 
@@ -19,19 +29,19 @@ Before preparing the grant application, we would like to assess current needs wi
 
 Please email us **only if you meet *all* of the following criteria**:
 
-- You would like to join the data collection team for the Studies 2/3 bundle  
-- Your lab is located in a country designated as *facing economic hardship*  
-  *(examples provided by the grant agency include: El Salvador, Ecuador, Greece, India, Malaysia, Poland, Slovakia, Thailand, Turkey)*  
-- Your lab relies primarily on financial incentives for recruitment, **or** financial incentives would substantially improve your recruitment capacity  
+- You would like to join the data collection team for the Studies 2/3 bundle\
+- Your lab is located in a country designated as *facing economic hardship*\
+  *(examples provided by the grant agency include: El Salvador, Ecuador, Greece, India, Malaysia, Poland, Slovakia, Thailand, Turkey)*\
+- Your lab relies primarily on financial incentives for recruitment, **or** financial incentives would substantially improve your recruitment capacity\
 - You are a **social psychologist**
 
 # How to respond
 
 Please email:
 
-**Zoltan Kekecs**  
-Coordinator of this grant application  
-📧 <kekecs.zoltan@gmail.com>
+**Zoltan Kekecs**\
+Coordinator of this grant application\
+📧 [kekecs.zoltan\@gmail.com](mailto:kekecs.zoltan@gmail.com){.email}
 
 # Thank you!
 

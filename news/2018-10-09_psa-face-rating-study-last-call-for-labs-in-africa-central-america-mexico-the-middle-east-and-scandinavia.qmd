@@ -2,46 +2,44 @@
 title: "PSA Face Rating Study: Last Call for Labs in Africa, Central America, Mexico, the Middle East, and Scandinavia."
 author: "Chris Chartier"
 date: 2018-10-09
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
 categories:
-  - PSA001
+  - Accelerators Update
+  - PSA001 Face Perception
 ---
 
-Lab recruitment for the first official PSA study has far exceeded our
-wildest expectations. The study is now back under review (following a
-revise and resubmit decision) at *Nature Human Behaviour* as a Stage 1
-Registered Report. This means that we are having our critical rounds of
-peer review now, prior to data collection. You can read the current
-draft of the manuscript
-[here](https://psyarxiv.com/n26dy){target="_blank"}. The study will test
-the generalizability of the valence-dominance model of face perception
-across world regions, specifically: Africa, Asia, Australia and New
-Zealand, Central America and Mexico, Eastern Europe, the Middle East,
-the USA and Canada, Scandinavia, South America, the UK, and Western
-Europe. Our currently planned minimum N is greater than 9,000. 
+::: callout-note
+Edited: 02 June 2026 by Sara Eftekhari
+:::
+
+Lab recruitment for the first official PSA study has far exceeded our wildest expectations.
+The study is now back under review (following a revise and resubmit decision) at *Nature Human Behaviour* as a Stage 1 Registered Report.
+
+This means that we are having our critical rounds of peer review now, prior to data collection.
+You can read the current draft of the manuscript [here](https://psyarxiv.com/n26dy){target="_blank"}.
+
+The study will test the generalizability of the valence-dominance model of face perception across world regions, specifically: Africa, Asia, Australia and New Zealand, Central America and Mexico, Eastern Europe, the Middle East, the USA and Canada, Scandinavia, South America, the UK, and Western Europe.
+Our currently planned minimum N is greater than 9,000.
 
 ![See the world (Photo by Gabriel Picco)](https://images.freeimages.com/images/large-previews/459/see-the-world-1-1359033.jpg)
 
-We are extremely excited to have such a large
-and diverse team involved, but the project could still be strengthened
-by additional contributions from a few key world regions. While we no
-longer need labs in most world regions, we would warmly welcome
-additional labs from:
+We are extremely excited to have such a large and diverse team involved, but the project could still be strengthened by additional contributions from a few key world regions.
+While we no longer need labs in most world regions, we would warmly welcome additional labs from:
 
--   Africa
--   Central America
--   Mexico
--   The Middle East
--   Scandinavia
+- Africa
+- Central America
+- Mexico
+- The Middle East
+- Scandinavia
 
-Luckily, we can still expand our team of data collection labs and have
-the efforts of new labs recognized via authorship on the final published
-report, thanks to some excellent flexibility in the RR submission model
-at NHB. Data collection will begin as soon as possible (this depends on
-editorial decisions at NHB) and run through early September 2019. Please
-pass this information along to colleagues in the above regions who you
-think would be interested in contributing. Sign up for the PSA network
-[here](https://psysciacc.org/get-involved/){target="_blank"}. Sign up
-for this specific study
-[here](https://goo.gl/forms/U5zxA3rmClZFM1Mi1){target="_blank"}.
+Luckily, we can still expand our team of data collection labs and have the efforts of new labs recognized via authorship on the final published report, thanks to some excellent flexibility in the RR submission model at NHB.
+Data collection will begin as soon as possible (this depends on editorial decisions at NHB) and run through early September 2019.
+Please pass this information along to colleagues in the above regions who you think would be interested in contributing.
 
+Sign up for the PSA network [here](https://psysciacc.org/get-involved/){target="_blank"}.
 
+Sign up for this specific study [here](https://goo.gl/forms/U5zxA3rmClZFM1Mi1){target="_blank"}.
