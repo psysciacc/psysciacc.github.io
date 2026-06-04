@@ -1,0 +1,186 @@
+---
+title: "2026-June: News from the Accelerator"
+author: "Sara Eftekhari"
+date: 2026-06-04
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
+categories:
+  - Newsletter
+  - PSA005 Stereotype Threat
+  - PSA008 Minimal Groups
+  - PSA009 Gendered Leader
+  - PSA010 Social Evaluation
+  - PSA011 Emotion Differentiation
+  - PSA012 Aesthetic Well-being Evaluation
+  - PSA013 Global Crises
+  - PSA-JTF1 Moral Experiences
+  - PSA-JTF2 Dignity Honor Face
+  - PSA-JTF3 Error Correction
+---
+
+## Quick read
+
+- **PSA Highlights:** New *Research as it Happens* [episode](https://shows.acast.com/research-as-it-happens/episodes/working-together) on Big Team Science, featuring our PSA Assistant Director Ekaterina Pronizius.
+- **Opportunities for PSA Members:** **Publish** in a special issue on justice, equity, diversity, and inclusion in Big Team Science (abstracts due **31 July 2026**); **sign-up as a collaborator** for the **ManyManys animal reversal learning** study and/or a **secondary-school scale validation** project; access the **SOMA mindfulness stimulus library**; and attend **FREE Open Science training** ran by the Center for Open Science.
+
+## PSA Newsletter Translations
+
+You can view translated versions of this newsletter [here](https://docs.google.com/document/d/1InZdbZY7W8c1UUWWp22xRyQfKcwfRtd5afMVqr7zqlU/edit?tab=t.0).
+
+Please note that the **June section may appear empty at first**.
+This is because the English version is published first, and all other languages are translated from it.
+Please revisit this link in a few days to access the **Arabic, French, Portuguese, Russian, Spanish, and Urdu** versions of the newsletter, provided by the Translation & Cultural Diversity Committee (TCDC).
+
+Stay tuned, as the TCDC is working on publishing the translations on the PSA website in the near future for easier access.
+
+## PSA Highlights
+
+### Podcast Appearance: Ekaterina Pronizius
+
+Have you ever wondered how science actually unfolds?
+In the podcast hosted by Rolf Zwaan, we get a chance to look behind the scenes of research and follow the process together with the scientists involved.
+The second episode features our PSA Assistant Director **Ekaterina Pronizius**, who discusses the advantages and challenges of Big Team Science.
+Go big, go team-science!
+[Listen to the podcast](https://shows.acast.com/research-as-it-happens/episodes/working-together).
+
+## Opportunities for PSA Members
+
+### Publication Opportunity
+
+*Avances en Psicología Latinoamericana*, a diamond open access journal sponsored by Universidad de Rosario, invites proposals for a special issue on **Justice, Equity, Diversity, and Inclusion in Big Team Science** projects, with a focus on making these projects accessible and equitable for researchers and people in the Majority World.
+[See full details](https://revistas.urosario.edu.co/index.php/apl/announcement/view/232).
+
+- Submissions must be in **Spanish, Portuguese, or English**.
+- Abstract proposals (maximum 750 words) due **31 July 2026**.
+- Full paper submissions due 30 August 2027.
+
+If the link provided produces an error, instead please contact [Sergio Barbosa De La Torre on Slack](https://psy-sci-accelerator.slack.com/team/U05TCU4LF0C) for details and to make submissions.
+
+### Collaborators Sought: ManyManys Animals Study
+
+[ManyManys](https://manymanys.github.io/) seeks teams who can collect reversal learning data with any animal species for a global, multi-taxa study.
+[Join the Zoom meeting](https://calendar.google.com/calendar/u/0/share?slt=1AbySAKeNf2dtd1LM-p7rtuR3oF7G4IrfFNkRNjvgP9anrc5QSMMBNnHkLRO0fP-DXpYhZBBW6R6fYg) on **23 June 2026, 10:00–11:00 ET** to ask questions, meet the team, and get set up as a contributing site.
+
+- Contact **nicolas.alessandroni\@concordia.ca** and **lpretot\@pittstate.edu** for any questions.
+- [Register here](https://forms.fillout.com/t/n4fxVFpHQWus) when you are ready to sign up as a contributing lab/team.
+
+### Collaborators Sought: Scale Validation Study
+
+Asghar Ahmadi and colleagues are seeking collaborators for a scale validation study.
+
+- **Task:** Data collection from secondary school students (grades 7–12, ages 12–18) in English-speaking countries (USA, UK, Canada, and Australia) rating one of their teachers on motivational behaviour items via an online survey (\~10–15 minutes).
+- **Benefits:** Co-authorship in a high impact project, collaborating with leading scholars in educational psychology.
+
+For full details contact Asghar Ahmadi at **asghar.ahm1\@gmail.com** or **asghar.ahmadi\@osu.cz**.
+
+### Resource: Stimulus Library
+
+The Standardized Open-source Mindfulness Architecture (SOMA) is a **FREE, open-source stimulus library** purpose-built to provide mechanistically orthogonal active controls and equity-engineered materials for mindfulness RCT research.
+
+See [preprint, library & data](https://osf.io/m76cg/wiki?wiki=mj6np), and [interactive website](https://www.sparacioalessandro.com/SOMA/).
+
+### FREE Open Science Training
+
+The [Center for Open Science (COS)](https://www.cos.io/) is offering **FREE Open Science training** for anyone affiliated with networks involved in the [CONNECT Partnership](https://connect-btss.github.io/).
+As the goal of CONNECT is to improve scientific practice both within Big Team (Social) Science and more generally, we see this training as an incredible opportunity for our network.
+[Read full announcement](https://canvas.psysciacc.org/courses/1/discussion_topics/512).
+
+## PSA Project Updates
+
+### 005 Stereotype Threat
+
+The team was finishing up the final draft of the manuscript to circulate to collaborators soon.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/6hju9_v1)
+
+### 008 Minimal Groups
+
+Data analysis is ongoing.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/5gpr4_v1)
+
+### 009 Gendered Leadership
+
+Happy news!
+The team have received a decision from the *Leadership Quarterly* for their Stage 2 Registered Report indicating minor revisions.
+
+[Read more in our registered report \>\>](https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true)
+
+### 010 Social Evaluation
+
+PSA 010 has revised and resubmitted the reviewed version of their Stage 1 Registered Report.
+Let us join them in crossing our fingers and invoking any and all supernatural entities to bless them.
+
+[Read more in our proposal \>\>](https://drive.google.com/file/d/1K6NCI7h68WXbSBQESDxOBq61jnreODF4/view?usp=sharing)
+
+### 011 Emotion Differentiation
+
+PSA 011 has received its acceptance letter.
+The team are drafting registered reports.
+PSA 011 is **not ready for collaboration inquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1YybzqaASMx5wQVcf9Y7Ewi7Hjw4cIJmz/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### 012 Aesthetic Well-being Evaluation
+
+PSA 012 has received its acceptance letter.
+The team are drafting registered reports.
+PSA 012 is **not ready for collaboration inquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1KNtN1sl0FuDsdHZI8t2rRcfq2yeORSit/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### 013 Global Crises
+
+PSA 013 has received its acceptance letter.
+The team are drafting registered reports.
+PSA 013 is **not ready for collaboration inquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1t63IiQpDhDEMnz3VOaxT6-i-rMuzSNGg/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### JTF1 Moral Experiences
+
+Collaborators are urged to fill out the final authorship survey on canvas.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/jktnv_v2)
+
+### JTF2 Dignity Honor Face
+
+The lead author is now back from maternity leave and working on edits to the manuscript before it is sent to collaborators for review.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/9hb8k_v1)
+
+### JTF3 Error Correction
+
+The team have finished collecting data from collaborators.
+
+[Read more in our preprint \>\>](https://osf.io/wn4vx/)
+
+## Message from Sara:
+
+Hello folks!
+
+I have unlocked new abilities as the PSA Newsletter Coordinator...
+(*insert sound of drum rolls*)...
+I have learned how to publish on the PSA website!
+
+With my newfound superpowers, I have updated the website with the September 2025 to June 2026 newsletters i.e. all the newsletters I have been responsible for since I started as Newsletter Coordinator.
+
+I noticed some of the older publications in the news folder need to be reformatted and the "Categories" tagging system sorted out.
+So I will be working through that gradually (oldest to newest) to make them easier to navigate and read.
+
+**If you spot any mistakes, typos, links that do not work and etc. message me on Slack**.
+I would greatly appreciate that.
+
+Thank you for reading!
+
+Until next month,
+
+[Sara Eftekhari](https://psy-sci-accelerator.slack.com/team/U092DUE45GA)\
+PSA Newsletter Coordinator
+
+## Get Involved in the PSA
+
+Join us on [Slack](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw), or drop by our Directors’ Office Hours (Friday at 14:00 UTC, [Zoom link](https://ua-edu.zoom.us/my/slewis20)).
