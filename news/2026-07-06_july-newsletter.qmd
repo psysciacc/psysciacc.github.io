@@ -1,0 +1,137 @@
+---
+title: "2026-July: News from the Accelerator"
+author: "Sara Eftekhari"
+date: 2026-07-06
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-location: right
+categories:
+  - Newsletter
+  - PSA005 Stereotype Threat
+  - PSA008 Minimal Groups
+  - PSA009 Gendered Leader
+  - PSA010 Social Evaluation
+  - PSA011 Emotion Differentiation
+  - PSA012 Aesthetic Well-being Evaluation
+  - PSA013 Global Crises
+  - PSA-JTF1 Moral Experiences
+  - PSA-JTF2 Dignity Honor Face
+  - PSA-JTF3 Error Correction
+---
+
+## Quick read
+
+- **PSA Highlights:** Fill the [Contributor Credit Form](https://formr.thedoomlab.online/Contribution-letter-request) to document your PSA contributions; help improve the newsletter by completing the [Newsletter Feedback Survey](https://formr.thedoomlab.online/PSA-newsletter-feedback-survey) (2–3 minutes, anonymous).
+- **Opportunities for PSA Members:** Complete a 3–5 minute [Padlet survey](https://padlet.com/universityofleeds/society-for-the-teaching-of-psychology-stp-international-rel-ph5stao8fwhmvu1i) to help create a global snapshot of current practices, innovations, and future directions in psychology education; register for the virtual [Big Team Science Conference](https://bigteamscienceconference.github.io/) (6–8 October 2026 live on Zoom), and submit abstracts by 24 July.
+
+View [translations of this month’s newsletter](https://docs.google.com/document/d/1InZdbZY7W8c1UUWWp22xRyQfKcwfRtd5afMVqr7zqlU/edit?tab=t.0).
+
+## PSA Highlights
+
+### Contributor Credit Form
+
+The Psychological Science Accelerator (PSA) is committed to ensuring that all contributors receive timely and visible credit for their work. PsyArXiv does not currently allow authors to update contributor lists on Registered Reports until the full manuscript is complete. This creates a barrier for collaborators who need documented contributions for CVs, job applications, promotion materials, and funding opportunities.
+
+To address this gap, the PSA is issuing formal contribution letters for any collaborator who needs proof of involvement before the preprint is posted. Please complete the [Contributor Credit Form](https://formr.thedoomlab.online/Contribution-letter-request) so that we can generate an accurate and citable record of your work on the project.
+
+This letter serves as an official PSA document that verifies your role, contribution category, and affiliation. You may use it immediately in professional materials.
+
+**Please note this process is not automated**. If you have not received your letter within 72 hours, email directors\@psysciacc.org.
+
+### Newsletter Feedback Survey!
+
+Can you think of ways to improve the newsletter to be more accessible, useful, and relevant? Fill this anonymous 2–3 minute [survey](https://formr.thedoomlab.online/PSA-newsletter-feedback-survey) to share your feedback.
+
+The responses to this survey will be reviewed regularly on an ongoing basis. If you have immediate or urgent feedback, please directly contact the [Newsletter Coordinator (me!)](https://psy-sci-accelerator.slack.com/team/U092DUE45GA) via Slack.
+
+## Opportunities for PSA Members
+
+### Survey: Teaching Psychology
+
+The International Relations Committee of the Society for the Teaching of Psychology invites psychology educators to add a pin to their [Padlet map](https://padlet.com/universityofleeds/society-for-the-teaching-of-psychology-stp-international-rel-ph5stao8fwhmvu1i) and answer three short questions (3–5 minutes) to create a global snapshot of current practices, innovations, and future directions.
+
+### Big Team Science Conference
+
+Register for the virtual [Big Team Science Conference](https://bigteamscienceconference.github.io/), happening 6–8 October 2026 live on Zoom. Submit abstracts by 24 July.
+
+Join a multidisciplinary group of researchers, funders, and stakeholders to discuss advancements, challenges, and future opportunities related to big team science. Attend featured presentations by leaders of the Center for Open Science’s SCORE (Systematizing Confidence in Open Research and Evidence) initiative, CREP (the Collaborative Replication and Education Project), a live recording of the “Research as it Happens” podcast, and more to be added soon.
+
+## PSA Project Updates
+
+### 005 Stereotype Threat
+
+The team was finishing up the final draft of the manuscript to circulate to collaborators soon.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/6hju9_v1)
+
+### 008 Minimal Groups
+
+The team are currently writing the manuscript.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/5gpr4_v1)
+
+### 009 Gendered Leadership
+
+The team are currently updating their Stage 2 Registered Report and hoping to re-submit it to the *Leadership Quarterly* soon!
+
+[Read more in our registered report \>\>](https://docs.google.com/document/d/1eRZmprM3_fyOE8DgPSN0EQaMMOQdYkoP/edit?usp=sharing&ouid=114736564429721617256&rtpof=true&sd=true)
+
+### 010 Social Evaluation
+
+PSA 010 has revised and resubmitted the reviewed version of their Stage 1 Registered Report.
+
+[Read more in our proposal \>\>](https://drive.google.com/file/d/1K6NCI7h68WXbSBQESDxOBq61jnreODF4/view?usp=sharing)
+
+### 011 Emotion Differentiation
+
+PSA 011 has received its acceptance letter. The team are drafting registered reports. PSA 011 is **not ready for collaboration enquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1YybzqaASMx5wQVcf9Y7Ewi7Hjw4cIJmz/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### 012 Aesthetic Well-being Evaluation
+
+PSA 012 has received its acceptance letter. The team are drafting registered reports. PSA 012 is **not ready for collaboration enquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1KNtN1sl0FuDsdHZI8t2rRcfq2yeORSit/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### 013 Global Crises
+
+PSA 013 has received its acceptance letter. The team are drafting registered reports. PSA 013 is **not ready for collaboration enquiries yet, but stay tuned!**
+
+[Read more in our proposal \>\>](https://docs.google.com/document/d/1t63IiQpDhDEMnz3VOaxT6-i-rMuzSNGg/edit?usp=sharing&ouid=103542693559626876995&rtpof=true&sd=true)
+
+### JTF1 Moral Experiences
+
+The team have produced a manuscript.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/jktnv_v2)
+
+### JTF2 Dignity Honor Face
+
+Final edits are being made to the manuscript before it is sent to collaborators for review.
+
+[Read more in our preprint \>\>](https://osf.io/preprints/psyarxiv/9hb8k_v1)
+
+### JTF3 Error Correction
+
+The team are finishing up a paid data collection sample.
+
+[Read more in our preprint \>\>](https://osf.io/wn4vx/)
+
+## PSA Newsletter Translations 
+
+View **Arabic, French, Portuguese, Russian, Spanish, and Urdu** [translations of this month’s newsletter](https://docs.google.com/document/d/1InZdbZY7W8c1UUWWp22xRyQfKcwfRtd5afMVqr7zqlU/edit?tab=t.0), provided by the Translation & Cultural Diversity Committee (TCDC). Stay tuned, as the TCDC is working on publishing the translations on the website in the near future for easier access.
+
+## Thank you for reading!
+
+Until next month,
+
+Sara Eftekhari\
+PSA Newsletter Coordinator\
+Find me on: [Slack](https://psy-sci-accelerator.slack.com/team/U092DUE45GA), [LinkedIn](https://www.linkedin.com/in/sara-eftekhari-787112322/), and [Bluesky](https://bsky.app/profile/sara-eftekhari.bsky.social)
+
+## Get Involved in the PSA
+
+Join us on [Slack](https://join.slack.com/t/psych-sci-accelerator/shared_invite/zt-2xanhh3n8-1IPQMNi6BEvRbOEgCTvDUw), or drop by our Directors’ Office Hours (Friday at 14:00 UTC, [Zoom link](https://ua-edu.zoom.us/my/slewis20)).
