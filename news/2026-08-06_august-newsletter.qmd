@@ -9,6 +9,7 @@ format:
     toc-location: right
 categories:
   - Newsletter
+  - Elections
   - PSA005 Stereotype Threat
   - PSA008 Minimal Groups
   - PSA009 Gendered Leader
