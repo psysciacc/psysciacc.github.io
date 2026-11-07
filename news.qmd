@@ -6,14 +6,32 @@ listing:
   image-placeholder: "images/logo.png"
   type: table
   categories: true
-  sort-ui: false
+  sort-ui: true
   filter-ui: true
 page-layout: full
 title-block-banner: false
 ---
 
-Want to receive regular updates about the PSA?
-Sign up for our [monthly newsletter](https://cdn.forms-content-1.sg-form.com/023207a8-2ddf-11f1-a289-dae263342b07).
+To receive regular updates about the PSA [sign up for our monthly newsletter](https://cdn.forms-content-1.sg-form.com/023207a8-2ddf-11f1-a289-dae263342b07).
 
-Want to [submit content](https://docs.google.com/forms/d/e/1FAIpQLScNpHiaa0uilRMDkAHuSzx_Og6XBZy623-swhNhkObJ91qX9Q/viewform) for the PSA newsletter?
+## Got news to share?
+
+[Submit content](https://docs.google.com/forms/d/e/1FAIpQLScNpHiaa0uilRMDkAHuSzx_Og6XBZy623-swhNhkObJ91qX9Q/viewform) for the PSA newsletter.
 [See guidance and examples](https://psysciacc.org/news/2026-10-06_october-newsletter.html#got-news-to-share).
+
+## Give us feedback!
+
+Can you think of ways to improve the newsletter to be more accessible, useful, and relevant?
+[Fill this anonymous 2–3 minute survey](https://formr.thedoomlab.online/PSA-newsletter-feedback-survey) to share your feedback.
+The responses to this survey will be reviewed regularly on an ongoing basis.
+If you have **immediate or urgent** feedback, please directly [contact the PSA Newsletter Coordinator via Slack](https://psy-sci-accelerator.slack.com/team/U092DUE45GA).
+
+Additionally, if you notice an error, outdated content, missing alt text, formatting problem, or anything else that could be improved on the PSA website, newsletter, or other public-facing content, please let the PSA Newsletter Coordinator know.
+
+Suggestions for improving the navigation, design, layout, organisation, tagging, and etc. are also very welcome.
+
+## Translations!
+
+[View translations of the PSA newsletter](https://docs.google.com/document/d/1InZdbZY7W8c1UUWWp22xRyQfKcwfRtd5afMVqr7zqlU/edit?tab=t.0), provided by the Translation & Cultural Diversity Committee (TCDC).
+
+# PSA Newsletter Archive:
